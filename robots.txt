@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://cyberkareem.com
+Sitemap: https://cyberkareem.com/sitemap.xml
