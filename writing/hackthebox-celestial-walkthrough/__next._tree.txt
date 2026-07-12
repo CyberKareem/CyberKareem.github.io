@@ -1,2 +1,2 @@
-:HL["/_next/static/css/88a416617ebdaf5f.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"writing","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"hackthebox-celestial-walkthrough","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"upivz30XFkuOvAobvgKD7"}
+:HL["/_next/static/css/d6e294cd2610ae11.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"writing","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"hackthebox-celestial-walkthrough","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"65jXSdzueZKnFbMeYrtpi"}

