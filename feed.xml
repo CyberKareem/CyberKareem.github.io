@@ -5,8 +5,56 @@
     <link>https://cyberkareem.com/writing/</link>
     <description>Security research, engineering notes, certification reviews, and authorized-lab walkthroughs by Abdullah Kareem.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://cyberkareem.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CVE-2026-55675: When a Fork PR Crosses into a Privileged Workflow</title>
+      <link>https://cyberkareem.com/writing/cve-2026-55675-saltyorg-docs-privileged-workflow-chain/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-55675-saltyorg-docs-privileged-workflow-chain/</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>How untrusted pull-request code reached a secret-bearing CI job—and how separating build from deploy closed the trust-boundary failure.</description>
+    </item>
+    <item>
+      <title>CVE-2026-55890: The Sibling Sink an Incomplete Fix Missed</title>
+      <link>https://cyberkareem.com/writing/cve-2026-55890-grav-markdown-style-injection/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-55890-grav-markdown-style-injection/</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>A Grav case study in variant analysis: one Markdown media-attribute sink was blocked while a sibling style path remained writable.</description>
+    </item>
+    <item>
+      <title>CVE-2026-59185: An Installation ID Is Not Proof of Ownership</title>
+      <link>https://cyberkareem.com/writing/cve-2026-59185-identrail-installation-id-ownership/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-59185-identrail-installation-id-ownership/</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>How a client-supplied GitHub App installation ID crossed a tenant boundary, and why OAuth identity must bind the installation to the workspace.</description>
+    </item>
+    <item>
+      <title>CVE-2026-59889: A Missing JsonView Gate in JsonUnwrapped Deserialization</title>
+      <link>https://cyberkareem.com/writing/cve-2026-59889-jackson-jsonview-jsonunwrapped-bypass/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-59889-jackson-jsonview-jsonunwrapped-bypass/</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>Why Jackson’s unwrapped-property replay bypassed a write-side JsonView boundary, enabling authorization-sensitive fields to be populated.</description>
+    </item>
+    <item>
+      <title>CVE-2026-59979: Authentication Is Not Tenant Authorization</title>
+      <link>https://cyberkareem.com/writing/cve-2026-59979-yosemite-crew-tenant-authorization/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-59979-yosemite-crew-tenant-authorization/</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>How authentication-only routes and globally keyed service lookups enabled cross-tenant reads and state changes in Yosemite-Crew.</description>
+    </item>
+    <item>
+      <title>CVE-2026-61448: How Malformed Content-Type Reached Stored XSS</title>
+      <link>https://cyberkareem.com/writing/cve-2026-61448-parse-server-content-type-stored-xss/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-61448-parse-server-content-type-stored-xss/</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>A Parse Server upload-validation case study: malformed media types survived storage and let browsers reinterpret active content.</description>
+    </item>
     <item>
       <title>From Source VLAN to Evidence Bundle: Building a PCI DSS Segmentation Test Runner</title>
       <link>https://cyberkareem.com/writing/building-a-pci-dss-segmentation-test-runner/</link>
