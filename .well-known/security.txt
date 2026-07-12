@@ -1,6 +1,6 @@
-Contact: mailto:info@cyberkareem.com
+Contact: mailto:security@cyberkareem.com
 Contact: https://cyberkareem.com/contact
-Expires: 2027-07-12T00:00:00.000Z
+Expires: 2027-06-30T00:00:00.000Z
 Preferred-Languages: en
 Policy: https://cyberkareem.com/policies
 Canonical: https://cyberkareem.com/.well-known/security.txt
