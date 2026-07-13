@@ -56,6 +56,22 @@
       <description>Parse Server accepted malformed media types for unknown extensions, letting some storage adapters serve uploads that browsers could sniff as HTML.</description>
     </item>
     <item>
+      <title>CVE-2026-61706: Pull Request Title Injection in Infracost Actions</title>
+      <link>https://cyberkareem.com/writing/cve-2026-61706-infracost-pr-title-script-injection/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-61706-infracost-pr-title-script-injection/</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>A pull request title was inserted directly into a Bash run block, allowing GitHub Actions expression expansion to turn untrusted text into runner commands.</description>
+    </item>
+    <item>
+      <title>CVE-2026-61826: Bazarr&apos;s Plex OAuth API Lacked Authentication</title>
+      <link>https://cyberkareem.com/writing/cve-2026-61826-bazarr-plex-oauth-missing-authentication/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-61826-bazarr-plex-oauth-missing-authentication/</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>Seventeen Plex API methods lacked Bazarr&apos;s normal API-key gate, exposing persistent configuration changes and, on configured instances, token-bearing server requests.</description>
+    </item>
+    <item>
       <title>Building seg-test: A PCI DSS Segmentation Evidence Runner</title>
       <link>https://cyberkareem.com/writing/building-a-pci-dss-segmentation-test-runner/</link>
       <guid isPermaLink="true">https://cyberkareem.com/writing/building-a-pci-dss-segmentation-test-runner/</guid>
