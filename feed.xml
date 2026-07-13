@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-55675-saltyorg-docs-privileged-workflow-chain/</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
       <category>CVE case study</category>
-      <description>How untrusted pull-request code reached a secret-bearing CI job—and how separating build from deploy closed the trust-boundary failure.</description>
+      <description>How untrusted pull-request code reached a secret-bearing CI job, and how separating build from deploy closed the trust-boundary failure.</description>
     </item>
     <item>
       <title>CVE-2026-55890: The Sibling Sink an Incomplete Fix Missed</title>
@@ -88,7 +88,7 @@
       <description>A reviewed account of a BitLocker-based cryptographic-erase prototype, its operating assumptions, and the validation required before real-world use.</description>
     </item>
     <item>
-      <title>Microsoft Teams: Classic vs. New — Features and Security Unveiled</title>
+      <title>Microsoft Teams Classic vs. New: Features and Security Unveiled</title>
       <link>https://cyberkareem.com/writing/microsoft-teams-classic-vs-new-features-and-security-unveiled/</link>
       <guid isPermaLink="true">https://cyberkareem.com/writing/microsoft-teams-classic-vs-new-features-and-security-unveiled/</guid>
       <pubDate>Sun, 28 Jan 2024 12:27:56 GMT</pubDate>
@@ -112,7 +112,7 @@
       <description>A personal reflection on ninety days of journaling, the routines that made it sustainable, and the lessons carried into professional practice.</description>
     </item>
     <item>
-      <title>eCPPT: eLearnSecurity Certified Professional Penetration Tester — Review</title>
+      <title>eCPPT: eLearnSecurity Certified Professional Penetration Tester Review</title>
       <link>https://cyberkareem.com/writing/ecppt-elearnsecurity-certified-professional-penetration-tester-review/</link>
       <guid isPermaLink="true">https://cyberkareem.com/writing/ecppt-elearnsecurity-certified-professional-penetration-tester-review/</guid>
       <pubDate>Mon, 01 Aug 2022 10:27:01 GMT</pubDate>
@@ -120,7 +120,7 @@
       <description>A retrospective eCPPTv2 review covering preparation, the practical assessment experience, reporting, and lessons from earning the certification in 2022.</description>
     </item>
     <item>
-      <title>Installing Metasploit Framework on Ubuntu — Historical Guide</title>
+      <title>Installing Metasploit Framework on Ubuntu: Historical Guide</title>
       <link>https://cyberkareem.com/writing/installing-the-metasploit-framework-on-ubuntu/</link>
       <guid isPermaLink="true">https://cyberkareem.com/writing/installing-the-metasploit-framework-on-ubuntu/</guid>
       <pubDate>Fri, 04 Mar 2022 16:28:55 GMT</pubDate>
