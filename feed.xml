@@ -8,60 +8,60 @@
     <lastBuildDate>Mon, 13 Jul 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://cyberkareem.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>CVE-2026-55675: When a Fork PR Crosses into a Privileged Workflow</title>
+      <title>CVE-2026-55675: Fork PR Code Ran in a Privileged GitHub Actions Job</title>
       <link>https://cyberkareem.com/writing/cve-2026-55675-saltyorg-docs-privileged-workflow-chain/</link>
       <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-55675-saltyorg-docs-privileged-workflow-chain/</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
       <category>CVE case study</category>
-      <description>How untrusted pull-request code reached a secret-bearing CI job, and how separating build from deploy closed the trust-boundary failure.</description>
+      <description>Untrusted pull-request code reached a CI job holding deployment secrets. Separating build from deploy removed that path.</description>
     </item>
     <item>
-      <title>CVE-2026-55890: The Sibling Sink an Incomplete Fix Missed</title>
+      <title>CVE-2026-55890: Grav&apos;s style() Method Bypassed the Earlier Fix</title>
       <link>https://cyberkareem.com/writing/cve-2026-55890-grav-markdown-style-injection/</link>
       <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-55890-grav-markdown-style-injection/</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
       <category>CVE case study</category>
-      <description>A Grav case study in variant analysis: one Markdown media-attribute sink was blocked while a sibling style path remained writable.</description>
+      <description>Grav blocked style through attribute(), but the sibling style() action still accepted editor-controlled CSS.</description>
     </item>
     <item>
-      <title>CVE-2026-59185: An Installation ID Is Not Proof of Ownership</title>
+      <title>CVE-2026-59185: Missing Installation Ownership Check Allowed Cross-Tenant Access</title>
       <link>https://cyberkareem.com/writing/cve-2026-59185-identrail-installation-id-ownership/</link>
       <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-59185-identrail-installation-id-ownership/</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
       <category>CVE case study</category>
-      <description>How a client-supplied GitHub App installation ID crossed a tenant boundary, and why OAuth identity must bind the installation to the workspace.</description>
+      <description>The backend accepted a GitHub App installation ID without verifying that the authorizing GitHub user could access that installation.</description>
     </item>
     <item>
-      <title>CVE-2026-59889: A Missing JsonView Gate in JsonUnwrapped Deserialization</title>
+      <title>CVE-2026-59889: @JsonUnwrapped Replay Skipped an @JsonView Check</title>
       <link>https://cyberkareem.com/writing/cve-2026-59889-jackson-jsonview-jsonunwrapped-bypass/</link>
       <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-59889-jackson-jsonview-jsonunwrapped-bypass/</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
       <category>CVE case study</category>
-      <description>Why Jackson’s unwrapped-property replay bypassed a write-side JsonView boundary, enabling authorization-sensitive fields to be populated.</description>
+      <description>Jackson enforced @JsonView for creator properties but skipped the check when @JsonUnwrapped replayed field- and setter-backed properties.</description>
     </item>
     <item>
-      <title>CVE-2026-59979: Authentication Is Not Tenant Authorization</title>
+      <title>CVE-2026-59979: Missing Tenant Checks in Yosemite-Crew Routes</title>
       <link>https://cyberkareem.com/writing/cve-2026-59979-yosemite-crew-tenant-authorization/</link>
       <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-59979-yosemite-crew-tenant-authorization/</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
       <category>CVE case study</category>
-      <description>How authentication-only routes and globally keyed service lookups enabled cross-tenant reads and state changes in Yosemite-Crew.</description>
+      <description>Several read, update, and delete routes either lacked authentication or stopped at identity checks before globally keyed lookups.</description>
     </item>
     <item>
-      <title>CVE-2026-61448: How Malformed Content-Type Reached Stored XSS</title>
+      <title>CVE-2026-61448: Malformed Content-Type Led to Stored XSS in Parse Server</title>
       <link>https://cyberkareem.com/writing/cve-2026-61448-parse-server-content-type-stored-xss/</link>
       <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-61448-parse-server-content-type-stored-xss/</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
       <category>CVE case study</category>
-      <description>A Parse Server upload-validation case study: malformed media types survived storage and let browsers reinterpret active content.</description>
+      <description>Parse Server accepted malformed media types for unknown extensions, letting some storage adapters serve uploads that browsers could sniff as HTML.</description>
     </item>
     <item>
-      <title>From Source VLAN to Evidence Bundle: Building a PCI DSS Segmentation Test Runner</title>
+      <title>Building seg-test: A PCI DSS Segmentation Evidence Runner</title>
       <link>https://cyberkareem.com/writing/building-a-pci-dss-segmentation-test-runner/</link>
       <guid isPermaLink="true">https://cyberkareem.com/writing/building-a-pci-dss-segmentation-test-runner/</guid>
       <pubDate>Sun, 12 Jul 2026 00:00:00 GMT</pubDate>
       <category>Security engineering</category>
-      <description>A practical look at automating bounded reachability tests from authorized source segments toward explicit CDE targets while keeping methodology, coverage, and compliance decisions human.</description>
+      <description>seg-test runs approved checks from defined source VLANs, preserves raw Nmap output, and packages evidence without making compliance decisions.</description>
     </item>
     <item>
       <title>Secure Automated Purge: Building a Bootable Disk-Sanitization Utility</title>
@@ -72,15 +72,15 @@
       <description>An archived engineering account of a bootable disk-sanitization prototype that requires device-specific validation and review against NIST SP 800-88 Rev.2 before operational use.</description>
     </item>
     <item>
-      <title>Stoicism in Everyday Life: How Ancient Wisdom (and a Few Modern Insights) Transformed My Anxious Mind</title>
+      <title>What Ninety Days of Stoic Practice Changed for Me</title>
       <link>https://cyberkareem.com/writing/stoicism-in-everyday-life-how-ancient-wisdom-and-a-few-modern-insights-transformed-my-anxious/</link>
       <guid isPermaLink="true">https://cyberkareem.com/writing/stoicism-in-everyday-life-how-ancient-wisdom-and-a-few-modern-insights-transformed-my-anxious/</guid>
       <pubDate>Sat, 24 May 2025 13:06:35 GMT</pubDate>
-      <category>Field notes</category>
-      <description>This reflection shares my personal journey with Stoicism and mental resilience, highlighting lessons learned that have positively impacted both my personal and professional life.</description>
+      <category>Security notes</category>
+      <description>A personal account of using Stoic practices to manage anxiety, build consistency, and carry those habits into security work.</description>
     </item>
     <item>
-      <title>Introducing the BitLocker Cryptographic Erase Utility: Secure Data Destruction Made Simple</title>
+      <title>BitLocker Cryptographic Erase Utility: Design, Limits, and Validation</title>
       <link>https://cyberkareem.com/writing/introducing-the-bitlocker-cryptographic-erase-utility-secure-data-destruction-made-simple/</link>
       <guid isPermaLink="true">https://cyberkareem.com/writing/introducing-the-bitlocker-cryptographic-erase-utility-secure-data-destruction-made-simple/</guid>
       <pubDate>Mon, 19 May 2025 21:50:37 GMT</pubDate>
@@ -88,7 +88,7 @@
       <description>A reviewed account of a BitLocker-based cryptographic-erase prototype, its operating assumptions, and the validation required before real-world use.</description>
     </item>
     <item>
-      <title>Microsoft Teams Classic vs. New: Features and Security Unveiled</title>
+      <title>Microsoft Teams Classic vs. New Teams: A 2023 Security Comparison</title>
       <link>https://cyberkareem.com/writing/microsoft-teams-classic-vs-new-features-and-security-unveiled/</link>
       <guid isPermaLink="true">https://cyberkareem.com/writing/microsoft-teams-classic-vs-new-features-and-security-unveiled/</guid>
       <pubDate>Sun, 28 Jan 2024 12:27:56 GMT</pubDate>
@@ -104,7 +104,7 @@
       <description>A retrospective OSWP review covering the PEN-210 learning path, practical wireless lab work, exam preparation, and lessons for future candidates.</description>
     </item>
     <item>
-      <title>90 Days of My Experience With Personal Journaling</title>
+      <title>What I Learned from Ninety Days of Personal Journaling</title>
       <link>https://cyberkareem.com/writing/90-days-of-my-experience-with-personal-journaling/</link>
       <guid isPermaLink="true">https://cyberkareem.com/writing/90-days-of-my-experience-with-personal-journaling/</guid>
       <pubDate>Fri, 23 Sep 2022 17:43:40 GMT</pubDate>
@@ -112,12 +112,12 @@
       <description>A personal reflection on ninety days of journaling, the routines that made it sustainable, and the lessons carried into professional practice.</description>
     </item>
     <item>
-      <title>eCPPT: eLearnSecurity Certified Professional Penetration Tester Review</title>
+      <title>eCPPTv2 Certification Review</title>
       <link>https://cyberkareem.com/writing/ecppt-elearnsecurity-certified-professional-penetration-tester-review/</link>
       <guid isPermaLink="true">https://cyberkareem.com/writing/ecppt-elearnsecurity-certified-professional-penetration-tester-review/</guid>
       <pubDate>Mon, 01 Aug 2022 10:27:01 GMT</pubDate>
       <category>Certification review</category>
-      <description>A retrospective eCPPTv2 review covering preparation, the practical assessment experience, reporting, and lessons from earning the certification in 2022.</description>
+      <description>A retrospective eCPPTv2 review covering preparation, the practical assessment, reporting, and lessons from earning the certification in 2022.</description>
     </item>
     <item>
       <title>Installing Metasploit Framework on Ubuntu: Historical Guide</title>

