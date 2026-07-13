@@ -1,4 +1,4 @@
-Contact: mailto:security@cyberkareem.com
+Contact: mailto:info@cyberkareem.com
 Contact: https://cyberkareem.com/contact
 Expires: 2027-06-30T00:00:00.000Z
 Preferred-Languages: en
