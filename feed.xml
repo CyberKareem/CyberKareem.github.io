@@ -5,8 +5,32 @@
     <link>https://cyberkareem.com/writing/</link>
     <description>Security research, engineering notes, certification reviews, and authorized-lab walkthroughs by Abdullah Kareem.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://cyberkareem.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CVE-2026-62666: A User Manager Could Mint a Super-Admin API Key</title>
+      <link>https://cyberkareem.com/writing/cve-2026-62666-grav-api-super-admin-key-privilege-escalation/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-62666-grav-api-super-admin-key-privilege-escalation/</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>A delegated user manager could create an API key for a super-admin account. The key inherited the target account&apos;s authority, turning a limited role into full instance control.</description>
+    </item>
+    <item>
+      <title>CVE-2026-62670: Missing Flex Permissions Failed Open</title>
+      <link>https://cyberkareem.com/writing/cve-2026-62670-grav-flex-objects-fail-open-authorization/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-62670-grav-flex-objects-fail-open-authorization/</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>The Grav Flex Objects API treated a missing directory permissions map as permission to proceed. An account with only api.access could operate on a directory it was not authorized to list.</description>
+    </item>
+    <item>
+      <title>CVE-2026-62671: A Cross-Site GET Could Rotate a Grav TOTP Secret</title>
+      <link>https://cyberkareem.com/writing/cve-2026-62671-grav-login-2fa-secret-csrf/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-62671-grav-login-2fa-secret-csrf/</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>A login task regenerated and saved the active user&apos;s TOTP secret without a CSRF nonce. Under Grav&apos;s default SameSite=Lax setting, an off-site top-level GET could desynchronize a logged-in user&apos;s authenticator.</description>
+    </item>
     <item>
       <title>CVE-2026-55675: Fork PR Code Ran in a Privileged GitHub Actions Job</title>
       <link>https://cyberkareem.com/writing/cve-2026-55675-saltyorg-docs-privileged-workflow-chain/</link>
