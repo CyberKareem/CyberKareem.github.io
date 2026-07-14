@@ -1,3 +1,3 @@
-:HL["/_next/static/css/ac753f555f7bc404.css","style"]
+:HL["/_next/static/css/5507edc5b79d11b6.css","style"]
 :HL["/writing/covers/hackthebox-unobtainium-walkthrough.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"writing","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"hackthebox-unobtainium-walkthrough","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"pnoC89mEC0gQERXb2FM2R"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"writing","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"hackthebox-unobtainium-walkthrough","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"73sLc-LC1mmsDdQoobWyl"}
