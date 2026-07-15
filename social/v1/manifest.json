@@ -1,0 +1,807 @@
+{
+  "version": 1,
+  "width": 1200,
+  "height": 630,
+  "pages": [
+    {
+      "name": "home",
+      "title": "Abdullah Kareem",
+      "route": "cyberkareem.com",
+      "src": "/social/v1/pages/home.png"
+    },
+    {
+      "name": "research",
+      "title": "Public Research Ledger",
+      "route": "cyberkareem.com/research",
+      "src": "/social/v1/pages/research.png"
+    },
+    {
+      "name": "services",
+      "title": "Security Assessments + Advisory",
+      "route": "cyberkareem.com/services",
+      "src": "/social/v1/pages/services.png"
+    },
+    {
+      "name": "writing",
+      "title": "Security Writing",
+      "route": "cyberkareem.com/writing",
+      "src": "/social/v1/pages/writing.png"
+    },
+    {
+      "name": "projects",
+      "title": "Open-Source Security Projects",
+      "route": "cyberkareem.com/projects",
+      "src": "/social/v1/pages/projects.png"
+    },
+    {
+      "name": "about",
+      "title": "Abdullah Kareem",
+      "route": "cyberkareem.com/about",
+      "src": "/social/v1/pages/about.png"
+    },
+    {
+      "name": "contact",
+      "title": "Start With the Security Problem",
+      "route": "cyberkareem.com/contact",
+      "src": "/social/v1/pages/contact.png"
+    },
+    {
+      "name": "policies",
+      "title": "Authorization, Scope + Disclosure",
+      "route": "cyberkareem.com/policies",
+      "src": "/social/v1/pages/policies.png"
+    }
+  ],
+  "writing": [
+    {
+      "slug": "cve-2026-62671-grav-login-2fa-secret-csrf",
+      "title": "CVE-2026-62671: A Cross-Site GET Could Rotate a Grav TOTP Secret",
+      "category": "CVE case study",
+      "src": "/social/v1/writing/cve-2026-62671-grav-login-2fa-secret-csrf.png"
+    },
+    {
+      "slug": "cve-2026-62670-grav-flex-objects-fail-open-authorization",
+      "title": "CVE-2026-62670: Missing Flex Permissions Failed Open",
+      "category": "CVE case study",
+      "src": "/social/v1/writing/cve-2026-62670-grav-flex-objects-fail-open-authorization.png"
+    },
+    {
+      "slug": "cve-2026-62666-grav-api-super-admin-key-privilege-escalation",
+      "title": "CVE-2026-62666: A User Manager Could Mint a Super-Admin API Key",
+      "category": "CVE case study",
+      "src": "/social/v1/writing/cve-2026-62666-grav-api-super-admin-key-privilege-escalation.png"
+    },
+    {
+      "slug": "cve-2026-61826-bazarr-plex-oauth-missing-authentication",
+      "title": "CVE-2026-61826: Bazarr's Plex OAuth API Lacked Authentication",
+      "category": "CVE case study",
+      "src": "/social/v1/writing/cve-2026-61826-bazarr-plex-oauth-missing-authentication.png"
+    },
+    {
+      "slug": "cve-2026-61706-infracost-pr-title-script-injection",
+      "title": "CVE-2026-61706: Pull Request Title Injection in Infracost Actions",
+      "category": "CVE case study",
+      "src": "/social/v1/writing/cve-2026-61706-infracost-pr-title-script-injection.png"
+    },
+    {
+      "slug": "cve-2026-55675-saltyorg-docs-privileged-workflow-chain",
+      "title": "CVE-2026-55675: Fork PR Code Ran in a Privileged GitHub Actions Job",
+      "category": "CVE case study",
+      "src": "/social/v1/writing/cve-2026-55675-saltyorg-docs-privileged-workflow-chain.png"
+    },
+    {
+      "slug": "cve-2026-55890-grav-markdown-style-injection",
+      "title": "CVE-2026-55890: Grav's style() Method Bypassed the Earlier Fix",
+      "category": "CVE case study",
+      "src": "/social/v1/writing/cve-2026-55890-grav-markdown-style-injection.png"
+    },
+    {
+      "slug": "cve-2026-59185-identrail-installation-id-ownership",
+      "title": "CVE-2026-59185: Missing Installation Ownership Check Allowed Cross-Tenant Access",
+      "category": "CVE case study",
+      "src": "/social/v1/writing/cve-2026-59185-identrail-installation-id-ownership.png"
+    },
+    {
+      "slug": "cve-2026-59889-jackson-jsonview-jsonunwrapped-bypass",
+      "title": "CVE-2026-59889: @JsonUnwrapped Replay Skipped an @JsonView Check",
+      "category": "CVE case study",
+      "src": "/social/v1/writing/cve-2026-59889-jackson-jsonview-jsonunwrapped-bypass.png"
+    },
+    {
+      "slug": "cve-2026-59979-yosemite-crew-tenant-authorization",
+      "title": "CVE-2026-59979: Missing Tenant Checks in Yosemite-Crew Routes",
+      "category": "CVE case study",
+      "src": "/social/v1/writing/cve-2026-59979-yosemite-crew-tenant-authorization.png"
+    },
+    {
+      "slug": "cve-2026-61448-parse-server-content-type-stored-xss",
+      "title": "CVE-2026-61448: Malformed Content-Type Led to Stored XSS in Parse Server",
+      "category": "CVE case study",
+      "src": "/social/v1/writing/cve-2026-61448-parse-server-content-type-stored-xss.png"
+    },
+    {
+      "slug": "hackthebox-crossfit-walkthrough",
+      "title": "HackTheBox “CrossFit” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-crossfit-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-codeparttwo-walkthrough",
+      "title": "HackTheBox “CodePartTwo” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-codeparttwo-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-celestial-walkthrough",
+      "title": "HackTheBox “Celestial” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-celestial-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-cache-walkthrough",
+      "title": "HackTheBox “Cache” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-cache-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-ctf-walkthrough",
+      "title": "HackTheBox “CTF” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-ctf-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-book-walkthrough",
+      "title": "HackTheBox “Book” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-book-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-bolt-walkthrough",
+      "title": "HackTheBox “Bolt” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-bolt-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-atlas-walkthrough",
+      "title": "HackTheBox “Atlas” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-atlas-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-arkham-walkthrough",
+      "title": "HackTheBox “Arkham” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-arkham-walkthrough.png"
+    },
+    {
+      "slug": "building-a-nist-compliant-boot-and-nuke-usb-tool-secure-automated-purge",
+      "title": "Secure Automated Purge: Building a Bootable Disk-Sanitization Utility",
+      "category": "Security engineering",
+      "src": "/social/v1/writing/building-a-nist-compliant-boot-and-nuke-usb-tool-secure-automated-purge.png"
+    },
+    {
+      "slug": "stoicism-in-everyday-life-how-ancient-wisdom-and-a-few-modern-insights-transformed-my-anxious",
+      "title": "What Ninety Days of Stoic Practice Changed for Me",
+      "category": "Security notes",
+      "src": "/social/v1/writing/stoicism-in-everyday-life-how-ancient-wisdom-and-a-few-modern-insights-transformed-my-anxious.png"
+    },
+    {
+      "slug": "introducing-the-bitlocker-cryptographic-erase-utility-secure-data-destruction-made-simple",
+      "title": "BitLocker Cryptographic Erase Utility: Design, Limits, and Validation",
+      "category": "Security engineering",
+      "src": "/social/v1/writing/introducing-the-bitlocker-cryptographic-erase-utility-secure-data-destruction-made-simple.png"
+    },
+    {
+      "slug": "hackthebox-tabby-walkthrough",
+      "title": "HackTheBox “Tabby” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-tabby-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-access-walkthrough",
+      "title": "HackTheBox “Access” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-access-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-forest-walkthrough",
+      "title": "HackTheBox “Forest” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-forest-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-cap-walkthrough",
+      "title": "HackTheBox “Cap” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-cap-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-active-walkthrough",
+      "title": "HackTheBox “Active” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-active-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-goodgames-walkthrough",
+      "title": "HackTheBox “GoodGames” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-goodgames-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-remote-walkthrough",
+      "title": "HackTheBox “Remote” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-remote-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-bountyhunter-walkthrough",
+      "title": "HackTheBox “BountyHunter” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-bountyhunter-walkthrough.png"
+    },
+    {
+      "slug": "microsoft-teams-classic-vs-new-features-and-security-unveiled",
+      "title": "Microsoft Teams Classic vs. New Teams: A 2023 Security Comparison",
+      "category": "Security engineering",
+      "src": "/social/v1/writing/microsoft-teams-classic-vs-new-features-and-security-unveiled.png"
+    },
+    {
+      "slug": "hackthebox-luanne-walkthrough",
+      "title": "HackTheBox “Luanne” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-luanne-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-passage-walkthrough",
+      "title": "HackTheBox “Passage” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-passage-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-doctor-walkthrough",
+      "title": "HackTheBox “Doctor” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-doctor-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-magic-walkthrough",
+      "title": "HackTheBox “Magic” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-magic-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-openadmin-walkthrough",
+      "title": "HackTheBox “OpenAdmin” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-openadmin-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-traverxec-walkthrough",
+      "title": "HackTheBox “Traverxec” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-traverxec-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-mango-walkthrough",
+      "title": "HackTheBox “Mango” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-mango-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-blocky-walkthrough",
+      "title": "HackTheBox “Blocky” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-blocky-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-popcorn-walkthrough",
+      "title": "HackTheBox “Popcorn” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-popcorn-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-mirai-walkthrough",
+      "title": "HackTheBox “Mirai” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-mirai-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-jarvis-walkthrough",
+      "title": "HackTheBox “Jarvis” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-jarvis-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-swagshop-walkthrough",
+      "title": "HackTheBox “SwagShop” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-swagshop-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-networked-walkthrough",
+      "title": "HackTheBox “Networked” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-networked-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-friendzone-walkthrough",
+      "title": "HackTheBox “FriendZone” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-friendzone-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-irked-walkthrough",
+      "title": "HackTheBox “Irked” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-irked-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-sunday-walkthrough",
+      "title": "HackTheBox “Sunday” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-sunday-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-conceal-walkthrough",
+      "title": "HackTheBox “Conceal” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-conceal-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-poison-walkthrough",
+      "title": "HackTheBox “Poison” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-poison-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-jerry-walkthrough",
+      "title": "HackTheBox “Jerry” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-jerry-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-valentine-walkthrough",
+      "title": "HackTheBox “Valentine” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-valentine-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-bounty-walkthrough",
+      "title": "HackTheBox “Bounty” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-bounty-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-node-walkthrough",
+      "title": "HackTheBox “Node” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-node-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-silo-walkthrough",
+      "title": "HackTheBox “Silo” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-silo-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-grandpa-walkthrough",
+      "title": "HackTheBox “Grandpa” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-grandpa-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-sense-walkthrough",
+      "title": "HackTheBox “Sense” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-sense-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-arctic-walkthrough",
+      "title": "HackTheBox “Arctic” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-arctic-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-cronos-walkthrough",
+      "title": "HackTheBox “Cronos” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-cronos-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-granny-walkthrough",
+      "title": "HackTheBox “Granny” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-granny-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-nibbles-walkthrough",
+      "title": "HackTheBox “Nibbles” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-nibbles-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-bastard-walkthrough",
+      "title": "HackTheBox “Bastard” Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-bastard-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-bashed-with-without-metasploit-writeup",
+      "title": "HackTheBox “Bashed” With & Without Metasploit WriteUp",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-bashed-with-without-metasploit-writeup.png"
+    },
+    {
+      "slug": "hackthebox-devel-with-without-metasploit-writeup",
+      "title": "HackTheBox “Devel” With & Without Metasploit WriteUp",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-devel-with-without-metasploit-writeup.png"
+    },
+    {
+      "slug": "hackthebox-shocker-with-without-metasploit-writeup",
+      "title": "HackTheBox “Shocker” With & Without Metasploit WriteUp",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-shocker-with-without-metasploit-writeup.png"
+    },
+    {
+      "slug": "offensive-security-wireless-professional-oswp-certification-review",
+      "title": "Offensive Security Wireless Professional (OSWP) Certification Review",
+      "category": "Certification review",
+      "src": "/social/v1/writing/offensive-security-wireless-professional-oswp-certification-review.png"
+    },
+    {
+      "slug": "90-days-of-my-experience-with-personal-journaling",
+      "title": "What I Learned from Ninety Days of Personal Journaling",
+      "category": "Field notes",
+      "src": "/social/v1/writing/90-days-of-my-experience-with-personal-journaling.png"
+    },
+    {
+      "slug": "ecppt-elearnsecurity-certified-professional-penetration-tester-review",
+      "title": "ECPPTv2 Certification Review",
+      "category": "Certification review",
+      "src": "/social/v1/writing/ecppt-elearnsecurity-certified-professional-penetration-tester-review.png"
+    },
+    {
+      "slug": "hackthebox-lame-with-without-metasploit-writeup",
+      "title": "HackTheBox “Lame” With & Without Metasploit WriteUp",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-lame-with-without-metasploit-writeup.png"
+    },
+    {
+      "slug": "installing-the-metasploit-framework-on-ubuntu",
+      "title": "Installing Metasploit Framework on Ubuntu: Historical Guide",
+      "category": "Security engineering",
+      "src": "/social/v1/writing/installing-the-metasploit-framework-on-ubuntu.png"
+    },
+    {
+      "slug": "building-a-pci-dss-segmentation-test-runner",
+      "title": "Building seg-test: A PCI DSS Segmentation Evidence Runner",
+      "category": "Security engineering",
+      "src": "/social/v1/writing/building-a-pci-dss-segmentation-test-runner.png"
+    },
+    {
+      "slug": "hackthebox-sizzle-walkthrough",
+      "title": "Hack The Box: Sizzle Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-sizzle-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-search-walkthrough",
+      "title": "Hack The Box: Search Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-search-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-seal-walkthrough",
+      "title": "Hack The Box: Seal Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-seal-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-querier-walkthrough",
+      "title": "Hack The Box: Querier Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-querier-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-pivotapi-walkthrough",
+      "title": "Hack The Box: PivotAPI Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-pivotapi-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-multimaster-walkthrough",
+      "title": "Hack The Box: Multimaster Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-multimaster-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-apt-walkthrough",
+      "title": "Hack The Box: APT Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-apt-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-crossfittwo-walkthrough",
+      "title": "Hack The Box: CrossFitTwo Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-crossfittwo-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-eighteen-walkthrough",
+      "title": "Hack The Box: Eighteen Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-eighteen-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-encoding-walkthrough",
+      "title": "Hack The Box: Encoding Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-encoding-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-facts-walkthrough",
+      "title": "Hack The Box: Facts Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-facts-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-falafel-walkthrough",
+      "title": "Hack The Box: Falafel Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-falafel-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-fighter-walkthrough",
+      "title": "Hack The Box: Fighter Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-fighter-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-forgot-walkthrough",
+      "title": "Hack The Box: Forgot Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-forgot-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-ghoul-walkthrough",
+      "title": "Hack The Box: Ghoul Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-ghoul-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-hackback-walkthrough",
+      "title": "Hack The Box: Hackback Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-hackback-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-holiday-walkthrough",
+      "title": "Hack The Box: Holiday Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-holiday-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-intentions-walkthrough",
+      "title": "Hack The Box: Intentions Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-intentions-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-jobtwo-walkthrough",
+      "title": "Hack The Box: JobTwo Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-jobtwo-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-json-walkthrough",
+      "title": "Hack The Box: Json Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-json-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-kryptos-walkthrough",
+      "title": "Hack The Box: Kryptos Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-kryptos-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-laboratory-walkthrough",
+      "title": "Hack The Box: Laboratory Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-laboratory-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-mirage-walkthrough",
+      "title": "Hack The Box: Mirage Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-mirage-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-monitorsfour-walkthrough",
+      "title": "Hack The Box: MonitorsFour Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-monitorsfour-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-nodeblog-walkthrough",
+      "title": "Hack The Box: NodeBlog Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-nodeblog-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-object-walkthrough",
+      "title": "Hack The Box: Object Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-object-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-obscurity-walkthrough",
+      "title": "Hack The Box: Obscurity Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-obscurity-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-oouch-walkthrough",
+      "title": "Hack The Box: Oouch Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-oouch-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-ophiuchi-walkthrough",
+      "title": "Hack The Box: Ophiuchi Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-ophiuchi-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-overflow-walkthrough",
+      "title": "Hack The Box: Overflow Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-overflow-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-overwatch-walkthrough",
+      "title": "Hack The Box: Overwatch Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-overwatch-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-pikaboo-walkthrough",
+      "title": "Hack The Box: Pikaboo Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-pikaboo-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-quick-walkthrough",
+      "title": "Hack The Box: Quick Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-quick-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-ransom-walkthrough",
+      "title": "Hack The Box: Ransom Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-ransom-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-ready-walkthrough",
+      "title": "Hack The Box: Ready Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-ready-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-redcross-walkthrough",
+      "title": "Hack The Box: RedCross Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-redcross-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-retired-walkthrough",
+      "title": "Hack The Box: Retired Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-retired-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-routerspace-walkthrough",
+      "title": "Hack The Box: RouterSpace Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-routerspace-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-scanned-walkthrough",
+      "title": "Hack The Box: Scanned Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-scanned-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-schooled-walkthrough",
+      "title": "Hack The Box: Schooled Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-schooled-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-seventeen-walkthrough",
+      "title": "Hack The Box: Seventeen Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-seventeen-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-sink-walkthrough",
+      "title": "Hack The Box: Sink Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-sink-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-talkative-walkthrough",
+      "title": "Hack The Box: Talkative Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-talkative-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-tenet-walkthrough",
+      "title": "Hack The Box: Tenet Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-tenet-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-unobtainium-walkthrough",
+      "title": "Hack The Box: Unobtainium Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-unobtainium-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-unicode-walkthrough",
+      "title": "Hack The Box: Unicode Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-unicode-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-twomillion-walkthrough",
+      "title": "Hack The Box: TwoMillion Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-twomillion-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-trick-walkthrough",
+      "title": "Hack The Box: Trick Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-trick-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-travel-walkthrough",
+      "title": "Hack The Box: Travel Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-travel-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-thenotebook-walkthrough",
+      "title": "Hack The Box: TheNotebook Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-thenotebook-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-vault-walkthrough",
+      "title": "Hack The Box: Vault Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-vault-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-vessel-walkthrough",
+      "title": "Hack The Box: Vessel Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-vessel-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-wall-walkthrough",
+      "title": "Hack The Box: Wall Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-wall-walkthrough.png"
+    },
+    {
+      "slug": "hackthebox-zipper-walkthrough",
+      "title": "Hack The Box: Zipper Walkthrough",
+      "category": "Hack The Box",
+      "src": "/social/v1/writing/hackthebox-zipper-walkthrough.png"
+    }
+  ]
+}
