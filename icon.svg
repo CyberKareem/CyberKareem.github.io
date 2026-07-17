@@ -1,5 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="CyberKareem CK monogram">
-  <rect width="64" height="64" rx="8" fill="#2145ad"/>
-  <rect x="8" y="8" width="48" height="48" rx="3" fill="none" stroke="#fffdf8" stroke-width="2"/>
-  <text x="32" y="39" fill="#fffdf8" font-family="Georgia, serif" font-size="22" font-style="italic" text-anchor="middle">CK</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="CyberKareem Recon Prism mark">
+  <defs>
+    <linearGradient id="field" x1="120" y1="92" x2="880" y2="956" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#18202d"/>
+      <stop offset=".58" stop-color="#111722"/>
+      <stop offset="1" stop-color="#0d121c"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="1008" height="1008" rx="220" fill="url(#field)"/>
+
+    <g transform="translate(152 152) scale(2.5714285714285716)">
+      <!-- Cropped angular reconnaissance scope. -->
+      <path fill="#4f74ea" d="M22.4 25.2H184.8L165.31 36.96H22.4Z"/>
+      <path fill="#4f74ea" d="M22.4 25.2H34.16V143.47L22.4 159.6Z"/>
+      <path fill="#4f74ea" d="M245.84 138.99L257.6 123.2V254.8H245.84Z"/>
+      <path fill="#4f74ea" d="M114.69 243.04H257.6V254.8H95.2Z"/>
+
+      <!-- A directional K-like investigation fork, drawn as geometry rather than type. -->
+      <path fill="#4f74ea" d="M111.37 67.2H129.69L111.44 215.6H92.91Z"/>
+      <path fill="#4f74ea" d="M109.2 132.83L210.34 128.8L226.8 140L210.34 151.2L109.2 147.17Z"
+        transform="rotate(-39 113.9 140)"/>
+      <path fill="#4f74ea" d="M109.2 144.03L210.34 140L226.8 151.2L210.34 162.4L109.2 158.37Z"
+        transform="rotate(35 113.9 151.2)"/>
+
+      <!-- Copper proof core: ring, field, and confirmed evidence point. -->
+      <g transform="rotate(10 116.76 148.12)">
+        <path fill="#ce8059" d="M116.76 124.6L140.28 148.12L116.76 171.64L93.24 148.12Z"/>
+        <path fill="#111722" d="M116.76 132.1L132.78 148.12L116.76 164.14L100.74 148.12Z"/>
+        <path fill="#ce8059" d="M116.76 140.25L124.63 148.12L116.76 155.99L108.89 148.12Z"/>
+      </g>
+
+      <!-- Reconnaissance, validation, and disclosure nodes. -->
+      <g>
+        <g transform="translate(194.88 52.08)">
+          <circle r="8.8" fill="#18202d" opacity=".92"/>
+          <circle r="6.5" fill="#111722" stroke="#ce8059" stroke-width="2.6"/>
+          <circle r="2.25" fill="#ce8059"/>
+        </g>
+        <g transform="translate(253.12 108.08)">
+          <circle r="8.8" fill="#18202d" opacity=".92"/>
+          <circle r="6.5" fill="#111722" stroke="#ce8059" stroke-width="2.6"/>
+          <circle r="2.25" fill="#ce8059"/>
+        </g>
+        <g transform="translate(244.72 216.72)">
+          <circle r="8.8" fill="#18202d" opacity=".92"/>
+          <circle r="6.5" fill="#111722" stroke="#ce8059" stroke-width="2.6"/>
+          <circle r="2.25" fill="#ce8059"/>
+        </g>
+      </g>
+    </g>
 </svg>
