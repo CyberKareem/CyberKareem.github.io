@@ -104,6 +104,102 @@
       <description>seg-test runs approved checks from defined source VLANs, preserves raw Nmap output, and packages evidence without making compliance decisions.</description>
     </item>
     <item>
+      <title>Hack The Box: Sizzle Walkthrough</title>
+      <link>https://cyberkareem.com/writing/hackthebox-sizzle-walkthrough/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-sizzle-walkthrough/</guid>
+      <pubDate>Thu, 11 Jun 2026 16:09:45 GMT</pubDate>
+      <category>Hack The Box</category>
+      <description>A writable SMB share enables SCF-based NTLM capture and certificate-authenticated WinRM access, after which a recovered privileged hash leads to DCSync and Administrator access.</description>
+    </item>
+    <item>
+      <title>Hack The Box: Falafel Walkthrough</title>
+      <link>https://cyberkareem.com/writing/hackthebox-falafel-walkthrough/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-falafel-walkthrough/</guid>
+      <pubDate>Thu, 11 Jun 2026 15:16:55 GMT</pubDate>
+      <category>Hack The Box</category>
+      <description>PHP type juggling bypasses the admin login and filename truncation turns an upload into a web shell, followed by reused credentials, framebuffer capture and disk-group access to the root SSH key.</description>
+    </item>
+    <item>
+      <title>Hack The Box: Hackback Walkthrough</title>
+      <link>https://cyberkareem.com/writing/hackthebox-hackback-walkthrough/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-hackback-walkthrough/</guid>
+      <pubDate>Thu, 11 Jun 2026 13:11:14 GMT</pubDate>
+      <category>Hack The Box</category>
+      <description>JavaScript deobfuscation reveals a hidden panel whose PHP log inclusion enables file access, exposed credentials and an ASPX tunnel reach internal WinRM, and PrintSpoofer turns SeImpersonatePrivilege into SYSTEM.</description>
+    </item>
+    <item>
+      <title>Hack The Box: Holiday Walkthrough</title>
+      <link>https://cyberkareem.com/writing/hackthebox-holiday-walkthrough/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-holiday-walkthrough/</guid>
+      <pubDate>Thu, 11 Jun 2026 13:04:55 GMT</pubDate>
+      <category>Hack The Box</category>
+      <description>SQL injection recovers a valid login, stored XSS steals the administrator session, command injection creates a web shell, and passwordless npm installation executes package lifecycle code as root.</description>
+    </item>
+    <item>
+      <title>Hack The Box: JobTwo Walkthrough</title>
+      <link>https://cyberkareem.com/writing/hackthebox-jobtwo-walkthrough/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-jobtwo-walkthrough/</guid>
+      <pubDate>Thu, 11 Jun 2026 13:01:54 GMT</pubDate>
+      <category>Hack The Box</category>
+      <description>A macro document sent through the job workflow opens a user shell, hMailServer data yields a WinRM pivot, and unsafe Veeam Mount Service deserialization executes commands as SYSTEM.</description>
+    </item>
+    <item>
+      <title>Hack The Box: Obscurity Walkthrough</title>
+      <link>https://cyberkareem.com/writing/hackthebox-obscurity-walkthrough/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-obscurity-walkthrough/</guid>
+      <pubDate>Thu, 11 Jun 2026 12:28:32 GMT</pubDate>
+      <category>Hack The Box</category>
+      <description>A leaked custom web-server source file exposed Python exec injection for a www-data shell, a known-plaintext attack recovered Robert&apos;s password, and argument injection in his sudoed BetterSSH script selected root as the execution user.</description>
+    </item>
+    <item>
+      <title>Hack The Box: Oouch Walkthrough</title>
+      <link>https://cyberkareem.com/writing/hackthebox-oouch-walkthrough/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-oouch-walkthrough/</guid>
+      <pubDate>Thu, 11 Jun 2026 12:26:26 GMT</pubDate>
+      <category>Hack The Box</category>
+      <description>Two OAuth CSRF flaws hijacked the consumer admin and stole an authorization code for qtc&apos;s SSH key, then a world-writable uWSGI socket pivoted into the consumer container and DBus command injection executed as root.</description>
+    </item>
+    <item>
+      <title>Hack The Box: Overflow Walkthrough</title>
+      <link>https://cyberkareem.com/writing/hackthebox-overflow-walkthrough/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-overflow-walkthrough/</guid>
+      <pubDate>Thu, 11 Jun 2026 12:21:01 GMT</pubDate>
+      <category>Hack The Box</category>
+      <description>A padding oracle forged an admin cookie, log-view SQL injection led to CMS credentials and an ExifTool upload shell, then reused config credentials and a poisoned cron download reached tester, whose setuid file-encryption bug and TOCTOU race exposed root data.</description>
+    </item>
+    <item>
+      <title>Hack The Box: Retired Walkthrough</title>
+      <link>https://cyberkareem.com/writing/hackthebox-retired-walkthrough/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-retired-walkthrough/</guid>
+      <pubDate>Thu, 11 Jun 2026 11:46:58 GMT</pubDate>
+      <category>Hack The Box</category>
+      <description>Execute-after-redirect file reads leaked the license service binary and live memory map for a ROP foothold, a backup symlink exposed dev&apos;s SSH key, and a capable helper registered a binfmt_misc rule that inherited root from a setuid binary.</description>
+    </item>
+    <item>
+      <title>Hack The Box: Scanned Walkthrough</title>
+      <link>https://cyberkareem.com/writing/hackthebox-scanned-walkthrough/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-scanned-walkthrough/</guid>
+      <pubDate>Thu, 11 Jun 2026 11:41:28 GMT</pubDate>
+      <category>Hack The Box</category>
+      <description>Two sandbox flaws exposed a host directory through another process&apos;s open file descriptor, letting forged syscall logs leak Django credentials for Clarence, then a jail race loaded a malicious PAM library through setuid su and created a root shell.</description>
+    </item>
+    <item>
+      <title>Hack The Box: Talkative Walkthrough</title>
+      <link>https://cyberkareem.com/writing/hackthebox-talkative-walkthrough/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-talkative-walkthrough/</guid>
+      <pubDate>Thu, 11 Jun 2026 11:10:29 GMT</pubDate>
+      <category>Hack The Box</category>
+      <description>Unauthenticated Jamovi R execution exposed Bolt credentials, Bolt code execution and password reuse reached Saul on the host, then an unauthenticated MongoDB takeover enabled a Rocket.Chat webhook shell whose dangerous capability read the host&apos;s root flag.</description>
+    </item>
+    <item>
+      <title>Hack The Box: Vessel Walkthrough</title>
+      <link>https://cyberkareem.com/writing/hackthebox-vessel-walkthrough/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-vessel-walkthrough/</guid>
+      <pubDate>Tue, 09 Jun 2026 11:01:30 GMT</pubDate>
+      <category>Hack The Box</category>
+      <description>An exposed Git repository led to a mysqljs type-confusion login bypass, an Open Web Analytics reset-token leak and log poisoning gave a shell, and a predictable password generator unlocked Ethan before the setuid pinns core-pattern flaw created a root shell.</description>
+    </item>
+    <item>
       <title>Secure Automated Purge: Building a Bootable Disk-Sanitization Utility</title>
       <link>https://cyberkareem.com/writing/building-a-nist-compliant-boot-and-nuke-usb-tool-secure-automated-purge/</link>
       <guid isPermaLink="true">https://cyberkareem.com/writing/building-a-nist-compliant-boot-and-nuke-usb-tool-secure-automated-purge/</guid>
@@ -150,22 +246,6 @@
       <pubDate>Fri, 23 Sep 2022 17:43:40 GMT</pubDate>
       <category>Field notes</category>
       <description>A personal reflection on ninety days of journaling, the routines that made it sustainable, and the lessons carried into professional practice.</description>
-    </item>
-    <item>
-      <title>ECPPTv2 Certification Review</title>
-      <link>https://cyberkareem.com/writing/ecppt-elearnsecurity-certified-professional-penetration-tester-review/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/ecppt-elearnsecurity-certified-professional-penetration-tester-review/</guid>
-      <pubDate>Mon, 01 Aug 2022 10:27:01 GMT</pubDate>
-      <category>Certification review</category>
-      <description>A retrospective eCPPTv2 review covering preparation, the practical assessment, reporting, and lessons from earning the certification in 2022.</description>
-    </item>
-    <item>
-      <title>Installing Metasploit Framework on Ubuntu: 2022 Setup Notes</title>
-      <link>https://cyberkareem.com/writing/installing-the-metasploit-framework-on-ubuntu/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/installing-the-metasploit-framework-on-ubuntu/</guid>
-      <pubDate>Fri, 04 Mar 2022 16:28:55 GMT</pubDate>
-      <category>Security engineering</category>
-      <description>A 2022 installation note for Metasploit Framework on Ubuntu. Verify the commands and repository setup against current upstream guidance.</description>
     </item>
   </channel>
 </rss>
