@@ -8,6 +8,14 @@
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://cyberkareem.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Building kameHunt: LLM-Assisted Variant Analysis for CVE Research</title>
+      <link>https://cyberkareem.com/writing/kamehunt-llm-assisted-variant-analysis/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/kamehunt-llm-assisted-variant-analysis/</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Security engineering</category>
+      <description>kameHunt hunts the shape of a known bug across public source code, then validates and ranks the matches so a human reviews a short list of leads instead of pattern-matcher noise. Every result is an unverified lead.</description>
+    </item>
+    <item>
       <title>CVE-2026-62666: A User Manager Could Mint a Super-Admin API Key</title>
       <link>https://cyberkareem.com/writing/cve-2026-62666-grav-api-super-admin-key-privilege-escalation/</link>
       <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-62666-grav-api-super-admin-key-privilege-escalation/</guid>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 25 Oct 2022 18:59:55 GMT</pubDate>
       <category>Certification review</category>
       <description>A retrospective OSWP review covering the PEN-210 learning path, practical wireless lab work, exam preparation, and lessons for future candidates.</description>
-    </item>
-    <item>
-      <title>What I Learned from Ninety Days of Personal Journaling</title>
-      <link>https://cyberkareem.com/writing/90-days-of-my-experience-with-personal-journaling/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/90-days-of-my-experience-with-personal-journaling/</guid>
-      <pubDate>Fri, 23 Sep 2022 17:43:40 GMT</pubDate>
-      <category>Field notes</category>
-      <description>A personal reflection on ninety days of journaling, the routines that made it sustainable, and the lessons carried into professional practice.</description>
     </item>
   </channel>
 </rss>

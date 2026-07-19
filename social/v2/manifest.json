@@ -474,6 +474,12 @@
       "src": "/social/v2/writing/installing-the-metasploit-framework-on-ubuntu.png"
     },
     {
+      "slug": "kamehunt-llm-assisted-variant-analysis",
+      "title": "Building kameHunt: LLM-Assisted Variant Analysis for CVE Research",
+      "category": "Security engineering",
+      "src": "/social/v2/writing/kamehunt-llm-assisted-variant-analysis.png"
+    },
+    {
       "slug": "building-a-pci-dss-segmentation-test-runner",
       "title": "Building seg-test: A PCI DSS Segmentation Evidence Runner",
       "category": "Security engineering",
