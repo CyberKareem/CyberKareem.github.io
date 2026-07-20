@@ -47,6 +47,12 @@
 <priority>0.7</priority>
 </url>
 <url>
+<loc>https://cyberkareem.com/writing/cve-2026-63007-uyuni-formula-cross-org-broken-access-control/</loc>
+<lastmod>2026-07-20</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://cyberkareem.com/writing/cve-2026-62666-grav-api-super-admin-key-privilege-escalation/</loc>
 <lastmod>2026-07-15</lastmod>
 <changefreq>monthly</changefreq>

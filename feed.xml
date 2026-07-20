@@ -5,7 +5,7 @@
     <link>https://cyberkareem.com/writing/</link>
     <description>Security research, engineering notes, certification reviews, and authorized-lab walkthroughs by Abdullah Kareem.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://cyberkareem.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Building kameHunt: LLM-Assisted Variant Analysis for CVE Research</title>
@@ -14,6 +14,14 @@
       <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
       <category>Security engineering</category>
       <description>kameHunt hunts the shape of a known bug across public source code, then validates and ranks the matches so a human reviews a short list of leads instead of pattern-matcher noise. Every result is an unverified lead.</description>
+    </item>
+    <item>
+      <title>CVE-2026-63007: Two Uyuni Formula Methods Skipped the Cross-Org Check</title>
+      <link>https://cyberkareem.com/writing/cve-2026-63007-uyuni-formula-cross-org-broken-access-control/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-63007-uyuni-formula-cross-org-broken-access-control/</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>Two public formula XML-RPC methods in Uyuni resolved a server group or a set of servers by id and omitted the organization and permission check that every sibling method enforces. Any authenticated user could read and tamper with formula configuration belonging to another organization.</description>
     </item>
     <item>
       <title>CVE-2026-62666: A User Manager Could Mint a Super-Admin API Key</title>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 28 Jan 2024 12:27:56 GMT</pubDate>
       <category>Security engineering</category>
       <description>A 2023 comparison of Microsoft Teams Classic and New Teams. Treat it as a dated snapshot rather than current product guidance.</description>
-    </item>
-    <item>
-      <title>Offensive Security Wireless Professional (OSWP) Certification Review</title>
-      <link>https://cyberkareem.com/writing/offensive-security-wireless-professional-oswp-certification-review/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/offensive-security-wireless-professional-oswp-certification-review/</guid>
-      <pubDate>Tue, 25 Oct 2022 18:59:55 GMT</pubDate>
-      <category>Certification review</category>
-      <description>A retrospective OSWP review covering the PEN-210 learning path, practical wireless lab work, exam preparation, and lessons for future candidates.</description>
     </item>
   </channel>
 </rss>
