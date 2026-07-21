@@ -1,2 +1,2 @@
-:HL["/_next/static/css/cdcbfcdaefd41428.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"writing","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"hackthebox-codeparttwo-walkthrough","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"8XXM7DtSQWC6rLFolYa6j"}
+:HL["/_next/static/css/541dfa096c72e32e.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"writing","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"hackthebox-codeparttwo-walkthrough","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"OKJy8gJuOm3r4HgawnL2H"}
