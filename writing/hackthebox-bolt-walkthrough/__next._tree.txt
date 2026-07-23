@@ -1,3 +1,3 @@
-:HL["/_next/static/css/cdaf9837424ad5f7.css","style"]
-:HL["/_next/static/css/4c3e0fc03af5524d.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"writing","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"hackthebox-bolt-walkthrough","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"wQb0X9btSw0FI9PlnEmMQ"}
+:HL["/_next/static/css/1e1827737a0f9e60.css","style"]
+:HL["/_next/static/css/0446f89de3f5795f.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"writing","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"hackthebox-bolt-walkthrough","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"DK8DoHECLNCy57ryKFrJF"}
