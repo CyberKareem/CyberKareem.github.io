@@ -5,8 +5,16 @@
     <link>https://cyberkareem.com/writing/</link>
     <description>Security research, engineering notes, certification reviews, and authorized-lab walkthroughs by Abdullah Kareem.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://cyberkareem.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CVE-2026-16532: Link Library&apos;s Public Submission Form Reached Raw SQL</title>
+      <link>https://cyberkareem.com/writing/cve-2026-16532-link-library-unauthenticated-sql-injection/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-16532-link-library-unauthenticated-sql-injection/</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>Link Library concatenated a URL from its public submission form into a duplicate-check query, creating unauthenticated blind SQL injection before 7.9.3.</description>
+    </item>
     <item>
       <title>Building kameHunt: LLM-Assisted Variant Analysis for CVE Research</title>
       <link>https://cyberkareem.com/writing/kamehunt-llm-assisted-variant-analysis/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 19 May 2025 21:50:37 GMT</pubDate>
       <category>Security engineering</category>
       <description>A reviewed account of a BitLocker-based cryptographic-erase prototype, its operating assumptions, and the validation required before real-world use.</description>
-    </item>
-    <item>
-      <title>Microsoft Teams Classic vs. New Teams: A 2023 Security Comparison</title>
-      <link>https://cyberkareem.com/writing/microsoft-teams-classic-vs-new-features-and-security-unveiled/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/microsoft-teams-classic-vs-new-features-and-security-unveiled/</guid>
-      <pubDate>Sun, 28 Jan 2024 12:27:56 GMT</pubDate>
-      <category>Security engineering</category>
-      <description>A 2023 comparison of Microsoft Teams Classic and New Teams. Treat it as a dated snapshot rather than current product guidance.</description>
     </item>
   </channel>
 </rss>

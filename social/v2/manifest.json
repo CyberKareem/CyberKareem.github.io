@@ -54,6 +54,12 @@
   ],
   "writing": [
     {
+      "slug": "cve-2026-16532-link-library-unauthenticated-sql-injection",
+      "title": "CVE-2026-16532: Link Library's Public Submission Form Reached Raw SQL",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-16532-link-library-unauthenticated-sql-injection.png"
+    },
+    {
       "slug": "cve-2026-63007-uyuni-formula-cross-org-broken-access-control",
       "title": "CVE-2026-63007: Two Uyuni Formula Methods Skipped the Cross-Org Check",
       "category": "CVE case study",
