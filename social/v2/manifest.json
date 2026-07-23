@@ -29,7 +29,7 @@
     },
     {
       "name": "projects",
-      "title": "Open-Source Security Projects",
+      "title": "Security Engineering Projects",
       "route": "cyberkareem.com/projects",
       "src": "/social/v2/pages/projects.png"
     },
@@ -52,772 +52,920 @@
       "src": "/social/v2/pages/policies.png"
     }
   ],
+  "projects": [
+    {
+      "slug": "surfacelens",
+      "title": "SurfaceLens",
+      "category": "Recon intelligence",
+      "src": "/social/v2/projects/surfacelens.png"
+    },
+    {
+      "slug": "seg-test",
+      "title": "seg-test",
+      "category": "Assessment automation",
+      "src": "/social/v2/projects/seg-test.png"
+    },
+    {
+      "slug": "kamehunt",
+      "title": "kameHunt",
+      "category": "Vulnerability research",
+      "src": "/social/v2/projects/kamehunt.png"
+    }
+  ],
   "writing": [
     {
       "slug": "cve-2026-16532-link-library-unauthenticated-sql-injection",
-      "title": "CVE-2026-16532: Link Library's Public Submission Form Reached Raw SQL",
+      "title": "CVE-2026-16532",
+      "summary": "Link Library's Public Submission Form Reached Raw SQL",
       "category": "CVE case study",
       "src": "/social/v2/writing/cve-2026-16532-link-library-unauthenticated-sql-injection.png"
     },
     {
       "slug": "cve-2026-63007-uyuni-formula-cross-org-broken-access-control",
-      "title": "CVE-2026-63007: Two Uyuni Formula Methods Skipped the Cross-Org Check",
+      "title": "CVE-2026-63007",
+      "summary": "Two Uyuni Formula Methods Skipped the Cross-Org Check",
       "category": "CVE case study",
       "src": "/social/v2/writing/cve-2026-63007-uyuni-formula-cross-org-broken-access-control.png"
     },
     {
       "slug": "cve-2026-62671-grav-login-2fa-secret-csrf",
-      "title": "CVE-2026-62671: A Cross-Site GET Could Rotate a Grav TOTP Secret",
+      "title": "CVE-2026-62671",
+      "summary": "A Cross-Site GET Could Rotate a Grav TOTP Secret",
       "category": "CVE case study",
       "src": "/social/v2/writing/cve-2026-62671-grav-login-2fa-secret-csrf.png"
     },
     {
       "slug": "cve-2026-62670-grav-flex-objects-fail-open-authorization",
-      "title": "CVE-2026-62670: Missing Flex Permissions Failed Open",
+      "title": "CVE-2026-62670",
+      "summary": "Missing Flex Permissions Failed Open",
       "category": "CVE case study",
       "src": "/social/v2/writing/cve-2026-62670-grav-flex-objects-fail-open-authorization.png"
     },
     {
       "slug": "cve-2026-62666-grav-api-super-admin-key-privilege-escalation",
-      "title": "CVE-2026-62666: A User Manager Could Mint a Super-Admin API Key",
+      "title": "CVE-2026-62666",
+      "summary": "A User Manager Could Mint a Super-Admin API Key",
       "category": "CVE case study",
       "src": "/social/v2/writing/cve-2026-62666-grav-api-super-admin-key-privilege-escalation.png"
     },
     {
       "slug": "cve-2026-61826-bazarr-plex-oauth-missing-authentication",
-      "title": "CVE-2026-61826: Bazarr's Plex OAuth API Lacked Authentication",
+      "title": "CVE-2026-61826",
+      "summary": "Bazarr's Plex OAuth API Lacked Authentication",
       "category": "CVE case study",
       "src": "/social/v2/writing/cve-2026-61826-bazarr-plex-oauth-missing-authentication.png"
     },
     {
       "slug": "cve-2026-61706-infracost-pr-title-script-injection",
-      "title": "CVE-2026-61706: Pull Request Title Injection in Infracost Actions",
+      "title": "CVE-2026-61706",
+      "summary": "Pull Request Title Injection in Infracost Actions",
       "category": "CVE case study",
       "src": "/social/v2/writing/cve-2026-61706-infracost-pr-title-script-injection.png"
     },
     {
       "slug": "cve-2026-55675-saltyorg-docs-privileged-workflow-chain",
-      "title": "CVE-2026-55675: Fork PR Code Ran in a Privileged GitHub Actions Job",
+      "title": "CVE-2026-55675",
+      "summary": "Fork PR Code Ran in a Privileged GitHub Actions Job",
       "category": "CVE case study",
       "src": "/social/v2/writing/cve-2026-55675-saltyorg-docs-privileged-workflow-chain.png"
     },
     {
       "slug": "cve-2026-55890-grav-markdown-style-injection",
-      "title": "CVE-2026-55890: Grav's style() Method Bypassed the Earlier Fix",
+      "title": "CVE-2026-55890",
+      "summary": "Grav's style() Method Bypassed the Earlier Fix",
       "category": "CVE case study",
       "src": "/social/v2/writing/cve-2026-55890-grav-markdown-style-injection.png"
     },
     {
       "slug": "cve-2026-59185-identrail-installation-id-ownership",
-      "title": "CVE-2026-59185: Missing Installation Ownership Check Allowed Cross-Tenant Access",
+      "title": "CVE-2026-59185",
+      "summary": "Missing Installation Ownership Check Allowed Cross-Tenant Access",
       "category": "CVE case study",
       "src": "/social/v2/writing/cve-2026-59185-identrail-installation-id-ownership.png"
     },
     {
       "slug": "cve-2026-59889-jackson-jsonview-jsonunwrapped-bypass",
-      "title": "CVE-2026-59889: @JsonUnwrapped Replay Skipped an @JsonView Check",
+      "title": "CVE-2026-59889",
+      "summary": "@JsonUnwrapped Replay Skipped an @JsonView Check",
       "category": "CVE case study",
       "src": "/social/v2/writing/cve-2026-59889-jackson-jsonview-jsonunwrapped-bypass.png"
     },
     {
       "slug": "cve-2026-59979-yosemite-crew-tenant-authorization",
-      "title": "CVE-2026-59979: Missing Tenant Checks in Yosemite-Crew Routes",
+      "title": "CVE-2026-59979",
+      "summary": "Missing Tenant Checks in Yosemite-Crew Routes",
       "category": "CVE case study",
       "src": "/social/v2/writing/cve-2026-59979-yosemite-crew-tenant-authorization.png"
     },
     {
       "slug": "cve-2026-61448-parse-server-content-type-stored-xss",
-      "title": "CVE-2026-61448: Malformed Content-Type Led to Stored XSS in Parse Server",
+      "title": "CVE-2026-61448",
+      "summary": "Malformed Content-Type Led to Stored XSS in Parse Server",
       "category": "CVE case study",
       "src": "/social/v2/writing/cve-2026-61448-parse-server-content-type-stored-xss.png"
     },
     {
       "slug": "hackthebox-crossfit-walkthrough",
-      "title": "HackTheBox “CrossFit” Walkthrough",
+      "title": "CrossFit",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-crossfit-walkthrough.png"
     },
     {
       "slug": "hackthebox-codeparttwo-walkthrough",
-      "title": "HackTheBox “CodePartTwo” Walkthrough",
+      "title": "CodePartTwo",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-codeparttwo-walkthrough.png"
     },
     {
       "slug": "hackthebox-celestial-walkthrough",
-      "title": "HackTheBox “Celestial” Walkthrough",
+      "title": "Celestial",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-celestial-walkthrough.png"
     },
     {
       "slug": "hackthebox-cache-walkthrough",
-      "title": "HackTheBox “Cache” Walkthrough",
+      "title": "Cache",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-cache-walkthrough.png"
     },
     {
       "slug": "hackthebox-ctf-walkthrough",
-      "title": "HackTheBox “CTF” Walkthrough",
+      "title": "CTF",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-ctf-walkthrough.png"
     },
     {
       "slug": "hackthebox-book-walkthrough",
-      "title": "HackTheBox “Book” Walkthrough",
+      "title": "Book",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-book-walkthrough.png"
     },
     {
       "slug": "hackthebox-bolt-walkthrough",
-      "title": "HackTheBox “Bolt” Walkthrough",
+      "title": "Bolt",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-bolt-walkthrough.png"
     },
     {
       "slug": "hackthebox-atlas-walkthrough",
-      "title": "HackTheBox “Atlas” Walkthrough",
+      "title": "Atlas",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-atlas-walkthrough.png"
     },
     {
       "slug": "hackthebox-arkham-walkthrough",
-      "title": "HackTheBox “Arkham” Walkthrough",
+      "title": "Arkham",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-arkham-walkthrough.png"
     },
     {
       "slug": "building-a-nist-compliant-boot-and-nuke-usb-tool-secure-automated-purge",
       "title": "Secure Automated Purge: Building a Bootable Disk-Sanitization Utility",
+      "summary": "A bootable disk-sanitization prototype that requires device-specific validation and review against…",
       "category": "Security engineering",
       "src": "/social/v2/writing/building-a-nist-compliant-boot-and-nuke-usb-tool-secure-automated-purge.png"
     },
     {
       "slug": "stoicism-in-everyday-life-how-ancient-wisdom-and-a-few-modern-insights-transformed-my-anxious",
       "title": "What Ninety Days of Stoic Practice Changed for Me",
+      "summary": "A personal account of using Stoic practices to manage anxiety, build consistency, and carry those…",
       "category": "Security notes",
       "src": "/social/v2/writing/stoicism-in-everyday-life-how-ancient-wisdom-and-a-few-modern-insights-transformed-my-anxious.png"
     },
     {
       "slug": "introducing-the-bitlocker-cryptographic-erase-utility-secure-data-destruction-made-simple",
       "title": "BitLocker Cryptographic Erase Utility: Design, Limits, and Validation",
+      "summary": "A reviewed account of a BitLocker-based cryptographic-erase prototype, its operating assumptions, and…",
       "category": "Security engineering",
       "src": "/social/v2/writing/introducing-the-bitlocker-cryptographic-erase-utility-secure-data-destruction-made-simple.png"
     },
     {
       "slug": "hackthebox-tabby-walkthrough",
-      "title": "HackTheBox “Tabby” Walkthrough",
+      "title": "Tabby",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-tabby-walkthrough.png"
     },
     {
       "slug": "hackthebox-access-walkthrough",
-      "title": "HackTheBox “Access” Walkthrough",
+      "title": "Access",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-access-walkthrough.png"
     },
     {
       "slug": "hackthebox-forest-walkthrough",
-      "title": "HackTheBox “Forest” Walkthrough",
+      "title": "Forest",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-forest-walkthrough.png"
     },
     {
       "slug": "hackthebox-cap-walkthrough",
-      "title": "HackTheBox “Cap” Walkthrough",
+      "title": "Cap",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-cap-walkthrough.png"
     },
     {
       "slug": "hackthebox-active-walkthrough",
-      "title": "HackTheBox “Active” Walkthrough",
+      "title": "Active",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-active-walkthrough.png"
     },
     {
       "slug": "hackthebox-goodgames-walkthrough",
-      "title": "HackTheBox “GoodGames” Walkthrough",
+      "title": "GoodGames",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-goodgames-walkthrough.png"
     },
     {
       "slug": "hackthebox-remote-walkthrough",
-      "title": "HackTheBox “Remote” Walkthrough",
+      "title": "Remote",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-remote-walkthrough.png"
     },
     {
       "slug": "hackthebox-bountyhunter-walkthrough",
-      "title": "HackTheBox “BountyHunter” Walkthrough",
+      "title": "BountyHunter",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-bountyhunter-walkthrough.png"
     },
     {
       "slug": "microsoft-teams-classic-vs-new-features-and-security-unveiled",
       "title": "Microsoft Teams Classic vs. New Teams: A 2023 Security Comparison",
+      "summary": "A 2023 comparison of Microsoft Teams Classic and New Teams. Treat it as a dated snapshot rather than…",
       "category": "Security engineering",
       "src": "/social/v2/writing/microsoft-teams-classic-vs-new-features-and-security-unveiled.png"
     },
     {
       "slug": "hackthebox-luanne-walkthrough",
-      "title": "HackTheBox “Luanne” Walkthrough",
+      "title": "Luanne",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-luanne-walkthrough.png"
     },
     {
       "slug": "hackthebox-passage-walkthrough",
-      "title": "HackTheBox “Passage” Walkthrough",
+      "title": "Passage",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-passage-walkthrough.png"
     },
     {
       "slug": "hackthebox-doctor-walkthrough",
-      "title": "HackTheBox “Doctor” Walkthrough",
+      "title": "Doctor",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-doctor-walkthrough.png"
     },
     {
       "slug": "hackthebox-magic-walkthrough",
-      "title": "HackTheBox “Magic” Walkthrough",
+      "title": "Magic",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-magic-walkthrough.png"
     },
     {
       "slug": "hackthebox-openadmin-walkthrough",
-      "title": "HackTheBox “OpenAdmin” Walkthrough",
+      "title": "OpenAdmin",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-openadmin-walkthrough.png"
     },
     {
       "slug": "hackthebox-traverxec-walkthrough",
-      "title": "HackTheBox “Traverxec” Walkthrough",
+      "title": "Traverxec",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-traverxec-walkthrough.png"
     },
     {
       "slug": "hackthebox-mango-walkthrough",
-      "title": "HackTheBox “Mango” Walkthrough",
+      "title": "Mango",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-mango-walkthrough.png"
     },
     {
       "slug": "hackthebox-blocky-walkthrough",
-      "title": "HackTheBox “Blocky” Walkthrough",
+      "title": "Blocky",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-blocky-walkthrough.png"
     },
     {
       "slug": "hackthebox-popcorn-walkthrough",
-      "title": "HackTheBox “Popcorn” Walkthrough",
+      "title": "Popcorn",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-popcorn-walkthrough.png"
     },
     {
       "slug": "hackthebox-mirai-walkthrough",
-      "title": "HackTheBox “Mirai” Walkthrough",
+      "title": "Mirai",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-mirai-walkthrough.png"
     },
     {
       "slug": "hackthebox-jarvis-walkthrough",
-      "title": "HackTheBox “Jarvis” Walkthrough",
+      "title": "Jarvis",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-jarvis-walkthrough.png"
     },
     {
       "slug": "hackthebox-swagshop-walkthrough",
-      "title": "HackTheBox “SwagShop” Walkthrough",
+      "title": "SwagShop",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-swagshop-walkthrough.png"
     },
     {
       "slug": "hackthebox-networked-walkthrough",
-      "title": "HackTheBox “Networked” Walkthrough",
+      "title": "Networked",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-networked-walkthrough.png"
     },
     {
       "slug": "hackthebox-friendzone-walkthrough",
-      "title": "HackTheBox “FriendZone” Walkthrough",
+      "title": "FriendZone",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-friendzone-walkthrough.png"
     },
     {
       "slug": "hackthebox-irked-walkthrough",
-      "title": "HackTheBox “Irked” Walkthrough",
+      "title": "Irked",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-irked-walkthrough.png"
     },
     {
       "slug": "hackthebox-sunday-walkthrough",
-      "title": "HackTheBox “Sunday” Walkthrough",
+      "title": "Sunday",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-sunday-walkthrough.png"
     },
     {
       "slug": "hackthebox-conceal-walkthrough",
-      "title": "HackTheBox “Conceal” Walkthrough",
+      "title": "Conceal",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-conceal-walkthrough.png"
     },
     {
       "slug": "hackthebox-poison-walkthrough",
-      "title": "HackTheBox “Poison” Walkthrough",
+      "title": "Poison",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-poison-walkthrough.png"
     },
     {
       "slug": "hackthebox-jerry-walkthrough",
-      "title": "HackTheBox “Jerry” Walkthrough",
+      "title": "Jerry",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-jerry-walkthrough.png"
     },
     {
       "slug": "hackthebox-valentine-walkthrough",
-      "title": "HackTheBox “Valentine” Walkthrough",
+      "title": "Valentine",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-valentine-walkthrough.png"
     },
     {
       "slug": "hackthebox-bounty-walkthrough",
-      "title": "HackTheBox “Bounty” Walkthrough",
+      "title": "Bounty",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-bounty-walkthrough.png"
     },
     {
       "slug": "hackthebox-node-walkthrough",
-      "title": "HackTheBox “Node” Walkthrough",
+      "title": "Node",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-node-walkthrough.png"
     },
     {
       "slug": "hackthebox-silo-walkthrough",
-      "title": "HackTheBox “Silo” Walkthrough",
+      "title": "Silo",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-silo-walkthrough.png"
     },
     {
       "slug": "hackthebox-grandpa-walkthrough",
-      "title": "HackTheBox “Grandpa” Walkthrough",
+      "title": "Grandpa",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-grandpa-walkthrough.png"
     },
     {
       "slug": "hackthebox-sense-walkthrough",
-      "title": "HackTheBox “Sense” Walkthrough",
+      "title": "Sense",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-sense-walkthrough.png"
     },
     {
       "slug": "hackthebox-arctic-walkthrough",
-      "title": "HackTheBox “Arctic” Walkthrough",
+      "title": "Arctic",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-arctic-walkthrough.png"
     },
     {
       "slug": "hackthebox-cronos-walkthrough",
-      "title": "HackTheBox “Cronos” Walkthrough",
+      "title": "Cronos",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-cronos-walkthrough.png"
     },
     {
       "slug": "hackthebox-granny-walkthrough",
-      "title": "HackTheBox “Granny” Walkthrough",
+      "title": "Granny",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-granny-walkthrough.png"
     },
     {
       "slug": "hackthebox-nibbles-walkthrough",
-      "title": "HackTheBox “Nibbles” Walkthrough",
+      "title": "Nibbles",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-nibbles-walkthrough.png"
     },
     {
       "slug": "hackthebox-bastard-walkthrough",
-      "title": "HackTheBox “Bastard” Walkthrough",
+      "title": "Bastard",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-bastard-walkthrough.png"
     },
     {
       "slug": "hackthebox-bashed-with-without-metasploit-writeup",
-      "title": "HackTheBox “Bashed” With & Without Metasploit WriteUp",
+      "title": "Bashed",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-bashed-with-without-metasploit-writeup.png"
     },
     {
       "slug": "hackthebox-devel-with-without-metasploit-writeup",
-      "title": "HackTheBox “Devel” With & Without Metasploit WriteUp",
+      "title": "Devel",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-devel-with-without-metasploit-writeup.png"
     },
     {
       "slug": "hackthebox-shocker-with-without-metasploit-writeup",
-      "title": "HackTheBox “Shocker” With & Without Metasploit WriteUp",
+      "title": "Shocker",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-shocker-with-without-metasploit-writeup.png"
     },
     {
       "slug": "offensive-security-wireless-professional-oswp-certification-review",
       "title": "Offensive Security Wireless Professional (OSWP) Certification Review",
+      "summary": "A retrospective OSWP review covering the PEN-210 learning path, practical wireless lab work, exam…",
       "category": "Certification review",
       "src": "/social/v2/writing/offensive-security-wireless-professional-oswp-certification-review.png"
     },
     {
       "slug": "90-days-of-my-experience-with-personal-journaling",
       "title": "What I Learned from Ninety Days of Personal Journaling",
+      "summary": "A personal reflection on ninety days of journaling, the routines that made it sustainable, and the…",
       "category": "Field notes",
       "src": "/social/v2/writing/90-days-of-my-experience-with-personal-journaling.png"
     },
     {
       "slug": "ecppt-elearnsecurity-certified-professional-penetration-tester-review",
       "title": "ECPPTv2 Certification Review",
+      "summary": "A retrospective eCPPTv2 review covering preparation, the practical assessment, reporting, and lessons…",
       "category": "Certification review",
       "src": "/social/v2/writing/ecppt-elearnsecurity-certified-professional-penetration-tester-review.png"
     },
     {
       "slug": "hackthebox-lame-with-without-metasploit-writeup",
-      "title": "HackTheBox “Lame” With & Without Metasploit WriteUp",
+      "title": "Lame",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-lame-with-without-metasploit-writeup.png"
     },
     {
       "slug": "installing-the-metasploit-framework-on-ubuntu",
-      "title": "Installing Metasploit Framework on Ubuntu: Historical Guide",
+      "title": "Installing Metasploit Framework on Ubuntu: 2022 Setup Notes",
+      "summary": "A 2022 installation note for Metasploit Framework on Ubuntu. Verify the commands and repository setup…",
       "category": "Security engineering",
       "src": "/social/v2/writing/installing-the-metasploit-framework-on-ubuntu.png"
     },
     {
       "slug": "kamehunt-llm-assisted-variant-analysis",
       "title": "Building kameHunt: LLM-Assisted Variant Analysis for CVE Research",
+      "summary": "kameHunt hunts the shape of a known bug across public source code, then validates and ranks the…",
       "category": "Security engineering",
       "src": "/social/v2/writing/kamehunt-llm-assisted-variant-analysis.png"
     },
     {
       "slug": "building-a-pci-dss-segmentation-test-runner",
       "title": "Building seg-test: A PCI DSS Segmentation Evidence Runner",
+      "summary": "seg-test runs approved checks from defined source VLANs, preserves raw Nmap output, and packages…",
       "category": "Security engineering",
       "src": "/social/v2/writing/building-a-pci-dss-segmentation-test-runner.png"
     },
     {
       "slug": "hackthebox-sizzle-walkthrough",
-      "title": "Hack The Box: Sizzle Walkthrough",
+      "title": "Sizzle",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-sizzle-walkthrough.png"
     },
     {
       "slug": "hackthebox-search-walkthrough",
-      "title": "Hack The Box: Search Walkthrough",
+      "title": "Search",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-search-walkthrough.png"
     },
     {
       "slug": "hackthebox-seal-walkthrough",
-      "title": "Hack The Box: Seal Walkthrough",
+      "title": "Seal",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-seal-walkthrough.png"
     },
     {
       "slug": "hackthebox-querier-walkthrough",
-      "title": "Hack The Box: Querier Walkthrough",
+      "title": "Querier",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-querier-walkthrough.png"
     },
     {
       "slug": "hackthebox-pivotapi-walkthrough",
-      "title": "Hack The Box: PivotAPI Walkthrough",
+      "title": "PivotAPI",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-pivotapi-walkthrough.png"
     },
     {
       "slug": "hackthebox-multimaster-walkthrough",
-      "title": "Hack The Box: Multimaster Walkthrough",
+      "title": "Multimaster",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-multimaster-walkthrough.png"
     },
     {
       "slug": "hackthebox-apt-walkthrough",
-      "title": "Hack The Box: APT Walkthrough",
+      "title": "APT",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-apt-walkthrough.png"
     },
     {
       "slug": "hackthebox-crossfittwo-walkthrough",
-      "title": "Hack The Box: CrossFitTwo Walkthrough",
+      "title": "CrossFitTwo",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-crossfittwo-walkthrough.png"
     },
     {
       "slug": "hackthebox-eighteen-walkthrough",
-      "title": "Hack The Box: Eighteen Walkthrough",
+      "title": "Eighteen",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-eighteen-walkthrough.png"
     },
     {
       "slug": "hackthebox-encoding-walkthrough",
-      "title": "Hack The Box: Encoding Walkthrough",
+      "title": "Encoding",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-encoding-walkthrough.png"
     },
     {
       "slug": "hackthebox-facts-walkthrough",
-      "title": "Hack The Box: Facts Walkthrough",
+      "title": "Facts",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-facts-walkthrough.png"
     },
     {
       "slug": "hackthebox-falafel-walkthrough",
-      "title": "Hack The Box: Falafel Walkthrough",
+      "title": "Falafel",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-falafel-walkthrough.png"
     },
     {
       "slug": "hackthebox-fighter-walkthrough",
-      "title": "Hack The Box: Fighter Walkthrough",
+      "title": "Fighter",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-fighter-walkthrough.png"
     },
     {
       "slug": "hackthebox-forgot-walkthrough",
-      "title": "Hack The Box: Forgot Walkthrough",
+      "title": "Forgot",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-forgot-walkthrough.png"
     },
     {
       "slug": "hackthebox-ghoul-walkthrough",
-      "title": "Hack The Box: Ghoul Walkthrough",
+      "title": "Ghoul",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-ghoul-walkthrough.png"
     },
     {
       "slug": "hackthebox-hackback-walkthrough",
-      "title": "Hack The Box: Hackback Walkthrough",
+      "title": "Hackback",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-hackback-walkthrough.png"
     },
     {
       "slug": "hackthebox-holiday-walkthrough",
-      "title": "Hack The Box: Holiday Walkthrough",
+      "title": "Holiday",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-holiday-walkthrough.png"
     },
     {
       "slug": "hackthebox-intentions-walkthrough",
-      "title": "Hack The Box: Intentions Walkthrough",
+      "title": "Intentions",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-intentions-walkthrough.png"
     },
     {
       "slug": "hackthebox-jobtwo-walkthrough",
-      "title": "Hack The Box: JobTwo Walkthrough",
+      "title": "JobTwo",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-jobtwo-walkthrough.png"
     },
     {
       "slug": "hackthebox-json-walkthrough",
-      "title": "Hack The Box: Json Walkthrough",
+      "title": "Json",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-json-walkthrough.png"
     },
     {
       "slug": "hackthebox-kryptos-walkthrough",
-      "title": "Hack The Box: Kryptos Walkthrough",
+      "title": "Kryptos",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-kryptos-walkthrough.png"
     },
     {
       "slug": "hackthebox-laboratory-walkthrough",
-      "title": "Hack The Box: Laboratory Walkthrough",
+      "title": "Laboratory",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-laboratory-walkthrough.png"
     },
     {
       "slug": "hackthebox-mirage-walkthrough",
-      "title": "Hack The Box: Mirage Walkthrough",
+      "title": "Mirage",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-mirage-walkthrough.png"
     },
     {
       "slug": "hackthebox-monitorsfour-walkthrough",
-      "title": "Hack The Box: MonitorsFour Walkthrough",
+      "title": "MonitorsFour",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-monitorsfour-walkthrough.png"
     },
     {
       "slug": "hackthebox-nodeblog-walkthrough",
-      "title": "Hack The Box: NodeBlog Walkthrough",
+      "title": "NodeBlog",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-nodeblog-walkthrough.png"
     },
     {
       "slug": "hackthebox-object-walkthrough",
-      "title": "Hack The Box: Object Walkthrough",
+      "title": "Object",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-object-walkthrough.png"
     },
     {
       "slug": "hackthebox-obscurity-walkthrough",
-      "title": "Hack The Box: Obscurity Walkthrough",
+      "title": "Obscurity",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-obscurity-walkthrough.png"
     },
     {
       "slug": "hackthebox-oouch-walkthrough",
-      "title": "Hack The Box: Oouch Walkthrough",
+      "title": "Oouch",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-oouch-walkthrough.png"
     },
     {
       "slug": "hackthebox-ophiuchi-walkthrough",
-      "title": "Hack The Box: Ophiuchi Walkthrough",
+      "title": "Ophiuchi",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-ophiuchi-walkthrough.png"
     },
     {
       "slug": "hackthebox-overflow-walkthrough",
-      "title": "Hack The Box: Overflow Walkthrough",
+      "title": "Overflow",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-overflow-walkthrough.png"
     },
     {
       "slug": "hackthebox-overwatch-walkthrough",
-      "title": "Hack The Box: Overwatch Walkthrough",
+      "title": "Overwatch",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-overwatch-walkthrough.png"
     },
     {
       "slug": "hackthebox-pikaboo-walkthrough",
-      "title": "Hack The Box: Pikaboo Walkthrough",
+      "title": "Pikaboo",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-pikaboo-walkthrough.png"
     },
     {
       "slug": "hackthebox-quick-walkthrough",
-      "title": "Hack The Box: Quick Walkthrough",
+      "title": "Quick",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-quick-walkthrough.png"
     },
     {
       "slug": "hackthebox-ransom-walkthrough",
-      "title": "Hack The Box: Ransom Walkthrough",
+      "title": "Ransom",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-ransom-walkthrough.png"
     },
     {
       "slug": "hackthebox-ready-walkthrough",
-      "title": "Hack The Box: Ready Walkthrough",
+      "title": "Ready",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-ready-walkthrough.png"
     },
     {
       "slug": "hackthebox-redcross-walkthrough",
-      "title": "Hack The Box: RedCross Walkthrough",
+      "title": "RedCross",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-redcross-walkthrough.png"
     },
     {
       "slug": "hackthebox-retired-walkthrough",
-      "title": "Hack The Box: Retired Walkthrough",
+      "title": "Retired",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-retired-walkthrough.png"
     },
     {
       "slug": "hackthebox-routerspace-walkthrough",
-      "title": "Hack The Box: RouterSpace Walkthrough",
+      "title": "RouterSpace",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-routerspace-walkthrough.png"
     },
     {
       "slug": "hackthebox-scanned-walkthrough",
-      "title": "Hack The Box: Scanned Walkthrough",
+      "title": "Scanned",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-scanned-walkthrough.png"
     },
     {
       "slug": "hackthebox-schooled-walkthrough",
-      "title": "Hack The Box: Schooled Walkthrough",
+      "title": "Schooled",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-schooled-walkthrough.png"
     },
     {
       "slug": "hackthebox-seventeen-walkthrough",
-      "title": "Hack The Box: Seventeen Walkthrough",
+      "title": "Seventeen",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-seventeen-walkthrough.png"
     },
     {
       "slug": "hackthebox-sink-walkthrough",
-      "title": "Hack The Box: Sink Walkthrough",
+      "title": "Sink",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-sink-walkthrough.png"
     },
     {
       "slug": "hackthebox-talkative-walkthrough",
-      "title": "Hack The Box: Talkative Walkthrough",
+      "title": "Talkative",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-talkative-walkthrough.png"
     },
     {
       "slug": "hackthebox-tenet-walkthrough",
-      "title": "Hack The Box: Tenet Walkthrough",
+      "title": "Tenet",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-tenet-walkthrough.png"
     },
     {
       "slug": "hackthebox-unobtainium-walkthrough",
-      "title": "Hack The Box: Unobtainium Walkthrough",
+      "title": "Unobtainium",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-unobtainium-walkthrough.png"
     },
     {
       "slug": "hackthebox-unicode-walkthrough",
-      "title": "Hack The Box: Unicode Walkthrough",
+      "title": "Unicode",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-unicode-walkthrough.png"
     },
     {
       "slug": "hackthebox-twomillion-walkthrough",
-      "title": "Hack The Box: TwoMillion Walkthrough",
+      "title": "TwoMillion",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-twomillion-walkthrough.png"
     },
     {
       "slug": "hackthebox-trick-walkthrough",
-      "title": "Hack The Box: Trick Walkthrough",
+      "title": "Trick",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-trick-walkthrough.png"
     },
     {
       "slug": "hackthebox-travel-walkthrough",
-      "title": "Hack The Box: Travel Walkthrough",
+      "title": "Travel",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-travel-walkthrough.png"
     },
     {
       "slug": "hackthebox-thenotebook-walkthrough",
-      "title": "Hack The Box: TheNotebook Walkthrough",
+      "title": "TheNotebook",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-thenotebook-walkthrough.png"
     },
     {
       "slug": "hackthebox-vault-walkthrough",
-      "title": "Hack The Box: Vault Walkthrough",
+      "title": "Vault",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-vault-walkthrough.png"
     },
     {
       "slug": "hackthebox-vessel-walkthrough",
-      "title": "Hack The Box: Vessel Walkthrough",
+      "title": "Vessel",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-vessel-walkthrough.png"
     },
     {
       "slug": "hackthebox-wall-walkthrough",
-      "title": "Hack The Box: Wall Walkthrough",
+      "title": "Wall",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-wall-walkthrough.png"
     },
     {
       "slug": "hackthebox-zipper-walkthrough",
-      "title": "Hack The Box: Zipper Walkthrough",
+      "title": "Zipper",
+      "summary": "Hack The Box Walkthrough / Retired Lab",
       "category": "Hack The Box",
       "src": "/social/v2/writing/hackthebox-zipper-walkthrough.png"
     }
