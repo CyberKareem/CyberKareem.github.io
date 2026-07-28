@@ -1,6 +1,6 @@
-:HL["/_next/static/css/9a936a315575de7b.css","style"]
-:HL["/_next/static/css/fbe8aec794da92d8.css","style"]
-:HL["/_next/static/css/e3516ba09d588217.css","style"]
-:HL["/fonts/newsreader-normal-latin.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
-:HL["/fonts/newsreader-italic-latin.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"writing","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"hackthebox-swagshop-walkthrough","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"-xCeD9A2xIOYqVqj9OSQK"}
+:HL["/_next/static/css/83671900a6c01de2.css","style"]
+:HL["/_next/static/css/53e17a7fe5674be8.css","style"]
+:HL["/fonts/newsreader-normal-critical.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/fonts/newsreader-italic-critical.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/writing/media/16caeb0e14f7eabcf2deba71.webp","image",{"fetchPriority":"high"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"writing","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"hackthebox-swagshop-walkthrough","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"DjNJ0-XArG3kaetrt6QdK"}

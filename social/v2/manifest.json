@@ -50,6 +50,12 @@
       "title": "Authorization, Scope + Disclosure",
       "route": "cyberkareem.com/policies",
       "src": "/social/v2/pages/policies.png"
+    },
+    {
+      "name": "sample-report",
+      "title": "Synthetic Pentest Report",
+      "route": "cyberkareem.com/resources",
+      "src": "/social/v2/pages/sample-report.png"
     }
   ],
   "projects": [
