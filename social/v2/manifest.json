@@ -80,6 +80,27 @@
   ],
   "writing": [
     {
+      "slug": "cve-2026-67529-openproject-work-package-subject-disclosure",
+      "title": "CVE-2026-67529",
+      "summary": "OpenProject Entry APIs Exposed Hidden Work Package Subjects",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-67529-openproject-work-package-subject-disclosure.png"
+    },
+    {
+      "slug": "cve-2026-65475-modula-stored-xss-regression",
+      "title": "CVE-2026-65475",
+      "summary": "A Reverted Link Fix Reopened Stored XSS in Modula",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-65475-modula-stored-xss-regression.png"
+    },
+    {
+      "slug": "cve-2026-59551-rtmedia-order-by-allowlist-bypass",
+      "title": "CVE-2026-59551",
+      "summary": "rtMedia Validated the ORDER BY Prefix but Executed the Full Value",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-59551-rtmedia-order-by-allowlist-bypass.png"
+    },
+    {
       "slug": "cve-2026-16532-link-library-unauthenticated-sql-injection",
       "title": "CVE-2026-16532",
       "summary": "Link Library's Public Submission Form Reached Raw SQL",

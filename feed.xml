@@ -5,8 +5,32 @@
     <link>https://cyberkareem.com/writing/</link>
     <description>Security research, engineering notes, certification reviews, and authorized-lab walkthroughs by Abdullah Kareem.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://cyberkareem.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CVE-2026-59551: rtMedia Validated the ORDER BY Prefix but Executed the Full Value</title>
+      <link>https://cyberkareem.com/writing/cve-2026-59551-rtmedia-order-by-allowlist-bypass/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-59551-rtmedia-order-by-allowlist-bypass/</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>rtMedia checked only the leading sort column and direction, then interpolated the complete order_by value into SQL. A subscriber could append an expression and create a blind SQL oracle. Version 4.7.11 rebuilds the clause exclusively from validated tokens.</description>
+    </item>
+    <item>
+      <title>CVE-2026-65475: A Reverted Link Fix Reopened Stored XSS in Modula</title>
+      <link>https://cyberkareem.com/writing/cve-2026-65475-modula-stored-xss-regression/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-65475-modula-stored-xss-regression/</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>Modula Image Gallery 2.14.25 through 2.14.30 appended a contributor-controlled tab value to an admin edit link without context-safe encoding, reopening a stored XSS path that 2.14.24 had closed.</description>
+    </item>
+    <item>
+      <title>CVE-2026-67529: OpenProject Entry APIs Exposed Hidden Work Package Subjects</title>
+      <link>https://cyberkareem.com/writing/cve-2026-67529-openproject-work-package-subject-disclosure/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-67529-openproject-work-package-subject-disclosure/</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>OpenProject&apos;s global Time Entries and Cost Entries APIs rendered a linked Work Package&apos;s subject and sequential ID even when the caller lacked view_work_packages. Version 17.6.0 applies visibility checks before rendering those links.</description>
+    </item>
     <item>
       <title>CVE-2026-16532: Link Library&apos;s Public Submission Form Reached Raw SQL</title>
       <link>https://cyberkareem.com/writing/cve-2026-16532-link-library-unauthenticated-sql-injection/</link>
@@ -222,30 +246,6 @@
       <pubDate>Tue, 09 Jun 2026 11:01:30 GMT</pubDate>
       <category>Hack The Box</category>
       <description>An exposed Git repository led to a mysqljs type-confusion login bypass, an Open Web Analytics reset-token leak and log poisoning gave a shell, and a predictable password generator unlocked Ethan before the setuid pinns core-pattern flaw created a root shell.</description>
-    </item>
-    <item>
-      <title>Secure Automated Purge: Building a Bootable Disk-Sanitization Utility</title>
-      <link>https://cyberkareem.com/writing/building-a-nist-compliant-boot-and-nuke-usb-tool-secure-automated-purge/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/building-a-nist-compliant-boot-and-nuke-usb-tool-secure-automated-purge/</guid>
-      <pubDate>Fri, 30 May 2025 17:21:25 GMT</pubDate>
-      <category>Security engineering</category>
-      <description>A bootable disk-sanitization prototype that requires device-specific validation and review against NIST SP 800-88 Rev.2 before operational use.</description>
-    </item>
-    <item>
-      <title>What Ninety Days of Stoic Practice Changed for Me</title>
-      <link>https://cyberkareem.com/writing/stoicism-in-everyday-life-how-ancient-wisdom-and-a-few-modern-insights-transformed-my-anxious/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/stoicism-in-everyday-life-how-ancient-wisdom-and-a-few-modern-insights-transformed-my-anxious/</guid>
-      <pubDate>Sat, 24 May 2025 13:06:35 GMT</pubDate>
-      <category>Security notes</category>
-      <description>A personal account of using Stoic practices to manage anxiety, build consistency, and carry those habits into security work.</description>
-    </item>
-    <item>
-      <title>BitLocker Cryptographic Erase Utility: Design, Limits, and Validation</title>
-      <link>https://cyberkareem.com/writing/introducing-the-bitlocker-cryptographic-erase-utility-secure-data-destruction-made-simple/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/introducing-the-bitlocker-cryptographic-erase-utility-secure-data-destruction-made-simple/</guid>
-      <pubDate>Mon, 19 May 2025 21:50:37 GMT</pubDate>
-      <category>Security engineering</category>
-      <description>A reviewed account of a BitLocker-based cryptographic-erase prototype, its operating assumptions, and the validation required before real-world use.</description>
     </item>
   </channel>
 </rss>
