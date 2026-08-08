@@ -1,6 +1,6 @@
-:HL["/_next/static/css/40f1c782a1c19065.css","style"]
+:HL["/_next/static/css/907a00dd703e6497.css","style"]
 :HL["/_next/static/css/53e17a7fe5674be8.css","style"]
 :HL["/fonts/newsreader-normal-critical.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/fonts/newsreader-italic-critical.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/writing/covers/kamehunt-llm-assisted-variant-analysis.webp","image",{"fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"writing","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"kamehunt-llm-assisted-variant-analysis","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"YTG59nn8xIchcBClJyL6O"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"writing","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"kamehunt-llm-assisted-variant-analysis","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"HlmWQSCqThKpgYO9d5BZS"}
