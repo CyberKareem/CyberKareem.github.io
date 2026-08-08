@@ -80,6 +80,48 @@
   ],
   "writing": [
     {
+      "slug": "cve-2026-66696-kadence-blocks-license-data-exposure",
+      "title": "CVE-2026-66696",
+      "summary": "A Caller-Controlled Kadence Library Host Received Stored License Data",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-66696-kadence-blocks-license-data-exposure.png"
+    },
+    {
+      "slug": "cve-2026-66690-givewp-donation-phone-stored-xss",
+      "title": "CVE-2026-66690",
+      "summary": "Donation Phone Data Reached GiveWP's Admin View as Stored XSS",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-66690-givewp-donation-phone-stored-xss.png"
+    },
+    {
+      "slug": "cve-2026-65523-formidable-signature-invite-url-idor",
+      "title": "CVE-2026-65523",
+      "summary": "An Entry ID Exposed Formidable's Private Signature Invite URL",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-65523-formidable-signature-invite-url-idor.png"
+    },
+    {
+      "slug": "cve-2026-28145-masterstudy-paypal-ipn-payment-bypass",
+      "title": "CVE-2026-28145",
+      "summary": "MasterStudy Completed Orders Without Binding PayPal Payment Data",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-28145-masterstudy-paypal-ipn-payment-bypass.png"
+    },
+    {
+      "slug": "cve-2026-16613-gdpr-cookie-compliance-forced-logout-csrf",
+      "title": "CVE-2026-16613",
+      "summary": "A Cross-Site Request Could Expire WordPress Session Cookies",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-16613-gdpr-cookie-compliance-forced-logout-csrf.png"
+    },
+    {
+      "slug": "cve-2026-16573-bit-form-svg-signature-stored-xss",
+      "title": "CVE-2026-16573",
+      "summary": "Bit Form Stored Active SVG Signature Data Without Sanitization",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-16573-bit-form-svg-signature-stored-xss.png"
+    },
+    {
       "slug": "cve-2026-71494-infracost-terraform-token-host-confusion",
       "title": "CVE-2026-71494",
       "summary": "Untrusted Terraform Hosts Could Receive Terraform Cloud or Registry Tokens",
@@ -129,25 +171,25 @@
       "src": "/social/v2/writing/cve-2026-63007-uyuni-formula-cross-org-broken-access-control.png"
     },
     {
-      "slug": "cve-2026-62671-grav-login-2fa-secret-csrf",
-      "title": "CVE-2026-62671",
+      "slug": "cve-2026-62236-grav-login-2fa-secret-csrf",
+      "title": "CVE-2026-62236",
       "summary": "A Cross-Site GET Could Rotate a Grav TOTP Secret",
       "category": "CVE case study",
-      "src": "/social/v2/writing/cve-2026-62671-grav-login-2fa-secret-csrf.png"
+      "src": "/social/v2/writing/cve-2026-62236-grav-login-2fa-secret-csrf.png"
     },
     {
-      "slug": "cve-2026-62670-grav-flex-objects-fail-open-authorization",
-      "title": "CVE-2026-62670",
+      "slug": "cve-2026-62235-grav-flex-objects-fail-open-authorization",
+      "title": "CVE-2026-62235",
       "summary": "Missing Flex Permissions Failed Open",
       "category": "CVE case study",
-      "src": "/social/v2/writing/cve-2026-62670-grav-flex-objects-fail-open-authorization.png"
+      "src": "/social/v2/writing/cve-2026-62235-grav-flex-objects-fail-open-authorization.png"
     },
     {
-      "slug": "cve-2026-62666-grav-api-super-admin-key-privilege-escalation",
-      "title": "CVE-2026-62666",
+      "slug": "cve-2026-62233-grav-api-super-admin-key-privilege-escalation",
+      "title": "CVE-2026-62233",
       "summary": "A User Manager Could Mint a Super-Admin API Key",
       "category": "CVE case study",
-      "src": "/social/v2/writing/cve-2026-62666-grav-api-super-admin-key-privilege-escalation.png"
+      "src": "/social/v2/writing/cve-2026-62233-grav-api-super-admin-key-privilege-escalation.png"
     },
     {
       "slug": "cve-2026-61826-bazarr-plex-oauth-missing-authentication",

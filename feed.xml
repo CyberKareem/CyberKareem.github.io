@@ -5,8 +5,56 @@
     <link>https://cyberkareem.com/writing/</link>
     <description>Security research, engineering notes, certification reviews, and authorized-lab walkthroughs by Abdullah Kareem.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://cyberkareem.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CVE-2026-16573: Bit Form Stored Active SVG Signature Data Without Sanitization</title>
+      <link>https://cyberkareem.com/writing/cve-2026-16573-bit-form-svg-signature-stored-xss/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-16573-bit-form-svg-signature-stored-xss/</guid>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>Bit Form decoded an unauthenticated signature data URI and wrote SVG bytes directly to a public uploads path. Version 3.2.0 sanitizes SVG signatures before storage.</description>
+    </item>
+    <item>
+      <title>CVE-2026-16613: A Cross-Site Request Could Expire WordPress Session Cookies</title>
+      <link>https://cyberkareem.com/writing/cve-2026-16613-gdpr-cookie-compliance-forced-logout-csrf/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-16613-gdpr-cookie-compliance-forced-logout-csrf/</guid>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>GDPR Cookie Compliance exposed a cookie-clearing branch without a request-origin check and used a case-sensitive WordPress allowlist. Version 5.1.0 requires same-origin POST and protects WordPress cookies case-insensitively.</description>
+    </item>
+    <item>
+      <title>CVE-2026-28145: MasterStudy Completed Orders Without Binding PayPal Payment Data</title>
+      <link>https://cyberkareem.com/writing/cve-2026-28145-masterstudy-paypal-ipn-payment-bypass/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-28145-masterstudy-paypal-ipn-payment-bypass/</guid>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>MasterStudy trusted a VERIFIED PayPal IPN response without checking that the amount, receiver, status, and currency matched the pending LMS order. Version 3.7.40 validates those fields before enrollment.</description>
+    </item>
+    <item>
+      <title>CVE-2026-65523: An Entry ID Exposed Formidable&apos;s Private Signature Invite URL</title>
+      <link>https://cyberkareem.com/writing/cve-2026-65523-formidable-signature-invite-url-idor/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-65523-formidable-signature-invite-url-idor/</guid>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>The Formidable Forms signature add-on resolved a request-supplied entry ID to its private signing URL without authentication or an ownership check. Version 2.0.2 derives the entry from signer session state instead.</description>
+    </item>
+    <item>
+      <title>CVE-2026-66690: Donation Phone Data Reached GiveWP&apos;s Admin View as Stored XSS</title>
+      <link>https://cyberkareem.com/writing/cve-2026-66690-givewp-donation-phone-stored-xss/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-66690-givewp-donation-phone-stored-xss/</guid>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>GiveWP stored a phone value from a public donation flow and rendered it without output encoding in the privileged donation-detail view. Version 4.16.5.1 escapes that value at the HTML sink.</description>
+    </item>
+    <item>
+      <title>CVE-2026-66696: A Caller-Controlled Kadence Library Host Received Stored License Data</title>
+      <link>https://cyberkareem.com/writing/cve-2026-66696-kadence-blocks-license-data-exposure/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-66696-kadence-blocks-license-data-exposure/</guid>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>Kadence Blocks allowed a contributor to choose a library request host while the server attached its stored Kadence license key and email. Version 3.7.8.1 restricts library destinations and scopes credentials to Kadence hosts.</description>
+    </item>
     <item>
       <title>CVE-2026-71493: Intermediate Symlinks Escaped Infracost&apos;s Template Boundary</title>
       <link>https://cyberkareem.com/writing/cve-2026-71493-infracost-config-template-symlink-traversal/</link>
@@ -72,25 +120,25 @@
       <description>Two public formula XML-RPC methods in Uyuni resolved a server group or a set of servers by id and omitted the organization and permission check that every sibling method enforces. Any authenticated user could read and tamper with formula configuration belonging to another organization.</description>
     </item>
     <item>
-      <title>CVE-2026-62666: A User Manager Could Mint a Super-Admin API Key</title>
-      <link>https://cyberkareem.com/writing/cve-2026-62666-grav-api-super-admin-key-privilege-escalation/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-62666-grav-api-super-admin-key-privilege-escalation/</guid>
+      <title>CVE-2026-62233: A User Manager Could Mint a Super-Admin API Key</title>
+      <link>https://cyberkareem.com/writing/cve-2026-62233-grav-api-super-admin-key-privilege-escalation/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-62233-grav-api-super-admin-key-privilege-escalation/</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
       <category>CVE case study</category>
       <description>A delegated user manager could create an API key for a super-admin account. The key inherited the target account&apos;s authority, turning a limited role into full instance control.</description>
     </item>
     <item>
-      <title>CVE-2026-62670: Missing Flex Permissions Failed Open</title>
-      <link>https://cyberkareem.com/writing/cve-2026-62670-grav-flex-objects-fail-open-authorization/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-62670-grav-flex-objects-fail-open-authorization/</guid>
+      <title>CVE-2026-62235: Missing Flex Permissions Failed Open</title>
+      <link>https://cyberkareem.com/writing/cve-2026-62235-grav-flex-objects-fail-open-authorization/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-62235-grav-flex-objects-fail-open-authorization/</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
       <category>CVE case study</category>
       <description>The Grav Flex Objects API treated a missing directory permissions map as permission to proceed. An account with only api.access could operate on a directory it was not authorized to list.</description>
     </item>
     <item>
-      <title>CVE-2026-62671: A Cross-Site GET Could Rotate a Grav TOTP Secret</title>
-      <link>https://cyberkareem.com/writing/cve-2026-62671-grav-login-2fa-secret-csrf/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-62671-grav-login-2fa-secret-csrf/</guid>
+      <title>CVE-2026-62236: A Cross-Site GET Could Rotate a Grav TOTP Secret</title>
+      <link>https://cyberkareem.com/writing/cve-2026-62236-grav-login-2fa-secret-csrf/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-62236-grav-login-2fa-secret-csrf/</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
       <category>CVE case study</category>
       <description>A login task regenerated and saved the active user&apos;s TOTP secret without a CSRF nonce. Under Grav&apos;s default SameSite=Lax setting, an off-site top-level GET could desynchronize a logged-in user&apos;s authenticator.</description>
@@ -198,54 +246,6 @@
       <pubDate>Thu, 11 Jun 2026 13:04:55 GMT</pubDate>
       <category>Hack The Box</category>
       <description>SQL injection recovers a valid login, stored XSS steals the administrator session, command injection creates a web shell, and passwordless npm installation executes package lifecycle code as root.</description>
-    </item>
-    <item>
-      <title>Hack The Box: JobTwo Walkthrough</title>
-      <link>https://cyberkareem.com/writing/hackthebox-jobtwo-walkthrough/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-jobtwo-walkthrough/</guid>
-      <pubDate>Thu, 11 Jun 2026 13:01:54 GMT</pubDate>
-      <category>Hack The Box</category>
-      <description>A macro document sent through the job workflow opens a user shell, hMailServer data yields a WinRM pivot, and unsafe Veeam Mount Service deserialization executes commands as SYSTEM.</description>
-    </item>
-    <item>
-      <title>Hack The Box: Obscurity Walkthrough</title>
-      <link>https://cyberkareem.com/writing/hackthebox-obscurity-walkthrough/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-obscurity-walkthrough/</guid>
-      <pubDate>Thu, 11 Jun 2026 12:28:32 GMT</pubDate>
-      <category>Hack The Box</category>
-      <description>A leaked custom web-server source file exposed Python exec injection for a www-data shell, a known-plaintext attack recovered Robert&apos;s password, and argument injection in his sudoed BetterSSH script selected root as the execution user.</description>
-    </item>
-    <item>
-      <title>Hack The Box: Oouch Walkthrough</title>
-      <link>https://cyberkareem.com/writing/hackthebox-oouch-walkthrough/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-oouch-walkthrough/</guid>
-      <pubDate>Thu, 11 Jun 2026 12:26:26 GMT</pubDate>
-      <category>Hack The Box</category>
-      <description>Two OAuth CSRF flaws hijacked the consumer admin and stole an authorization code for qtc&apos;s SSH key, then a world-writable uWSGI socket pivoted into the consumer container and DBus command injection executed as root.</description>
-    </item>
-    <item>
-      <title>Hack The Box: Overflow Walkthrough</title>
-      <link>https://cyberkareem.com/writing/hackthebox-overflow-walkthrough/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-overflow-walkthrough/</guid>
-      <pubDate>Thu, 11 Jun 2026 12:21:01 GMT</pubDate>
-      <category>Hack The Box</category>
-      <description>A padding oracle forged an admin cookie, log-view SQL injection led to CMS credentials and an ExifTool upload shell, then reused config credentials and a poisoned cron download reached tester, whose setuid file-encryption bug and TOCTOU race exposed root data.</description>
-    </item>
-    <item>
-      <title>Hack The Box: Retired Walkthrough</title>
-      <link>https://cyberkareem.com/writing/hackthebox-retired-walkthrough/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-retired-walkthrough/</guid>
-      <pubDate>Thu, 11 Jun 2026 11:46:58 GMT</pubDate>
-      <category>Hack The Box</category>
-      <description>Execute-after-redirect file reads leaked the license service binary and live memory map for a ROP foothold, a backup symlink exposed dev&apos;s SSH key, and a capable helper registered a binfmt_misc rule that inherited root from a setuid binary.</description>
-    </item>
-    <item>
-      <title>Hack The Box: Scanned Walkthrough</title>
-      <link>https://cyberkareem.com/writing/hackthebox-scanned-walkthrough/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-scanned-walkthrough/</guid>
-      <pubDate>Thu, 11 Jun 2026 11:41:28 GMT</pubDate>
-      <category>Hack The Box</category>
-      <description>Two sandbox flaws exposed a host directory through another process&apos;s open file descriptor, letting forged syscall logs leak Django credentials for Clarence, then a jail race loaded a malicious PAM library through setuid su and created a root shell.</description>
     </item>
   </channel>
 </rss>
