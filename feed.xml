@@ -5,8 +5,24 @@
     <link>https://cyberkareem.com/writing/</link>
     <description>Security research, engineering notes, certification reviews, and authorized-lab walkthroughs by Abdullah Kareem.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://cyberkareem.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CVE-2026-71493: Intermediate Symlinks Escaped Infracost&apos;s Template Boundary</title>
+      <link>https://cyberkareem.com/writing/cve-2026-71493-infracost-config-template-symlink-traversal/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-71493-infracost-config-template-symlink-traversal/</guid>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>Four Infracost template helpers relied on lexical path confinement and leaf-only symlink inspection. The readFile helper could follow a committed intermediate symlink and read outside the checkout. Version 0.10.45 resolves the complete path before allowing access.</description>
+    </item>
+    <item>
+      <title>CVE-2026-71494: Untrusted Terraform Hosts Could Receive Terraform Cloud or Registry Tokens</title>
+      <link>https://cyberkareem.com/writing/cve-2026-71494-infracost-terraform-token-host-confusion/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-71494-infracost-terraform-token-host-confusion/</guid>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>Infracost attached Terraform Cloud, Enterprise, or registry tokens to requests whose destination host could come from scanned Terraform. Version 0.10.45 scopes credentials to trusted hosts.</description>
+    </item>
     <item>
       <title>CVE-2026-59551: rtMedia Validated the ORDER BY Prefix but Executed the Full Value</title>
       <link>https://cyberkareem.com/writing/cve-2026-59551-rtmedia-order-by-allowlist-bypass/</link>
@@ -230,22 +246,6 @@
       <pubDate>Thu, 11 Jun 2026 11:41:28 GMT</pubDate>
       <category>Hack The Box</category>
       <description>Two sandbox flaws exposed a host directory through another process&apos;s open file descriptor, letting forged syscall logs leak Django credentials for Clarence, then a jail race loaded a malicious PAM library through setuid su and created a root shell.</description>
-    </item>
-    <item>
-      <title>Hack The Box: Talkative Walkthrough</title>
-      <link>https://cyberkareem.com/writing/hackthebox-talkative-walkthrough/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-talkative-walkthrough/</guid>
-      <pubDate>Thu, 11 Jun 2026 11:10:29 GMT</pubDate>
-      <category>Hack The Box</category>
-      <description>Unauthenticated Jamovi R execution exposed Bolt credentials, Bolt code execution and password reuse reached Saul on the host, then an unauthenticated MongoDB takeover enabled a Rocket.Chat webhook shell whose dangerous capability read the host&apos;s root flag.</description>
-    </item>
-    <item>
-      <title>Hack The Box: Vessel Walkthrough</title>
-      <link>https://cyberkareem.com/writing/hackthebox-vessel-walkthrough/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-vessel-walkthrough/</guid>
-      <pubDate>Tue, 09 Jun 2026 11:01:30 GMT</pubDate>
-      <category>Hack The Box</category>
-      <description>An exposed Git repository led to a mysqljs type-confusion login bypass, an Open Web Analytics reset-token leak and log poisoning gave a shell, and a predictable password generator unlocked Ethan before the setuid pinns core-pattern flaw created a root shell.</description>
     </item>
   </channel>
 </rss>

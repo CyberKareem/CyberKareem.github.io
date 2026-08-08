@@ -80,6 +80,20 @@
   ],
   "writing": [
     {
+      "slug": "cve-2026-71494-infracost-terraform-token-host-confusion",
+      "title": "CVE-2026-71494",
+      "summary": "Untrusted Terraform Hosts Could Receive Terraform Cloud or Registry Tokens",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-71494-infracost-terraform-token-host-confusion.png"
+    },
+    {
+      "slug": "cve-2026-71493-infracost-config-template-symlink-traversal",
+      "title": "CVE-2026-71493",
+      "summary": "Intermediate Symlinks Escaped Infracost's Template Boundary",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-71493-infracost-config-template-symlink-traversal.png"
+    },
+    {
       "slug": "cve-2026-67529-openproject-work-package-subject-disclosure",
       "title": "CVE-2026-67529",
       "summary": "OpenProject Entry APIs Exposed Hidden Work Package Subjects",
