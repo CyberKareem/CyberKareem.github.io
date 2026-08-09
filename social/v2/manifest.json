@@ -54,7 +54,7 @@
     {
       "name": "sample-report",
       "title": "Synthetic Pentest Report",
-      "route": "cyberkareem.com/resources",
+      "route": "cyberkareem.com/resources/synthetic-web-application-pentest-report",
       "src": "/social/v2/pages/sample-report.png"
     }
   ],
