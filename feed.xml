@@ -5,8 +5,16 @@
     <link>https://cyberkareem.com/writing/</link>
     <description>Security research, engineering notes, certification reviews, and authorized-lab walkthroughs by Abdullah Kareem.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://cyberkareem.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CVE-2026-73556: An Unguarded Regex Compile Let One Request Stall vLLM&apos;s Engine</title>
+      <link>https://cyberkareem.com/writing/cve-2026-73556-vllm-lm-format-enforcer-redos/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-73556-vllm-lm-format-enforcer-redos/</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>vLLM&apos;s lm-format-enforcer structured-output backend compiled an attacker-supplied regex with no timeout, so one catastrophic pattern pegged a CPU core and stalled the engine worker. Version 0.26.0 routes the compile through the same timeout guard the sibling backends already used.</description>
+    </item>
     <item>
       <title>CVE-2026-16573: Bit Form Stored Active SVG Signature Data Without Sanitization</title>
       <link>https://cyberkareem.com/writing/cve-2026-16573-bit-form-svg-signature-stored-xss/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 11 Jun 2026 13:11:14 GMT</pubDate>
       <category>Hack The Box</category>
       <description>JavaScript deobfuscation reveals a hidden panel whose PHP log inclusion enables file access, exposed credentials and an ASPX tunnel reach internal WinRM, and PrintSpoofer turns SeImpersonatePrivilege into SYSTEM.</description>
-    </item>
-    <item>
-      <title>Hack The Box: Holiday Walkthrough</title>
-      <link>https://cyberkareem.com/writing/hackthebox-holiday-walkthrough/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-holiday-walkthrough/</guid>
-      <pubDate>Thu, 11 Jun 2026 13:04:55 GMT</pubDate>
-      <category>Hack The Box</category>
-      <description>SQL injection recovers a valid login, stored XSS steals the administrator session, command injection creates a web shell, and passwordless npm installation executes package lifecycle code as root.</description>
     </item>
   </channel>
 </rss>

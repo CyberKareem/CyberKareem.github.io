@@ -61,6 +61,12 @@
 <priority>0.8</priority>
 </url>
 <url>
+<loc>https://cyberkareem.com/writing/cve-2026-73556-vllm-lm-format-enforcer-redos/</loc>
+<lastmod>2026-08-15</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://cyberkareem.com/writing/cve-2026-16573-bit-form-svg-signature-stored-xss/</loc>
 <lastmod>2026-08-09</lastmod>
 <changefreq>monthly</changefreq>

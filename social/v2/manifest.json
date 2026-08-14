@@ -80,6 +80,13 @@
   ],
   "writing": [
     {
+      "slug": "cve-2026-73556-vllm-lm-format-enforcer-redos",
+      "title": "CVE-2026-73556",
+      "summary": "An Unguarded Regex Compile Let One Request Stall vLLM's Engine",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-73556-vllm-lm-format-enforcer-redos.png"
+    },
+    {
       "slug": "cve-2026-66696-kadence-blocks-license-data-exposure",
       "title": "CVE-2026-66696",
       "summary": "A Caller-Controlled Kadence Library Host Received Stored License Data",
