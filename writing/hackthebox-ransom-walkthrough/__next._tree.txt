@@ -1,6 +1,6 @@
-:HL["/_next/static/css/7b99f719b2685245.css","style"]
+:HL["/_next/static/css/67e9803357462fcf.css","style"]
 :HL["/_next/static/css/53e17a7fe5674be8.css","style"]
 :HL["/fonts/space-grotesk-critical.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/fonts/inter-critical.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/writing/covers/hackthebox-ransom-walkthrough.webp","image",{"fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"writing","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"hackthebox-ransom-walkthrough","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"qi_6Z1kaX6u8SfhMg5Cac"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"writing","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"hackthebox-ransom-walkthrough","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"Kw4n8ek19w5R2L5tFzvlC"}
