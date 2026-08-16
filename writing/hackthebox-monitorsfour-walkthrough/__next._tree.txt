@@ -1,6 +1,6 @@
-:HL["/_next/static/css/ca45df24e12f52dc.css","style"]
+:HL["/_next/static/css/25091eabddf7bf6d.css","style"]
 :HL["/_next/static/css/e41a53810bf6bdce.css","style"]
 :HL["/fonts/space-grotesk-critical.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/fonts/inter-critical.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/writing/covers/hackthebox-monitorsfour-walkthrough.webp","image",{"fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"writing","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"hackthebox-monitorsfour-walkthrough","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"UW5PZdu3d3dQ2-5pycRIs"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"writing","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"hackthebox-monitorsfour-walkthrough","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"q1nmXddFmJVKcxhsNWvZk"}
