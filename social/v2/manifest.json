@@ -255,6 +255,55 @@
       "src": "/social/v2/writing/cve-2026-61448-parse-server-content-type-stored-xss.png"
     },
     {
+      "slug": "cve-2026-73347-truebooker-privilege-escalation",
+      "title": "CVE-2026-73347",
+      "summary": "Unauthenticated Privilege Escalation in the TrueBooker Booking Plugin",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-73347-truebooker-privilege-escalation.png"
+    },
+    {
+      "slug": "cve-2026-18776-truebooker-account-takeover",
+      "title": "CVE-2026-18776",
+      "summary": "Unauthenticated Account Takeover in TrueBooker via AJAX Actions",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-18776-truebooker-account-takeover.png"
+    },
+    {
+      "slug": "cve-2026-76793-firebase-authentication-account-takeover",
+      "title": "CVE-2026-76793",
+      "summary": "Unauthenticated Account Takeover in Firebase Authentication",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-76793-firebase-authentication-account-takeover.png"
+    },
+    {
+      "slug": "cve-2026-75798-ai-engine-unauthenticated-ai-query",
+      "title": "CVE-2026-75798",
+      "summary": "Unauthenticated AI Query Execution in AI Engine",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-75798-ai-engine-unauthenticated-ai-query.png"
+    },
+    {
+      "slug": "cve-2026-28185-login-with-google-broken-authentication",
+      "title": "CVE-2026-28185",
+      "summary": "Broken Authentication in the Log in with Google Plugin",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-28185-login-with-google-broken-authentication.png"
+    },
+    {
+      "slug": "cve-2026-28002-booktics-sql-injection",
+      "title": "CVE-2026-28002",
+      "summary": "Subscriber SQL Injection in the Booktics Plugin",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-28002-booktics-sql-injection.png"
+    },
+    {
+      "slug": "cve-2026-66591-media-library-assistant-xss",
+      "title": "CVE-2026-66591",
+      "summary": "Contributor Cross-Site Scripting in Media Library Assistant",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-66591-media-library-assistant-xss.png"
+    },
+    {
       "slug": "hackthebox-crossfit-walkthrough",
       "title": "CrossFit",
       "summary": "Hack The Box Walkthrough / Retired Lab",

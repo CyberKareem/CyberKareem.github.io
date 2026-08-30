@@ -5,8 +5,64 @@
     <link>https://cyberkareem.com/writing/</link>
     <description>Security research, engineering notes, certification reviews, and authorized-lab walkthroughs by Abdullah Kareem.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://cyberkareem.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CVE-2026-18776: Unauthenticated Account Takeover in TrueBooker via AJAX Actions</title>
+      <link>https://cyberkareem.com/writing/cve-2026-18776-truebooker-account-takeover/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-18776-truebooker-account-takeover/</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>TrueBooker Appointment Booking before 1.2.7 missed authorization checks in several AJAX actions, letting an unauthenticated user change any account&apos;s email and take it over through the password-reset flow. Version 1.2.7 adds the checks.</description>
+    </item>
+    <item>
+      <title>CVE-2026-28002: Subscriber SQL Injection in the Booktics Plugin</title>
+      <link>https://cyberkareem.com/writing/cve-2026-28002-booktics-sql-injection/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-28002-booktics-sql-injection/</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>A subscriber-level SQL injection flaw in the Booktics plugin 1.0.22 let a low-privileged account send crafted input into a database query. Version 1.0.23 parameterizes the affected query.</description>
+    </item>
+    <item>
+      <title>CVE-2026-28185: Broken Authentication in the Log in with Google Plugin</title>
+      <link>https://cyberkareem.com/writing/cve-2026-28185-login-with-google-broken-authentication/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-28185-login-with-google-broken-authentication/</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>A broken-authentication flaw in the Log in with Google plugin through 1.4.2 could let an unauthenticated request reach an authenticated outcome and gain admin access. Version 1.4.3 closes the gap.</description>
+    </item>
+    <item>
+      <title>CVE-2026-66591: Contributor Cross-Site Scripting in Media Library Assistant</title>
+      <link>https://cyberkareem.com/writing/cve-2026-66591-media-library-assistant-xss/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-66591-media-library-assistant-xss/</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>A contributor-level cross-site scripting flaw in the Media Library Assistant plugin through 3.39 let saved input execute in a privileged browser context. Version 3.40 encodes the affected output.</description>
+    </item>
+    <item>
+      <title>CVE-2026-73347: Unauthenticated Privilege Escalation in the TrueBooker Booking Plugin</title>
+      <link>https://cyberkareem.com/writing/cve-2026-73347-truebooker-privilege-escalation/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-73347-truebooker-privilege-escalation/</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>The TrueBooker appointment-booking plugin through 1.2.6 assigned privileges incorrectly, letting an unauthenticated request gain higher access. Version 1.2.7 corrects the privilege assignment.</description>
+    </item>
+    <item>
+      <title>CVE-2026-75798: Unauthenticated AI Query Execution in AI Engine</title>
+      <link>https://cyberkareem.com/writing/cve-2026-75798-ai-engine-unauthenticated-ai-query/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-75798-ai-engine-unauthenticated-ai-query/</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>AI Engine 3.4.0 through 3.7.1 gated an administration-only assistant with a token handed to anonymous visitors, letting unauthenticated callers run AI queries against the site owner&apos;s provider account. Version 3.7.2 adds the authorization check.</description>
+    </item>
+    <item>
+      <title>CVE-2026-76793: Unauthenticated Account Takeover in Firebase Authentication</title>
+      <link>https://cyberkareem.com/writing/cve-2026-76793-firebase-authentication-account-takeover/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-76793-firebase-authentication-account-takeover/</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>The Firebase Authentication plugin before 1.7.1 matched an authentication token&apos;s email to a WordPress account without verifying the email, letting unauthenticated attackers sign in as any user. Version 1.7.1 requires a verified email.</description>
+    </item>
     <item>
       <title>CVE-2026-73556: An Unguarded Regex Compile Let One Request Stall vLLM&apos;s Engine</title>
       <link>https://cyberkareem.com/writing/cve-2026-73556-vllm-lm-format-enforcer-redos/</link>
@@ -190,62 +246,6 @@
       <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
       <category>CVE case study</category>
       <description>Several read, update, and delete routes either lacked authentication or stopped at identity checks before globally keyed lookups.</description>
-    </item>
-    <item>
-      <title>CVE-2026-61448: Malformed Content-Type Led to Stored XSS in Parse Server</title>
-      <link>https://cyberkareem.com/writing/cve-2026-61448-parse-server-content-type-stored-xss/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-61448-parse-server-content-type-stored-xss/</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-      <category>CVE case study</category>
-      <description>Parse Server accepted malformed media types for unknown extensions, letting some storage adapters serve uploads that browsers could sniff as HTML.</description>
-    </item>
-    <item>
-      <title>CVE-2026-61706: Pull Request Title Injection in Infracost Actions</title>
-      <link>https://cyberkareem.com/writing/cve-2026-61706-infracost-pr-title-script-injection/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-61706-infracost-pr-title-script-injection/</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-      <category>CVE case study</category>
-      <description>A pull request title was inserted directly into a Bash run block, allowing GitHub Actions expression expansion to turn untrusted text into runner commands.</description>
-    </item>
-    <item>
-      <title>CVE-2026-61826: Bazarr&apos;s Plex OAuth API Lacked Authentication</title>
-      <link>https://cyberkareem.com/writing/cve-2026-61826-bazarr-plex-oauth-missing-authentication/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-61826-bazarr-plex-oauth-missing-authentication/</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-      <category>CVE case study</category>
-      <description>Seventeen Plex API methods lacked Bazarr&apos;s normal API-key gate, exposing persistent configuration changes and, on configured instances, token-bearing server requests.</description>
-    </item>
-    <item>
-      <title>Building seg-test: A PCI DSS Segmentation Evidence Runner</title>
-      <link>https://cyberkareem.com/writing/building-a-pci-dss-segmentation-test-runner/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/building-a-pci-dss-segmentation-test-runner/</guid>
-      <pubDate>Sun, 12 Jul 2026 00:00:00 GMT</pubDate>
-      <category>Security engineering</category>
-      <description>seg-test runs approved checks from defined source VLANs, preserves raw Nmap output, and packages evidence without making compliance decisions.</description>
-    </item>
-    <item>
-      <title>Hack The Box: Sizzle Walkthrough</title>
-      <link>https://cyberkareem.com/writing/hackthebox-sizzle-walkthrough/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-sizzle-walkthrough/</guid>
-      <pubDate>Thu, 11 Jun 2026 16:09:45 GMT</pubDate>
-      <category>Hack The Box</category>
-      <description>A writable SMB share enables SCF-based NTLM capture and certificate-authenticated WinRM access, after which a recovered privileged hash leads to DCSync and Administrator access.</description>
-    </item>
-    <item>
-      <title>Hack The Box: Falafel Walkthrough</title>
-      <link>https://cyberkareem.com/writing/hackthebox-falafel-walkthrough/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-falafel-walkthrough/</guid>
-      <pubDate>Thu, 11 Jun 2026 15:16:55 GMT</pubDate>
-      <category>Hack The Box</category>
-      <description>PHP type juggling bypasses the admin login and filename truncation turns an upload into a web shell, followed by reused credentials, framebuffer capture and disk-group access to the root SSH key.</description>
-    </item>
-    <item>
-      <title>Hack The Box: Hackback Walkthrough</title>
-      <link>https://cyberkareem.com/writing/hackthebox-hackback-walkthrough/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/hackthebox-hackback-walkthrough/</guid>
-      <pubDate>Thu, 11 Jun 2026 13:11:14 GMT</pubDate>
-      <category>Hack The Box</category>
-      <description>JavaScript deobfuscation reveals a hidden panel whose PHP log inclusion enables file access, exposed credentials and an ASPX tunnel reach internal WinRM, and PrintSpoofer turns SeImpersonatePrivilege into SYSTEM.</description>
     </item>
   </channel>
 </rss>
