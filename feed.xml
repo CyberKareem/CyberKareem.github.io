@@ -5,8 +5,16 @@
     <link>https://cyberkareem.com/writing/</link>
     <description>Security research, engineering notes, certification reviews, and authorized-lab walkthroughs by Abdullah Kareem.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://cyberkareem.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CVE-2026-70649: Stored XSS in Chamilo LMS Social-Group Discussions via Unsanitized v-html</title>
+      <link>https://cyberkareem.com/writing/cve-2026-70649-chamilo-social-group-discussion-stored-xss/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-70649-chamilo-social-group-discussion-stored-xss/</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>Chamilo LMS 2.0.0 through 2.0.2 rendered social-group discussion messages with Vue&apos;s v-html and no sanitization, so a low-privileged group member could store JavaScript that ran when another member, teacher, or administrator opened the thread. Version 2.0.3 sanitizes the content on write and on render.</description>
+    </item>
     <item>
       <title>CVE-2026-18776: Unauthenticated Account Takeover in TrueBooker via AJAX Actions</title>
       <link>https://cyberkareem.com/writing/cve-2026-18776-truebooker-account-takeover/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
       <category>CVE case study</category>
       <description>Jackson enforced @JsonView for creator properties but skipped the check when @JsonUnwrapped replayed field- and setter-backed properties.</description>
-    </item>
-    <item>
-      <title>CVE-2026-59979: Missing Tenant Checks in Yosemite-Crew Routes</title>
-      <link>https://cyberkareem.com/writing/cve-2026-59979-yosemite-crew-tenant-authorization/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-59979-yosemite-crew-tenant-authorization/</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-      <category>CVE case study</category>
-      <description>Several read, update, and delete routes either lacked authentication or stopped at identity checks before globally keyed lookups.</description>
     </item>
   </channel>
 </rss>

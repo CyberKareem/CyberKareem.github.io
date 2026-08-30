@@ -304,6 +304,13 @@
       "src": "/social/v2/writing/cve-2026-66591-media-library-assistant-xss.png"
     },
     {
+      "slug": "cve-2026-70649-chamilo-social-group-discussion-stored-xss",
+      "title": "CVE-2026-70649",
+      "summary": "Stored XSS in Chamilo LMS Social-Group Discussions via Unsanitized v-html",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-70649-chamilo-social-group-discussion-stored-xss.png"
+    },
+    {
       "slug": "hackthebox-crossfit-walkthrough",
       "title": "CrossFit",
       "summary": "Hack The Box Walkthrough / Retired Lab",
