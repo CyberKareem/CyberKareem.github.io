@@ -5,8 +5,16 @@
     <link>https://cyberkareem.com/writing/</link>
     <description>Security research, engineering notes, certification reviews, and authorized-lab walkthroughs by Abdullah Kareem.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://cyberkareem.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CVE-2026-77522: Authenticated Full-Read SSRF in the MaxKB Web-Document Import Crawler</title>
+      <link>https://cyberkareem.com/writing/cve-2026-77522-maxkb-web-crawler-ssrf/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-77522-maxkb-web-crawler-ssrf/</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>MaxKB through 2.10.3-lts let any authenticated workspace user add a web knowledge document by URL, and the server-side import crawler fetched that URL with no scheme allow-list and no block on loopback, link-local, or private addresses, then returned the response body to the caller. A low-privileged user could make the server read internal services and cloud instance-metadata credentials, a full-read, non-blind SSRF.</description>
+    </item>
     <item>
       <title>CVE-2026-70649: Stored XSS in Chamilo LMS Social-Group Discussions via Unsanitized v-html</title>
       <link>https://cyberkareem.com/writing/cve-2026-70649-chamilo-social-group-discussion-stored-xss/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
       <category>CVE case study</category>
       <description>The backend accepted a GitHub App installation ID without verifying that the authorizing GitHub user could access that installation.</description>
-    </item>
-    <item>
-      <title>CVE-2026-59889: @JsonUnwrapped Replay Skipped an @JsonView Check</title>
-      <link>https://cyberkareem.com/writing/cve-2026-59889-jackson-jsonview-jsonunwrapped-bypass/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-59889-jackson-jsonview-jsonunwrapped-bypass/</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-      <category>CVE case study</category>
-      <description>Jackson enforced @JsonView for creator properties but skipped the check when @JsonUnwrapped replayed field- and setter-backed properties.</description>
     </item>
   </channel>
 </rss>

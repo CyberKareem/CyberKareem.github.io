@@ -311,6 +311,13 @@
       "src": "/social/v2/writing/cve-2026-70649-chamilo-social-group-discussion-stored-xss.png"
     },
     {
+      "slug": "cve-2026-77522-maxkb-web-crawler-ssrf",
+      "title": "CVE-2026-77522",
+      "summary": "Authenticated Full-Read SSRF in the MaxKB Web-Document Import Crawler",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-77522-maxkb-web-crawler-ssrf.png"
+    },
+    {
       "slug": "hackthebox-crossfit-walkthrough",
       "title": "CrossFit",
       "summary": "Hack The Box Walkthrough / Retired Lab",
