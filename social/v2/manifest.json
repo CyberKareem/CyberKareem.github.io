@@ -318,6 +318,27 @@
       "src": "/social/v2/writing/cve-2026-77522-maxkb-web-crawler-ssrf.png"
     },
     {
+      "slug": "cve-2026-82182-wpvivid-upload-cleaner-sqli",
+      "title": "CVE-2026-82182",
+      "summary": "Admin+ SQL Injection in WPvivid Backup via the Upload Cleaner",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-82182-wpvivid-upload-cleaner-sqli.png"
+    },
+    {
+      "slug": "cve-2026-81195-masterstudy-student-courses-enrollment-disclosure",
+      "title": "CVE-2026-81195",
+      "summary": "Unauthenticated Student-Enrollment Disclosure in MasterStudy LMS",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-81195-masterstudy-student-courses-enrollment-disclosure.png"
+    },
+    {
+      "slug": "cve-2026-81194-masterstudy-order-data-idor",
+      "title": "CVE-2026-81194",
+      "summary": "Subscriber+ Cross-Instructor Order-Data IDOR in MasterStudy LMS",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-81194-masterstudy-order-data-idor.png"
+    },
+    {
       "slug": "hackthebox-crossfit-walkthrough",
       "title": "CrossFit",
       "summary": "Hack The Box Walkthrough / Retired Lab",

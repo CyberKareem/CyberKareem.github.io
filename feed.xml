@@ -16,6 +16,30 @@
       <description>MaxKB through 2.10.3-lts let any authenticated workspace user add a web knowledge document by URL, and the server-side import crawler fetched that URL with no scheme allow-list and no block on loopback, link-local, or private addresses, then returned the response body to the caller. A low-privileged user could make the server read internal services and cloud instance-metadata credentials, a full-read, non-blind SSRF.</description>
     </item>
     <item>
+      <title>CVE-2026-81194: Subscriber+ Cross-Instructor Order-Data IDOR in MasterStudy LMS</title>
+      <link>https://cyberkareem.com/writing/cve-2026-81194-masterstudy-order-data-idor/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-81194-masterstudy-order-data-idor/</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>MasterStudy LMS before 3.7.46 did not properly verify authorization when retrieving order line-item data, so any authenticated user including a Subscriber could read another instructor&apos;s course sales records by supplying that user&apos;s identifier in the author_id parameter. Version 3.7.46 enforces the check.</description>
+    </item>
+    <item>
+      <title>CVE-2026-81195: Unauthenticated Student-Enrollment Disclosure in MasterStudy LMS</title>
+      <link>https://cyberkareem.com/writing/cve-2026-81195-masterstudy-student-courses-enrollment-disclosure/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-81195-masterstudy-student-courses-enrollment-disclosure/</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>MasterStudy LMS before 3.7.46 exposed a student-courses REST route that returned per-student enrollment and progress data with no authorization check, letting an unauthenticated attacker disclose the enrolled courses and learning progress of any registered user. Version 3.7.46 adds the authorization check.</description>
+    </item>
+    <item>
+      <title>CVE-2026-82182: Admin+ SQL Injection in WPvivid Backup via the Upload Cleaner</title>
+      <link>https://cyberkareem.com/writing/cve-2026-82182-wpvivid-upload-cleaner-sqli/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-82182-wpvivid-upload-cleaner-sqli/</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>The WPvivid Backup &amp; Migration WordPress plugin before 0.9.133 did not sanitize a user-supplied list of identifiers before using it in a SQL query, so an administrator could inject SQL through the upload-cleaner path. Version 0.9.133 sanitizes the identifier list.</description>
+    </item>
+    <item>
       <title>CVE-2026-70649: Stored XSS in Chamilo LMS Social-Group Discussions via Unsanitized v-html</title>
       <link>https://cyberkareem.com/writing/cve-2026-70649-chamilo-social-group-discussion-stored-xss/</link>
       <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-70649-chamilo-social-group-discussion-stored-xss/</guid>
@@ -222,30 +246,6 @@
       <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
       <category>CVE case study</category>
       <description>A login task regenerated and saved the active user&apos;s TOTP secret without a CSRF nonce. Under Grav&apos;s default SameSite=Lax setting, an off-site top-level GET could desynchronize a logged-in user&apos;s authenticator.</description>
-    </item>
-    <item>
-      <title>CVE-2026-55675: Fork PR Code Ran in a Privileged GitHub Actions Job</title>
-      <link>https://cyberkareem.com/writing/cve-2026-55675-saltyorg-docs-privileged-workflow-chain/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-55675-saltyorg-docs-privileged-workflow-chain/</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-      <category>CVE case study</category>
-      <description>Untrusted pull-request code reached a CI job holding deployment secrets. Separating build from deploy removed that path.</description>
-    </item>
-    <item>
-      <title>CVE-2026-55890: Grav&apos;s style() Method Bypassed the Earlier Fix</title>
-      <link>https://cyberkareem.com/writing/cve-2026-55890-grav-markdown-style-injection/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-55890-grav-markdown-style-injection/</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-      <category>CVE case study</category>
-      <description>Grav blocked style through attribute(), but the sibling style() action still accepted editor-controlled CSS.</description>
-    </item>
-    <item>
-      <title>CVE-2026-59185: Missing Installation Ownership Check Allowed Cross-Tenant Access</title>
-      <link>https://cyberkareem.com/writing/cve-2026-59185-identrail-installation-id-ownership/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-59185-identrail-installation-id-ownership/</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-      <category>CVE case study</category>
-      <description>The backend accepted a GitHub App installation ID without verifying that the authorizing GitHub user could access that installation.</description>
     </item>
   </channel>
 </rss>
