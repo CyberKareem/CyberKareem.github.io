@@ -8,6 +8,70 @@
     <lastBuildDate>Fri, 04 Sep 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://cyberkareem.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>CVE-2026-78865: Missing Authorization in django-crm User Transfer Grants Superoperator Rights</title>
+      <link>https://cyberkareem.com/writing/cve-2026-78865-django-crm-user-transfer-privilege-escalation/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-78865-django-crm-user-transfer-privilege-escalation/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>The user-transfer view in django-crm is gated only by login_required, so any authenticated low-privilege CRM operator can add their own account to a privileged role group and gain application-admin authority across departments. No fixed version was available at disclosure; the maintainer closed the private report without remediation.</description>
+    </item>
+    <item>
+      <title>CVE-2026-78866: Insecure Direct Object Reference in django-crm Original Email Views Exposes Other Departments&apos; Mail</title>
+      <link>https://cyberkareem.com/writing/cve-2026-78866-django-crm-original-email-idor/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-78866-django-crm-original-email-idor/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>django-crm resolves emails in its view-original-email and download-original-email views by a client-supplied integer id with no owner or department check, so any authenticated low-privilege staff user can enumerate ids and read other departments&apos; confidential email bodies, headers, and attachments. No fixed version was available at disclosure; the maintainer closed the private report without remediation.</description>
+    </item>
+    <item>
+      <title>CVE-2026-78867: Stored Cross-Site Scripting in django-crm Chat Messages</title>
+      <link>https://cyberkareem.com/writing/cve-2026-78867-django-crm-stored-chat-xss/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-78867-django-crm-stored-chat-xss/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>django-crm through commit 508e4dfe stores chat message content without sanitization, so an authenticated low-privilege CRM operator can send a message containing JavaScript that runs in the recipient&apos;s Django admin session when they open the chat. No fixed version was available at disclosure; the maintainer closed the private report without remediation.</description>
+    </item>
+    <item>
+      <title>CVE-2026-78868: Unauthenticated Stored XSS in django-crm IMAP Email Subject Headers</title>
+      <link>https://cyberkareem.com/writing/cve-2026-78868-django-crm-imap-subject-stored-xss/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-78868-django-crm-imap-subject-stored-xss/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>A remote, unauthenticated attacker can send an email whose Subject header carries HTML that django-crm imports over IMAP, stores with mark_safe, and later renders unescaped in the Django-admin message list, running attacker JavaScript in a staff or superuser session. No fixed version was available at disclosure; the maintainer closed the private report without remediation.</description>
+    </item>
+    <item>
+      <title>CVE-2026-78869: Incorrect Access Control in Shinobi Lets a Group Admin Cross Into Another Group</title>
+      <link>https://cyberkareem.com/writing/cve-2026-78869-shinobi-cctv-cross-group-authorization-bypass/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-78869-shinobi-cctv-cross-group-authorization-bypass/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>Shinobi 2.0.0 and earlier fails to bind a session to its own group, so any authenticated group admin can present a valid session token together with another group&apos;s group key in the URL path and act inside that second group. No fixed version was available at disclosure; the issue was reported to the maintainer through a confidential GitLab issue and remains unpatched.</description>
+    </item>
+    <item>
+      <title>CVE-2026-78871: Missing Authorization on the Shinobi PTZ Camera-Control Route</title>
+      <link>https://cyberkareem.com/writing/cve-2026-78871-shinobi-ptz-missing-authorization/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-78871-shinobi-ptz-missing-authorization/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>Shinobi 2.0.0 and earlier is missing an authorization check on its PTZ camera-control route, so any authenticated user, including a restricted sub-account or an API key marked control_monitors_disallowed, can pan, tilt, or zoom any camera in their group. No fixed version was available at disclosure.</description>
+    </item>
+    <item>
+      <title>CVE-2026-78878: Default Superuser Credential in Shinobi Enables Remote Code Execution</title>
+      <link>https://cyberkareem.com/writing/cve-2026-78878-shinobi-default-superuser-credential-rce/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-78878-shinobi-default-superuser-credential-rce/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>Shinobi ships a working default Superuser credential in super.sample.json that the installers copy to the live super.json without forcing a change, so a remote attacker who logs in to the default-enabled /super panel with the publicly known credential can download and install an attacker-controlled module and gain remote code execution. The vendor confirmed the issue and fixed it in commit 010e6285.</description>
+    </item>
+    <item>
+      <title>CVE-2026-78879: Authenticated SSRF in Shinobi FFprobe Endpoint</title>
+      <link>https://cyberkareem.com/writing/cve-2026-78879-shinobi-ffprobe-endpoint-ssrf/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-78879-shinobi-ffprobe-endpoint-ssrf/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>An authenticated server-side request forgery in Shinobi&apos;s FFprobe endpoint lets any user holding a non-restricted API key session make the server fetch attacker-chosen URLs, exposing internal hosts and cloud metadata. The vendor confirmed the issue and fixed it in commit 8b9c372f.</description>
+    </item>
+    <item>
       <title>CVE-2026-85271: Stored CSS Injection in Open edX Email Digests via an Unsanitized Thread Title</title>
       <link>https://cyberkareem.com/writing/cve-2026-85271-openedx-email-digest-css-injection/</link>
       <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-85271-openedx-email-digest-css-injection/</guid>
@@ -182,70 +246,6 @@
       <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
       <category>CVE case study</category>
       <description>Infracost attached Terraform Cloud, Enterprise, or registry tokens to requests whose destination host could come from scanned Terraform. Version 0.10.45 scopes credentials to trusted hosts.</description>
-    </item>
-    <item>
-      <title>CVE-2026-59551: rtMedia Validated the ORDER BY Prefix but Executed the Full Value</title>
-      <link>https://cyberkareem.com/writing/cve-2026-59551-rtmedia-order-by-allowlist-bypass/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-59551-rtmedia-order-by-allowlist-bypass/</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
-      <category>CVE case study</category>
-      <description>rtMedia checked only the leading sort column and direction, then interpolated the complete order_by value into SQL. A subscriber could append an expression and create a blind SQL oracle. Version 4.7.11 rebuilds the clause exclusively from validated tokens.</description>
-    </item>
-    <item>
-      <title>CVE-2026-65475: A Reverted Link Fix Reopened Stored XSS in Modula</title>
-      <link>https://cyberkareem.com/writing/cve-2026-65475-modula-stored-xss-regression/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-65475-modula-stored-xss-regression/</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
-      <category>CVE case study</category>
-      <description>Modula Image Gallery 2.14.25 through 2.14.30 appended a contributor-controlled tab value to an admin edit link without context-safe encoding, reopening a stored XSS path that 2.14.24 had closed.</description>
-    </item>
-    <item>
-      <title>CVE-2026-67529: OpenProject Entry APIs Exposed Hidden Work Package Subjects</title>
-      <link>https://cyberkareem.com/writing/cve-2026-67529-openproject-work-package-subject-disclosure/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-67529-openproject-work-package-subject-disclosure/</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
-      <category>CVE case study</category>
-      <description>OpenProject&apos;s global Time Entries and Cost Entries APIs rendered a linked Work Package&apos;s subject and sequential ID even when the caller lacked view_work_packages. Version 17.6.0 applies visibility checks before rendering those links.</description>
-    </item>
-    <item>
-      <title>CVE-2026-16532: Link Library&apos;s Public Submission Form Reached Raw SQL</title>
-      <link>https://cyberkareem.com/writing/cve-2026-16532-link-library-unauthenticated-sql-injection/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-16532-link-library-unauthenticated-sql-injection/</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-      <category>CVE case study</category>
-      <description>Link Library concatenated a URL from its public submission form into a duplicate-check query, creating unauthenticated blind SQL injection before 7.9.3.</description>
-    </item>
-    <item>
-      <title>Building kameHunt: LLM-Assisted Variant Analysis for CVE Research</title>
-      <link>https://cyberkareem.com/writing/kamehunt-llm-assisted-variant-analysis/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/kamehunt-llm-assisted-variant-analysis/</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-      <category>Security engineering</category>
-      <description>kameHunt hunts the shape of a known bug across public source code, then validates and ranks the matches so a human reviews a short list of leads instead of pattern-matcher noise. Every result is an unverified lead.</description>
-    </item>
-    <item>
-      <title>CVE-2026-63007: Two Uyuni Formula Methods Skipped the Cross-Org Check</title>
-      <link>https://cyberkareem.com/writing/cve-2026-63007-uyuni-formula-cross-org-broken-access-control/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-63007-uyuni-formula-cross-org-broken-access-control/</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-      <category>CVE case study</category>
-      <description>Two public formula XML-RPC methods in Uyuni resolved a server group or a set of servers by id and omitted the organization and permission check that every sibling method enforces. Any authenticated user could read and tamper with formula configuration belonging to another organization.</description>
-    </item>
-    <item>
-      <title>CVE-2026-62233: A User Manager Could Mint a Super-Admin API Key</title>
-      <link>https://cyberkareem.com/writing/cve-2026-62233-grav-api-super-admin-key-privilege-escalation/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-62233-grav-api-super-admin-key-privilege-escalation/</guid>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-      <category>CVE case study</category>
-      <description>A delegated user manager could create an API key for a super-admin account. The key inherited the target account&apos;s authority, turning a limited role into full instance control.</description>
-    </item>
-    <item>
-      <title>CVE-2026-62235: Missing Flex Permissions Failed Open</title>
-      <link>https://cyberkareem.com/writing/cve-2026-62235-grav-flex-objects-fail-open-authorization/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-62235-grav-flex-objects-fail-open-authorization/</guid>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-      <category>CVE case study</category>
-      <description>The Grav Flex Objects API treated a missing directory permissions map as permission to proceed. An account with only api.access could operate on a directory it was not authorized to list.</description>
     </item>
   </channel>
 </rss>

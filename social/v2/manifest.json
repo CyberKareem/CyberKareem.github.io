@@ -346,6 +346,62 @@
       "src": "/social/v2/writing/cve-2026-85271-openedx-email-digest-css-injection.png"
     },
     {
+      "slug": "cve-2026-78865-django-crm-user-transfer-privilege-escalation",
+      "title": "CVE-2026-78865",
+      "summary": "Missing Authorization in django-crm User Transfer Grants Superoperator Rights",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-78865-django-crm-user-transfer-privilege-escalation.png"
+    },
+    {
+      "slug": "cve-2026-78866-django-crm-original-email-idor",
+      "title": "CVE-2026-78866",
+      "summary": "Insecure Direct Object Reference in django-crm Original Email Views Exposes Other Departments' Mail",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-78866-django-crm-original-email-idor.png"
+    },
+    {
+      "slug": "cve-2026-78867-django-crm-stored-chat-xss",
+      "title": "CVE-2026-78867",
+      "summary": "Stored Cross-Site Scripting in django-crm Chat Messages",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-78867-django-crm-stored-chat-xss.png"
+    },
+    {
+      "slug": "cve-2026-78868-django-crm-imap-subject-stored-xss",
+      "title": "CVE-2026-78868",
+      "summary": "Unauthenticated Stored XSS in django-crm IMAP Email Subject Headers",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-78868-django-crm-imap-subject-stored-xss.png"
+    },
+    {
+      "slug": "cve-2026-78869-shinobi-cctv-cross-group-authorization-bypass",
+      "title": "CVE-2026-78869",
+      "summary": "Incorrect Access Control in Shinobi Lets a Group Admin Cross Into Another Group",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-78869-shinobi-cctv-cross-group-authorization-bypass.png"
+    },
+    {
+      "slug": "cve-2026-78871-shinobi-ptz-missing-authorization",
+      "title": "CVE-2026-78871",
+      "summary": "Missing Authorization on the Shinobi PTZ Camera-Control Route",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-78871-shinobi-ptz-missing-authorization.png"
+    },
+    {
+      "slug": "cve-2026-78878-shinobi-default-superuser-credential-rce",
+      "title": "CVE-2026-78878",
+      "summary": "Default Superuser Credential in Shinobi Enables Remote Code Execution",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-78878-shinobi-default-superuser-credential-rce.png"
+    },
+    {
+      "slug": "cve-2026-78879-shinobi-ffprobe-endpoint-ssrf",
+      "title": "CVE-2026-78879",
+      "summary": "Authenticated SSRF in Shinobi FFprobe Endpoint",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-78879-shinobi-ffprobe-endpoint-ssrf.png"
+    },
+    {
       "slug": "hackthebox-crossfit-walkthrough",
       "title": "CrossFit",
       "summary": "Hack The Box Walkthrough / Retired Lab",
