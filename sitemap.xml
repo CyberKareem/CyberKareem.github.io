@@ -56,6 +56,12 @@
 <priority>0.8</priority>
 </url>
 <url>
+<loc>https://cyberkareem.com/writing/cve-2026-85271-openedx-email-digest-css-injection/</loc>
+<lastmod>2026-09-04</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://cyberkareem.com/writing/cve-2026-77522-maxkb-web-crawler-ssrf/</loc>
 <lastmod>2026-09-02</lastmod>
 <changefreq>monthly</changefreq>

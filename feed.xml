@@ -5,8 +5,16 @@
     <link>https://cyberkareem.com/writing/</link>
     <description>Security research, engineering notes, certification reviews, and authorized-lab walkthroughs by Abdullah Kareem.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://cyberkareem.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CVE-2026-85271: Stored CSS Injection in Open edX Email Digests via an Unsanitized Thread Title</title>
+      <link>https://cyberkareem.com/writing/cve-2026-85271-openedx-email-digest-css-injection/</link>
+      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-85271-openedx-email-digest-css-injection/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <category>CVE case study</category>
+      <description>Open edX Platform from the Redwood release onward built email digest and batched notification content by substituting the raw discussion thread title into an HTML template with no escaping and without the sanitizer added by the earlier CVE-2026-42857 fix, so any enrolled student could store a thread title carrying CSS that rendered in digest emails sent to other learners. The Ulmo and Verawood security releases close the digest path.</description>
+    </item>
     <item>
       <title>CVE-2026-77522: Authenticated Full-Read SSRF in the MaxKB Web-Document Import Crawler</title>
       <link>https://cyberkareem.com/writing/cve-2026-77522-maxkb-web-crawler-ssrf/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
       <category>CVE case study</category>
       <description>The Grav Flex Objects API treated a missing directory permissions map as permission to proceed. An account with only api.access could operate on a directory it was not authorized to list.</description>
-    </item>
-    <item>
-      <title>CVE-2026-62236: A Cross-Site GET Could Rotate a Grav TOTP Secret</title>
-      <link>https://cyberkareem.com/writing/cve-2026-62236-grav-login-2fa-secret-csrf/</link>
-      <guid isPermaLink="true">https://cyberkareem.com/writing/cve-2026-62236-grav-login-2fa-secret-csrf/</guid>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-      <category>CVE case study</category>
-      <description>A login task regenerated and saved the active user&apos;s TOTP secret without a CSRF nonce. Under Grav&apos;s default SameSite=Lax setting, an off-site top-level GET could desynchronize a logged-in user&apos;s authenticator.</description>
     </item>
   </channel>
 </rss>

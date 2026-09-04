@@ -339,6 +339,13 @@
       "src": "/social/v2/writing/cve-2026-81194-masterstudy-order-data-idor.png"
     },
     {
+      "slug": "cve-2026-85271-openedx-email-digest-css-injection",
+      "title": "CVE-2026-85271",
+      "summary": "Stored CSS Injection in Open edX Email Digests via an Unsanitized Thread Title",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-85271-openedx-email-digest-css-injection.png"
+    },
+    {
       "slug": "hackthebox-crossfit-walkthrough",
       "title": "CrossFit",
       "summary": "Hack The Box Walkthrough / Retired Lab",
