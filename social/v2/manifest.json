@@ -402,6 +402,20 @@
       "src": "/social/v2/writing/cve-2026-78879-shinobi-ffprobe-endpoint-ssrf.png"
     },
     {
+      "slug": "cve-2026-84754-wpfunnels-broken-access-control",
+      "title": "CVE-2026-84754",
+      "summary": "Unauthenticated Broken Access Control in WPFunnels",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-84754-wpfunnels-broken-access-control.png"
+    },
+    {
+      "slug": "cve-2026-82186-wplp-cookie-consent-offset-sqli",
+      "title": "CVE-2026-82186",
+      "summary": "Admin+ SQL Injection in WPLP Cookie Consent via the offset Parameter",
+      "category": "CVE case study",
+      "src": "/social/v2/writing/cve-2026-82186-wplp-cookie-consent-offset-sqli.png"
+    },
+    {
       "slug": "hackthebox-crossfit-walkthrough",
       "title": "CrossFit",
       "summary": "Hack The Box Walkthrough / Retired Lab",
