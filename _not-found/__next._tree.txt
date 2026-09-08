@@ -1,5 +1,5 @@
-:HL["/_next/static/css/960767144cd7e775.css","style"]
+:HL["/_next/static/css/0cd0820484944b4b.css","style"]
 :HL["/fonts/instrument-serif-400.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/fonts/plex-sans-400.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/fonts/plex-mono-600.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"GxtL4EbVq5B9g-6-njBrP"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"0Ndv0k_mwxAAyFc9a2dsF"}
