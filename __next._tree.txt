@@ -3,4 +3,5 @@
 :HL["/fonts/instrument-serif-400.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/fonts/plex-sans-400.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/fonts/plex-mono-600.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"0P7Y_Wk-PX2f_l9IPicCJ"}
+1:[["children",{"s":"__PAGE__","h":128}]]
+0:{"b":"U0oukUV9Da9whbJOKyLf7","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

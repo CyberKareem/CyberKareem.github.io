@@ -4,4 +4,7 @@
 :HL["/fonts/plex-sans-400.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/fonts/plex-mono-600.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/writing/covers/hackthebox-multimaster-walkthrough.webp","image",{"fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"writing","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"hackthebox-multimaster-walkthrough","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"0P7Y_Wk-PX2f_l9IPicCJ"}
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"hackthebox-multimaster-walkthrough","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"writing","h":131136,"c":"$Q2"}]]
+0:{"b":"U0oukUV9Da9whbJOKyLf7","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
